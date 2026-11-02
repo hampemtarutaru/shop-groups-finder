@@ -1,0 +1,41 @@
+{
+  "updated": "2026-11-01",
+  "notice": "掲載対象は一部のブランドです。企業の資本・運営関係は変わることがあります。",
+  "groups": [
+    {"id":"zensho","name":"ゼンショーグループ","company":"株式会社ゼンショーホールディングス","summary":"牛丼・寿司・ファミリーレストランなど、幅広い外食ブランドを展開。","accent":"#237C72","source":"https://www.zensho.co.jp/jp/brands/organization/","checked":"2026-11-01","events":[{"year":"1982","text":"ゼンショー設立。"}]},
+    {"id":"skylark","name":"すかいらーくグループ","company":"株式会社すかいらーくホールディングス","summary":"洋食・中華・和食・カフェなど、多様な外食ブランドを展開。","accent":"#C36A3C","source":"https://corp.skylark.co.jp/brand/brand_list/","checked":"2026-11-01","events":[{"year":"1970","text":"すかいらーく1号店を開店。"}]},
+    {"id":"aeon","name":"イオングループ","company":"イオン株式会社","summary":"総合スーパーから小型食品店・コンビニまで、業種をまたいで展開。","accent":"#9A588E","source":"https://www.aeon.info/group/","checked":"2026-11-01","events":[]},
+    {"id":"trial","name":"トライアルグループ","company":"株式会社トライアルホールディングス","summary":"ディスカウントストアに加え、2025年に西友が加わった。","accent":"#44729A","source":"https://trial-holdings.inc/company/history/","checked":"2026-11-01","events":[{"year":"2015","text":"持株会社トライアルホールディングスを設立。"},{"year":"2025","text":"7月1日、西友の全株式取得が完了。"}]},
+    {"id":"ppih","name":"PPIHグループ","company":"株式会社パン・パシフィック・インターナショナルホールディングス","summary":"ドン・キホーテとユニー系の総合スーパーなどを展開。","accent":"#8A6A3F","source":"https://ppih.co.jp/search/","checked":"2026-11-01","events":[]}
+  ],
+  "brands": [
+    {"name":"すき家","group":"zensho","operator":"株式会社すき家","category":"飲食","aliases":["すきや"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
+    {"name":"なか卯","group":"zensho","operator":"株式会社なか卯","category":"飲食","aliases":["なかう"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
+    {"name":"はま寿司","group":"zensho","operator":"株式会社はま寿司","category":"飲食","aliases":["はまずし"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
+    {"name":"ココス","group":"zensho","operator":"株式会社ココスジャパン","category":"飲食","aliases":["cocos"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
+    {"name":"ジョリーパスタ","group":"zensho","operator":"株式会社ジョリーパスタ","category":"飲食","aliases":["jolly pasta"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
+    {"name":"オリーブの丘","group":"zensho","operator":"株式会社オリーブの丘","category":"飲食","aliases":[],"source":"https://www.zensho.co.jp/jp/company/outline/"},
+    {"name":"ビッグボーイ","group":"zensho","operator":"株式会社ビッグボーイジャパン","category":"飲食","aliases":["big boy"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
+    {"name":"ガスト","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":["gusto"],"source":"https://www.skylark.co.jp/brand/"},
+    {"name":"バーミヤン","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":[],"source":"https://www.skylark.co.jp/brand/"},
+    {"name":"しゃぶ葉","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":["しゃぶよう"],"source":"https://www.skylark.co.jp/brand/"},
+    {"name":"ジョナサン","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":[],"source":"https://www.skylark.co.jp/brand/"},
+    {"name":"夢庵","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":["ゆめあん"],"source":"https://www.skylark.co.jp/brand/"},
+    {"name":"むさしの森珈琲","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":["むさしのもりこーひー"],"source":"https://www.skylark.co.jp/brand/"},
+    {"name":"ステーキガスト","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":[],"source":"https://www.skylark.co.jp/brand/"},
+    {"name":"イオン","group":"aeon","operator":"イオンリテール株式会社など","category":"スーパー","aliases":["aeon"],"source":"https://www.aeon.info/group/"},
+    {"name":"まいばすけっと","group":"aeon","operator":"まいばすけっと株式会社","category":"スーパー","aliases":["my basket"],"source":"https://www.aeon.info/group/"},
+    {"name":"マルエツ","group":"aeon","operator":"株式会社マルエツ","category":"スーパー","aliases":[],"source":"https://www.aeon.info/group/"},
+    {"name":"ミニストップ","group":"aeon","operator":"ミニストップ株式会社","category":"コンビニ","aliases":["ministop"],"source":"https://www.aeon.info/group/"},
+    {"name":"マックスバリュ","group":"aeon","operator":"地域ごとのグループ運営会社","category":"スーパー","aliases":["maxvalu","max value"],"source":"https://www.aeon.info/group/"},
+    {"name":"カスミ","group":"aeon","operator":"株式会社カスミ","category":"スーパー","aliases":[],"source":"https://www.aeon.info/group/"},
+    {"name":"トライアル","group":"trial","operator":"株式会社トライアルカンパニーなど","category":"スーパー","aliases":["trial"],"source":"https://trial-holdings.inc/company/history/"},
+    {"name":"西友","group":"trial","operator":"株式会社西友","category":"スーパー","aliases":["seiyu"],"source":"https://trial-holdings.inc/news/release/686382439f0b7297ddd48fb7/"},
+    {"name":"LIVIN","group":"trial","operator":"株式会社西友","category":"スーパー","aliases":["リヴィン","リビン"],"source":"https://trial-holdings.inc/retail-investor/topics-cocotora2025/"},
+    {"name":"ドン・キホーテ","group":"ppih","operator":"株式会社ドン・キホーテなど","category":"量販店","aliases":["ドンキ","donki"],"source":"https://ppih.co.jp/search/"},
+    {"name":"MEGAドン・キホーテ","group":"ppih","operator":"PPIHグループ各社","category":"量販店","aliases":["メガドンキ"],"source":"https://ppih.co.jp/search/"},
+    {"name":"アピタ","group":"ppih","operator":"ユニー株式会社","category":"スーパー","aliases":["apita"],"source":"https://ppih.co.jp/social/uny/"},
+    {"name":"ピアゴ","group":"ppih","operator":"ユニー株式会社","category":"スーパー","aliases":["piago"],"source":"https://ppih.co.jp/social/uny/"},
+    {"name":"Olympic","group":"ppih","operator":"株式会社Olympicグループ","category":"スーパー","aliases":["オリンピック"],"source":"https://ppih.co.jp/search/"}
+  ]
+}
