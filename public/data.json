@@ -633,6 +633,56 @@
           "text": "11月、不二家の株式を追加取得し、持株比率51%に。"
         }
       ]
+    },
+    {
+      "id": "greenhouse",
+      "name": "グリーンハウスグループ",
+      "company": "株式会社グリーンハウス／株式会社グリーンハウスフーズ",
+      "summary": "1947年に慶應義塾大学の学生食堂運営から始まった食の総合企業。社員食堂・学校給食・ホテル等の受託事業のほか、さぼてん、謝朋殿、粥餐庁、おこわのたごさく、PARIYA DELICATESSENなど外食・惣菜ブランドを展開。ブランド運営はグリーンハウスフーズや山和食品、PARIYA等のグループ各社。",
+      "accent": "#62865F",
+      "source": "https://www.greenhouse.co.jp/corporate/group/index.html",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1947",
+          "text": "慶應義塾大学予科食堂の運営から事業を開始。"
+        },
+        {
+          "year": "1954",
+          "text": "社名をグリーンハウスに決定し法人設立。"
+        },
+        {
+          "year": "1966",
+          "text": "とんかつ新宿さぼてん1号店を開店。"
+        },
+        {
+          "year": "1967",
+          "text": "中国料理 謝朋殿を開店。"
+        },
+        {
+          "year": "1972",
+          "text": "レストラン部門を株式会社さぼてんとして分社（1982年にグリーンハウスフーズへ改称）。"
+        }
+      ]
+    },
+    {
+      "id": "nihonichi",
+      "name": "日本一ホールディングスグループ",
+      "company": "日本一ホールディングス株式会社／株式会社日本一",
+      "summary": "焼鳥・惣菜の日本一、銀座 縁、うなぎ日本一、いちどり、からあげ日本一を展開。嘉永年間に創業した川魚問屋の流れを受け継ぐ。関連会社コーワフードが赤坂ふきぬき、神楽坂 富貴貫を運営。イオン、セブン＆アイ、JR各社は主な取引先であって親会社ではない。",
+      "accent": "#9A6C49",
+      "source": "https://www.nihonichi.jp/aboutus/overview",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1848",
+          "text": "嘉永年間に川魚問屋「日本一」の前身事業が創業（創業年は嘉永年間のため厳密には未特定）。"
+        },
+        {
+          "year": "1981",
+          "text": "10月6日に株式会社日本一を設立。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -3063,6 +3113,298 @@
         "銀座不二家みやちく"
       ],
       "source": "https://www.fujiya-peko.co.jp/company/about/business.html"
+    },
+    {
+      "name": "とんかつ新宿さぼてん",
+      "group": "greenhouse",
+      "operator": "株式会社グリーンハウスフーズ（デリカ店舗等はグループ各社）",
+      "category": "飲食",
+      "aliases": [
+        "さぼてん",
+        "新宿さぼてん",
+        "とんかつさぼてん",
+        "saboten"
+      ],
+      "source": "https://www.tonkatsu-saboten.com/view/company"
+    },
+    {
+      "name": "銀座かつ匠さぼてん",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "銀座かつ匠",
+        "ぎんざかつしょうさぼてん"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "覇王樹さぼてん",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "覇王樹",
+        "はおうじゅ"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "恵比寿 かつ彩",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "恵比寿かつ彩",
+        "かつ彩"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "とんかつかつ匠",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "かつ匠",
+        "とんかつかつしょう"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "おこわのたごさく",
+      "group": "greenhouse",
+      "operator": "山和食品株式会社",
+      "category": "飲食",
+      "aliases": [
+        "たごさく",
+        "おこわたごさく"
+      ],
+      "source": "https://www.ghf.co.jp/sanwa/"
+    },
+    {
+      "name": "おこわの里 たもかみ",
+      "group": "greenhouse",
+      "operator": "山和食品株式会社",
+      "category": "飲食",
+      "aliases": [
+        "たもかみ",
+        "おこわの里たもかみ"
+      ],
+      "source": "https://www.ghf.co.jp/sanwa/"
+    },
+    {
+      "name": "釜旬",
+      "group": "greenhouse",
+      "operator": "山和食品株式会社",
+      "category": "飲食",
+      "aliases": [
+        "かましゅん"
+      ],
+      "source": "https://www.ghf.co.jp/sanwa/"
+    },
+    {
+      "name": "しゃれむすび",
+      "group": "greenhouse",
+      "operator": "山和食品株式会社",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://www.ghf.co.jp/sanwa/"
+    },
+    {
+      "name": "新生公司",
+      "group": "greenhouse",
+      "operator": "山和食品株式会社",
+      "category": "飲食",
+      "aliases": [
+        "しんせいこうし"
+      ],
+      "source": "https://www.ghf.co.jp/sanwa/"
+    },
+    {
+      "name": "謝朋殿",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "しゃほうでん",
+        "shahoden"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "西安餃子",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "しーあんぎょうざ",
+        "シーアンギョーザ"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "西安健菜キッチン",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "西安健菜",
+        "シーアンけんさいキッチン"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "おかゆと麺 粥餐庁",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "粥餐庁",
+        "かゆさんちん",
+        "かゆさんちん"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "四川豆花飯荘",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "しせんとうふぁはんそう"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "55楼菜館",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "ごーごーろうさいかん",
+        "55楼"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "つるこし",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "SPANISH DINING Rico",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "スパニッシュダイニングリコ",
+        "Rico"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "カレーハウス11イマサ",
+      "group": "greenhouse",
+      "operator": "グリーンハウスフーズグループ",
+      "category": "飲食",
+      "aliases": [
+        "11イマサ",
+        "イマサ",
+        "カレーハウスイマサ"
+      ],
+      "source": "https://www.ghf.co.jp/sitemap/"
+    },
+    {
+      "name": "PARIYA DELICATESSEN",
+      "group": "greenhouse",
+      "operator": "株式会社PARIYA（グリーンハウスグループ）",
+      "category": "飲食",
+      "aliases": [
+        "PARIYA",
+        "パリヤ",
+        "パリヤデリカテッセン"
+      ],
+      "source": "https://www.greenhouse.co.jp/corporate/group/index.html"
+    },
+    {
+      "name": "やきとり日本一",
+      "group": "nihonichi",
+      "operator": "株式会社日本一",
+      "category": "飲食",
+      "aliases": [
+        "日本一",
+        "やきとりにほんいち",
+        "焼鳥日本一"
+      ],
+      "source": "https://www.nihonichi.jp/tenpoinfo"
+    },
+    {
+      "name": "うなぎ日本一",
+      "group": "nihonichi",
+      "operator": "株式会社日本一",
+      "category": "飲食",
+      "aliases": [
+        "うなぎにほんいち",
+        "鰻日本一"
+      ],
+      "source": "https://www.nihonichi.jp/tenpoinfo"
+    },
+    {
+      "name": "銀座 縁",
+      "group": "nihonichi",
+      "operator": "株式会社日本一",
+      "category": "飲食",
+      "aliases": [
+        "銀座縁",
+        "ぎんざえにし",
+        "銀座えにし"
+      ],
+      "source": "https://www.nihonichi.jp/tenpoinfo"
+    },
+    {
+      "name": "いちどり",
+      "group": "nihonichi",
+      "operator": "株式会社日本一",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://www.nihonichi.jp/tenpoinfo"
+    },
+    {
+      "name": "からあげ日本一",
+      "group": "nihonichi",
+      "operator": "株式会社日本一",
+      "category": "飲食",
+      "aliases": [
+        "唐揚げ日本一",
+        "唐揚日本一"
+      ],
+      "source": "https://www.nihonichi.jp/tenpoinfo"
+    },
+    {
+      "name": "赤坂ふきぬき",
+      "group": "nihonichi",
+      "operator": "コーワフード株式会社（株式会社日本一のグループ会社）",
+      "category": "飲食",
+      "aliases": [
+        "赤坂富貴貫",
+        "ふきぬき"
+      ],
+      "source": "https://www.nihonichi.jp/aboutus/company-kowa"
+    },
+    {
+      "name": "神楽坂 富貴貫",
+      "group": "nihonichi",
+      "operator": "コーワフード株式会社（株式会社日本一のグループ会社）",
+      "category": "飲食",
+      "aliases": [
+        "神楽坂富貴貫",
+        "神楽坂ふきぬき"
+      ],
+      "source": "https://www.nihonichi.jp/aboutus/company-kowa"
     }
   ]
 }
