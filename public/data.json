@@ -260,6 +260,36 @@
       "source": "https://www.starbucks.co.jp/company/summary/",
       "checked": "2026-11-05",
       "events": []
+    },
+    {
+      "id": "yoshinoya",
+      "name": "吉野家グループ",
+      "company": "株式会社吉野家ホールディングス",
+      "summary": "牛丼の吉野家に加え、はなまるうどん、せたが屋・ばり嗎などのラーメン店、カレーうどん千吉など多業態を展開。",
+      "accent": "#D5793D",
+      "source": "https://www.yoshinoya-holdings.com/company/brand_list/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "1899",
+          "text": "吉野家が東京・日本橋の魚河岸で創業。"
+        }
+      ]
+    },
+    {
+      "id": "matsuyafoods",
+      "name": "松屋フーズグループ",
+      "company": "株式会社松屋フーズホールディングス",
+      "summary": "松屋、松のや、マイカリー食堂、すし松などを展開。2026年1月には六厘舎・舎鈴などの松富士グループを子会社化。",
+      "accent": "#C0774D",
+      "source": "https://www.matsuyafoods-holdings.co.jp/company/history/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "2026",
+          "text": "1月、六厘舎・舎鈴などを運営する松富士をグループ会社化。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -1306,6 +1336,339 @@
         "スターバックスリザーブ"
       ],
       "source": "https://www.starbucks.co.jp/company/summary/"
+    },
+    {
+      "name": "吉野家",
+      "group": "yoshinoya",
+      "operator": "株式会社吉野家",
+      "category": "飲食",
+      "aliases": [
+        "よしのや",
+        "yoshinoya"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "はなまるうどん",
+      "group": "yoshinoya",
+      "operator": "株式会社はなまる",
+      "category": "飲食",
+      "aliases": [
+        "はなまる",
+        "hanamaru"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "うまげな",
+      "group": "yoshinoya",
+      "operator": "株式会社はなまる",
+      "category": "飲食",
+      "aliases": [
+        "うまげなうどん"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "讃岐うどんの心 つるさく",
+      "group": "yoshinoya",
+      "operator": "株式会社はなまる",
+      "category": "飲食",
+      "aliases": [
+        "つるさく",
+        "讃岐うどんつるさく"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "竹清",
+      "group": "yoshinoya",
+      "operator": "吉野家グループ（はなまる関連）",
+      "category": "飲食",
+      "aliases": [
+        "ちくせい"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "星が丘製麺所",
+      "group": "yoshinoya",
+      "operator": "吉野家グループ",
+      "category": "飲食",
+      "aliases": [
+        "星ヶ丘製麺所",
+        "ほしがおかせいめんじょ"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "せたが屋",
+      "group": "yoshinoya",
+      "operator": "株式会社せたが屋",
+      "category": "飲食",
+      "aliases": [
+        "せたがや",
+        "setagaya ramen"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "ひるがお",
+      "group": "yoshinoya",
+      "operator": "株式会社せたが屋",
+      "category": "飲食",
+      "aliases": [
+        "昼顔"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "ばり嗎",
+      "group": "yoshinoya",
+      "operator": "株式会社ウィズリンク",
+      "category": "飲食",
+      "aliases": [
+        "ばり馬",
+        "ばりうま",
+        "ばり嗎ラーメン"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "とりの助",
+      "group": "yoshinoya",
+      "operator": "株式会社ウィズリンク",
+      "category": "飲食",
+      "aliases": [
+        "とりのすけ"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "風雲丸",
+      "group": "yoshinoya",
+      "operator": "株式会社ウィズリンク",
+      "category": "飲食",
+      "aliases": [
+        "ふううんまる"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "カレーうどん千吉",
+      "group": "yoshinoya",
+      "operator": "株式会社スターティングオーバー",
+      "category": "飲食",
+      "aliases": [
+        "千吉",
+        "せんきち"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "鶏千",
+      "group": "yoshinoya",
+      "operator": "株式会社スターティングオーバー",
+      "category": "飲食",
+      "aliases": [
+        "とりせん"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "肉あんかけチャーハン 炒王",
+      "group": "yoshinoya",
+      "operator": "株式会社スターティングオーバー",
+      "category": "飲食",
+      "aliases": [
+        "炒王",
+        "チャオ",
+        "ちゃお"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "かるびのとりこ",
+      "group": "yoshinoya",
+      "operator": "吉野家グループ",
+      "category": "飲食",
+      "aliases": [
+        "カルビのとりこ"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "キラメキノトリ",
+      "group": "yoshinoya",
+      "operator": "キラメキノ未来株式会社",
+      "category": "飲食",
+      "aliases": [
+        "きらめきのとり"
+      ],
+      "source": "https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address"
+    },
+    {
+      "name": "松屋",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "まつや",
+        "matsuya"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/"
+    },
+    {
+      "name": "松のや",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "松乃家",
+        "まつのや",
+        "matsunoya"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/"
+    },
+    {
+      "name": "マイカリー食堂",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "まいかりーしょくどう"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/"
+    },
+    {
+      "name": "すし松",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "すしまつ",
+        "寿司松"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/"
+    },
+    {
+      "name": "福松",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "ふくまつ",
+        "寿司福松"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/wordpress/wp-content/uploads/2025/11/251112_hosoku.pdf"
+    },
+    {
+      "name": "松軒中華食堂",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "しょうけんちゅうかしょくどう",
+        "しょうけん"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/"
+    },
+    {
+      "name": "松太郎",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "まつたろう"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/"
+    },
+    {
+      "name": "ステーキ屋松",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "すてーきやまつ"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/"
+    },
+    {
+      "name": "ステーキ定食＆丼 松牛",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "松牛",
+        "まつぎゅう",
+        "ステーキ定食 松牛"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/"
+    },
+    {
+      "name": "麦のトリコ",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "むぎのとりこ"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/"
+    },
+    {
+      "name": "トゥックン²",
+      "group": "matsuyafoods",
+      "operator": "株式会社松屋フーズ",
+      "category": "飲食",
+      "aliases": [
+        "トゥックン",
+        "とぅっくん"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/"
+    },
+    {
+      "name": "六厘舎",
+      "group": "matsuyafoods",
+      "operator": "株式会社松富士食品（松屋フーズHD傘下）",
+      "category": "飲食",
+      "aliases": [
+        "ろくりんしゃ",
+        "rokurinsha"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2025/12/15/13171/"
+    },
+    {
+      "name": "舎鈴",
+      "group": "matsuyafoods",
+      "operator": "株式会社松富士食品（松屋フーズHD傘下）",
+      "category": "飲食",
+      "aliases": [
+        "しゃりん",
+        "sharin"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2025/12/15/13171/"
+    },
+    {
+      "name": "ジャンクガレッジ",
+      "group": "matsuyafoods",
+      "operator": "株式会社松富士食品（松屋フーズHD傘下）",
+      "category": "飲食",
+      "aliases": [
+        "じゃんくがれっじ"
+      ],
+      "source": "https://www.matsuyafoods-holdings.co.jp/2025/12/15/13171/"
+    },
+    {
+      "name": "ゼッテリア",
+      "group": "zensho",
+      "operator": "株式会社ロッテリア（ゼンショーグループ）",
+      "category": "飲食",
+      "aliases": [
+        "zett eria",
+        "zett eria",
+        "ゼッテリアバーガー"
+      ],
+      "source": "https://www.zensho.co.jp/jp/brands/"
     }
   ]
 }
