@@ -68,6 +68,17 @@
     const params=new URL(location.href);if(q)params.searchParams.set('q',$('search').value.trim());else params.searchParams.delete('q');
     if (location.protocol === 'http:' || location.protocol === 'https:') { history.replaceState(null,'',params.pathname+params.search+params.hash); }
   }
+  // Give long group lists a return path without changing the search or filter state.
+  const backToTop = $('back-to-top');
+  if (backToTop) {
+    const updateBackToTop = () => { backToTop.hidden = window.scrollY < 450; };
+    window.addEventListener('scroll', updateBackToTop, { passive: true });
+    backToTop.addEventListener('click', () => {
+      const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({ top: 0, behavior: reduceMotion ? 'auto' : 'smooth' });
+    });
+    updateBackToTop();
+  }
   document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{activeFilter=b.dataset.filter;update();}));
   $('search').addEventListener('input',update);$('clear').addEventListener('click',()=>{$('search').value='';update();$('search').focus();});
   fetch('./data.json').then(r=>{if(!r.ok)throw Error('Failed to fetch data');return r.json();}).then(data=>{
