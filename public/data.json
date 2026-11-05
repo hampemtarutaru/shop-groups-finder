@@ -683,6 +683,68 @@
           "text": "10月6日に株式会社日本一を設立。"
         }
       ]
+    },
+    {
+      "id": "lawson",
+      "name": "ローソングループ（三菱商事・KDDI共同支配）",
+      "company": "株式会社ローソン（株主：三菱商事株式会社50％、KDDI株式会社50％）",
+      "summary": "2024年8月15日から三菱商事とKDDIが議決権各50%で共同支配。ローソン、ナチュラルローソン、ローソンストア100、成城石井、HMV＆BOOKS等をグループ展開。映画館のローソン・ユナイテッドシネマもグループ事業。ローソン・スリーエフはスリーエフと49:51の合弁、ローソン・ポプラはポプラリテールとのFC協業であり、両社を単純な完全子会社とは扱わない。",
+      "accent": "#3176A4",
+      "source": "https://www.lawson.co.jp/company/corporate/data/relation/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1975",
+          "text": "株式会社ダイエーローソンを設立し大阪府豊中市に国内1号店を出店。"
+        },
+        {
+          "year": "2001",
+          "text": "ナチュラルローソン1号店を開店。"
+        },
+        {
+          "year": "2014",
+          "text": "成城石井を子会社化。"
+        },
+        {
+          "year": "2024",
+          "text": "8月15日、三菱商事とKDDIの議決権保有割合が50%ずつになり共同運営を開始。"
+        },
+        {
+          "year": "2025",
+          "text": "スリーエフ・ポプラとの資本業務提携を業務提携に切り替え。個別の合弁・FC事業は継続。"
+        }
+      ]
+    },
+    {
+      "id": "secoma",
+      "name": "セコマグループ",
+      "company": "株式会社セコマ（事業持株会社）",
+      "summary": "1971年、北海道札幌市でセイコーマートが創業。セイコーマートのほか、函館中心のハセガワストア、根室中心のタイエー、ボランタリーチェーンのハマナスクラブなどを展開。食品原料の調達・製造・物流・情報システムまで内製化。『ホットシェフ』は店内調理の商品ブランドであり独立店舗チェーンではない。2026年10月末のセイコーマートは北海道1,090店・茨城県92店・埼玉県10店。",
+      "accent": "#E18A40",
+      "source": "https://www.secoma.co.jp/aboutus/group.html",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1971",
+          "text": "8月、札幌市でセイコーマート1号店を開店。"
+        },
+        {
+          "year": "1987",
+          "text": "埼玉県に進出。"
+        },
+        {
+          "year": "1994",
+          "text": "店内調理『ホットシェフ』の前身を開始。"
+        },
+        {
+          "year": "2016",
+          "text": "事業持株会社を株式会社セコマに社名変更。"
+        },
+        {
+          "year": "2026",
+          "text": "10月末時点でセイコーマート1,192店（北海道1,090・茨城92・埼玉10）。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -3405,6 +3467,148 @@
         "神楽坂ふきぬき"
       ],
       "source": "https://www.nihonichi.jp/aboutus/company-kowa"
+    },
+    {
+      "name": "ローソン",
+      "group": "lawson",
+      "operator": "株式会社ローソン（直営・フランチャイズ方式／一部地域別グループ会社）",
+      "category": "コンビニ",
+      "aliases": [
+        "lawson",
+        "ろーそん"
+      ],
+      "source": "https://www.lawson.co.jp/company/corporate/data/about/"
+    },
+    {
+      "name": "ナチュラルローソン",
+      "group": "lawson",
+      "operator": "株式会社ローソン",
+      "category": "コンビニ",
+      "aliases": [
+        "natural lawson",
+        "ナチュロー"
+      ],
+      "source": "https://www.lawson.co.jp/company/corporate/data/sales/"
+    },
+    {
+      "name": "ローソンストア100",
+      "group": "lawson",
+      "operator": "株式会社ローソンストア100",
+      "category": "コンビニ",
+      "aliases": [
+        "ローソン100",
+        "ストア100",
+        "lawson store100",
+        "ローソンストアヒャク"
+      ],
+      "source": "https://store100.lawson.co.jp/company/outline/about/"
+    },
+    {
+      "name": "成城石井",
+      "group": "lawson",
+      "operator": "株式会社成城石井",
+      "category": "スーパー",
+      "aliases": [
+        "せいじょういしい",
+        "seijo ishii"
+      ],
+      "source": "https://www.lawson.co.jp/company/corporate/data/relation/"
+    },
+    {
+      "name": "Le Bar a Vin 52 AZABU TOKYO",
+      "group": "lawson",
+      "operator": "株式会社成城石井",
+      "category": "飲食",
+      "aliases": [
+        "ルバーラヴァンサンカンドゥ",
+        "ル バーラ ヴァン サンカン ドゥ",
+        "成城石井ワインバー",
+        "le bar a vin 52"
+      ],
+      "source": "https://www.seijoishii.co.jp/company/about/files/company_profile_2024.pdf"
+    },
+    {
+      "name": "HMV",
+      "group": "lawson",
+      "operator": "株式会社ローソンエンタテインメント",
+      "category": "専門店",
+      "aliases": [
+        "エイチエムブイ",
+        "hmv japan"
+      ],
+      "source": "https://www.ent.lawson.co.jp/company/"
+    },
+    {
+      "name": "HMV&BOOKS",
+      "group": "lawson",
+      "operator": "株式会社ローソンエンタテインメント",
+      "category": "専門店",
+      "aliases": [
+        "hmv and books",
+        "hmv books",
+        "エイチエムブイアンドブックス"
+      ],
+      "source": "https://www.ent.lawson.co.jp/company/"
+    },
+    {
+      "name": "HMV record shop",
+      "group": "lawson",
+      "operator": "株式会社ローソンエンタテインメント",
+      "category": "専門店",
+      "aliases": [
+        "hmvレコードショップ",
+        "HMVレコードショップ",
+        "hmv recordshop"
+      ],
+      "source": "https://www.ent.lawson.co.jp/company/"
+    },
+    {
+      "name": "セイコーマート",
+      "group": "secoma",
+      "operator": "株式会社セイコーマート（チェーン本部）・株式会社セイコーリテールサービス等（店舗運営）",
+      "category": "コンビニ",
+      "aliases": [
+        "セコマ",
+        "セイコマ",
+        "seicomart",
+        "secoma",
+        "セーコーマート"
+      ],
+      "source": "https://www.secoma.co.jp/aboutus/group.html"
+    },
+    {
+      "name": "ハセガワストア",
+      "group": "secoma",
+      "operator": "株式会社ハセガワストア",
+      "category": "コンビニ",
+      "aliases": [
+        "ハセストア",
+        "ハセスト",
+        "hasegawa store"
+      ],
+      "source": "https://www.secoma.co.jp/aboutus/group.html"
+    },
+    {
+      "name": "タイエー",
+      "group": "secoma",
+      "operator": "株式会社タイエー",
+      "category": "コンビニ",
+      "aliases": [
+        "taie",
+        "タイエーコンビニ"
+      ],
+      "source": "https://www.secoma.co.jp/aboutus/group.html"
+    },
+    {
+      "name": "ハマナスクラブ",
+      "group": "secoma",
+      "operator": "株式会社ハマナスクラブ（ボランタリーチェーン本部／加盟各店は独立事業者を含む）",
+      "category": "コンビニ",
+      "aliases": [
+        "はまなすクラブ",
+        "hamanasu club"
+      ],
+      "source": "https://www.secoma.co.jp/aboutus/group.html"
     }
   ]
 }
