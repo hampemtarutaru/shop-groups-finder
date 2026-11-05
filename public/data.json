@@ -7,7 +7,9 @@
     {"id":"aeon","name":"イオングループ","company":"イオン株式会社","summary":"総合スーパーから小型食品店・コンビニまで、業種をまたいで展開。","accent":"#9A588E","source":"https://www.aeon.info/group/","checked":"2026-11-01","events":[]},
     {"id":"trial","name":"トライアルグループ","company":"株式会社トライアルホールディングス","summary":"ディスカウントストアに加え、2025年に西友が加わった。","accent":"#44729A","source":"https://trial-holdings.inc/company/history/","checked":"2026-11-01","events":[{"year":"2015","text":"持株会社トライアルホールディングスを設立。"},{"year":"2025","text":"7月1日、西友の全株式取得が完了。"}]},
     {"id":"ppih","name":"PPIHグループ","company":"株式会社パン・パシフィック・インターナショナルホールディングス","summary":"ドン・キホーテとユニー系の総合スーパーなどを展開。","accent":"#8A6A3F","source":"https://ppih.co.jp/search/","checked":"2026-11-01","events":[]},
-    {"id":"saizeriya","name":"サイゼリヤ","company":"株式会社サイゼリヤ","summary":"株式会社サイゼリヤが展開するイタリアンレストラン。国内外で「サイゼリヤ」を運営。","accent":"#4A8176","source":"https://www.saizeriya.co.jp/corporate/information/outline/","checked":"2026-11-05","events":[{"year":"1973","text":"株式会社サイゼリヤを設立。"}]}
+    {"id":"saizeriya","name":"サイゼリヤ","company":"株式会社サイゼリヤ","summary":"株式会社サイゼリヤが展開するイタリアンレストラン。国内外で「サイゼリヤ」を運営。","accent":"#4A8176","source":"https://www.saizeriya.co.jp/corporate/information/outline/","checked":"2026-11-05","events":[{"year":"1973","text":"株式会社サイゼリヤを設立。"}]},
+    {"id":"sevenandi","name":"セブン＆アイグループ","company":"株式会社セブン＆アイ・ホールディングス","summary":"セブン‐イレブンを中心に、国内外でコンビニエンスストア事業などを展開。","accent":"#D86F48","source":"https://www.7andi.com/group/group_list.html","checked":"2026-11-05","events":[]},
+    {"id":"itochu","name":"伊藤忠グループ","company":"伊藤忠商事株式会社","summary":"総合商社の伊藤忠商事を中核とする企業グループ。ファミリーマートを子会社として保有。","accent":"#4782A8","source":"https://www.itochu.co.jp/ja/about/partner/japan/index.html","checked":"2026-11-05","events":[]}
   ],
   "brands": [
     {"name":"すき家","group":"zensho","operator":"株式会社すき家","category":"飲食","aliases":["すきや"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
@@ -38,6 +40,8 @@
     {"name":"アピタ","group":"ppih","operator":"ユニー株式会社","category":"スーパー","aliases":["apita"],"source":"https://ppih.co.jp/social/uny/"},
     {"name":"ピアゴ","group":"ppih","operator":"ユニー株式会社","category":"スーパー","aliases":["piago"],"source":"https://ppih.co.jp/social/uny/"},
     {"name":"Olympic","group":"ppih","operator":"株式会社Olympicグループ","category":"スーパー","aliases":["オリンピック"],"source":"https://ppih.co.jp/search/"},
-    {"name":"サイゼリヤ","group":"saizeriya","operator":"株式会社サイゼリヤ","category":"飲食","aliases":["さいぜりや","saizeriya","サイゼ"],"source":"https://www.saizeriya.co.jp/corporate/information/outline/"}
+    {"name":"サイゼリヤ","group":"saizeriya","operator":"株式会社サイゼリヤ","category":"飲食","aliases":["さいぜりや","saizeriya","サイゼ"],"source":"https://www.saizeriya.co.jp/corporate/information/outline/"},
+    {"name":"セブン‐イレブン","group":"sevenandi","operator":"株式会社セブン‐イレブン・ジャパンなど","category":"コンビニ","aliases":["セブン","セブンイレブン","せぶんいれぶん","7-eleven","seven eleven"],"source":"https://www.sej.co.jp/company/summary/"},
+    {"name":"ファミリーマート","group":"itochu","operator":"株式会社ファミリーマート","category":"コンビニ","aliases":["ファミマ","ふぁみま","familymart","family mart"],"source":"https://www.family.co.jp/company/familymart/outline.html"}
   ]
 }
