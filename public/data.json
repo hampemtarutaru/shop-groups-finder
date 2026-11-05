@@ -548,6 +548,91 @@
           "text": "6月、てんやを運営するテン コーポレーションを連結子会社化。"
         }
       ]
+    },
+    {
+      "id": "duskin",
+      "name": "ダスキングループ",
+      "company": "株式会社ダスキン",
+      "summary": "清掃用品レンタル・清掃サービスのダスキンは、ミスタードーナツの日本事業も運営。とんかつ店「かつアンドかつ」や、ボストンハウス傘下の「ナポリの食卓」「とり弁鶏」などもグループ内。モスドはモスフードサービスとの資本・業務提携による協業業態で、モスがダスキンの子会社という意味ではない。",
+      "accent": "#B37C42",
+      "source": "https://www.duskin.co.jp/company/business/food/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1963",
+          "text": "株式会社ダスキンの前身会社創業。清掃用品レンタル事業を開始。"
+        },
+        {
+          "year": "1971",
+          "text": "米国Mister Donutとの事業提携により大阪府箕面市に日本1号店を開店。"
+        },
+        {
+          "year": "1999",
+          "text": "とんかつレストラン「かつアンドかつ」事業を開始。"
+        },
+        {
+          "year": "2008",
+          "text": "モスフードサービスと資本・業務提携。"
+        },
+        {
+          "year": "2010",
+          "text": "ミスタードーナツとモスバーガーのコラボ店舗「MOSDO」を開店。"
+        }
+      ]
+    },
+    {
+      "id": "br31",
+      "name": "B-Rサーティワン（独立上場・二社出資）",
+      "company": "B-R サーティワン アイスクリーム株式会社",
+      "summary": "国内のサーティワンを展開する独立上場会社。2025年12月末の主要株主は不二家36.76%とダンキン・ブランズ・インターナショナル・ホールディングス36.76%。不二家はヤマザキパングループだが、B-Rサーティワンに直接の親会社はなく、山崎製パンの連結子会社ではない。世界のBaskin-RobbinsとDunkin'はInspire Brands傘下の別ブランドで、日本のミスドとは同一系列ではない。",
+      "accent": "#B94E85",
+      "source": "https://www.br31.jp/contents/company/ir/stock/memo/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1945",
+          "text": "米国でBaskin-Robbinsが創業。"
+        },
+        {
+          "year": "1973",
+          "text": "日本のB-Rサーティワンアイスクリーム株式会社を設立。"
+        },
+        {
+          "year": "1974",
+          "text": "日本1号店を出店。"
+        },
+        {
+          "year": "2025",
+          "text": "12月末時点、不二家とダンキン系企業がそれぞれ36.76%出資。"
+        }
+      ]
+    },
+    {
+      "id": "yamazakipan",
+      "name": "ヤマザキパングループ",
+      "company": "山崎製パン株式会社",
+      "summary": "パン・コンビニ・ベーカリーカフェ・菓子店など幅広く展開。不二家は山崎製パンの連結子会社で、ダロワイヨも不二家のグループ会社。サーティワンには不二家が36.76%出資するが、サーティワンは独立上場の関連会社でありヤマザキの子会社ではない。",
+      "accent": "#C98D5B",
+      "source": "https://www.yamazakipan.co.jp/company/group/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1948",
+          "text": "山崎製パン創業。"
+        },
+        {
+          "year": "1977",
+          "text": "コンビニエンスストア事業に進出。"
+        },
+        {
+          "year": "2007",
+          "text": "4月、不二家と資本・業務提携、35%出資。"
+        },
+        {
+          "year": "2008",
+          "text": "11月、不二家の株式を追加取得し、持株比率51%に。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -2773,6 +2858,211 @@
         "standard coffee"
       ],
       "source": "https://www.royal-holdings.co.jp/co/group/brand/"
+    },
+    {
+      "name": "ミスタードーナツ",
+      "group": "duskin",
+      "operator": "株式会社ダスキン（日本事業・フランチャイズ本部）",
+      "category": "飲食",
+      "aliases": [
+        "ミスド",
+        "mister donut",
+        "misterdonut"
+      ],
+      "source": "https://www.duskin.co.jp/company/business/food/"
+    },
+    {
+      "name": "モスド",
+      "group": "duskin",
+      "operator": "株式会社ダスキンと株式会社モスフードサービスの協業ブランド（店舗運営は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "mosdo",
+        "MOSDO"
+      ],
+      "source": "https://www.duskin.co.jp/company/business/food/"
+    },
+    {
+      "name": "かつアンドかつ",
+      "group": "duskin",
+      "operator": "株式会社かつアンドかつ",
+      "category": "飲食",
+      "aliases": [
+        "かつ&かつ",
+        "katsu and katsu"
+      ],
+      "source": "https://www.duskin.co.jp/company/business/food/"
+    },
+    {
+      "name": "ナポリの食卓",
+      "group": "duskin",
+      "operator": "株式会社ボストンハウス",
+      "category": "飲食",
+      "aliases": [
+        "なぽりのしょくたく"
+      ],
+      "source": "https://www.duskin.co.jp/company/business/food/"
+    },
+    {
+      "name": "とり弁鶏",
+      "group": "duskin",
+      "operator": "株式会社ボストンハウス",
+      "category": "飲食",
+      "aliases": [
+        "とりべんけい",
+        "とり弁けい"
+      ],
+      "source": "https://www.duskin.co.jp/company/business/food/"
+    },
+    {
+      "name": "ボーノボーノ DINING CAFE",
+      "group": "duskin",
+      "operator": "株式会社ボストンハウス",
+      "category": "飲食",
+      "aliases": [
+        "ボーノボーノ",
+        "buono buono dining cafe"
+      ],
+      "source": "https://www.duskin.co.jp/company/business/food/"
+    },
+    {
+      "name": "BOSTON's Cafe",
+      "group": "duskin",
+      "operator": "株式会社ボストンハウス",
+      "category": "飲食",
+      "aliases": [
+        "ボストンズカフェ",
+        "bostons cafe"
+      ],
+      "source": "https://www.duskin.co.jp/company/business/food/"
+    },
+    {
+      "name": "パスタアルデンティーノ",
+      "group": "duskin",
+      "operator": "株式会社ボストンハウス",
+      "category": "飲食",
+      "aliases": [
+        "アルデンティーノ",
+        "pasta al dentino"
+      ],
+      "source": "https://www.duskin.co.jp/company/business/food/"
+    },
+    {
+      "name": "サーティワン アイスクリーム",
+      "group": "br31",
+      "operator": "B-R サーティワン アイスクリーム株式会社",
+      "category": "飲食",
+      "aliases": [
+        "サーティワン",
+        "31アイス",
+        "31ice",
+        "baskin robbins",
+        "baskin-robbins",
+        "バスキンロビンス"
+      ],
+      "source": "https://www.br31.jp/contents/company/about/outline/"
+    },
+    {
+      "name": "不二家洋菓子店",
+      "group": "yamazakipan",
+      "operator": "株式会社不二家",
+      "category": "専門店",
+      "aliases": [
+        "不二家",
+        "ふじや",
+        "fujiya",
+        "ペコちゃん"
+      ],
+      "source": "https://www.fujiya-peko.co.jp/company/about/business.html"
+    },
+    {
+      "name": "不二家レストラン",
+      "group": "yamazakipan",
+      "operator": "株式会社不二家",
+      "category": "飲食",
+      "aliases": [
+        "fujiya restaurant",
+        "ふじやレストラン"
+      ],
+      "source": "https://www.fujiya-peko.co.jp/restaurant/restaurant_brand/"
+    },
+    {
+      "name": "ペコちゃんmilkyドーナツ",
+      "group": "yamazakipan",
+      "operator": "株式会社不二家",
+      "category": "飲食",
+      "aliases": [
+        "ペコちゃんミルキードーナツ",
+        "ペコちゃん milky ドーナツ",
+        "milkyドーナツ"
+      ],
+      "source": "https://www.fujiya-peko.co.jp/cakebrand/milkydonuts/"
+    },
+    {
+      "name": "ダロワイヨ",
+      "group": "yamazakipan",
+      "operator": "株式会社ダロワイヨジャポン（不二家グループ）",
+      "category": "専門店",
+      "aliases": [
+        "dalloyau",
+        "ダロワイヨジャポン"
+      ],
+      "source": "https://www.dalloyau.co.jp/societe/"
+    },
+    {
+      "name": "ヴィ・ド・フランス",
+      "group": "yamazakipan",
+      "operator": "株式会社ヴィ・ド・フランス",
+      "category": "飲食",
+      "aliases": [
+        "vie de france",
+        "ヴィドフランス"
+      ],
+      "source": "https://www.yamazakipan.co.jp/company/group/"
+    },
+    {
+      "name": "デイリーヤマザキ",
+      "group": "yamazakipan",
+      "operator": "山崎製パン株式会社（コンビニエンスストア事業）",
+      "category": "コンビニ",
+      "aliases": [
+        "daily yamazaki",
+        "デイリー"
+      ],
+      "source": "https://www2.yamazakipan.co.jp/company/zigyou/daily.html"
+    },
+    {
+      "name": "ニューヤマザキデイリーストア",
+      "group": "yamazakipan",
+      "operator": "山崎製パン株式会社（コンビニエンスストア事業）",
+      "category": "コンビニ",
+      "aliases": [
+        "new yamazaki daily store",
+        "ニューヤマザキ"
+      ],
+      "source": "https://www2.yamazakipan.co.jp/company/zigyou/daily.html"
+    },
+    {
+      "name": "アンパンマン＆ペコズキッチン",
+      "group": "yamazakipan",
+      "operator": "株式会社不二家",
+      "category": "飲食",
+      "aliases": [
+        "アンパンマン&ペコズキッチン",
+        "ペコズキッチン"
+      ],
+      "source": "https://www.fujiya-peko.co.jp/restaurant/restaurant_brand/"
+    },
+    {
+      "name": "銀座みやちく",
+      "group": "yamazakipan",
+      "operator": "株式会社不二家（掲載の不二家外食業態）",
+      "category": "飲食",
+      "aliases": [
+        "みやちく",
+        "銀座不二家みやちく"
+      ],
+      "source": "https://www.fujiya-peko.co.jp/company/about/business.html"
     }
   ]
 }
