@@ -25,14 +25,18 @@
       "id": "skylark",
       "name": "すかいらーくグループ",
       "company": "株式会社すかいらーくホールディングス",
-      "summary": "洋食・中華・和食・カフェなど、多様な外食ブランドを展開。",
+      "summary": "ガスト・バーミヤン・しゃぶ葉・夢庵・藍屋などのファミリーレストランに加え、から好し、魚屋路、資さんうどん、しんぱち食堂、フロプレステージュ、ブッフェ業態など、和洋中・惣菜・スイーツまで展開する総合外食グループ。",
       "accent": "#C36A3C",
-      "source": "https://corp.skylark.co.jp/brand/brand_list/",
-      "checked": "2026-11-01",
+      "source": "https://corp.skylark.co.jp/brand/groupbrand/",
+      "checked": "2026-11-06",
       "events": [
         {
           "year": "1970",
           "text": "すかいらーく1号店を開店。"
+        },
+        {
+          "year": "1983",
+          "text": "和食レストラン『藍屋』が誕生。名前は『青は藍より出でて藍よりも青し』に由来し、師であるすかいらーくを超える店にとの願い。"
         }
       ]
     },
@@ -4405,6 +4409,249 @@
         "tonden"
       ],
       "source": "https://www.tonden.co.jp/"
+    },
+    {
+      "name": "藍屋",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "あいや",
+        "あい屋",
+        "aiya"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "から好し",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "からよし",
+        "から好し からあげ"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "グラッチェガーデンズ",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "grazie gardens",
+        "グラッチェ"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "魚屋路",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "ととやみち",
+        "魚屋路 ととやみち"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "chawan",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "チャワン",
+        "ちゃわん",
+        "和ごはんとカフェchawan"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "La Ohana",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "ラ オハナ",
+        "ラ・オハナ",
+        "laohana"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "とんから亭",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "とんからてい"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "ゆめあん食堂",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "夢庵食堂",
+        "ゆめあんしょくどう"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "三〇三",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "みわみ",
+        "三〇三 みわみ"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "八郎そば",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "はちろうそば"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "グランブッフェ",
+      "group": "skylark",
+      "operator": "ニラックス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "grand buffet",
+        "ぐらんぶっふぇ"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "點心甜心",
+      "group": "skylark",
+      "operator": "ニラックス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "てんしんてんしん",
+        "ザ ブッフェ 點心甜心"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "包包點心",
+      "group": "skylark",
+      "operator": "ニラックス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "ぽうぽうてんしん"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "ブッフェ エクスブルー",
+      "group": "skylark",
+      "operator": "ニラックス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "エクスブルー",
+        "buffet ex blue"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "くし葉",
+      "group": "skylark",
+      "operator": "ニラックス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "串葉",
+        "くしよう"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "ペルティカ",
+      "group": "skylark",
+      "operator": "ニラックス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "Pertigà",
+        "pertica"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "すうぷ",
+      "group": "skylark",
+      "operator": "ニラックス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "台湾一人鍋 すうぷ"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "トマト＆オニオン",
+      "group": "skylark",
+      "operator": "株式会社トマトアンドアソシエイツ",
+      "category": "飲食",
+      "aliases": [
+        "トマトアンドオニオン",
+        "tomato and onion"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "じゅうじゅうカルビ",
+      "group": "skylark",
+      "operator": "株式会社トマトアンドアソシエイツ",
+      "category": "飲食",
+      "aliases": [
+        "じゅうじゅうかるび"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "フロプレステージュ",
+      "group": "skylark",
+      "operator": "株式会社フロジャポン",
+      "category": "専門店",
+      "aliases": [
+        "FLO",
+        "FLO PRESTIGE",
+        "フロ・プレステージュ",
+        "フロプレステージュパリ"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "資さんうどん",
+      "group": "skylark",
+      "operator": "株式会社資さん",
+      "category": "飲食",
+      "aliases": [
+        "すけさんうどん",
+        "すけさん",
+        "sukesan udon"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "しんぱち食堂",
+      "group": "skylark",
+      "operator": "株式会社しんぱち",
+      "category": "飲食",
+      "aliases": [
+        "しんぱちしょくどう",
+        "shinpachi shokudo"
+      ],
+      "source": "https://corp.skylark.co.jp/brand/brand_list/"
     }
   ]
 }
