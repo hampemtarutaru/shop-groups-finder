@@ -290,6 +290,51 @@
           "text": "1月、六厘舎・舎鈴などを運営する松富士をグループ会社化。"
         }
       ]
+    },
+    {
+      "id": "ichiran",
+      "name": "一蘭グループ（独立系）",
+      "company": "株式会社一蘭ホールディングス",
+      "summary": "国内外で天然とんこつラーメン「一蘭」を展開。全店舗直営で、フランチャイズ・のれん分けを行わず、主力ブランドに集中する独立系グループ。",
+      "accent": "#B4564C",
+      "source": "https://ichiran.com/company/profile.html?wovn=en",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "1960",
+          "text": "一蘭創業。"
+        }
+      ]
+    },
+    {
+      "id": "globeat",
+      "name": "グロービート・ジャパングループ",
+      "company": "グロービート・ジャパン株式会社",
+      "summary": "らあめん花月嵐のほか、芳香麻辣湯、札幌味噌ラーメン岳、セアブラノ神など複数の麺業態を運営。",
+      "accent": "#AA7C4B",
+      "source": "https://globeat.jp/company/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "1994",
+          "text": "グロービート・ジャパン設立。"
+        }
+      ]
+    },
+    {
+      "id": "chikaranomoto",
+      "name": "力の源ホールディングスグループ",
+      "company": "株式会社力の源ホールディングス",
+      "summary": "一風堂を中核に、名島亭・因幡うどん・五行や、楓・奏などの麺類ブランドを展開。",
+      "accent": "#8D5E50",
+      "source": "https://www.chikaranomoto.com/company/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "1985",
+          "text": "福岡で一風堂が創業。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -1669,6 +1714,170 @@
         "zetteria"
       ],
       "source": "https://www.zensho.co.jp/jp/company/news/2026/post_6841.html"
+    },
+    {
+      "name": "一蘭",
+      "group": "ichiran",
+      "operator": "株式会社一蘭",
+      "aliases": [
+        "いちらん",
+        "ichiran"
+      ],
+      "source": "https://ichiran.com/company/profile.html?wovn=en",
+      "category": "飲食"
+    },
+    {
+      "name": "らあめん花月嵐",
+      "group": "globeat",
+      "operator": "グロービート・ジャパン株式会社など（直営・FC）",
+      "aliases": [
+        "花月嵐",
+        "花月",
+        "かげつあらし",
+        "らーめんかげつあらし"
+      ],
+      "source": "https://globeat.jp/company/",
+      "category": "飲食"
+    },
+    {
+      "name": "らあめん花月嵐Premium",
+      "group": "globeat",
+      "operator": "グロービート・ジャパン株式会社",
+      "aliases": [
+        "花月嵐プレミアム",
+        "花月プレミアム",
+        "kagetsu premium"
+      ],
+      "source": "https://globeat.jp/company/",
+      "category": "飲食"
+    },
+    {
+      "name": "らあめん花月嵐Express",
+      "group": "globeat",
+      "operator": "グロービート・ジャパン株式会社",
+      "aliases": [
+        "花月嵐エクスプレス",
+        "かげつえくすぷれす",
+        "kagetsu express"
+      ],
+      "source": "https://globeat.jp/company/",
+      "category": "飲食"
+    },
+    {
+      "name": "芳香麻辣湯",
+      "group": "globeat",
+      "operator": "グロービート・ジャパン株式会社",
+      "aliases": [
+        "ファンシャンマーラータン",
+        "ふぁんしゃんまーらーたん",
+        "麻辣湯"
+      ],
+      "source": "https://globeat.jp/brand/",
+      "category": "飲食"
+    },
+    {
+      "name": "札幌味噌ラーメン岳",
+      "group": "globeat",
+      "operator": "グロービート・ジャパン株式会社",
+      "aliases": [
+        "札幌味噌ラーメン 岳",
+        "岳",
+        "がく",
+        "gaku"
+      ],
+      "source": "https://globeat.jp/brand/",
+      "category": "飲食"
+    },
+    {
+      "name": "セアブラノ神",
+      "group": "globeat",
+      "operator": "グロービート・ジャパン株式会社",
+      "aliases": [
+        "背脂の神",
+        "せあぶらのかみ",
+        "セアブラノカミ"
+      ],
+      "source": "https://globeat.jp/company/",
+      "category": "飲食"
+    },
+    {
+      "name": "一風堂",
+      "group": "chikaranomoto",
+      "operator": "株式会社力の源カンパニー",
+      "aliases": [
+        "いっぷうどう",
+        "ippudo"
+      ],
+      "source": "https://www.chikaranomoto.com/new-news/260227_open",
+      "category": "飲食"
+    },
+    {
+      "name": "IPPUDO RAMEN EXPRESS",
+      "group": "chikaranomoto",
+      "operator": "株式会社力の源カンパニー",
+      "aliases": [
+        "ラーメンエクスプレス",
+        "一風堂ラーメンエクスプレス",
+        "ramen express"
+      ],
+      "source": "https://www.chikaranomoto.com/ir/benefit/chd_storelist.pdf",
+      "category": "飲食"
+    },
+    {
+      "name": "名島亭",
+      "group": "chikaranomoto",
+      "operator": "株式会社力の源カンパニー",
+      "aliases": [
+        "なじまてい"
+      ],
+      "source": "https://www.chikaranomoto.com/company/",
+      "category": "飲食"
+    },
+    {
+      "name": "因幡うどん",
+      "group": "chikaranomoto",
+      "operator": "株式会社力の源カンパニー",
+      "aliases": [
+        "いなばうどん",
+        "因幡饂飩"
+      ],
+      "source": "https://www.chikaranomoto.com/new-news/2746",
+      "category": "飲食"
+    },
+    {
+      "name": "ラーメンダイニング五行",
+      "group": "chikaranomoto",
+      "operator": "株式会社力の源カンパニー",
+      "aliases": [
+        "五行",
+        "ごぎょう",
+        "GOGYO"
+      ],
+      "source": "https://www.chikaranomoto.com/company/",
+      "category": "飲食"
+    },
+    {
+      "name": "楓",
+      "group": "chikaranomoto",
+      "operator": "力の源グループ各社",
+      "aliases": [
+        "北海道味噌ラーメン 楓",
+        "ラーメン楓",
+        "かえで"
+      ],
+      "source": "https://www.chikaranomoto.com/company/",
+      "category": "飲食"
+    },
+    {
+      "name": "奏",
+      "group": "chikaranomoto",
+      "operator": "力の源グループ各社",
+      "aliases": [
+        "ラーメン奏",
+        "かなで"
+      ],
+      "source": "https://www.chikaranomoto.com/company/",
+      "category": "飲食"
     }
   ]
 }
