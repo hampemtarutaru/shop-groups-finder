@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、15グループ・66ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、18グループ・81ブランド）。
 
 ## 技術
 
@@ -57,3 +57,13 @@
 補足：2025年9月にイトーヨーカドー等の事業はセブン＆アイの連結グループから分離し、ヨーク・ホールディングス傘下となりました（資本関係は一部存続）。現在のブランド所属先の分類と資本出資関係は区別しています。業態別表示は収録分のみで、各企業の全店舗や全ブランドを網羅するものではありません。
 
 商標・ロゴは使用していません。本サイトは非公式です。
+
+- https://www.kurasushi.co.jp/company/company/aboutus.php
+- https://www.kurasushi.co.jp/company/ir/
+- https://food-and-life.co.jp/brands/
+- https://food-and-life.co.jp/sustainability/value-creation-process/
+- https://srsholdings.com/pages/brand/
+- https://srsholdings.com/pages/about-group
+- https://www.itochu-shokuhin.com/company/group/
+- https://imc-oisio.co.jp/store/
+更新メモ（2026-11-05）：くら寿司を独立系として、スシロー・杉玉・酒林をFOOD & LIFE COMPANIES、京樽・回転寿司みさき等をSRSホールディングスとして追加。京樽は2026年9月1日にF&LCからSRSへ譲渡。伊藤忠食品傘下のOISIOも掲載。メーカーの商品ブランドは店舗検索対象外。
