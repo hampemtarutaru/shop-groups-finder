@@ -6,14 +6,18 @@
       "id": "zensho",
       "name": "ゼンショーグループ",
       "company": "株式会社ゼンショーホールディングス",
-      "summary": "すき家・なか卯に加えて、はま寿司、ココス、ジョリーパスタ、ゼッテリアなど幅広い外食ブランドを展開。",
+      "summary": "すき家・なか卯・はま寿司・ココス・ジョリーパスタ・ゼッテリアなどに加え、2008年にグループ入りした和食レストラン『華屋与兵衛』、久兵衛屋、かつ庵、熟成焼肉いちばんなど幅広い飲食店を展開。",
       "accent": "#237C72",
       "source": "https://www.zensho.co.jp/jp/brands/organization/",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "events": [
         {
           "year": "1982",
           "text": "ゼンショー設立。"
+        },
+        {
+          "year": "2008",
+          "text": "10月、株式会社華屋与兵衛がゼンショーグループ入り。"
         }
       ]
     },
@@ -909,6 +913,41 @@
         {
           "year": "2026",
           "text": "8月5〜6日、ベイン・キャピタルが買収合意を発表。第4四半期完了予定（11月6日時点、完了の一次資料は未確認）。"
+        }
+      ]
+    },
+    {
+      "id": "tonden",
+      "name": "とんでんグループ（北海道発祥）",
+      "company": "株式会社とんでんホールディングス／とんでん株式会社",
+      "summary": "1968年、北海道で10円まんじゅうの製造・販売から創業。1973年の『とんでん鮨』を経て、1978年に埼玉県で和食ファミリーレストランへ進出。『北海道生まれ 和食処とんでん』を現在展開。温浴事業として札幌の『湯けむりの丘 つきさむ温泉』も運営し、施設内にとんでんのレストランがある。華屋与兵衛（ゼンショー傘下）とは別企業グループ。旧屋号・メニュー・通販商品を独立した現行店舗ブランドとして二重登録しない。",
+      "accent": "#A24E43",
+      "source": "https://www.tonden.co.jp/privacy/handling/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1968",
+          "text": "北海道で和菓子の製造・販売から創業。10円まんじゅうを販売。"
+        },
+        {
+          "year": "1973",
+          "text": "『とんでん鮨』の1号店・北光店を開店。"
+        },
+        {
+          "year": "1978",
+          "text": "埼玉県に『ファミリーレストランとんでん』浦和店を開店。"
+        },
+        {
+          "year": "2004",
+          "text": "札幌で日帰り温泉『湯けむりの丘 つきさむ温泉』を開業。"
+        },
+        {
+          "year": "2018",
+          "text": "会社分割により、とんでんホールディングスと、とんでん株式会社の体制へ。"
+        },
+        {
+          "year": "2020",
+          "text": "屋号を『北海道生まれ 和食処とんでん』へ変更。"
         }
       ]
     }
@@ -4246,6 +4285,126 @@
         "ゴン茶"
       ],
       "source": "https://www.gongcha.co.jp/company/"
+    },
+    {
+      "name": "華屋与兵衛",
+      "group": "zensho",
+      "operator": "株式会社華屋与兵衛",
+      "category": "飲食",
+      "aliases": [
+        "はなやよへい",
+        "華屋",
+        "よへい",
+        "hanaya yohei"
+      ],
+      "source": "https://www.hanayayohei.co.jp/company/"
+    },
+    {
+      "name": "熟成焼肉いちばん",
+      "group": "zensho",
+      "operator": "株式会社焼肉いちばん",
+      "category": "飲食",
+      "aliases": [
+        "焼肉いちばん",
+        "いちばん",
+        "じゅくせいやきにくいちばん"
+      ],
+      "source": "https://www.zensho.co.jp/jp/brands/"
+    },
+    {
+      "name": "かつ庵",
+      "group": "zensho",
+      "operator": "株式会社かつ庵",
+      "category": "飲食",
+      "aliases": [
+        "かつあん",
+        "katsuan"
+      ],
+      "source": "https://www.zensho.co.jp/jp/brands/"
+    },
+    {
+      "name": "久兵衛屋",
+      "group": "zensho",
+      "operator": "株式会社久兵衛屋",
+      "category": "飲食",
+      "aliases": [
+        "きゅうべえや",
+        "きゅうべいや",
+        "武蔵野うどん久兵衛屋"
+      ],
+      "source": "https://www.zensho.co.jp/jp/brands/"
+    },
+    {
+      "name": "エルトリート",
+      "group": "zensho",
+      "operator": "ゼンショーグループの外食事業会社",
+      "category": "飲食",
+      "aliases": [
+        "el torito",
+        "eltorito",
+        "メキシコ料理エルトリート"
+      ],
+      "source": "https://www.zensho.co.jp/jp/brands/"
+    },
+    {
+      "name": "ヴィクトリアステーション",
+      "group": "zensho",
+      "operator": "株式会社ビッグボーイジャパン",
+      "category": "飲食",
+      "aliases": [
+        "ビクトリアステーション",
+        "victoria station"
+      ],
+      "source": "https://www.zensho.co.jp/jp/brands/"
+    },
+    {
+      "name": "伝丸",
+      "group": "zensho",
+      "operator": "株式会社エイ・ダイニング（ゼンショーグループ）",
+      "category": "飲食",
+      "aliases": [
+        "でんまる",
+        "denmaru"
+      ],
+      "source": "https://www.zensho.co.jp/jp/brands/"
+    },
+    {
+      "name": "威風",
+      "group": "zensho",
+      "operator": "株式会社エイ・ダイニング（ゼンショーグループ）",
+      "category": "飲食",
+      "aliases": [
+        "いふう",
+        "ifu"
+      ],
+      "source": "https://www.zensho.co.jp/jp/brands/"
+    },
+    {
+      "name": "壱鵠堂",
+      "group": "zensho",
+      "operator": "ゼンショーグループのラーメン事業会社",
+      "category": "飲食",
+      "aliases": [
+        "いっこくどう",
+        "いちこくどう",
+        "壱国堂"
+      ],
+      "source": "https://maps.zensho.co.jp/jp/index_map.html"
+    },
+    {
+      "name": "北海道生まれ 和食処とんでん",
+      "group": "tonden",
+      "operator": "とんでん株式会社",
+      "category": "飲食",
+      "aliases": [
+        "とんでん",
+        "和食処とんでん",
+        "とんでんレストラン",
+        "和食レストランとんでん",
+        "ファミリーレストランとんでん",
+        "tonden"
+      ],
+      "source": "https://www.tonden.co.jp/"
     }
   ]
 }
