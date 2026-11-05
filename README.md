@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。初期データは公式企業情報に基づく5グループ・28ブランドの抜粋です。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、6グループ・29ブランド）。
 
 ## 技術
 
@@ -38,5 +38,6 @@
 - https://trial-holdings.inc/retail-investor/topics-cocotora2025/
 - https://ppih.co.jp/search/
 - https://ppih.co.jp/social/uny/
+- https://www.saizeriya.co.jp/corporate/information/outline/
 
 商標・ロゴは使用していません。本サイトは非公式です。
