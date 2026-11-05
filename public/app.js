@@ -71,7 +71,7 @@
   document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{activeFilter=b.dataset.filter;update();}));
   $('search').addEventListener('input',update);$('clear').addEventListener('click',()=>{$('search').value='';update();$('search').focus();});
   fetch('./data.json').then(r=>{if(!r.ok)throw Error('Failed to fetch data');return r.json();}).then(data=>{
-    db=data;$('updated').textContent=`収録データの最終確認日：${data.updated}　／　${data.notice}`;
+    db=data;$('updated').textContent=`データ更新日：${data.updated}　／　${data.notice}`;
     $('search').value=new URLSearchParams(location.search).get('q')||'';update();
   }).catch(err=>{$('results').classList.add('show');$('results').append(el('div','empty','データを読み込めませんでした。ページを再読み込みしてください。'));console.error(err);});
 })();
