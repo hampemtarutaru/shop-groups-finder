@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、26グループ・143ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、29グループ・167ブランド）。
 
 ## 技術
 
@@ -104,3 +104,17 @@
 - https://www.chikaranomoto.com/company/
 - https://edinetdb.jp/company/E33011/text
 - https://www.chikaranomoto.com/new-news/2746
+
+## 出典・更新メモ（2026-11-05 からやま／ゆで太郎）
+
+からやま・かつや等のアークランドサービスHD系外食業態と、同じアークランズ親会社を持つホームセンタームサシ・ビバホーム・ムサシ食品館・アークオアシス等を登録。ゆで太郎は信越食品とゆで太郎システムの二系統を独立したグループ項目として表示し、同名ブランド検索では両方が見つかるようにした。両社の関係は2004年のマスターフランチャイズ契約であり、親子会社として表示していない。ゆで太郎システム系にもつ次郎を追加。
+
+- https://www.arclands.co.jp/ja/company/outline.html
+- https://www.arclands.co.jp/ja/company/history.html
+- https://www.arclands.co.jp/ja/company/network.html
+- https://www.arclandservice.co.jp/brands/
+- https://www.arclandservice.co.jp/company/overview/
+- https://yudetaro.jp/company_outline/
+- https://yudetaro.jp/company_history/
+- https://yudetaro.jp/shoplist_shinetsu/
+- https://yudetaro.jp/menu/
