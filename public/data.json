@@ -100,7 +100,7 @@
       "id": "itochu",
       "name": "伊藤忠グループ",
       "company": "伊藤忠商事株式会社",
-      "summary": "総合商社の伊藤忠商事を中核とする企業グループ。ファミリーマートを子会社として保有。",
+      "summary": "総合商社の伊藤忠商事を中核とするグループ。ファミリーマートのほか、伊藤忠食品傘下で百貨店の食品売場OISIOも展開。",
       "accent": "#4782A8",
       "source": "https://www.itochu.co.jp/ja/about/partner/japan/index.html",
       "checked": "2026-11-05",
@@ -180,6 +180,46 @@
       "source": "https://maruchiyo.yamaokaya.com/business/yamaokaya/",
       "checked": "2026-11-05",
       "events": []
+    },
+    {
+      "id": "kura",
+      "name": "くら寿司（独立系）",
+      "company": "くら寿司株式会社",
+      "summary": "大手外食グループの傘下ではない、親会社のない独立系の回転寿司チェーン。",
+      "accent": "#3B8C83",
+      "source": "https://www.kurasushi.co.jp/company/ir/",
+      "checked": "2026-11-05",
+      "events": []
+    },
+    {
+      "id": "foodlife",
+      "name": "FOOD & LIFE COMPANIESグループ",
+      "company": "株式会社FOOD & LIFE COMPANIES",
+      "summary": "スシローと寿司居酒屋の杉玉・酒林を展開。京樽は2026年9月にSRSグループへ移籍。",
+      "accent": "#3378A3",
+      "source": "https://food-and-life.co.jp/brands/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "2026",
+          "text": "9月1日、京樽の全株式をSRSホールディングスへ譲渡。"
+        }
+      ]
+    },
+    {
+      "id": "srs",
+      "name": "SRSグループ",
+      "company": "SRSホールディングス株式会社",
+      "summary": "和食さと・にぎり長次郎・家族亭などを展開。2026年9月に京樽・回転寿司みさきが加わった。",
+      "accent": "#AA6D45",
+      "source": "https://srsholdings.com/pages/brand/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "2026",
+          "text": "9月1日、京樽を完全子会社化し、京樽・回転寿司みさき等が加わった。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -866,6 +906,178 @@
         "yamaokaya"
       ],
       "source": "https://maruchiyo.yamaokaya.com/business/yamaokaya/"
+    },
+    {
+      "name": "OISIO（おあじお）",
+      "group": "itochu",
+      "operator": "株式会社アイ・エム・シー（伊藤忠食品の子会社）",
+      "category": "専門店",
+      "aliases": [
+        "おあじお",
+        "オアジオ",
+        "oisio"
+      ],
+      "source": "https://imc-oisio.co.jp/store/"
+    },
+    {
+      "name": "くら寿司",
+      "group": "kura",
+      "operator": "くら寿司株式会社",
+      "category": "飲食",
+      "aliases": [
+        "くらずし",
+        "くらすし",
+        "kura sushi",
+        "無添くら寿司"
+      ],
+      "source": "https://www.kurasushi.co.jp/company/company/aboutus.php"
+    },
+    {
+      "name": "スシロー",
+      "group": "foodlife",
+      "operator": "株式会社あきんどスシロー",
+      "category": "飲食",
+      "aliases": [
+        "すしろー",
+        "sushiro"
+      ],
+      "source": "https://food-and-life.co.jp/brands/"
+    },
+    {
+      "name": "鮨 酒 肴 杉玉",
+      "group": "foodlife",
+      "operator": "株式会社FOOD & LIFE INNOVATIONS",
+      "category": "飲食",
+      "aliases": [
+        "杉玉",
+        "すぎだま",
+        "すしさけさかなすぎだま"
+      ],
+      "source": "https://food-and-life.co.jp/brands/"
+    },
+    {
+      "name": "酒林",
+      "group": "foodlife",
+      "operator": "株式会社FOOD & LIFE INNOVATIONS",
+      "category": "飲食",
+      "aliases": [
+        "さかばやし",
+        "sakabayashi"
+      ],
+      "source": "https://food-and-life.co.jp/brands/"
+    },
+    {
+      "name": "京樽",
+      "group": "srs",
+      "operator": "株式会社京樽",
+      "category": "飲食",
+      "aliases": [
+        "きょうたる",
+        "kyotaru"
+      ],
+      "source": "https://srsholdings.com/pages/brand/"
+    },
+    {
+      "name": "回転寿司みさき",
+      "group": "srs",
+      "operator": "株式会社京樽",
+      "category": "飲食",
+      "aliases": [
+        "みさき",
+        "かいてんずしみさき",
+        "すし三崎港"
+      ],
+      "source": "https://srsholdings.com/pages/brand/"
+    },
+    {
+      "name": "すしみさき",
+      "group": "srs",
+      "operator": "株式会社京樽",
+      "category": "飲食",
+      "aliases": [
+        "寿司みさき"
+      ],
+      "source": "https://store.srsholdings.com/"
+    },
+    {
+      "name": "和食さと",
+      "group": "srs",
+      "operator": "サトフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "さと",
+        "わしょくさと"
+      ],
+      "source": "https://srsholdings.com/pages/brand/"
+    },
+    {
+      "name": "にぎり長次郎",
+      "group": "srs",
+      "operator": "株式会社フーズネット",
+      "category": "飲食",
+      "aliases": [
+        "長次郎",
+        "にぎりちょうじろう",
+        "ちょうじろう"
+      ],
+      "source": "https://srsholdings.com/pages/brand/"
+    },
+    {
+      "name": "うまい鮨勘",
+      "group": "srs",
+      "operator": "株式会社アミノ",
+      "category": "飲食",
+      "aliases": [
+        "鮨勘",
+        "すしかん",
+        "うまいすしかん"
+      ],
+      "source": "https://srsholdings.com/pages/brand/"
+    },
+    {
+      "name": "家族亭",
+      "group": "srs",
+      "operator": "株式会社家族亭",
+      "category": "飲食",
+      "aliases": [
+        "かぞくてい"
+      ],
+      "source": "https://srsholdings.com/pages/brand/"
+    },
+    {
+      "name": "得得うどん",
+      "group": "srs",
+      "operator": "株式会社家族亭",
+      "category": "飲食",
+      "aliases": [
+        "得得",
+        "とくとく",
+        "得得うどん"
+      ],
+      "source": "https://srsholdings.com/pages/brand/"
+    },
+    {
+      "name": "天丼・天ぷら本舗 さん天",
+      "group": "srs",
+      "operator": "サトフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "さん天",
+        "さんてん",
+        "天ぷらさん天"
+      ],
+      "source": "https://srsholdings.com/pages/brand/"
+    },
+    {
+      "name": "定食屋 宮本むなし",
+      "group": "srs",
+      "operator": "SRSグループ",
+      "category": "飲食",
+      "aliases": [
+        "宮本むなし",
+        "むなし"
+      ],
+      "source": "https://srsholdings.com/pages/brand/"
     }
   ]
 }
