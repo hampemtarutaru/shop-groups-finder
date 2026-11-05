@@ -220,6 +220,46 @@
           "text": "9月1日、京樽を完全子会社化し、京樽・回転寿司みさき等が加わった。"
         }
       ]
+    },
+    {
+      "id": "doutornichires",
+      "name": "ドトール・日レスグループ",
+      "company": "株式会社ドトール・日レスホールディングス",
+      "summary": "ドトールコーヒー、エクセルシオール、星乃珈琲店、洋麺屋五右衛門などを傘下に持つ外食グループ。",
+      "accent": "#927246",
+      "source": "https://www.dnh.co.jp/company/brand/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "2007",
+          "text": "ドトールコーヒーと日本レストランシステムの共同持株会社を設立。"
+        }
+      ]
+    },
+    {
+      "id": "itoen",
+      "name": "伊藤園グループ",
+      "company": "株式会社伊藤園",
+      "summary": "お～いお茶などの飲料メーカー。タリーズコーヒージャパンを完全子会社として国内店舗を展開。伊藤忠商事とは別の企業グループ。",
+      "accent": "#40826D",
+      "source": "https://www.itoen.co.jp/company/business/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "2006",
+          "text": "タリーズコーヒージャパンが伊藤園グループに加わった。"
+        }
+      ]
+    },
+    {
+      "id": "starbucks",
+      "name": "スターバックスグループ（米国）",
+      "company": "Starbucks Corporation",
+      "summary": "米国発のコーヒーチェーン。日本法人の株主はグループ内のスターバックス・EMEA・ホールディングス。",
+      "accent": "#326F58",
+      "source": "https://www.starbucks.co.jp/company/summary/",
+      "checked": "2026-11-05",
+      "events": []
     }
   ],
   "brands": [
@@ -1078,6 +1118,195 @@
         "むなし"
       ],
       "source": "https://srsholdings.com/pages/brand/"
+    },
+    {
+      "name": "ドトールコーヒーショップ",
+      "group": "doutornichires",
+      "operator": "株式会社ドトールコーヒー",
+      "category": "飲食",
+      "aliases": [
+        "ドトール",
+        "ドトールコーヒー",
+        "どとーる",
+        "doutor"
+      ],
+      "source": "https://www.dnh.co.jp/company/brand/"
+    },
+    {
+      "name": "エクセルシオール カフェ",
+      "group": "doutornichires",
+      "operator": "株式会社ドトールコーヒー",
+      "category": "飲食",
+      "aliases": [
+        "エクセルシオール",
+        "えくせるしおーる",
+        "excelsior caffe"
+      ],
+      "source": "https://www.dnh.co.jp/company/brand/"
+    },
+    {
+      "name": "ドトール珈琲農園",
+      "group": "doutornichires",
+      "operator": "株式会社ドトールコーヒー",
+      "category": "飲食",
+      "aliases": [
+        "どとーるこーひーのうえん"
+      ],
+      "source": "https://www.doutor.co.jp/recruitsite/bland/index.html"
+    },
+    {
+      "name": "ドトール珈琲店",
+      "group": "doutornichires",
+      "operator": "株式会社ドトールコーヒー",
+      "category": "飲食",
+      "aliases": [
+        "どとーるこーひーてん"
+      ],
+      "source": "https://www.doutor.co.jp/recruitsite/bland/index.html"
+    },
+    {
+      "name": "カフェ レクセル",
+      "group": "doutornichires",
+      "operator": "株式会社ドトールコーヒー",
+      "category": "飲食",
+      "aliases": [
+        "レクセル",
+        "cafe lexc​​el",
+        "cafe lexcel"
+      ],
+      "source": "https://www.doutor.co.jp/recruitsite/bland/index.html"
+    },
+    {
+      "name": "神乃珈琲",
+      "group": "doutornichires",
+      "operator": "株式会社ドトールコーヒー",
+      "category": "飲食",
+      "aliases": [
+        "かんのこーひー",
+        "かみのこーひー"
+      ],
+      "source": "https://www.doutor.co.jp/recruitsite/bland/index.html"
+    },
+    {
+      "name": "カフェ コロラド",
+      "group": "doutornichires",
+      "operator": "株式会社ドトールコーヒー",
+      "category": "飲食",
+      "aliases": [
+        "コロラド",
+        "cafe colorado"
+      ],
+      "source": "https://www.doutor.co.jp/recruitsite/bland/index.html"
+    },
+    {
+      "name": "本と珈琲 梟書茶房",
+      "group": "doutornichires",
+      "operator": "株式会社ドトールコーヒー",
+      "category": "飲食",
+      "aliases": [
+        "梟書茶房",
+        "ふくろうしょさぼう"
+      ],
+      "source": "https://www.doutor.co.jp/recruitsite/bland/index.html"
+    },
+    {
+      "name": "コッペ田島",
+      "group": "doutornichires",
+      "operator": "株式会社ドトールコーヒー",
+      "category": "飲食",
+      "aliases": [
+        "パンの田島",
+        "こっぺたじま"
+      ],
+      "source": "https://www.doutor.co.jp/recruitsite/bland/index.html"
+    },
+    {
+      "name": "星乃珈琲店",
+      "group": "doutornichires",
+      "operator": "日本レストランシステム株式会社",
+      "category": "飲食",
+      "aliases": [
+        "星乃",
+        "ほしのこーひーてん",
+        "星野珈琲店"
+      ],
+      "source": "https://www.dnh.co.jp/company/brand/"
+    },
+    {
+      "name": "洋麺屋五右衛門",
+      "group": "doutornichires",
+      "operator": "日本レストランシステム株式会社",
+      "category": "飲食",
+      "aliases": [
+        "五右衛門",
+        "ごえもん",
+        "ようめんやごえもん"
+      ],
+      "source": "https://www.dnh.co.jp/company/brand/"
+    },
+    {
+      "name": "卵と私",
+      "group": "doutornichires",
+      "operator": "日本レストランシステム株式会社",
+      "category": "飲食",
+      "aliases": [
+        "たまごとわたし",
+        "卵とわたし"
+      ],
+      "source": "https://www.dnh.co.jp/company/brand/"
+    },
+    {
+      "name": "カフェラミル",
+      "group": "doutornichires",
+      "operator": "ドトール・日レスグループ各社",
+      "category": "飲食",
+      "aliases": [
+        "カフェ ラミル",
+        "cafe la mille",
+        "ラミル"
+      ],
+      "source": "https://www.dnh.co.jp/company/about/"
+    },
+    {
+      "name": "タリーズコーヒー",
+      "group": "itoen",
+      "operator": "タリーズコーヒージャパン株式会社",
+      "category": "飲食",
+      "aliases": [
+        "タリーズ",
+        "たりーず",
+        "tullys",
+        "tully's coffee"
+      ],
+      "source": "https://www.tullys.co.jp/company/outline.html"
+    },
+    {
+      "name": "タリーズコーヒー &TEA",
+      "group": "itoen",
+      "operator": "タリーズコーヒージャパン株式会社",
+      "category": "飲食",
+      "aliases": [
+        "タリーズ＆ティー",
+        "タリーズアンドティー",
+        "tully's coffee &tea",
+        "タリーズティー"
+      ],
+      "source": "https://www.itoen.co.jp/ir/performance/"
+    },
+    {
+      "name": "スターバックス コーヒー",
+      "group": "starbucks",
+      "operator": "スターバックス コーヒー ジャパン株式会社",
+      "category": "飲食",
+      "aliases": [
+        "スタバ",
+        "すたば",
+        "スターバックス",
+        "starbucks",
+        "starbucks coffee",
+        "スターバックスリザーブ"
+      ],
+      "source": "https://www.starbucks.co.jp/company/summary/"
     }
   ]
 }
