@@ -521,6 +521,33 @@
           "text": "1月にドムドム経営陣によるMBO、9月30日にスガキコシステムズのグループ会社となる。"
         }
       ]
+    },
+    {
+      "id": "royal",
+      "name": "ロイヤルホールディングスグループ",
+      "company": "ロイヤルホールディングス株式会社",
+      "summary": "天丼てんや、ロイヤルホスト、シズラー、シェーキーズなどの外食事業に加え、リッチモンドホテル等のホテル事業も展開。てんやは2006年6月にロイヤルグループ入り。外食事業の中心的運営会社はロイヤルフードサービス株式会社。",
+      "accent": "#8D6652",
+      "source": "https://www.royal-holdings.co.jp/co/group/brand/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1951",
+          "text": "ロイヤルの前身事業が福岡で創業。"
+        },
+        {
+          "year": "1971",
+          "text": "ロイヤルホスト1号店を開店。"
+        },
+        {
+          "year": "1989",
+          "text": "天丼てんや1号店が東京駅八重洲地下街に出店。"
+        },
+        {
+          "year": "2006",
+          "text": "6月、てんやを運営するテン コーポレーションを連結子会社化。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -2618,6 +2645,134 @@
         "lotteria"
       ],
       "source": "https://www.zensho.co.jp/jp/company/news/2026/post_6841.html"
+    },
+    {
+      "name": "あえん",
+      "group": "mos",
+      "operator": "株式会社モスフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "旬菜料理 あえん",
+        "旬菜料理あえん"
+      ],
+      "source": "https://www.mos.jp/shop/group/"
+    },
+    {
+      "name": "玄米食堂あえん",
+      "group": "mos",
+      "operator": "株式会社モスフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "玄米食堂 あえん",
+        "げんまいしょくどうあえん"
+      ],
+      "source": "https://www.mos.co.jp/company/outline/store_data/"
+    },
+    {
+      "name": "カフェ山と海と太陽",
+      "group": "mos",
+      "operator": "株式会社モスフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "カフェ 山と海と太陽",
+        "山と海と太陽"
+      ],
+      "source": "https://www.mos.co.jp/company/outline/store_data/"
+    },
+    {
+      "name": "天丼てんや",
+      "group": "royal",
+      "operator": "ロイヤルフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "てんや",
+        "tendon tenya",
+        "天丼屋てんや"
+      ],
+      "source": "https://www.royalfoodservice.co.jp/brands/"
+    },
+    {
+      "name": "ロイヤルホスト",
+      "group": "royal",
+      "operator": "ロイヤルフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "ロイホ",
+        "royal host"
+      ],
+      "source": "https://www.royalfoodservice.co.jp/brands/"
+    },
+    {
+      "name": "シズラー",
+      "group": "royal",
+      "operator": "ロイヤルフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "sizzler"
+      ],
+      "source": "https://www.royalfoodservice.co.jp/brands/"
+    },
+    {
+      "name": "シェーキーズ",
+      "group": "royal",
+      "operator": "ロイヤルフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "shakeys",
+        "shakey's"
+      ],
+      "source": "https://www.royalfoodservice.co.jp/brands/"
+    },
+    {
+      "name": "とんかつおりべ",
+      "group": "royal",
+      "operator": "ロイヤルフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "おりべ"
+      ],
+      "source": "https://www.royalfoodservice.co.jp/brands/"
+    },
+    {
+      "name": "天ぷらてんや",
+      "group": "royal",
+      "operator": "ロイヤルフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "天ぷら てんや"
+      ],
+      "source": "https://www.royalfoodservice.co.jp/brands/"
+    },
+    {
+      "name": "ロイヤルガーデンカフェ",
+      "group": "royal",
+      "operator": "ロイヤルフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "royal garden cafe"
+      ],
+      "source": "https://www.royal-holdings.co.jp/co/group/brand/"
+    },
+    {
+      "name": "ミセスエリザベスマフィン",
+      "group": "royal",
+      "operator": "ロイヤルフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "mrs elizabeth muffin",
+        "ミセス・エリザベスマフィン"
+      ],
+      "source": "https://www.royal-holdings.co.jp/co/group/brand/"
+    },
+    {
+      "name": "スタンダードコーヒー",
+      "group": "royal",
+      "operator": "ロイヤルフードサービス株式会社",
+      "category": "飲食",
+      "aliases": [
+        "standard coffee"
+      ],
+      "source": "https://www.royal-holdings.co.jp/co/group/brand/"
     }
   ]
 }
