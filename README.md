@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、6グループ・29ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、8グループ・31ブランド）。
 
 ## 技術
 
@@ -39,5 +39,9 @@
 - https://ppih.co.jp/search/
 - https://ppih.co.jp/social/uny/
 - https://www.saizeriya.co.jp/corporate/information/outline/
+- https://www.7andi.com/group/group_list.html
+- https://www.sej.co.jp/company/summary/
+- https://www.itochu.co.jp/ja/about/partner/japan/index.html
+- https://www.family.co.jp/company/familymart/outline.html
 
 商標・ロゴは使用していません。本サイトは非公式です。
