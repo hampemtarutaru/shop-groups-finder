@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、42グループ・249ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、44グループ・261ブランド）。
 
 ## 技術
 
@@ -210,3 +210,28 @@
 - https://www.nihonichi.jp/search/chart/
 - https://www.nihonichi.jp/aboutus/company-kowa
 - https://www.fukinuki.shop/html/company.html
+
+## 出典・更新メモ（2026-11-06 ローソン／セイコーマート）
+
+ローソンとセコマを追加。ローソンの株主は2024年8月15日から三菱商事50%、KDDI50%（議決権ベース）。三菱商事単独の連結子会社時代の古い情報で分類しない。ローソンの直営・フランチャイズ店舗に加え、ナチュラルローソン、ローソンストア100、子会社の成城石井、成城石井プロデュースの「Le Bar a Vin 52 AZABU TOKYO」、ローソンエンタテインメントが運営するHMV、HMV&BOOKS、HMV record shopを収録。ローソン・ユナイテッドシネマなど映画館事業はグループ概要で言及し、現行の店舗業種フィルターに合わないため今回は個別ブランドデータに収録しない。店舗と異なるローチケやローソン銀行等のサービスも検索データには収録しない。
+
+**資本関係の例外**：ローソン・スリーエフは株式会社エル・ティーエフによる合弁事業（2025年2月末時点でスリーエフ51%、ローソン49%）。2025年にローソンとスリーエフ本体の株式保有関係は解消され、合弁出資は継続。ローソン・ポプラはポプラリテール（ポプラ100%子会社）がローソンのメガフランチャイジーとして運営する提携店舗。ローソンは2025年8月にポプラの18.22%株式をすべて売却する方針を公表し業務提携へ移行。双方を普通のローソン完全子会社として登録しない。
+
+セコマは1971年8月に札幌でセイコーマートを創業、2016年に株式会社セイコーマート（事業持株会社）が株式会社セコマへ改称。公式グループ会社一覧でセイコーマート、ハセガワストア、タイエー、ハマナスクラブを確認した。セイコーマートの本部は株式会社セイコーマートで、株式会社セイコーリテールサービス等が店舗運営。ハマナスクラブはボランタリーチェーン本部で、全店をセコマ直営と誤解しないよう注記。グループには牛乳・アイス・惣菜等の製造会社、物流会社、システム会社なども存在するが、店頭ブランドと混同しない。ホットシェフは1994年に始まった店内調理の商品ブランドであり、独立した店舗チェーンとしては登録しない。2026年10月末のセイコーマート店舗数は1,192（北海道1,090、茨城92、埼玉10）。
+
+- https://www.mitsubishicorp.com/jp/ja/news/release/2024/0000054346.html
+- https://www.kddi.com/extlib/files/corporate/ir/library/yuka_shoken/pdf/yuho_2025_i_r_rW4LVy.pdf
+- https://www.lawson.co.jp/company/corporate/data/about/
+- https://www.lawson.co.jp/company/corporate/data/relation/
+- https://www.lawson.co.jp/company/corporate/data/sales/
+- https://store100.lawson.co.jp/company/outline/about/
+- https://www.ent.lawson.co.jp/company/
+- https://www.lbv52.jp/
+- https://www.unitedcinemas.jp/about_company/uc_concept.html
+- https://www.lawson.co.jp/company/news/detail/1504514_2504.html
+- https://www.lawson.co.jp/company/news/detail/1509390_2504.html
+- https://www.secoma.co.jp/aboutus/company.html
+- https://www.secoma.co.jp/aboutus/group.html
+- https://www.secoma.co.jp/aboutus/history.html
+- https://www.secoma.co.jp/recruit/newgraduate/philosophy/
+- https://www.secoma.co.jp/aboutus/nurture/kids/product.html
