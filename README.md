@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、23グループ・128ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、26グループ・143ブランド）。
 
 ## 技術
 
@@ -91,3 +91,16 @@
 - https://www.matsuyafoods-holdings.co.jp/2025/12/15/13171/
 - https://www.matsuyafoods-holdings.co.jp/company/history/
 - https://www.zensho.co.jp/jp/company/news/2026/post_6841.html
+
+## 出典・更新メモ（2026-11-05 一蘭・花月嵐・一風堂）
+
+一蘭HD（独立系・全店直営）、グロービート・ジャパン（花月嵐・芳香麻辣湯・札幌味噌ラーメン岳・セアブラノ神・おむすびの神等）、力の源HD（一風堂・RAMEN EXPRESS・名島亭・因幡うどん・五行・楓・奏等）を登録。商品メニュー名や期間限定コラボを独立ブランドとして扱わない。楓・奏は2025年4月にライズの買収によりグループ入り。一蘭のFCなしの方針、花月嵐の2026年時点の業態は公式資料に基づく。
+
+- https://ichiran.com/company/profile.html?wovn=en
+- https://ichiran.com/company/fc.html
+- https://globeat.jp/company/
+- https://globeat.jp/brand/
+- https://www.atpress.ne.jp/news/627323
+- https://www.chikaranomoto.com/company/
+- https://edinetdb.jp/company/E33011/text
+- https://www.chikaranomoto.com/new-news/2746
