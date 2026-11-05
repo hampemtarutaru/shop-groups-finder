@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、49グループ・302ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、50グループ・303ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -284,3 +284,16 @@
 - https://www.komeda.co.jp/company/outline.html
 - https://www.komeda.co.jp/shop/
 - https://www.komeda-holdings.co.jp/annual2025.pdf
+
+## 出典・更新メモ（2026-11-06 ゴンチャ／50グループ達成）
+
+「ゴンチャ」について、世界展開するGong cha Globalと国内運営会社・株式会社ゴンチャ ジャパンの関係を分けて掲載。グループ1・ブランド1を追加し、合計50グループ・303ブランド。グループ名を「ゴンチャグループ（世界ブランド）」とし、カテゴリは飲食、検索用別名は「貢茶」「gongcha」「Gong cha」等。ゴンチャ以外に現行Gong cha Global傘下の独立した異名の店舗チェーンは確認できなかったため、同一ブランドの世界各国店舗を重複して登録しない。
+
+**歴史**：公式ブランド沿革では、1996年に創業者が台湾で最初の茶店を開業し、2006年に高雄市で『Gong cha』ブランドを正式開始。2009年に香港、2015年に日本・原宿へ進出。日本法人は2015年3月25日設立。2025年に国内200店舗以上へ拡大。2019年に米投資会社TA AssociatesがGong cha Groupへ成長投資。2026年8月5日付TA、8月6日付ベイン・キャピタルの発表で、Bain CapitalがTA等からGong cha Globalを買収することに**合意**し、取引完了は2026年第4四半期を予定と公表。2026年11月6日時点の確認ではベイン側の買収完了日を明示した日付付き一次発表を確認できない。TAのポートフォリオページではステータスが「Past／Acquired by Bain Capital Private Equity」となっている一方、同社の8月発表と買い手側の一次発表は予定表現であり、2026年11月6日の確定した親会社・完了日としては採用しない（継続確認が必要）。ベインの他の投資先を同一グループの恒久的な兄弟ブランドに混ぜない。
+
+- https://www.gongcha.co.jp/company/
+- https://www.gongcha.co.jp/brand/
+- https://www.gong-cha.com/about-us
+- https://www.ta.com/news/ta-portfolio-company-gong-cha-to-be-acquired-by-bain-capital/
+- https://www.ta.com/portfolio/investments/gong-cha/
+- https://www.baincapital.com/news/bain-capital-acquire-gong-cha-one-worlds-fastest-growing-tea-brands-ta-associates
