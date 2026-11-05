@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、29グループ・167ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、36グループ・192ブランド）。
 
 ## 技術
 
@@ -118,3 +118,32 @@
 - https://yudetaro.jp/company_history/
 - https://yudetaro.jp/shoplist_shinetsu/
 - https://yudetaro.jp/menu/
+
+## 出典・更新メモ（2026-11-06 ファストフード系列）
+
+主要ハンバーガー・フライドチキン・サンドイッチ系列の日本の運営会社と資本関係を確認し、7グループ・25ブランドを追加。日本マクドナルド、バーガーキング、ウェンディーズ／ファーストキッチン、日本KFC、ワタミ（サブウェイ等）、モスフードサービス、スガキコシステムズ（ドムドム含む）を登録。既存のコロワイド／フレッシュネスバーガー、ゼンショー／ゼッテリアと連携し、ロッテリアをゼンショーに追加。
+
+**関係の注意点**：米国等のブランド保有元と日本の国内店舗運営会社・出資ファンドは別。ウェンディーズ・ジャパンの公式情報によれば、日本の店舗運営はファーストキッチン株式会社。バーガーキング日本事業は2026年2月19日にGoldman Sachs Alternativesへの売却完了。ドムドムは2026年1月にMBOを実施した後、9月30日にスガキコシステムズが追加出資して正式にグループ会社化。KFC日本事業は2024年にカーライル傘下へ。サブウェイ日本事業は2024年10月よりワタミ傘下。モスとミスタードーナツの協業ブランドMOSDOは、資本上の単純な兄弟関係を誤認させないため今回の個別ブランド登録から除外。
+
+- https://www.mcd-holdings.co.jp/company/profile/
+- https://www.mcd-holdings.co.jp/ir/management/business_strength/
+- https://www.burgerking.co.jp/story/about
+- https://www.affinityequity.com/blogs/affinity-equity-partners-completes-sale-burger-king-japan-goldman-sachs-alternatives
+- https://wendys-firstkitchen.co.jp/company/wj.php
+- https://wendys-firstkitchen.co.jp/company/
+- https://www.longreachgroup.com/jp/investment-solutions-cross-cultural-solutions-jp
+- https://japan.kfc.co.jp/company/outline
+- https://www.carlyle.com/media-room/news-release-archive/Carlyle-completes-tender-offer-for-KFC-Japan
+- https://subway.co.jp/company/info/
+- https://www.watami.co.jp/group/restaurant/
+- https://watamishopsearch.jp/brand/
+- https://www.mos.co.jp/company/outline/profile/
+- https://www.mos.co.jp/company/outline/store_data/
+- https://www.colowide.co.jp/corpo/group.html
+- https://www.zensho.co.jp/jp/company/news/2026/post_6841.html
+- https://www.sugakico.co.jp/
+- https://www.sugakico.co.jp/company/
+- https://www.sugakico.co.jp/menu/takojyu/
+- https://domdomhamburger.com/company
+- https://prtimes.jp/main/html/rd/p/000000065.000028112.html
+- https://prtimes.jp/main/html/rd/p/000000059.000097460.html
