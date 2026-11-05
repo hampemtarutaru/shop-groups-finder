@@ -2,46 +2,870 @@
   "updated": "2026-11-05",
   "notice": "掲載対象は一部のブランドです。企業の資本・運営関係は変わることがあります。",
   "groups": [
-    {"id":"zensho","name":"ゼンショーグループ","company":"株式会社ゼンショーホールディングス","summary":"牛丼・寿司・ファミリーレストランなど、幅広い外食ブランドを展開。","accent":"#237C72","source":"https://www.zensho.co.jp/jp/brands/organization/","checked":"2026-11-01","events":[{"year":"1982","text":"ゼンショー設立。"}]},
-    {"id":"skylark","name":"すかいらーくグループ","company":"株式会社すかいらーくホールディングス","summary":"洋食・中華・和食・カフェなど、多様な外食ブランドを展開。","accent":"#C36A3C","source":"https://corp.skylark.co.jp/brand/brand_list/","checked":"2026-11-01","events":[{"year":"1970","text":"すかいらーく1号店を開店。"}]},
-    {"id":"aeon","name":"イオングループ","company":"イオン株式会社","summary":"総合スーパーから小型食品店・コンビニまで、業種をまたいで展開。","accent":"#9A588E","source":"https://www.aeon.info/group/","checked":"2026-11-01","events":[]},
-    {"id":"trial","name":"トライアルグループ","company":"株式会社トライアルホールディングス","summary":"ディスカウントストアに加え、2025年に西友が加わった。","accent":"#44729A","source":"https://trial-holdings.inc/company/history/","checked":"2026-11-01","events":[{"year":"2015","text":"持株会社トライアルホールディングスを設立。"},{"year":"2025","text":"7月1日、西友の全株式取得が完了。"}]},
-    {"id":"ppih","name":"PPIHグループ","company":"株式会社パン・パシフィック・インターナショナルホールディングス","summary":"ドン・キホーテとユニー系の総合スーパーなどを展開。","accent":"#8A6A3F","source":"https://ppih.co.jp/search/","checked":"2026-11-01","events":[]},
-    {"id":"saizeriya","name":"サイゼリヤ","company":"株式会社サイゼリヤ","summary":"株式会社サイゼリヤが展開するイタリアンレストラン。国内外で「サイゼリヤ」を運営。","accent":"#4A8176","source":"https://www.saizeriya.co.jp/corporate/information/outline/","checked":"2026-11-05","events":[{"year":"1973","text":"株式会社サイゼリヤを設立。"}]},
-    {"id":"sevenandi","name":"セブン＆アイグループ","company":"株式会社セブン＆アイ・ホールディングス","summary":"セブン‐イレブンを中心に、国内外でコンビニエンスストア事業などを展開。","accent":"#D86F48","source":"https://www.7andi.com/group/group_list.html","checked":"2026-11-05","events":[]},
-    {"id":"itochu","name":"伊藤忠グループ","company":"伊藤忠商事株式会社","summary":"総合商社の伊藤忠商事を中核とする企業グループ。ファミリーマートを子会社として保有。","accent":"#4782A8","source":"https://www.itochu.co.jp/ja/about/partner/japan/index.html","checked":"2026-11-05","events":[]}
+    {
+      "id": "zensho",
+      "name": "ゼンショーグループ",
+      "company": "株式会社ゼンショーホールディングス",
+      "summary": "牛丼・寿司・ファミリーレストランなど、幅広い外食ブランドを展開。",
+      "accent": "#237C72",
+      "source": "https://www.zensho.co.jp/jp/brands/organization/",
+      "checked": "2026-11-01",
+      "events": [
+        {
+          "year": "1982",
+          "text": "ゼンショー設立。"
+        }
+      ]
+    },
+    {
+      "id": "skylark",
+      "name": "すかいらーくグループ",
+      "company": "株式会社すかいらーくホールディングス",
+      "summary": "洋食・中華・和食・カフェなど、多様な外食ブランドを展開。",
+      "accent": "#C36A3C",
+      "source": "https://corp.skylark.co.jp/brand/brand_list/",
+      "checked": "2026-11-01",
+      "events": [
+        {
+          "year": "1970",
+          "text": "すかいらーく1号店を開店。"
+        }
+      ]
+    },
+    {
+      "id": "aeon",
+      "name": "イオングループ",
+      "company": "イオン株式会社",
+      "summary": "総合スーパーから小型食品店・コンビニまで、業種をまたいで展開。",
+      "accent": "#9A588E",
+      "source": "https://www.aeon.info/group/",
+      "checked": "2026-11-01",
+      "events": []
+    },
+    {
+      "id": "trial",
+      "name": "トライアルグループ",
+      "company": "株式会社トライアルホールディングス",
+      "summary": "ディスカウントストアに加え、2025年に西友が加わった。",
+      "accent": "#44729A",
+      "source": "https://trial-holdings.inc/company/history/",
+      "checked": "2026-11-01",
+      "events": [
+        {
+          "year": "2015",
+          "text": "持株会社トライアルホールディングスを設立。"
+        },
+        {
+          "year": "2025",
+          "text": "7月1日、西友の全株式取得が完了。"
+        }
+      ]
+    },
+    {
+      "id": "ppih",
+      "name": "PPIHグループ",
+      "company": "株式会社パン・パシフィック・インターナショナルホールディングス",
+      "summary": "ドン・キホーテとユニー系の総合スーパーなどを展開。",
+      "accent": "#8A6A3F",
+      "source": "https://ppih.co.jp/search/",
+      "checked": "2026-11-01",
+      "events": []
+    },
+    {
+      "id": "saizeriya",
+      "name": "サイゼリヤ",
+      "company": "株式会社サイゼリヤ",
+      "summary": "株式会社サイゼリヤが展開するイタリアンレストラン。国内外で「サイゼリヤ」を運営。",
+      "accent": "#4A8176",
+      "source": "https://www.saizeriya.co.jp/corporate/information/outline/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "1973",
+          "text": "株式会社サイゼリヤを設立。"
+        }
+      ]
+    },
+    {
+      "id": "sevenandi",
+      "name": "セブン＆アイグループ",
+      "company": "株式会社セブン＆アイ・ホールディングス",
+      "summary": "セブン‐イレブンを中心に、国内外でコンビニエンスストア事業などを展開。",
+      "accent": "#D86F48",
+      "source": "https://www.7andi.com/group/group_list.html",
+      "checked": "2026-11-05",
+      "events": []
+    },
+    {
+      "id": "itochu",
+      "name": "伊藤忠グループ",
+      "company": "伊藤忠商事株式会社",
+      "summary": "総合商社の伊藤忠商事を中核とする企業グループ。ファミリーマートを子会社として保有。",
+      "accent": "#4782A8",
+      "source": "https://www.itochu.co.jp/ja/about/partner/japan/index.html",
+      "checked": "2026-11-05",
+      "events": []
+    },
+    {
+      "id": "york",
+      "name": "ヨーク・ホールディングス",
+      "company": "株式会社ヨーク・ホールディングス",
+      "summary": "イトーヨーカドー、ヨークベニマル、デニーズ、ロフトなどを展開。2025年にセブン＆アイから経営上分離し、資本関係は一部継続。",
+      "accent": "#9B6E4E",
+      "source": "https://yorkhd.co.jp/group/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "2025",
+          "text": "9月にセブン＆アイからスーパー・専門店事業の経営を分離。"
+        }
+      ]
+    },
+    {
+      "id": "colowide",
+      "name": "コロワイドグループ",
+      "company": "株式会社コロワイド",
+      "summary": "大戸屋・牛角・かっぱ寿司・ステーキ宮などを幅広く展開。カフェブランドもグループ傘下。",
+      "accent": "#B35457",
+      "source": "https://www.colowide.co.jp/corpo/group.html",
+      "checked": "2026-11-05",
+      "events": []
+    },
+    {
+      "id": "kourakuen",
+      "name": "幸楽苑",
+      "company": "株式会社幸楽苑",
+      "summary": "ラーメンチェーン『幸楽苑』を展開する上場企業。",
+      "accent": "#A26E44",
+      "source": "https://hd.kourakuen.co.jp/company",
+      "checked": "2026-11-05",
+      "events": []
+    },
+    {
+      "id": "anrakutei",
+      "name": "安楽亭グループ",
+      "company": "株式会社安楽亭",
+      "summary": "焼肉の安楽亭・七輪房に加え、子会社アークミールがステーキのどん・フォルクスなどを展開。",
+      "accent": "#9B5651",
+      "source": "https://www.anrakutei.co.jp/company/profile.html",
+      "checked": "2026-11-05",
+      "events": []
+    },
+    {
+      "id": "monogatari",
+      "name": "物語コーポレーション",
+      "company": "株式会社物語コーポレーション",
+      "summary": "焼肉きんぐ・丸源ラーメン・ゆず庵など、焼肉・ラーメン・外食ブランドを展開。",
+      "accent": "#8F5F91",
+      "source": "https://www.monogatari.co.jp/brand/",
+      "checked": "2026-11-05",
+      "events": []
+    },
+    {
+      "id": "hiday",
+      "name": "ハイデイ日高",
+      "company": "株式会社ハイデイ日高",
+      "summary": "日高屋・焼鳥日高などを展開する外食チェーン。",
+      "accent": "#688356",
+      "source": "https://hidakaya.hiday.co.jp/co/chain.html",
+      "checked": "2026-11-05",
+      "events": []
+    },
+    {
+      "id": "maruchiyo",
+      "name": "丸千代山岡家",
+      "company": "株式会社丸千代山岡家",
+      "summary": "ラーメン山岡家を全国に展開。",
+      "accent": "#866644",
+      "source": "https://maruchiyo.yamaokaya.com/business/yamaokaya/",
+      "checked": "2026-11-05",
+      "events": []
+    }
   ],
   "brands": [
-    {"name":"すき家","group":"zensho","operator":"株式会社すき家","category":"飲食","aliases":["すきや"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
-    {"name":"なか卯","group":"zensho","operator":"株式会社なか卯","category":"飲食","aliases":["なかう"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
-    {"name":"はま寿司","group":"zensho","operator":"株式会社はま寿司","category":"飲食","aliases":["はまずし"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
-    {"name":"ココス","group":"zensho","operator":"株式会社ココスジャパン","category":"飲食","aliases":["cocos"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
-    {"name":"ジョリーパスタ","group":"zensho","operator":"株式会社ジョリーパスタ","category":"飲食","aliases":["jolly pasta"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
-    {"name":"オリーブの丘","group":"zensho","operator":"株式会社オリーブの丘","category":"飲食","aliases":[],"source":"https://www.zensho.co.jp/jp/company/outline/"},
-    {"name":"ビッグボーイ","group":"zensho","operator":"株式会社ビッグボーイジャパン","category":"飲食","aliases":["big boy"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
-    {"name":"ガスト","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":["gusto"],"source":"https://www.skylark.co.jp/brand/"},
-    {"name":"バーミヤン","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":[],"source":"https://www.skylark.co.jp/brand/"},
-    {"name":"しゃぶ葉","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":["しゃぶよう"],"source":"https://www.skylark.co.jp/brand/"},
-    {"name":"ジョナサン","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":[],"source":"https://www.skylark.co.jp/brand/"},
-    {"name":"夢庵","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":["ゆめあん"],"source":"https://www.skylark.co.jp/brand/"},
-    {"name":"むさしの森珈琲","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":["むさしのもりこーひー"],"source":"https://www.skylark.co.jp/brand/"},
-    {"name":"ステーキガスト","group":"skylark","operator":"株式会社すかいらーくレストランツ","category":"飲食","aliases":[],"source":"https://www.skylark.co.jp/brand/"},
-    {"name":"イオン","group":"aeon","operator":"イオンリテール株式会社など","category":"スーパー","aliases":["aeon"],"source":"https://www.aeon.info/group/"},
-    {"name":"まいばすけっと","group":"aeon","operator":"まいばすけっと株式会社","category":"スーパー","aliases":["my basket"],"source":"https://www.aeon.info/group/"},
-    {"name":"マルエツ","group":"aeon","operator":"株式会社マルエツ","category":"スーパー","aliases":[],"source":"https://www.aeon.info/group/"},
-    {"name":"ミニストップ","group":"aeon","operator":"ミニストップ株式会社","category":"コンビニ","aliases":["ministop"],"source":"https://www.aeon.info/group/"},
-    {"name":"マックスバリュ","group":"aeon","operator":"地域ごとのグループ運営会社","category":"スーパー","aliases":["maxvalu","max value"],"source":"https://www.aeon.info/group/"},
-    {"name":"カスミ","group":"aeon","operator":"株式会社カスミ","category":"スーパー","aliases":[],"source":"https://www.aeon.info/group/"},
-    {"name":"トライアル","group":"trial","operator":"株式会社トライアルカンパニーなど","category":"スーパー","aliases":["trial"],"source":"https://trial-holdings.inc/company/history/"},
-    {"name":"西友","group":"trial","operator":"株式会社西友","category":"スーパー","aliases":["seiyu"],"source":"https://trial-holdings.inc/news/release/686382439f0b7297ddd48fb7/"},
-    {"name":"LIVIN","group":"trial","operator":"株式会社西友","category":"スーパー","aliases":["リヴィン","リビン"],"source":"https://trial-holdings.inc/retail-investor/topics-cocotora2025/"},
-    {"name":"ドン・キホーテ","group":"ppih","operator":"株式会社ドン・キホーテなど","category":"量販店","aliases":["ドンキ","donki"],"source":"https://ppih.co.jp/search/"},
-    {"name":"MEGAドン・キホーテ","group":"ppih","operator":"PPIHグループ各社","category":"量販店","aliases":["メガドンキ"],"source":"https://ppih.co.jp/search/"},
-    {"name":"アピタ","group":"ppih","operator":"ユニー株式会社","category":"スーパー","aliases":["apita"],"source":"https://ppih.co.jp/social/uny/"},
-    {"name":"ピアゴ","group":"ppih","operator":"ユニー株式会社","category":"スーパー","aliases":["piago"],"source":"https://ppih.co.jp/social/uny/"},
-    {"name":"Olympic","group":"ppih","operator":"株式会社Olympicグループ","category":"スーパー","aliases":["オリンピック"],"source":"https://ppih.co.jp/search/"},
-    {"name":"サイゼリヤ","group":"saizeriya","operator":"株式会社サイゼリヤ","category":"飲食","aliases":["さいぜりや","saizeriya","サイゼ"],"source":"https://www.saizeriya.co.jp/corporate/information/outline/"},
-    {"name":"セブン‐イレブン","group":"sevenandi","operator":"株式会社セブン‐イレブン・ジャパンなど","category":"コンビニ","aliases":["セブン","セブンイレブン","せぶんいれぶん","7-eleven","seven eleven"],"source":"https://www.sej.co.jp/company/summary/"},
-    {"name":"ファミリーマート","group":"itochu","operator":"株式会社ファミリーマート","category":"コンビニ","aliases":["ファミマ","ふぁみま","familymart","family mart"],"source":"https://www.family.co.jp/company/familymart/outline.html"}
+    {
+      "name": "すき家",
+      "group": "zensho",
+      "operator": "株式会社すき家",
+      "category": "飲食",
+      "aliases": [
+        "すきや"
+      ],
+      "source": "https://www.zensho.co.jp/jp/company/outline/"
+    },
+    {
+      "name": "なか卯",
+      "group": "zensho",
+      "operator": "株式会社なか卯",
+      "category": "飲食",
+      "aliases": [
+        "なかう"
+      ],
+      "source": "https://www.zensho.co.jp/jp/company/outline/"
+    },
+    {
+      "name": "はま寿司",
+      "group": "zensho",
+      "operator": "株式会社はま寿司",
+      "category": "飲食",
+      "aliases": [
+        "はまずし"
+      ],
+      "source": "https://www.zensho.co.jp/jp/company/outline/"
+    },
+    {
+      "name": "ココス",
+      "group": "zensho",
+      "operator": "株式会社ココスジャパン",
+      "category": "飲食",
+      "aliases": [
+        "cocos"
+      ],
+      "source": "https://www.zensho.co.jp/jp/company/outline/"
+    },
+    {
+      "name": "ジョリーパスタ",
+      "group": "zensho",
+      "operator": "株式会社ジョリーパスタ",
+      "category": "飲食",
+      "aliases": [
+        "jolly pasta"
+      ],
+      "source": "https://www.zensho.co.jp/jp/company/outline/"
+    },
+    {
+      "name": "オリーブの丘",
+      "group": "zensho",
+      "operator": "株式会社オリーブの丘",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://www.zensho.co.jp/jp/company/outline/"
+    },
+    {
+      "name": "ビッグボーイ",
+      "group": "zensho",
+      "operator": "株式会社ビッグボーイジャパン",
+      "category": "飲食",
+      "aliases": [
+        "big boy"
+      ],
+      "source": "https://www.zensho.co.jp/jp/company/outline/"
+    },
+    {
+      "name": "ガスト",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "gusto"
+      ],
+      "source": "https://www.skylark.co.jp/brand/"
+    },
+    {
+      "name": "バーミヤン",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://www.skylark.co.jp/brand/"
+    },
+    {
+      "name": "しゃぶ葉",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "しゃぶよう"
+      ],
+      "source": "https://www.skylark.co.jp/brand/"
+    },
+    {
+      "name": "ジョナサン",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://www.skylark.co.jp/brand/"
+    },
+    {
+      "name": "夢庵",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "ゆめあん"
+      ],
+      "source": "https://www.skylark.co.jp/brand/"
+    },
+    {
+      "name": "むさしの森珈琲",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [
+        "むさしのもりこーひー"
+      ],
+      "source": "https://www.skylark.co.jp/brand/"
+    },
+    {
+      "name": "ステーキガスト",
+      "group": "skylark",
+      "operator": "株式会社すかいらーくレストランツ",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://www.skylark.co.jp/brand/"
+    },
+    {
+      "name": "イオン",
+      "group": "aeon",
+      "operator": "イオンリテール株式会社など",
+      "category": "スーパー",
+      "aliases": [
+        "aeon"
+      ],
+      "source": "https://www.aeon.info/group/"
+    },
+    {
+      "name": "まいばすけっと",
+      "group": "aeon",
+      "operator": "まいばすけっと株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "my basket"
+      ],
+      "source": "https://www.aeon.info/group/"
+    },
+    {
+      "name": "マルエツ",
+      "group": "aeon",
+      "operator": "株式会社マルエツ",
+      "category": "スーパー",
+      "aliases": [],
+      "source": "https://www.aeon.info/group/"
+    },
+    {
+      "name": "ミニストップ",
+      "group": "aeon",
+      "operator": "ミニストップ株式会社",
+      "category": "コンビニ",
+      "aliases": [
+        "ministop"
+      ],
+      "source": "https://www.aeon.info/group/"
+    },
+    {
+      "name": "マックスバリュ",
+      "group": "aeon",
+      "operator": "地域ごとのグループ運営会社",
+      "category": "スーパー",
+      "aliases": [
+        "maxvalu",
+        "max value"
+      ],
+      "source": "https://www.aeon.info/group/"
+    },
+    {
+      "name": "カスミ",
+      "group": "aeon",
+      "operator": "株式会社カスミ",
+      "category": "スーパー",
+      "aliases": [],
+      "source": "https://www.aeon.info/group/"
+    },
+    {
+      "name": "トライアル",
+      "group": "trial",
+      "operator": "株式会社トライアルカンパニーなど",
+      "category": "スーパー",
+      "aliases": [
+        "trial"
+      ],
+      "source": "https://trial-holdings.inc/company/history/"
+    },
+    {
+      "name": "西友",
+      "group": "trial",
+      "operator": "株式会社西友",
+      "category": "スーパー",
+      "aliases": [
+        "seiyu"
+      ],
+      "source": "https://trial-holdings.inc/news/release/686382439f0b7297ddd48fb7/"
+    },
+    {
+      "name": "LIVIN",
+      "group": "trial",
+      "operator": "株式会社西友",
+      "category": "スーパー",
+      "aliases": [
+        "リヴィン",
+        "リビン"
+      ],
+      "source": "https://trial-holdings.inc/retail-investor/topics-cocotora2025/"
+    },
+    {
+      "name": "ドン・キホーテ",
+      "group": "ppih",
+      "operator": "株式会社ドン・キホーテなど",
+      "category": "量販店",
+      "aliases": [
+        "ドンキ",
+        "donki"
+      ],
+      "source": "https://ppih.co.jp/search/"
+    },
+    {
+      "name": "MEGAドン・キホーテ",
+      "group": "ppih",
+      "operator": "PPIHグループ各社",
+      "category": "量販店",
+      "aliases": [
+        "メガドンキ"
+      ],
+      "source": "https://ppih.co.jp/search/"
+    },
+    {
+      "name": "アピタ",
+      "group": "ppih",
+      "operator": "ユニー株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "apita"
+      ],
+      "source": "https://ppih.co.jp/social/uny/"
+    },
+    {
+      "name": "ピアゴ",
+      "group": "ppih",
+      "operator": "ユニー株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "piago"
+      ],
+      "source": "https://ppih.co.jp/social/uny/"
+    },
+    {
+      "name": "Olympic",
+      "group": "ppih",
+      "operator": "株式会社Olympicグループ",
+      "category": "スーパー",
+      "aliases": [
+        "オリンピック"
+      ],
+      "source": "https://ppih.co.jp/search/"
+    },
+    {
+      "name": "サイゼリヤ",
+      "group": "saizeriya",
+      "operator": "株式会社サイゼリヤ",
+      "category": "飲食",
+      "aliases": [
+        "さいぜりや",
+        "saizeriya",
+        "サイゼ"
+      ],
+      "source": "https://www.saizeriya.co.jp/corporate/information/outline/"
+    },
+    {
+      "name": "セブン‐イレブン",
+      "group": "sevenandi",
+      "operator": "株式会社セブン‐イレブン・ジャパンなど",
+      "category": "コンビニ",
+      "aliases": [
+        "セブン",
+        "セブンイレブン",
+        "せぶんいれぶん",
+        "7-eleven",
+        "seven eleven"
+      ],
+      "source": "https://www.sej.co.jp/company/summary/"
+    },
+    {
+      "name": "ファミリーマート",
+      "group": "itochu",
+      "operator": "株式会社ファミリーマート",
+      "category": "コンビニ",
+      "aliases": [
+        "ファミマ",
+        "ふぁみま",
+        "familymart",
+        "family mart"
+      ],
+      "source": "https://www.family.co.jp/company/familymart/outline.html"
+    },
+    {
+      "name": "イトーヨーカドー",
+      "group": "york",
+      "operator": "株式会社イトーヨーカ堂",
+      "category": "スーパー",
+      "aliases": [
+        "イトーヨーカ堂",
+        "ヨーカドー",
+        "いとーよーかどー",
+        "itoyokado"
+      ],
+      "source": "https://yorkhd.co.jp/group/"
+    },
+    {
+      "name": "ヨークベニマル",
+      "group": "york",
+      "operator": "株式会社ヨークベニマル",
+      "category": "スーパー",
+      "aliases": [
+        "よーくべにまる"
+      ],
+      "source": "https://yorkhd.co.jp/group/"
+    },
+    {
+      "name": "ヨークフーズ",
+      "group": "york",
+      "operator": "株式会社イトーヨーカ堂",
+      "category": "スーパー",
+      "aliases": [
+        "ヨーク",
+        "york foods"
+      ],
+      "source": "https://yorkhd.co.jp/company/message/"
+    },
+    {
+      "name": "ザ・ガーデン自由が丘",
+      "group": "york",
+      "operator": "株式会社シェルガーデン",
+      "category": "スーパー",
+      "aliases": [
+        "ザガーデン",
+        "garden jiyugaoka"
+      ],
+      "source": "https://yorkhd.co.jp/group/"
+    },
+    {
+      "name": "ロフト",
+      "group": "york",
+      "operator": "株式会社ロフト",
+      "category": "専門店",
+      "aliases": [
+        "loft",
+        "ろふと"
+      ],
+      "source": "https://yorkhd.co.jp/group/"
+    },
+    {
+      "name": "アカチャンホンポ",
+      "group": "york",
+      "operator": "株式会社赤ちゃん本舗",
+      "category": "専門店",
+      "aliases": [
+        "赤ちゃん本舗",
+        "あかちゃんほんぽ"
+      ],
+      "source": "https://yorkhd.co.jp/group/"
+    },
+    {
+      "name": "デニーズ",
+      "group": "york",
+      "operator": "株式会社デニーズジャパン",
+      "category": "飲食",
+      "aliases": [
+        "dennys",
+        "でにーず"
+      ],
+      "source": "https://yorkhd.co.jp/group/"
+    },
+    {
+      "name": "大戸屋ごはん処",
+      "group": "colowide",
+      "operator": "株式会社大戸屋",
+      "category": "飲食",
+      "aliases": [
+        "大戸屋",
+        "おおとや",
+        "ootoya"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "牛角",
+      "group": "colowide",
+      "operator": "株式会社レインズインターナショナルなど（直営・FC）",
+      "category": "飲食",
+      "aliases": [
+        "ぎゅうかく",
+        "gyukaku"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "牛角焼肉食堂",
+      "group": "colowide",
+      "operator": "株式会社レインズインターナショナルなど",
+      "category": "飲食",
+      "aliases": [
+        "ぎゅうかくやきにくしょくどう"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "しゃぶしゃぶ温野菜",
+      "group": "colowide",
+      "operator": "株式会社レインズインターナショナルなど",
+      "category": "飲食",
+      "aliases": [
+        "温野菜",
+        "おんやさい"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "かっぱ寿司",
+      "group": "colowide",
+      "operator": "カッパ・クリエイト株式会社",
+      "category": "飲食",
+      "aliases": [
+        "かっぱずし"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "フレッシュネスバーガー",
+      "group": "colowide",
+      "operator": "株式会社フレッシュネス",
+      "category": "飲食",
+      "aliases": [
+        "フレッシュネス",
+        "freshness burger"
+      ],
+      "source": "https://www.colowide.co.jp/corpo/group.html"
+    },
+    {
+      "name": "ステーキ宮",
+      "group": "colowide",
+      "operator": "株式会社アトム",
+      "category": "飲食",
+      "aliases": [
+        "すてーきみや"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "カルビ大将",
+      "group": "colowide",
+      "operator": "株式会社アトム",
+      "category": "飲食",
+      "aliases": [
+        "かるびたいしょう"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "土間土間",
+      "group": "colowide",
+      "operator": "株式会社レインズインターナショナルなど",
+      "category": "飲食",
+      "aliases": [
+        "どまどま"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "カフェ・ベローチェ",
+      "group": "colowide",
+      "operator": "C-United株式会社",
+      "category": "飲食",
+      "aliases": [
+        "ベローチェ",
+        "veloce"
+      ],
+      "source": "https://www.colowide.co.jp/corpo/group.html"
+    },
+    {
+      "name": "珈琲館",
+      "group": "colowide",
+      "operator": "C-United株式会社",
+      "category": "飲食",
+      "aliases": [
+        "こーひーかん",
+        "コーヒー館"
+      ],
+      "source": "https://www.colowide.co.jp/corpo/group.html"
+    },
+    {
+      "name": "カフェ・ド・クリエ",
+      "group": "colowide",
+      "operator": "C-United株式会社",
+      "category": "飲食",
+      "aliases": [
+        "カフェドクリエ",
+        "cafe de crie"
+      ],
+      "source": "https://www.colowide.co.jp/corpo/group.html"
+    },
+    {
+      "name": "幸楽苑",
+      "group": "kourakuen",
+      "operator": "株式会社幸楽苑",
+      "category": "飲食",
+      "aliases": [
+        "こうらくえん",
+        "kourakuen"
+      ],
+      "source": "https://hd.kourakuen.co.jp/company"
+    },
+    {
+      "name": "安楽亭",
+      "group": "anrakutei",
+      "operator": "株式会社安楽亭",
+      "category": "飲食",
+      "aliases": [
+        "あんらくてい"
+      ],
+      "source": "https://www.anrakutei.co.jp/company/profile.html"
+    },
+    {
+      "name": "七輪房",
+      "group": "anrakutei",
+      "operator": "株式会社安楽亭",
+      "category": "飲食",
+      "aliases": [
+        "しちりんぼう"
+      ],
+      "source": "https://www.anrakutei.co.jp/company/profile.html"
+    },
+    {
+      "name": "ステーキのどん",
+      "group": "anrakutei",
+      "operator": "株式会社アークミール",
+      "category": "飲食",
+      "aliases": [
+        "すてーきのどん"
+      ],
+      "source": "https://www.anrakutei.co.jp/company/group.html"
+    },
+    {
+      "name": "フォルクス",
+      "group": "anrakutei",
+      "operator": "株式会社アークミール",
+      "category": "飲食",
+      "aliases": [
+        "volks"
+      ],
+      "source": "https://www.anrakutei.co.jp/company/group.html"
+    },
+    {
+      "name": "しゃぶしゃぶすき焼どん亭",
+      "group": "anrakutei",
+      "operator": "株式会社アークミール",
+      "category": "飲食",
+      "aliases": [
+        "どん亭",
+        "しゃぶしゃぶどん亭"
+      ],
+      "source": "https://www.anrakutei.co.jp/company/group.html"
+    },
+    {
+      "name": "丸源ラーメン",
+      "group": "monogatari",
+      "operator": "株式会社物語コーポレーションなど（直営・FC）",
+      "category": "飲食",
+      "aliases": [
+        "丸源",
+        "まるげんらーめん"
+      ],
+      "source": "https://www.monogatari.co.jp/brand/"
+    },
+    {
+      "name": "二代目丸源",
+      "group": "monogatari",
+      "operator": "株式会社物語コーポレーションなど（FC）",
+      "category": "飲食",
+      "aliases": [
+        "にだいめまるげん"
+      ],
+      "source": "https://www.monogatari.co.jp/brand/"
+    },
+    {
+      "name": "熟成醤油ラーメン きゃべとん",
+      "group": "monogatari",
+      "operator": "株式会社物語コーポレーション",
+      "category": "飲食",
+      "aliases": [
+        "きゃべとん"
+      ],
+      "source": "https://www.monogatari.co.jp/brand/"
+    },
+    {
+      "name": "焼肉きんぐ",
+      "group": "monogatari",
+      "operator": "株式会社物語コーポレーションなど（直営・FC）",
+      "category": "飲食",
+      "aliases": [
+        "やきにくきんぐ",
+        "焼き肉きんぐ"
+      ],
+      "source": "https://www.monogatari.co.jp/brand/"
+    },
+    {
+      "name": "ゆず庵",
+      "group": "monogatari",
+      "operator": "株式会社物語コーポレーションなど（直営・FC）",
+      "category": "飲食",
+      "aliases": [
+        "寿司しゃぶしゃぶゆず庵"
+      ],
+      "source": "https://www.monogatari.co.jp/brand/"
+    },
+    {
+      "name": "お好み焼本舗",
+      "group": "monogatari",
+      "operator": "株式会社物語コーポレーションなど",
+      "category": "飲食",
+      "aliases": [
+        "おこのみやきほんぽ"
+      ],
+      "source": "https://www.monogatari.co.jp/brand/"
+    },
+    {
+      "name": "焼きたてのかるび",
+      "group": "monogatari",
+      "operator": "株式会社物語コーポレーション",
+      "category": "飲食",
+      "aliases": [
+        "焼きたてのカルビ"
+      ],
+      "source": "https://www.monogatari.co.jp/brand/"
+    },
+    {
+      "name": "日高屋",
+      "group": "hiday",
+      "operator": "株式会社ハイデイ日高",
+      "category": "飲食",
+      "aliases": [
+        "ひだかや",
+        "hidakaya"
+      ],
+      "source": "https://hidakaya.hiday.co.jp/co/chain.html"
+    },
+    {
+      "name": "焼鳥日高",
+      "group": "hiday",
+      "operator": "株式会社ハイデイ日高",
+      "category": "飲食",
+      "aliases": [
+        "やきとりひだか",
+        "焼き鳥日高"
+      ],
+      "source": "https://hidakaya.hiday.co.jp/co/chain.html"
+    },
+    {
+      "name": "ラーメン山岡家",
+      "group": "maruchiyo",
+      "operator": "株式会社丸千代山岡家",
+      "category": "飲食",
+      "aliases": [
+        "山岡家",
+        "やまおかや",
+        "yamaokaya"
+      ],
+      "source": "https://maruchiyo.yamaokaya.com/business/yamaokaya/"
+    }
   ]
 }
