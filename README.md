@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、44グループ・261ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、47グループ・287ブランド）。
 
 ## 技術
 
@@ -235,3 +235,27 @@
 - https://www.secoma.co.jp/aboutus/history.html
 - https://www.secoma.co.jp/recruit/newgraduate/philosophy/
 - https://www.secoma.co.jp/aboutus/nurture/kids/product.html
+
+## 出典・更新メモ（2026-11-06 馬車道／町田商店／田所商店）
+
+馬車道、ギフトホールディングス、トライ・インターナショナルを新規登録し、合計3グループ・26ブランドを追加。各グループに出典URL・確認日を記録し、ブランドごとに参照先・運営法人・検索用別名を記載した。
+
+- **馬車道**：埼玉県熊谷市の株式会社馬車道。1972年に小規模な焼肉店として創業、1975年法人設立。公式掲載に基づき、レストラン馬車道、ピッツェリア馬車道、モダンパスタ、カプリモーネ、徳樹庵、野草庵、煉火亭、黒塀家、粋な黒塀、青磁、鶏彩の11ブランドを登録。2026年11月6日確認時、同社公式サイトの直接閲覧には『緊急システムメンテナンス』が表示されたため、同社運営の公式オンラインショップ案内と、検索エンジンが取得できた公式会社概要・ブランド一覧・アレルゲンページも突き合わせた。店舗営業状況は別途要確認。
+- **町田商店**：株式会社ギフトホールディングス。2008年に東京都町田市で創業、2009年に法人『株式会社町田商店』（現ギフトHD）設立。町田商店、豚山、元祖油堂、がっとん、長岡食堂、四天王、赤みそ家を登録。国内店舗運営会社は株式会社ギフト、株式会社Amazing、株式会社Craft等が存在し、プロデュース事業・FC事業の参加店は必ずしも直営ではない。公式の『東京ラーメン横丁』は複数ブランドが集まる施設のため単体ラーメン店としては今回登録しない。海外のMACHIDA SHOTEN・GANSO ABURADOは国内屋号と同一系統であり重複登録せず、既存ブランドの別名やグループ概要で表現。
+- **田所商店**：株式会社トライ・インターナショナル（2003年設立）。蔵出し味噌 麺場 田所商店、Ramen Misoya、RAMEN SORA、マルニ味噌らーめん、Ramen Ristorante 田所商店 Premium、田所商店 タンタンメン部、俺の空、早川みそちゃんぽんを登録。2024年に魚介豚骨ラーメン『俺の空』、2025年に老舗味噌蔵『早川しょうゆみそ』がグループ入り。味噌・タレ類の製造卸等の事業と店舗ブランドは区別。名称が似たディスカウントストア『トライアル』や町田商店とは資本系列が異なる。
+
+公式出典（確認日：2026-11-06）：
+
+- https://bashamichi.base.shop/about
+- https://www.bashamichi.co.jp/
+- https://www.bashamichi.co.jp/corporate/
+- https://www.bashamichi.co.jp/allergy/
+- https://www.bashamichi.co.jp/renkatei/
+- https://www.gift-group.co.jp/brand
+- https://www.gift-group.co.jp/company/information
+- https://www.gift-group.co.jp/company/history
+- https://www.gift-group.co.jp/company/business
+- https://try-international.co.jp/brand/
+- https://try-international.co.jp/about/
+- https://try-international.co.jp/business/management/
+- https://misoya.net/company/
