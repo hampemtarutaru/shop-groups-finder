@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、40グループ・222ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、42グループ・249ブランド）。
 
 ## 技術
 
@@ -190,3 +190,23 @@
 - https://inspirebrands.com/about-us/
 - https://www.dunkinbrands.com/company/about/about-dunkin-brands
 - https://fddexchange.com/wp-content/uploads/2014/01/Dunkin_Donuts_FDD_2010.pdf
+
+## 出典・更新メモ（2026-11-06 とんかつ新宿さぼてん／やきとり日本一）
+
+さぼてんの母体「グリーンハウスグループ」を登録。グリーンハウスは1947年の慶應義塾大学予科学生食堂運営に始まる会社。1966年に「とんかつ新宿さぼてん」を開店、1967年に「謝朋殿」を開店。1972年に外食部門を株式会社さぼてんとして独立させ、1982年グリーンハウスフーズに改称。レストラン・デリカ・食品流通・受託給食を営む企業グループとして分類し、社員食堂（受託先の施設）自体を独立ブランドとして登録していない。公式サイト収録ブランドから、さぼてん／銀座かつ匠／覇王樹／かつ彩／謝朋殿／西安餃子／粥餐庁／11イマサ／PARIYA等を追加。山和食品株式会社が運営する「おこわのたごさく」「おこわの里 たもかみ」「釜旬」「しゃれむすび」「新生公司」も含む。さぼてんのレストランと持ち帰り店は同一ブランドとして重複登録しない。2026年10月22日付のグリーンハウスフーズの告知によれば公式Webサイトの一部はセキュリティ対策によるメンテナンス中であり、公開ページが一時的に参照できない場合がある。
+
+やきとり「日本一」はイオンやセブン＆アイの子会社ではなく、両社は主要取引先。運営は千葉県野田市の株式会社日本一、持株会社は日本一ホールディングス株式会社。創業は嘉永年間（1848–1854頃）に始まる川魚問屋。日本一、うなぎ日本一、銀座 縁、いちどり、からあげ日本一を追加。関連会社コーワフード株式会社の「赤坂ふきぬき」「神楽坂 富貴貫」は公式関連会社ページと同社サイトの株主欄を根拠に同グループへ登録。うなぎ日本一と赤坂ふきぬきは業態は似ていても運営法人が異なる。
+
+- https://www.greenhouse.co.jp/corporate/history/index.html
+- https://www.greenhouse.co.jp/corporate/group/index.html
+- https://www.tonkatsu-saboten.com/view/company
+- https://www.ghf.co.jp/company/service/
+- https://www.ghf.co.jp/sitemap/
+- https://www.ghf.co.jp/sanwa/
+- https://www.ghf.co.jp/search/?list=1&shop_area=0&shop_brand%5B%5D=13
+- https://www.ghf.co.jp/maintenance.html
+- https://www.nihonichi.jp/aboutus/overview
+- https://www.nihonichi.jp/tenpoinfo
+- https://www.nihonichi.jp/search/chart/
+- https://www.nihonichi.jp/aboutus/company-kowa
+- https://www.fukinuki.shop/html/company.html
