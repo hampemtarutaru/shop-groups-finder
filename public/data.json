@@ -6,10 +6,10 @@
       "id": "zensho",
       "name": "ゼンショーグループ",
       "company": "株式会社ゼンショーホールディングス",
-      "summary": "牛丼・寿司・ファミリーレストランなど、幅広い外食ブランドを展開。",
+      "summary": "すき家・なか卯に加えて、はま寿司、ココス、ジョリーパスタ、ゼッテリアなど幅広い外食ブランドを展開。",
       "accent": "#237C72",
       "source": "https://www.zensho.co.jp/jp/brands/organization/",
-      "checked": "2026-11-01",
+      "checked": "2026-11-05",
       "events": [
         {
           "year": "1982",
@@ -1661,14 +1661,14 @@
     {
       "name": "ゼッテリア",
       "group": "zensho",
-      "operator": "株式会社ロッテリア（ゼンショーグループ）",
+      "operator": "株式会社バーガー・ワン（ゼンショーグループ）",
       "category": "飲食",
       "aliases": [
+        "ぜってりあ",
         "zett eria",
-        "zett eria",
-        "ゼッテリアバーガー"
+        "zetteria"
       ],
-      "source": "https://www.zensho.co.jp/jp/brands/"
+      "source": "https://www.zensho.co.jp/jp/company/news/2026/post_6841.html"
     }
   ]
 }
