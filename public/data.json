@@ -310,7 +310,7 @@
       "id": "globeat",
       "name": "グロービート・ジャパングループ",
       "company": "グロービート・ジャパン株式会社",
-      "summary": "らあめん花月嵐のほか、芳香麻辣湯、札幌味噌ラーメン岳、セアブラノ神など複数の麺業態を運営。",
+      "summary": "らあめん花月嵐を中心に、芳香麻辣湯、札幌味噌ラーメン岳、セアブラノ神に加え、おむすび専門店も展開。",
       "accent": "#AA7C4B",
       "source": "https://globeat.jp/company/",
       "checked": "2026-11-05",
@@ -333,6 +333,10 @@
         {
           "year": "1985",
           "text": "福岡で一風堂が創業。"
+        },
+        {
+          "year": "2025",
+          "text": "4月、味噌ラーメン「楓」「奏」を運営するライズをグループ会社化。"
         }
       ]
     }
@@ -1859,7 +1863,7 @@
     {
       "name": "楓",
       "group": "chikaranomoto",
-      "operator": "力の源グループ各社",
+      "operator": "株式会社ライズ（力の源グループ）",
       "aliases": [
         "北海道味噌ラーメン 楓",
         "ラーメン楓",
@@ -1871,13 +1875,25 @@
     {
       "name": "奏",
       "group": "chikaranomoto",
-      "operator": "力の源グループ各社",
+      "operator": "株式会社ライズ（力の源グループ）",
       "aliases": [
         "ラーメン奏",
         "かなで"
       ],
       "source": "https://www.chikaranomoto.com/company/",
       "category": "飲食"
+    },
+    {
+      "name": "おむすびの神",
+      "group": "globeat",
+      "operator": "グロービート・ジャパン株式会社",
+      "category": "飲食",
+      "aliases": [
+        "おむすびのかみ",
+        "オムスビノ神",
+        "omusubi no kami"
+      ],
+      "source": "https://www.atpress.ne.jp/news/627323"
     }
   ]
 }
