@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、47グループ・287ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、49グループ・302ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -263,3 +263,24 @@
 - https://try-international.co.jp/about/
 - https://try-international.co.jp/business/management/
 - https://misoya.net/company/
+
+## 出典・更新メモ（2026-11-06 高倉町珈琲／コメダ）
+
+株式会社高倉町珈琲および株式会社コメダホールディングスの2グループ、計15ブランドを追加。検索用別名（「高倉町コーヒー」「コメダ」「おかげ庵」等）、運営主体、出典URL、グループ確認日を保存。
+
+**高倉町珈琲**：社名・正式店名は「珈琲」表記。株式会社高倉町珈琲（2014年4月28日設立、横川竟会長、鬼澤修社長）の単独ブランドとして登録。公式会社概要には2026年2月時点で41店舗と記載。2013年の八王子店開店後に別会社を設立した。横川竟氏はすかいらーくの共同創業者・元会長だが、高倉町珈琲は現在のすかいらーくグループ傘下ではない。**創業者の人的・歴史的つながりと、現在の資本系列を混同しない**。ほかの新ブランドを裏付ける公式情報が見つからなかったため、グループは1ブランドのみの登録。
+
+**コメダ**：株式会社コメダホールディングスの公式事業説明および2026年2月末現在の会社概要に基づき、国内10業態と海外4業態を登録。国内：コメダ珈琲店／コメダ和喫茶 おかげ庵／BAKERY ADEMOK／KOMEDA is □／大餡吉日／ジェリコ堂／おむすび 米屋の太郎／ハンバーガー＆サンドイッチ ベイス／ラ・ヴィノテーク／BLUE LEAF CAFÉ。海外：Kaffe & Toast／Saap Saap Thai／Ma Mum／Paad Paad Thai（シンガポール）。国内外の屋号を区別し、コメダ珈琲店の海外店舗は同一ブランドの海外出店として重複登録しない。2025年3月にシンガポールPOON RESOURCES社株式70％を取得したことで海外4業態もコメダHDの連結グループに入っている。グループ公式沿革では2024年11月に株式会社コメダコマースがベイス事業を譲受と記載。ブランドや店舗によって直営・FC・別のグループ会社による運営があるため、すべてを株式会社コメダの直接運営店とは表記しない。
+
+出典（確認日2026-11-06）：
+
+- https://takakuramachi-coffee.co.jp/company/
+- https://takakuramachi-coffee.co.jp/shop/
+- https://takakuramachi-coffee.co.jp/news/2023.12.27/181/
+- https://magazine.chichi.co.jp/articles/4354491475/
+- https://komeda-holdings.co.jp/about-us/
+- https://komeda-holdings.co.jp/company-profile/
+- https://komeda-holdings.co.jp/history/
+- https://www.komeda.co.jp/company/outline.html
+- https://www.komeda.co.jp/shop/
+- https://www.komeda-holdings.co.jp/annual2025.pdf
