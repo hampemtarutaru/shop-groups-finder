@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、37グループ・204ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-06現在、40グループ・222ブランド）。
 
 ## 技術
 
@@ -161,3 +161,32 @@
 - https://www.royal-holdings.co.jp/co/history/
 - https://www.royalfoodservice.co.jp/company/index.html
 - https://www.royalfoodservice.co.jp/brands/
+
+## 出典・更新メモ（2026-11-06 ミスタードーナツ／サーティワン）
+
+ミスタードーナツ（日本事業）を株式会社ダスキンのグループに登録。ダスキン公式の2026年3月末時点の事業ページを確認し、モスド（モスとの資本・業務提携による協業）、かつアンドかつ、子会社ボストンハウスのイタリアン「ナポリの食卓」「ボーノボーノ DINING CAFE」「BOSTON's Cafe」「パスタアルデンティーノ」、とり重「とり弁鶏」を追加。モスドがダスキンとモスの共同ブランドであることを明記し、両社を単純な同一子会社グループとして扱っていない。日本のミスタードーナツは1971年大阪・箕面に1号店。
+
+国内サーティワンを運営する「B-R サーティワン アイスクリーム株式会社」を独立上場の企業グループとして登録。2025年12月末の大株主は不二家36.76%、ダンキン ブランズ インターナショナル ホールディングス リミテッド36.76%。B-Rサーティワンには直接の親会社がないことを2026年3月30日付会社の「支配株主等に関する事項について」でも確認。海外のバスキン・ロビンスとダンキンはInspire Brands傘下（米国等のブランド資本関係）であり、日本のミスタードーナツと同じグループには分類しない。米国では1990年3月30日にDunkin' DonutsがMister Donut of Americaを買収（Dunkin'公表の旧フランチャイズ開示資料）。これは歴史情報であり現在の日本運営会社の直接的な持株関係を示さない。
+
+不二家とつながる資本構成を見られるよう「ヤマザキパングループ」も新設。不二家洋菓子店、不二家レストラン、ペコちゃんmilkyドーナツ、ダロワイヨ、ヴィ・ド・フランス、デイリーヤマザキ、ニューヤマザキデイリーストア、アンパンマン＆ペコズキッチン、銀座みやちくを収録。山崎製パンが不二家の過半数を保有するため不二家店舗はヤマザキパングループ。一方でサーティワンは不二家が36.76%を保有する**持分法適用関連会社／独立上場会社**であり山崎製パンの子会社ではない。ブランド同士の資本関係を同じ親会社傘下の「兄弟ブランド」と誤記しない。
+
+- https://www.duskin.co.jp/company/business/food/
+- https://www.duskin.co.jp/company/group/
+- https://www.duskin.co.jp/company/history/
+- https://www.misterdonut.jp/businessinfo/founder/
+- https://www.misterdonut.jp/enjoy/history/
+- https://www.br31.jp/contents/company/about/outline/
+- https://www.br31.jp/contents/company/ir/stock/memo/
+- https://www.br31.jp/contents/company/about/message/
+- https://www.daiwair.co.jp/td_download.cgi?c=2268&i=3179651
+- https://www.fujiya-peko.co.jp/company/about/outline.html
+- https://www.fujiya-peko.co.jp/company/about/business.html
+- https://www.fujiya-peko.co.jp/cakebrand/milkydonuts/
+- https://www.fujiya-peko.co.jp/restaurant/restaurant_brand/
+- https://www.dalloyau.co.jp/societe/
+- https://www.yamazakipan.co.jp/company/group/
+- https://www.yamazakipan.co.jp/company/enkaku/index.html
+- https://www2.yamazakipan.co.jp/company/zigyou/daily.html
+- https://inspirebrands.com/about-us/
+- https://www.dunkinbrands.com/company/about/about-dunkin-brands
+- https://fddexchange.com/wp-content/uploads/2014/01/Dunkin_Donuts_FDD_2010.pdf
