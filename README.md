@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、8グループ・31ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、15グループ・66ブランド）。
 
 ## 技術
 
@@ -43,5 +43,17 @@
 - https://www.sej.co.jp/company/summary/
 - https://www.itochu.co.jp/ja/about/partner/japan/index.html
 - https://www.family.co.jp/company/familymart/outline.html
+- https://yorkhd.co.jp/group/
+- https://yorkhd.co.jp/company/message/
+- https://www.colowide.co.jp/corpo/group.html
+- https://www.colowide.co.jp/inquiry/brand_list.html
+- https://hd.kourakuen.co.jp/company
+- https://www.anrakutei.co.jp/company/profile.html
+- https://www.anrakutei.co.jp/company/group.html
+- https://www.monogatari.co.jp/brand/
+- https://hidakaya.hiday.co.jp/co/chain.html
+- https://maruchiyo.yamaokaya.com/business/yamaokaya/
+
+補足：2025年9月にイトーヨーカドー等の事業はセブン＆アイの連結グループから分離し、ヨーク・ホールディングス傘下となりました（資本関係は一部存続）。現在のブランド所属先の分類と資本出資関係は区別しています。業態別表示は収録分のみで、各企業の全店舗や全ブランドを網羅するものではありません。
 
 商標・ロゴは使用していません。本サイトは非公式です。
