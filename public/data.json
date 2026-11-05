@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "notice": "掲載対象は一部のブランドです。企業の資本・運営関係は変わることがあります。",
   "groups": [
     {
@@ -386,6 +386,139 @@
         {
           "year": "1994",
           "text": "10月、ゆで太郎1号店の湊店を開店。"
+        }
+      ]
+    },
+    {
+      "id": "mcdonalds-japan",
+      "name": "日本マクドナルドグループ",
+      "company": "日本マクドナルドホールディングス株式会社",
+      "summary": "日本マクドナルド株式会社を中心とする上場企業グループ。世界のマクドナルドブランドを日本で展開し、直営・フランチャイズ両方式で営業。",
+      "accent": "#D6A03E",
+      "source": "https://www.mcd-holdings.co.jp/company/profile/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1971",
+          "text": "銀座に日本1号店をオープン。"
+        },
+        {
+          "year": "2002",
+          "text": "持株会社制へ移行し、日本マクドナルド株式会社を新設。"
+        }
+      ]
+    },
+    {
+      "id": "burgerking-japan",
+      "name": "バーガーキング日本事業",
+      "company": "株式会社ビーケー・ジャパン",
+      "summary": "バーガーキングの日本事業。ブランド権利元はRestaurant Brands International（RBI）。日本事業は2026年2月にAffinity Equity PartnersからGoldman Sachs Alternativesへ売却。米国などのバーガーキングやRBIの別ブランドと日本の運営会社は区別。",
+      "accent": "#A85432",
+      "source": "https://www.affinityequity.com/blogs/affinity-equity-partners-completes-sale-burger-king-japan-goldman-sachs-alternatives",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2017",
+          "text": "Affinity Equity Partnersが日本事業に投資。"
+        },
+        {
+          "year": "2026",
+          "text": "2月19日、Goldman Sachs Alternativesへの日本事業売却が完了。"
+        }
+      ]
+    },
+    {
+      "id": "wendys-firstkitchen",
+      "name": "ウェンディーズ・ファーストキッチン事業",
+      "company": "ファーストキッチン株式会社／ウェンディーズ・ジャパン株式会社",
+      "summary": "米国生まれのウェンディーズと日本生まれのファーストキッチンが一体展開。ウェンディーズ・ジャパンが2016年にサントリーからファーストキッチンを買収。日本国内店舗の運営主体はファーストキッチン株式会社。投資会社ロングリーチグループの投資先。",
+      "accent": "#C76362",
+      "source": "https://www.longreachgroup.com/jp/investment-solutions-cross-cultural-solutions-jp",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1977",
+          "text": "ファーストキッチン株式会社が設立。"
+        },
+        {
+          "year": "2016",
+          "text": "ウェンディーズ・ジャパンがサントリーからファーストキッチンの全株式を取得。"
+        }
+      ]
+    },
+    {
+      "id": "kfc-japan",
+      "name": "日本KFCグループ",
+      "company": "日本KFCホールディングス株式会社",
+      "summary": "ケンタッキーフライドチキンの日本事業。運営は日本ケンタッキー・フライド・チキン株式会社。2024年に投資会社カーライルが日本事業を非公開化。世界的なKFCブランド権利元Yum! Brandsとは所有・フランチャイズ関係を区別。",
+      "accent": "#C94742",
+      "source": "https://www.carlyle.com/media-room/news-release-archive/Carlyle-completes-tender-offer-for-KFC-Japan",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1970",
+          "text": "日本ケンタッキー・フライド・チキン株式会社が創立。"
+        },
+        {
+          "year": "2024",
+          "text": "カーライルが日本KFCの買収・非公開化を進める。"
+        }
+      ]
+    },
+    {
+      "id": "watami",
+      "name": "ワタミグループ",
+      "company": "ワタミ株式会社",
+      "summary": "居酒屋から焼肉、サンドイッチ、チキンまで展開。2024年10月に日本サブウェイ事業を取得し、日本でのマスターフランチャイズ事業を担う。",
+      "accent": "#59866A",
+      "source": "https://www.watami.co.jp/group/restaurant/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1984",
+          "text": "ワタミ創業。"
+        },
+        {
+          "year": "2024",
+          "text": "10月、サブウェイ日本事業を子会社化。"
+        }
+      ]
+    },
+    {
+      "id": "mos",
+      "name": "モスフードサービスグループ",
+      "company": "株式会社モスフードサービス",
+      "summary": "モスバーガーのほか、紅茶専門店マザーリーフ、和食のあえん、グループ会社ビー・ワイ・オーによるおぼんdeごはん・だし茶漬け えん等を展開。",
+      "accent": "#427D55",
+      "source": "https://www.mos.co.jp/company/outline/profile/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1972",
+          "text": "モスフードサービス設立。"
+        },
+        {
+          "year": "1999",
+          "text": "マザーリーフとあえんの展開が始まる。"
+        }
+      ]
+    },
+    {
+      "id": "sugakico",
+      "name": "スガキコシステムズグループ",
+      "company": "スガキコシステムズ株式会社",
+      "summary": "スガキヤ・寿がきや・たこ寿などに加え、2026年9月30日にドムドムフードサービスを正式にグループ会社化。ドムドムの店舗運営会社は引き続き株式会社ドムドムフードサービス。",
+      "accent": "#B44F78",
+      "source": "https://prtimes.jp/main/html/rd/p/000000059.000097460.html",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1946",
+          "text": "スガキコシステムズの前身事業を創業。"
+        },
+        {
+          "year": "2026",
+          "text": "1月にドムドム経営陣によるMBO、9月30日にスガキコシステムズのグループ会社となる。"
         }
       ]
     }
@@ -2209,6 +2342,282 @@
         "信越食品"
       ],
       "source": "https://yudetaro.jp/shoplist_shinetsu/"
+    },
+    {
+      "name": "マクドナルド",
+      "group": "mcdonalds-japan",
+      "operator": "日本マクドナルド株式会社",
+      "category": "飲食",
+      "aliases": [
+        "マック",
+        "マクド",
+        "mcdonalds",
+        "mcdonald's",
+        "マクドナルドジャパン"
+      ],
+      "source": "https://www.mcd-holdings.co.jp/company/profile/"
+    },
+    {
+      "name": "バーガーキング",
+      "group": "burgerking-japan",
+      "operator": "株式会社ビーケー・ジャパン",
+      "category": "飲食",
+      "aliases": [
+        "burger king",
+        "バーキン"
+      ],
+      "source": "https://www.burgerking.co.jp/story/about"
+    },
+    {
+      "name": "ウェンディーズ・ファーストキッチン",
+      "group": "wendys-firstkitchen",
+      "operator": "ファーストキッチン株式会社",
+      "category": "飲食",
+      "aliases": [
+        "ウェンディーズ",
+        "wendys",
+        "wendy's",
+        "wendy's first kitchen",
+        "wendys first kitchen",
+        "wfk"
+      ],
+      "source": "https://wendys-firstkitchen.co.jp/company/wj.php"
+    },
+    {
+      "name": "ファーストキッチン",
+      "group": "wendys-firstkitchen",
+      "operator": "ファーストキッチン株式会社",
+      "category": "飲食",
+      "aliases": [
+        "first kitchen",
+        "ファッキン"
+      ],
+      "source": "https://wendys-firstkitchen.co.jp/company/"
+    },
+    {
+      "name": "ケンタッキーフライドチキン",
+      "group": "kfc-japan",
+      "operator": "日本ケンタッキー・フライド・チキン株式会社",
+      "category": "飲食",
+      "aliases": [
+        "ケンタッキー",
+        "kfc",
+        "ケンタ"
+      ],
+      "source": "https://japan.kfc.co.jp/company/outline"
+    },
+    {
+      "name": "サブウェイ",
+      "group": "watami",
+      "operator": "WATAMI FAST CASUAL MANAGEMENT株式会社",
+      "category": "飲食",
+      "aliases": [
+        "subway",
+        "サンドイッチサブウェイ"
+      ],
+      "source": "https://subway.co.jp/company/info/"
+    },
+    {
+      "name": "bb.qオリーブチキンカフェ",
+      "group": "watami",
+      "operator": "ワタミグループ（国内事業）",
+      "category": "飲食",
+      "aliases": [
+        "bbqオリーブチキン",
+        "オリーブチキン",
+        "bb.q olive chicken cafe"
+      ],
+      "source": "https://watamishopsearch.jp/brand/"
+    },
+    {
+      "name": "ミライザカ",
+      "group": "watami",
+      "operator": "ワタミ株式会社",
+      "category": "飲食",
+      "aliases": [
+        "旨唐揚げと居酒メシ ミライザカ"
+      ],
+      "source": "https://www.watami.co.jp/group/restaurant/"
+    },
+    {
+      "name": "三代目鳥メロ",
+      "group": "watami",
+      "operator": "ワタミ株式会社",
+      "category": "飲食",
+      "aliases": [
+        "鳥メロ",
+        "とりめろ"
+      ],
+      "source": "https://watamishopsearch.jp/brand/"
+    },
+    {
+      "name": "焼肉の和民",
+      "group": "watami",
+      "operator": "ワタミ株式会社",
+      "category": "飲食",
+      "aliases": [
+        "やきにくのわたみ"
+      ],
+      "source": "https://watamishopsearch.jp/brand/"
+    },
+    {
+      "name": "かみむら牧場",
+      "group": "watami",
+      "operator": "ワタミグループ（国内事業）",
+      "category": "飲食",
+      "aliases": [
+        "かみむらぼくじょう"
+      ],
+      "source": "https://watamishopsearch.jp/brand/"
+    },
+    {
+      "name": "TGIフライデーズ",
+      "group": "watami",
+      "operator": "ワタミグループ（日本国内事業）",
+      "category": "飲食",
+      "aliases": [
+        "tgi fridays",
+        "フライデーズ"
+      ],
+      "source": "https://www.watami.co.jp/group/restaurant/"
+    },
+    {
+      "name": "モスバーガー",
+      "group": "mos",
+      "operator": "株式会社モスフードサービス（直営・FC）",
+      "category": "飲食",
+      "aliases": [
+        "mos burger",
+        "モス"
+      ],
+      "source": "https://www.mos.co.jp/company/outline/profile/"
+    },
+    {
+      "name": "モスプレミアム",
+      "group": "mos",
+      "operator": "株式会社モスフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "mos premium"
+      ],
+      "source": "https://www.mos.co.jp/company/outline/store_data/"
+    },
+    {
+      "name": "マザーリーフ",
+      "group": "mos",
+      "operator": "株式会社モスフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "mother leaf"
+      ],
+      "source": "https://www.mos.co.jp/company/outline/store_data/"
+    },
+    {
+      "name": "マザーリーフティースタイル",
+      "group": "mos",
+      "operator": "株式会社モスフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "mother leaf tea style"
+      ],
+      "source": "https://www.mos.co.jp/company/outline/store_data/"
+    },
+    {
+      "name": "おぼんdeごはん",
+      "group": "mos",
+      "operator": "株式会社ビー・ワイ・オー",
+      "category": "飲食",
+      "aliases": [
+        "おぼんでごはん",
+        "obon de gohan"
+      ],
+      "source": "https://www.mos.co.jp/company/outline/profile/"
+    },
+    {
+      "name": "だし茶漬け えん",
+      "group": "mos",
+      "operator": "株式会社ビー・ワイ・オー",
+      "category": "飲食",
+      "aliases": [
+        "だしちゃづけえん",
+        "だし茶漬けえん"
+      ],
+      "source": "https://www.mos.co.jp/company/outline/profile/"
+    },
+    {
+      "name": "和食・酒 えん",
+      "group": "mos",
+      "operator": "株式会社ビー・ワイ・オー",
+      "category": "飲食",
+      "aliases": [
+        "和食酒えん",
+        "えん"
+      ],
+      "source": "https://www.mos.co.jp/company/outline/profile/"
+    },
+    {
+      "name": "スガキヤ",
+      "group": "sugakico",
+      "operator": "スガキコシステムズ株式会社",
+      "category": "飲食",
+      "aliases": [
+        "sugakiya",
+        "すがきや"
+      ],
+      "source": "https://www.sugakico.co.jp/"
+    },
+    {
+      "name": "寿がきや",
+      "group": "sugakico",
+      "operator": "スガキコシステムズ株式会社",
+      "category": "飲食",
+      "aliases": [
+        "すがきや寿"
+      ],
+      "source": "https://www.sugakico.co.jp/"
+    },
+    {
+      "name": "たこ寿",
+      "group": "sugakico",
+      "operator": "スガキコシステムズ株式会社",
+      "category": "飲食",
+      "aliases": [
+        "たこじゅ"
+      ],
+      "source": "https://www.sugakico.co.jp/menu/takojyu/"
+    },
+    {
+      "name": "金ことぶき。",
+      "group": "sugakico",
+      "operator": "スガキコシステムズ株式会社",
+      "category": "飲食",
+      "aliases": [
+        "金ことぶき",
+        "きんことぶき"
+      ],
+      "source": "https://www.sugakico.co.jp/"
+    },
+    {
+      "name": "ドムドムハンバーガー",
+      "group": "sugakico",
+      "operator": "株式会社ドムドムフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "ドムドム",
+        "domdom",
+        "dom dom hamburger"
+      ],
+      "source": "https://prtimes.jp/main/html/rd/p/000000059.000097460.html"
+    },
+    {
+      "name": "ロッテリア",
+      "group": "zensho",
+      "operator": "株式会社バーガー・ワン（ゼンショーグループ）",
+      "category": "飲食",
+      "aliases": [
+        "lotteria"
+      ],
+      "source": "https://www.zensho.co.jp/jp/company/news/2026/post_6841.html"
     }
   ]
 }
