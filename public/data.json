@@ -745,6 +745,71 @@
           "text": "10月末時点でセイコーマート1,192店（北海道1,090・茨城92・埼玉10）。"
         }
       ]
+    },
+    {
+      "id": "bashamichi",
+      "name": "馬車道グループ",
+      "company": "株式会社馬車道",
+      "summary": "埼玉県熊谷市に本社を置く外食企業。1972年に小さな焼肉店から始まり、洋食・イタリアン・和食・焼肉・鶏料理の11ブランドを展開。徳樹庵・野草庵・モダンパスタ・ピッツェリア馬車道などは同じ会社の運営。",
+      "accent": "#916D50",
+      "source": "https://bashamichi.base.shop/about",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1972",
+          "text": "10月、飲食店勤務経験のなかった創業者が小さな焼肉店を開き創業。"
+        },
+        {
+          "year": "1975",
+          "text": "11月、会社設立。"
+        }
+      ]
+    },
+    {
+      "id": "gift-holdings",
+      "name": "ギフトホールディングスグループ",
+      "company": "株式会社ギフトホールディングス",
+      "summary": "2008年東京都町田市の町田商店1号店に始まるラーメン企業。家系の町田商店、ガッツリ系の豚山、油そばの元祖油堂、豚骨のがっとん・四天王、長岡食堂、赤みそ家などを展開。国内店舗はグループ会社の株式会社ギフト・株式会社Amazing・株式会社Craftなどが運営。直営・FC・プロデュース店の区分があり、麺・スープ等の製造供給も行う。",
+      "accent": "#9F4D3D",
+      "source": "https://www.gift-group.co.jp/brand",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2008",
+          "text": "1月、東京都町田市で町田商店1号店を開店。"
+        },
+        {
+          "year": "2009",
+          "text": "12月、株式会社町田商店（現在のギフトホールディングス）を設立。"
+        },
+        {
+          "year": "2013",
+          "text": "神奈川県平塚市に製麺工場を開設。"
+        }
+      ]
+    },
+    {
+      "id": "try-international",
+      "name": "トライ・インターナショナルグループ",
+      "company": "株式会社トライ・インターナショナル",
+      "summary": "2003年設立。蔵出し味噌 麺場 田所商店を直営・FC展開。Ramen Misoya、マルニ味噌らーめん、田所商店Premium、タンタンメン部のほか、2024年に加わった魚介豚骨の『俺の空』や味噌蔵との連携による早川みそちゃんぽん等を展開。味噌・タレの製造販売も手がける。ディスカウントストアのトライアルとは別企業。",
+      "accent": "#A77831",
+      "source": "https://try-international.co.jp/brand/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2003",
+          "text": "4月21日、設立。"
+        },
+        {
+          "year": "2024",
+          "text": "株式会社俺の空がグループ入り。"
+        },
+        {
+          "year": "2025",
+          "text": "老舗味噌蔵の早川しょうゆみそ株式会社がグループ入り。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -3609,6 +3674,286 @@
         "hamanasu club"
       ],
       "source": "https://www.secoma.co.jp/aboutus/group.html"
+    },
+    {
+      "name": "レストラン馬車道",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "馬車道",
+        "洋食馬車道",
+        "レストランばしゃみち"
+      ],
+      "source": "https://www.bashamichi.co.jp/"
+    },
+    {
+      "name": "ピッツェリア馬車道",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "ピッツェリアばしゃみち",
+        "pizzeria bashamichi"
+      ],
+      "source": "https://www.bashamichi.co.jp/"
+    },
+    {
+      "name": "モダンパスタ",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "modern pasta"
+      ],
+      "source": "https://www.bashamichi.co.jp/"
+    },
+    {
+      "name": "カプリモーネ",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "caprimone"
+      ],
+      "source": "https://www.bashamichi.co.jp/"
+    },
+    {
+      "name": "徳樹庵",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "とくじゅあん"
+      ],
+      "source": "https://www.bashamichi.co.jp/"
+    },
+    {
+      "name": "野草庵",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "やそうあん"
+      ],
+      "source": "https://www.bashamichi.co.jp/"
+    },
+    {
+      "name": "煉火亭",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "れんかてい"
+      ],
+      "source": "https://www.bashamichi.co.jp/renkatei/"
+    },
+    {
+      "name": "黒塀家",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "くろべいや"
+      ],
+      "source": "https://www.bashamichi.co.jp/renkatei/"
+    },
+    {
+      "name": "粋な黒塀",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "いきなくろべい",
+        "いきな黒塀"
+      ],
+      "source": "https://www.bashamichi.co.jp/renkatei/"
+    },
+    {
+      "name": "青磁",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "せいじ",
+        "馬車道青磁"
+      ],
+      "source": "https://www.bashamichi.co.jp/renkatei/"
+    },
+    {
+      "name": "鶏彩",
+      "group": "bashamichi",
+      "operator": "株式会社馬車道",
+      "category": "飲食",
+      "aliases": [
+        "とりさい"
+      ],
+      "source": "https://www.bashamichi.co.jp/"
+    },
+    {
+      "name": "町田商店",
+      "group": "gift-holdings",
+      "operator": "株式会社ギフト／株式会社Amazing／株式会社Craftなど（店舗により異なる）",
+      "category": "飲食",
+      "aliases": [
+        "横浜家系ラーメン町田商店",
+        "まちだしょうてん",
+        "machida shoten"
+      ],
+      "source": "https://www.gift-group.co.jp/brand"
+    },
+    {
+      "name": "豚山",
+      "group": "gift-holdings",
+      "operator": "株式会社ギフト／株式会社Amazing／株式会社Craftなど（店舗により異なる）",
+      "category": "飲食",
+      "aliases": [
+        "ラーメン豚山",
+        "ぶたやま",
+        "butayama"
+      ],
+      "source": "https://www.gift-group.co.jp/brand"
+    },
+    {
+      "name": "元祖油堂",
+      "group": "gift-holdings",
+      "operator": "株式会社ギフト／株式会社Amazing／株式会社Craftなど（店舗により異なる）",
+      "category": "飲食",
+      "aliases": [
+        "がんそあぶらどう",
+        "油堂",
+        "ganso aburado"
+      ],
+      "source": "https://www.gift-group.co.jp/brand"
+    },
+    {
+      "name": "がっとん",
+      "group": "gift-holdings",
+      "operator": "株式会社ギフト／株式会社Amazing／株式会社Craftなど（店舗により異なる）",
+      "category": "飲食",
+      "aliases": [
+        "九州豚骨がっとん",
+        "gatton"
+      ],
+      "source": "https://www.gift-group.co.jp/brand"
+    },
+    {
+      "name": "長岡食堂",
+      "group": "gift-holdings",
+      "operator": "株式会社ギフト／株式会社Amazing／株式会社Craftなど（店舗により異なる）",
+      "category": "飲食",
+      "aliases": [
+        "ながおかしょくどう"
+      ],
+      "source": "https://www.gift-group.co.jp/brand"
+    },
+    {
+      "name": "四天王",
+      "group": "gift-holdings",
+      "operator": "株式会社ギフト／株式会社Amazing／株式会社Craftなど（店舗により異なる）",
+      "category": "飲食",
+      "aliases": [
+        "ラーメン四天王",
+        "してんのう"
+      ],
+      "source": "https://www.gift-group.co.jp/brand"
+    },
+    {
+      "name": "赤みそ家",
+      "group": "gift-holdings",
+      "operator": "株式会社ギフト／株式会社Amazing／株式会社Craftなど（店舗により異なる）",
+      "category": "飲食",
+      "aliases": [
+        "あかみそや"
+      ],
+      "source": "https://www.gift-group.co.jp/brand"
+    },
+    {
+      "name": "蔵出し味噌 麺場 田所商店",
+      "group": "try-international",
+      "operator": "株式会社トライ・インターナショナル／FC加盟法人",
+      "category": "飲食",
+      "aliases": [
+        "田所商店",
+        "麺場田所商店",
+        "たどころしょうてん",
+        "misoya"
+      ],
+      "source": "https://try-international.co.jp/brand/"
+    },
+    {
+      "name": "Ramen Misoya",
+      "group": "try-international",
+      "operator": "トライ・インターナショナルグループ（海外直営・提携店舗）",
+      "category": "飲食",
+      "aliases": [
+        "ラーメンミソヤ",
+        "misoya ramen"
+      ],
+      "source": "https://try-international.co.jp/brand/"
+    },
+    {
+      "name": "RAMEN SORA",
+      "group": "try-international",
+      "operator": "トライ・インターナショナルグループ（ブラジル事業）",
+      "category": "飲食",
+      "aliases": [
+        "ラーメンソラ",
+        "ラーメン SORA"
+      ],
+      "source": "https://try-international.co.jp/brand/"
+    },
+    {
+      "name": "マルニ味噌らーめん",
+      "group": "try-international",
+      "operator": "薩摩川内味噌醤油株式会社（グループ会社）",
+      "category": "飲食",
+      "aliases": [
+        "マルニ味噌ラーメン"
+      ],
+      "source": "https://try-international.co.jp/brand/"
+    },
+    {
+      "name": "Ramen Ristorante 田所商店 Premium",
+      "group": "try-international",
+      "operator": "株式会社トライ・インターナショナル",
+      "category": "飲食",
+      "aliases": [
+        "田所商店Premium",
+        "田所商店プレミアム"
+      ],
+      "source": "https://try-international.co.jp/brand/"
+    },
+    {
+      "name": "田所商店 タンタンメン部",
+      "group": "try-international",
+      "operator": "株式会社トライ・インターナショナル",
+      "category": "飲食",
+      "aliases": [
+        "田所商店タンタンメン部",
+        "タンタンメン部"
+      ],
+      "source": "https://try-international.co.jp/brand/"
+    },
+    {
+      "name": "俺の空",
+      "group": "try-international",
+      "operator": "株式会社俺の空（グループ会社）",
+      "category": "飲食",
+      "aliases": [
+        "おれのそら"
+      ],
+      "source": "https://try-international.co.jp/brand/"
+    },
+    {
+      "name": "早川みそちゃんぽん",
+      "group": "try-international",
+      "operator": "早川しょうゆみそ株式会社（グループ会社）",
+      "category": "飲食",
+      "aliases": [
+        "早川味噌ちゃんぽん"
+      ],
+      "source": "https://try-international.co.jp/brand/"
     }
   ]
 }
