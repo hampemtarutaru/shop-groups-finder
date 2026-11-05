@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、21グループ・97ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、23グループ・128ブランド）。
 
 ## 技術
 
@@ -79,3 +79,15 @@
 - https://www.starbucks.co.jp/company/summary/
 
 ドトール・日レスHD、伊藤園／タリーズ、米国スターバックスの日本事業を追加。タリーズは伊藤園の完全子会社。日本のスターバックス法人の株主はスターバックス・イーエムイーエー・ホールディングス・リミテッド。飲料商品と実店舗ブランドは区別して掲載。
+
+## 出典・更新メモ（2026-11-05 牛丼御三家）
+
+吉野家HDと松屋フーズHDを新たに登録。すき家所属のゼンショーではゼッテリアも追加。ブランドの例：吉野家・はなまるうどん・せたが屋・ばり嗎、松屋・松のや・すし松・六厘舎・舎鈴・ジャンクガレッジ。松屋フーズHDによる松富士子会社化は2026年1月。ゼッテリア運営会社は同年2月に株式会社バーガー・ワンへ社名変更済み。確認済みの代表的ブランドを抜粋して掲載。
+
+- https://www.yoshinoya-holdings.com/company/brand_list/
+- https://stores.yoshinoya-holdings.com/yoshinoya-holdings/spot/list/map?address=13102&search=address
+- https://www.yoshinoya-holdings.com/ir/info/dividend/
+- https://www.matsuyafoods-holdings.co.jp/2026/10/14/14430/
+- https://www.matsuyafoods-holdings.co.jp/2025/12/15/13171/
+- https://www.matsuyafoods-holdings.co.jp/company/history/
+- https://www.zensho.co.jp/jp/company/news/2026/post_6841.html
