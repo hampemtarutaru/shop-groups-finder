@@ -1,6 +1,6 @@
 # この店、どこの系列？ （試作版）
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、18グループ・81ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-05現在、21グループ・97ブランド）。
 
 ## 技術
 
@@ -67,3 +67,15 @@
 - https://www.itochu-shokuhin.com/company/group/
 - https://imc-oisio.co.jp/store/
 更新メモ（2026-11-05）：くら寿司を独立系として、スシロー・杉玉・酒林をFOOD & LIFE COMPANIES、京樽・回転寿司みさき等をSRSホールディングスとして追加。京樽は2026年9月1日にF&LCからSRSへ譲渡。伊藤忠食品傘下のOISIOも掲載。メーカーの商品ブランドは店舗検索対象外。
+
+## 出典（2026-11-05 カフェ系列の追加）
+
+- https://www.dnh.co.jp/company/brand/
+- https://www.dnh.co.jp/company/about/
+- https://www.doutor.co.jp/recruitsite/bland/index.html
+- https://www.itoen.co.jp/company/business/
+- https://www.itoen.co.jp/ir/performance/
+- https://www.tullys.co.jp/company/outline.html
+- https://www.starbucks.co.jp/company/summary/
+
+ドトール・日レスHD、伊藤園／タリーズ、米国スターバックスの日本事業を追加。タリーズは伊藤園の完全子会社。日本のスターバックス法人の株主はスターバックス・イーエムイーエー・ホールディングス・リミテッド。飲料商品と実店舗ブランドは区別して掲載。
