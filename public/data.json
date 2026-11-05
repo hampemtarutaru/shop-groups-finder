@@ -810,6 +810,68 @@
           "text": "老舗味噌蔵の早川しょうゆみそ株式会社がグループ入り。"
         }
       ]
+    },
+    {
+      "id": "takakuramachi",
+      "name": "高倉町珈琲（独立系）",
+      "company": "株式会社高倉町珈琲",
+      "summary": "すかいらーく創業者の一人・横川竟が、同社退任後に立ち上げた独立したカフェレストラン会社。2013年に八王子で1号店、2014年に法人設立。2026年2月時点41店舗。創業者の経歴はすかいらーくグループとつながるが、現在の高倉町珈琲はすかいらーくHD傘下ではない。",
+      "accent": "#9B6650",
+      "source": "https://takakuramachi-coffee.co.jp/company/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2008",
+          "text": "横川竟がすかいらーく会長を退任。別会社として新事業へ。"
+        },
+        {
+          "year": "2013",
+          "text": "八王子市高倉町に高倉町珈琲の1号店を開店。"
+        },
+        {
+          "year": "2014",
+          "text": "4月28日、株式会社高倉町珈琲を設立。"
+        },
+        {
+          "year": "2026",
+          "text": "2月時点で全国41店舗と公式会社概要に記載。"
+        }
+      ]
+    },
+    {
+      "id": "komeda-hd",
+      "name": "コメダホールディングスグループ",
+      "company": "株式会社コメダホールディングス",
+      "summary": "1968年名古屋発祥のフルサービス喫茶店グループ。コメダ珈琲店、おかげ庵、BAKERY ADEMOK、ジェリコ堂、米屋の太郎など国内多業態を展開。2025年3月にシンガポールのPOON RESOURCES社株式70％を取得し、Kaffe & Toast、Saap Saap Thaiなどの海外ブランドも系列に。2026年2月末時点で公式掲載14ブランドを収録。",
+      "accent": "#895B45",
+      "source": "https://komeda-holdings.co.jp/about-us/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1968",
+          "text": "1月、名古屋市でコメダ珈琲店を創業。"
+        },
+        {
+          "year": "2014",
+          "text": "11月、株式会社コメダホールディングスを設立。"
+        },
+        {
+          "year": "2020",
+          "text": "7月、植物由来100%のメニューを提供するKOMEDA is □を開店。"
+        },
+        {
+          "year": "2024",
+          "text": "11月、コメダコマースが『ハンバーガー＆サンドイッチ ベイス』のデリバリー事業を譲受。"
+        },
+        {
+          "year": "2025",
+          "text": "3月、シンガポールのPOON RESOURCES社を70％出資で連結子会社化。"
+        },
+        {
+          "year": "2026",
+          "text": "2月末の公式会社概要・グループ事業紹介に14ブランドを掲載。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -3954,6 +4016,182 @@
         "早川味噌ちゃんぽん"
       ],
       "source": "https://try-international.co.jp/brand/"
+    },
+    {
+      "name": "高倉町珈琲",
+      "group": "takakuramachi",
+      "operator": "株式会社高倉町珈琲",
+      "category": "飲食",
+      "aliases": [
+        "高倉町コーヒー",
+        "たかくらまちこーひー",
+        "takakura machi coffee",
+        "takakuramachi coffee"
+      ],
+      "source": "https://takakuramachi-coffee.co.jp/company/"
+    },
+    {
+      "name": "コメダ珈琲店",
+      "group": "komeda-hd",
+      "operator": "株式会社コメダ（直営・FC店舗）",
+      "category": "飲食",
+      "aliases": [
+        "コメダ",
+        "コメダコーヒー",
+        "こめだこーひー",
+        "komeda coffee",
+        "komeda's coffee"
+      ],
+      "source": "https://www.komeda.co.jp/company/outline.html"
+    },
+    {
+      "name": "コメダ和喫茶 おかげ庵",
+      "group": "komeda-hd",
+      "operator": "株式会社コメダ（直営・FC店舗）",
+      "category": "飲食",
+      "aliases": [
+        "おかげ庵",
+        "おかげあん",
+        "コメダおかげ庵",
+        "okagean"
+      ],
+      "source": "https://www.komeda.co.jp/shop/"
+    },
+    {
+      "name": "BAKERY ADEMOK",
+      "group": "komeda-hd",
+      "operator": "株式会社コメダ",
+      "category": "飲食",
+      "aliases": [
+        "ベーカリーアデモック",
+        "アデモック",
+        "ademok"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
+    },
+    {
+      "name": "KOMEDA is □",
+      "group": "komeda-hd",
+      "operator": "株式会社コメダ",
+      "category": "飲食",
+      "aliases": [
+        "komeda is",
+        "コメダイズ",
+        "コメダイズスクエア"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
+    },
+    {
+      "name": "大餡吉日",
+      "group": "komeda-hd",
+      "operator": "株式会社コメダ",
+      "category": "飲食",
+      "aliases": [
+        "だいあんきちじつ",
+        "大判焼き 大餡吉日"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
+    },
+    {
+      "name": "ジェリコ堂",
+      "group": "komeda-hd",
+      "operator": "株式会社コメダ",
+      "category": "飲食",
+      "aliases": [
+        "じぇりこどう",
+        "jelyco do",
+        "jelyco-do"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
+    },
+    {
+      "name": "おむすび 米屋の太郎",
+      "group": "komeda-hd",
+      "operator": "株式会社コメダ",
+      "category": "飲食",
+      "aliases": [
+        "米屋の太郎",
+        "こめやのたろう",
+        "komeya no taro"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
+    },
+    {
+      "name": "ハンバーガー＆サンドイッチ ベイス",
+      "group": "komeda-hd",
+      "operator": "株式会社コメダコマース（コメダグループ）",
+      "category": "飲食",
+      "aliases": [
+        "ベイス",
+        "BASE",
+        "ハンバーガーベイス"
+      ],
+      "source": "https://komeda-holdings.co.jp/history/"
+    },
+    {
+      "name": "ラ・ヴィノテーク",
+      "group": "komeda-hd",
+      "operator": "コメダホールディングス傘下のグループ会社",
+      "category": "飲食",
+      "aliases": [
+        "La Vinothèque",
+        "La Vinotheque",
+        "ラヴィノテーク"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
+    },
+    {
+      "name": "BLUE LEAF CAFÉ",
+      "group": "komeda-hd",
+      "operator": "コメダホールディングス傘下のグループ会社",
+      "category": "飲食",
+      "aliases": [
+        "ブルーリーフカフェ",
+        "blue leaf cafe"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
+    },
+    {
+      "name": "Kaffe & Toast",
+      "group": "komeda-hd",
+      "operator": "POON RESOURCESグループ（コメダHD連結子会社・シンガポール）",
+      "category": "飲食",
+      "aliases": [
+        "kaffe and toast",
+        "カフェアンドトースト"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
+    },
+    {
+      "name": "Saap Saap Thai",
+      "group": "komeda-hd",
+      "operator": "POON RESOURCESグループ（コメダHD連結子会社・シンガポール）",
+      "category": "飲食",
+      "aliases": [
+        "サープサープタイ"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
+    },
+    {
+      "name": "Ma Mum",
+      "group": "komeda-hd",
+      "operator": "POON RESOURCESグループ（コメダHD連結子会社・シンガポール）",
+      "category": "飲食",
+      "aliases": [
+        "マーマム",
+        "mamum"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
+    },
+    {
+      "name": "Paad Paad Thai",
+      "group": "komeda-hd",
+      "operator": "POON RESOURCESグループ（コメダHD連結子会社・シンガポール）",
+      "category": "飲食",
+      "aliases": [
+        "パッドパッドタイ"
+      ],
+      "source": "https://komeda-holdings.co.jp/about-us/"
     }
   ]
 }
