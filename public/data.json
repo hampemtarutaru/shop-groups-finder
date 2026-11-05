@@ -339,6 +339,55 @@
           "text": "4月、味噌ラーメン「楓」「奏」を運営するライズをグループ会社化。"
         }
       ]
+    },
+    {
+      "id": "arclands",
+      "name": "アークランズグループ",
+      "company": "アークランズ株式会社",
+      "summary": "からやま・かつやなどの外食ブランドと、ビバホーム・ホームセンタームサシなどの小売事業を展開。アークランドサービスホールディングスは完全子会社。",
+      "accent": "#947544",
+      "source": "https://www.arclands.co.jp/ja/company/outline.html",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "2020",
+          "text": "11月、LIXILビバ（現ビバホーム）を完全子会社化。"
+        },
+        {
+          "year": "2023",
+          "text": "9月、アークランドサービスホールディングスを完全子会社化。"
+        }
+      ]
+    },
+    {
+      "id": "yudetaro-system",
+      "name": "ゆで太郎システム（独立系）",
+      "company": "株式会社ゆで太郎システム",
+      "summary": "創業元の信越食品とマスターフランチャイズ契約を結び、ゆで太郎を全国で展開。もつ次郎併設店も運営。信越食品とは別会社で、親子会社ではない。",
+      "accent": "#4F7A91",
+      "source": "https://yudetaro.jp/company_outline/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "2004",
+          "text": "8月に会社設立、12月に信越食品とマスターフランチャイズ契約を締結。"
+        }
+      ]
+    },
+    {
+      "id": "shinetsu-food",
+      "name": "信越食品（独立系）",
+      "company": "信越食品株式会社",
+      "summary": "ゆで太郎の創業会社。ゆで太郎システムとはマスターフランチャイズ契約でつながる別会社。店舗によって運営系統が異なる。",
+      "accent": "#758F5E",
+      "source": "https://yudetaro.jp/shoplist_shinetsu/",
+      "checked": "2026-11-05",
+      "events": [
+        {
+          "year": "1994",
+          "text": "10月、ゆで太郎1号店の湊店を開店。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -1894,6 +1943,272 @@
         "omusubi no kami"
       ],
       "source": "https://www.atpress.ne.jp/news/627323"
+    },
+    {
+      "name": "かつや",
+      "group": "arclands",
+      "operator": "株式会社かつや",
+      "category": "飲食",
+      "aliases": [
+        "かつ屋",
+        "katsuya"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "からやま",
+      "group": "arclands",
+      "operator": "エバーアクション株式会社等（アークランドサービスグループ）",
+      "category": "飲食",
+      "aliases": [
+        "から山",
+        "唐揚げからやま"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "からあげ縁",
+      "group": "arclands",
+      "operator": "エバーアクション株式会社等（アークランドサービスグループ）",
+      "category": "飲食",
+      "aliases": [
+        "からあげゆかり",
+        "縁",
+        "ゆかり"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "天丼はま田",
+      "group": "arclands",
+      "operator": "アークランドサービスグループ各社",
+      "category": "飲食",
+      "aliases": [
+        "てんどんはまだ",
+        "はま田"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "マンゴツリー東京",
+      "group": "arclands",
+      "operator": "株式会社ミールワークス",
+      "category": "飲食",
+      "aliases": [
+        "マンゴツリー",
+        "mango tree tokyo"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "マンゴツリーカフェ",
+      "group": "arclands",
+      "operator": "株式会社ミールワークス",
+      "category": "飲食",
+      "aliases": [
+        "mango tree cafe"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "マンゴツリーキッチン",
+      "group": "arclands",
+      "operator": "株式会社ミールワークス",
+      "category": "飲食",
+      "aliases": [
+        "mango tree kitchen"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "DANCING CRAB",
+      "group": "arclands",
+      "operator": "株式会社ミールワークス",
+      "category": "飲食",
+      "aliases": [
+        "ダンシングクラブ",
+        "ダンシングクラブ東京"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "天ぷら魚新",
+      "group": "arclands",
+      "operator": "アークランドサービスグループ各社",
+      "category": "飲食",
+      "aliases": [
+        "うおしん",
+        "魚新"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "ごちとん",
+      "group": "arclands",
+      "operator": "アークランドサービスグループ各社",
+      "category": "飲食",
+      "aliases": [
+        "ごち豚"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "Caffe Cento per Cento",
+      "group": "arclands",
+      "operator": "アークランドサービスグループ各社",
+      "category": "飲食",
+      "aliases": [
+        "チェントペルチェント",
+        "Cento"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "東京たらこスパゲティ",
+      "group": "arclands",
+      "operator": "アークランドサービスグループ各社",
+      "category": "飲食",
+      "aliases": [
+        "たらこスパゲティ",
+        "とうきょうたらこ"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "スンドゥブ 中山豆腐店",
+      "group": "arclands",
+      "operator": "アークランドサービスグループ各社",
+      "category": "飲食",
+      "aliases": [
+        "中山豆腐店",
+        "なかやまとうふてん"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "肉めし 岡もと",
+      "group": "arclands",
+      "operator": "アークランドサービスグループ各社",
+      "category": "飲食",
+      "aliases": [
+        "肉めし岡もと",
+        "岡もと"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "東京とろろそば",
+      "group": "arclands",
+      "operator": "アークランドサービスグループ各社",
+      "category": "飲食",
+      "aliases": [
+        "とろろそば",
+        "とうきょうとろろそば"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "タレカツ食堂 たれとん",
+      "group": "arclands",
+      "operator": "アークランドサービスグループ各社",
+      "category": "飲食",
+      "aliases": [
+        "たれとん",
+        "タレカツ食堂"
+      ],
+      "source": "https://www.arclandservice.co.jp/brands/"
+    },
+    {
+      "name": "ホームセンタームサシ",
+      "group": "arclands",
+      "operator": "アークランズ株式会社",
+      "category": "量販店",
+      "aliases": [
+        "ムサシ",
+        "スーパーセンタームサシ",
+        "homacenter musashi"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "ビバホーム",
+      "group": "arclands",
+      "operator": "アークランズ株式会社",
+      "category": "量販店",
+      "aliases": [
+        "スーパービバホーム",
+        "vivahome",
+        "ビバ"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "アークオアシス",
+      "group": "arclands",
+      "operator": "アークランズ株式会社",
+      "category": "専門店",
+      "aliases": [
+        "アークオアシスデザイン",
+        "arc oasis"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "ビバホームプロ",
+      "group": "arclands",
+      "operator": "アークランズ株式会社",
+      "category": "専門店",
+      "aliases": [
+        "ビバプロ"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "ムサシ食品館",
+      "group": "arclands",
+      "operator": "アークランズ株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "むさししょくひんかん"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "ゆで太郎（ゆで太郎システム系）",
+      "group": "yudetaro-system",
+      "operator": "株式会社ゆで太郎システム・加盟店",
+      "category": "飲食",
+      "aliases": [
+        "ゆで太郎",
+        "ゆでたろう",
+        "yudetaro",
+        "ゆで太郎システム"
+      ],
+      "source": "https://yudetaro.jp/company_outline/"
+    },
+    {
+      "name": "もつ次郎",
+      "group": "yudetaro-system",
+      "operator": "株式会社ゆで太郎システム・加盟店",
+      "category": "飲食",
+      "aliases": [
+        "もつじろう",
+        "motsujiro"
+      ],
+      "source": "https://yudetaro.jp/menu/"
+    },
+    {
+      "name": "ゆで太郎（信越食品系）",
+      "group": "shinetsu-food",
+      "operator": "信越食品株式会社",
+      "category": "飲食",
+      "aliases": [
+        "ゆで太郎",
+        "ゆでたろう",
+        "yudetaro",
+        "信越食品"
+      ],
+      "source": "https://yudetaro.jp/shoplist_shinetsu/"
     }
   ]
 }
