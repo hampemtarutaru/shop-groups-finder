@@ -1,12 +1,13 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-05",
   "notice": "掲載対象は一部のブランドです。企業の資本・運営関係は変わることがあります。",
   "groups": [
     {"id":"zensho","name":"ゼンショーグループ","company":"株式会社ゼンショーホールディングス","summary":"牛丼・寿司・ファミリーレストランなど、幅広い外食ブランドを展開。","accent":"#237C72","source":"https://www.zensho.co.jp/jp/brands/organization/","checked":"2026-11-01","events":[{"year":"1982","text":"ゼンショー設立。"}]},
     {"id":"skylark","name":"すかいらーくグループ","company":"株式会社すかいらーくホールディングス","summary":"洋食・中華・和食・カフェなど、多様な外食ブランドを展開。","accent":"#C36A3C","source":"https://corp.skylark.co.jp/brand/brand_list/","checked":"2026-11-01","events":[{"year":"1970","text":"すかいらーく1号店を開店。"}]},
     {"id":"aeon","name":"イオングループ","company":"イオン株式会社","summary":"総合スーパーから小型食品店・コンビニまで、業種をまたいで展開。","accent":"#9A588E","source":"https://www.aeon.info/group/","checked":"2026-11-01","events":[]},
     {"id":"trial","name":"トライアルグループ","company":"株式会社トライアルホールディングス","summary":"ディスカウントストアに加え、2025年に西友が加わった。","accent":"#44729A","source":"https://trial-holdings.inc/company/history/","checked":"2026-11-01","events":[{"year":"2015","text":"持株会社トライアルホールディングスを設立。"},{"year":"2025","text":"7月1日、西友の全株式取得が完了。"}]},
-    {"id":"ppih","name":"PPIHグループ","company":"株式会社パン・パシフィック・インターナショナルホールディングス","summary":"ドン・キホーテとユニー系の総合スーパーなどを展開。","accent":"#8A6A3F","source":"https://ppih.co.jp/search/","checked":"2026-11-01","events":[]}
+    {"id":"ppih","name":"PPIHグループ","company":"株式会社パン・パシフィック・インターナショナルホールディングス","summary":"ドン・キホーテとユニー系の総合スーパーなどを展開。","accent":"#8A6A3F","source":"https://ppih.co.jp/search/","checked":"2026-11-01","events":[]},
+    {"id":"saizeriya","name":"サイゼリヤ","company":"株式会社サイゼリヤ","summary":"株式会社サイゼリヤが展開するイタリアンレストラン。国内外で「サイゼリヤ」を運営。","accent":"#4A8176","source":"https://www.saizeriya.co.jp/corporate/information/outline/","checked":"2026-11-05","events":[{"year":"1973","text":"株式会社サイゼリヤを設立。"}]}
   ],
   "brands": [
     {"name":"すき家","group":"zensho","operator":"株式会社すき家","category":"飲食","aliases":["すきや"],"source":"https://www.zensho.co.jp/jp/company/outline/"},
@@ -36,6 +37,7 @@
     {"name":"MEGAドン・キホーテ","group":"ppih","operator":"PPIHグループ各社","category":"量販店","aliases":["メガドンキ"],"source":"https://ppih.co.jp/search/"},
     {"name":"アピタ","group":"ppih","operator":"ユニー株式会社","category":"スーパー","aliases":["apita"],"source":"https://ppih.co.jp/social/uny/"},
     {"name":"ピアゴ","group":"ppih","operator":"ユニー株式会社","category":"スーパー","aliases":["piago"],"source":"https://ppih.co.jp/social/uny/"},
-    {"name":"Olympic","group":"ppih","operator":"株式会社Olympicグループ","category":"スーパー","aliases":["オリンピック"],"source":"https://ppih.co.jp/search/"}
+    {"name":"Olympic","group":"ppih","operator":"株式会社Olympicグループ","category":"スーパー","aliases":["オリンピック"],"source":"https://ppih.co.jp/search/"},
+    {"name":"サイゼリヤ","group":"saizeriya","operator":"株式会社サイゼリヤ","category":"飲食","aliases":["さいぜりや","saizeriya","サイゼ"],"source":"https://www.saizeriya.co.jp/corporate/information/outline/"}
   ]
 }
