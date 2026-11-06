@@ -1227,6 +1227,164 @@
           "text": "8月末時点でグループ連結459店舗（FC含む）。"
         }
       ]
+    },
+    {
+      "id": "monteroza",
+      "name": "モンテローザグループ（白木屋・魚民）",
+      "company": "株式会社モンテローザ",
+      "summary": "白木屋、魚民、笑笑、目利きの銀次、山内農場、千年の宴など多彩な居酒屋を展開。同じ運営会社の別屋号で、海鮮・九州料理・個室酒場・焼肉などに業態を分ける。屋号変更や統廃合は店舗ごとに異なるため、現行公式ブランド紹介と店舗検索を基準に収録。",
+      "accent": "#B94D4D",
+      "source": "https://www.monteroza.co.jp/brand/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1983",
+          "text": "モンテローザの前身企業を創業し白木屋の展開を開始。"
+        },
+        {
+          "year": "2026",
+          "text": "公式ブランド一覧と店舗検索で白木屋、魚民、目利きの銀次など複数屋号を確認。"
+        }
+      ]
+    },
+    {
+      "id": "chimney-yamaya",
+      "name": "チムニーグループ（やまや傘下）",
+      "company": "チムニー株式会社／親会社・株式会社やまや",
+      "summary": "海鮮居酒屋『はなの舞』『さかなや道場』『魚鮮水産』『魚星』などを展開。2026年3月期のチムニー有価証券報告書では酒類量販チェーン『やまや』が議決権50.5%を保有する親会社。『つぼ八』はチムニー34%出資の持分法適用関連会社にとどまり連結子会社ではないため、別のグループとして表示。",
+      "accent": "#427E9D",
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1984",
+          "text": "チムニー株式会社を設立。"
+        },
+        {
+          "year": "2013",
+          "text": "やまやがTOB等を経てチムニーの親会社に。"
+        },
+        {
+          "year": "2026",
+          "text": "3月期有価証券報告書で、やまやのチムニー議決権保有割合50.5%、つぼ八への出資34.0%と確認。"
+        }
+      ]
+    },
+    {
+      "id": "yakiniku-sakai",
+      "name": "焼肉坂井ホールディングス（村さ来）",
+      "company": "株式会社焼肉坂井ホールディングス",
+      "summary": "1973年に創業した村さ来をはじめ、焼肉屋さかい、肉匠坂井、平禄寿司、とりあえず吾平、餃子歩兵など、焼肉・寿司・居酒屋を幅広く展開。旧ジー・テイストの企業グループ。2026年10月の村さ来公式発表では約60店舗を展開。店の業態や運営会社、FC・提携店の区分に注意する。",
+      "accent": "#B47044",
+      "source": "https://ys-holdings.co.jp/brand/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1973",
+          "text": "10月1日、東京都世田谷区経堂で『村さ来』1号店。"
+        },
+        {
+          "year": "2021",
+          "text": "旧ジー・テイストが『焼肉坂井ホールディングス』に商号変更。"
+        },
+        {
+          "year": "2026",
+          "text": "10月、村さ来53周年で季節メニュー改定。"
+        }
+      ]
+    },
+    {
+      "id": "yoronotaki",
+      "name": "養老乃瀧グループ",
+      "company": "養老乃瀧株式会社",
+      "summary": "1938年長野県松本市創業、1956年に横浜で居酒屋『養老乃瀧』1号店。現在は『だんまや水産』『一軒め酒場』『韓激』も展開。過去には昼に牛丼・夜に居酒屋の二毛作営業を行い『養老牛丼』を販売していた。牛丼は現行独立チェーンとしては扱わない。",
+      "accent": "#8A6B44",
+      "source": "https://www.yoronotaki.co.jp/corporate/businessarea.html",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1938",
+          "text": "6月、長野県松本市で創業。"
+        },
+        {
+          "year": "1956",
+          "text": "12月、横浜で『養老乃瀧』1号店。"
+        },
+        {
+          "year": "1977",
+          "text": "『養老牛丼』の販売を開始（現行店ブランドではない）。"
+        },
+        {
+          "year": "2002",
+          "text": "『だんまや水産』1号店。"
+        },
+        {
+          "year": "2008",
+          "text": "12月、『一軒め酒場』1号店。"
+        },
+        {
+          "year": "2021",
+          "text": "11月、韓国料理の『韓激』を開店。"
+        }
+      ]
+    },
+    {
+      "id": "eternal-hospitality",
+      "name": "エターナルホスピタリティグループ（鳥貴族）",
+      "company": "株式会社エターナルホスピタリティグループ",
+      "summary": "『焼鳥屋 鳥貴族』と『やきとり大吉』が同じ企業グループ。鳥貴族の東西運営会社と、やきとり大吉のFC本部ダイキチシステムがグループ会社。海外にはzoku、HASU、mozuなども展開。『焼きとりの八兵衛 北新地店』は他社ブランドのFC出店なので、八兵衛チェーン全体を傘下と誤認させない。",
+      "accent": "#7D5D9C",
+      "source": "https://eternal-hospitality.co.jp/business/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1985",
+          "text": "鳥貴族創業。"
+        },
+        {
+          "year": "2023",
+          "text": "やきとり大吉を展開するダイキチシステムがグループ入り。"
+        },
+        {
+          "year": "2024",
+          "text": "鳥貴族ホールディングスからエターナルホスピタリティグループへ社名変更。"
+        },
+        {
+          "year": "2024",
+          "text": "米国ロサンゼルスでzokuを開業。"
+        }
+      ]
+    },
+    {
+      "id": "tsubohachi",
+      "name": "つぼ八グループ（チムニー関連会社）",
+      "company": "株式会社つぼ八／つぼ八酒類販売株式会社",
+      "summary": "1973年札幌市琴似で創業した老舗居酒屋フランチャイズ。『つぼ八』や焼肉の『伊藤課長』等を展開。2026年3月期チムニー有価証券報告書では、チムニーの議決権所有割合は34.0%で『持分法適用関連会社』。チムニーの完全子会社ではなく、別グループとして表示。以前の『茜どき』『旨居屋新八』等は歴史上のブランドとして沿革にのみ記載。",
+      "accent": "#63767D",
+      "source": "https://tsubohachi.jp/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1973",
+          "text": "3月、札幌市琴似でつぼ八創業。"
+        },
+        {
+          "year": "1976",
+          "text": "株式会社つぼ八設立。"
+        },
+        {
+          "year": "2003",
+          "text": "『茜どき』1号店を出店（沿革上の業態）。"
+        },
+        {
+          "year": "2010",
+          "text": "焼肉ホルモン店『伊藤課長』を出店。"
+        },
+        {
+          "year": "2026",
+          "text": "チムニーが34%を保有する持分法適用関連会社（2026年3月期開示）。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -5628,6 +5786,700 @@
         "北海道めんこい鍋"
       ],
       "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "白木屋",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "しろきや",
+        "居楽屋白木屋"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "魚民",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "うおたみ"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "笑笑",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "わらわら"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "目利きの銀次",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "めききのぎんじ",
+        "めききの銀次"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "山内農場",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "やまうちのうじょう"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "千年の宴",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "せんねんのうたげ"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "豊後高田どり酒場",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "ぶんごたかだどりさかば"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "福福屋",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "ふくふくや"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "月の宴",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "つきのうたげ"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "横濱魚萬",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "横浜魚萬",
+        "よこはまうおまん"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "濱焼北海道魚萬",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "浜焼北海道魚萬"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "濱焼魚萬",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "浜焼魚萬"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "かば屋",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "かばや"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "かみふうせん",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "ホルモンおいで屋",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "竹取酒物語",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "くろ○",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "くろまる"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "めでた家",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "バリヤスサカバ",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [
+        "バリヤス酒場"
+      ],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "白木屋×バリヤス酒場",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "大衆酒場銀次",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "魚民のすし",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "寿司と居酒屋 魚民",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "キタノイチバ",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "俺の店",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "みつえちゃん",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "からあげの鉄人",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "しゃぶ食べ",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "カミナリステーキ",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "すし魚銀",
+      "group": "monteroza",
+      "operator": "株式会社モンテローザ（店舗によりFC・グループ法人運営）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.monteroza.co.jp/brand/"
+    },
+    {
+      "name": "はなの舞",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "海鮮居酒屋はなの舞"
+      ],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "さかなや道場",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "三代目網元さかなや道場"
+      ],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "魚鮮水産",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "三代目網元魚鮮水産"
+      ],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "さかな酒場 魚星",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "魚星",
+        "うおせい"
+      ],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "大衆食堂 安べゑ",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "安べゑ",
+        "やすべえ"
+      ],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "焼肉牛星",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "牛星"
+      ],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "龍馬 軍鶏農場",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "軍鶏農場"
+      ],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "やきとり道場",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "こだわりやま",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "炭火やきとり さくら",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "豊丸水産",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "きまぐれ北海道",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "両国だしもんじゃ もんじ",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社およびグループ各社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "もんじ"
+      ],
+      "source": "https://www.chimney.co.jp/kameiten_buken-boshu/fc_site/feature/"
+    },
+    {
+      "name": "66DINING 六本木六丁目食堂",
+      "group": "chimney-yamaya",
+      "operator": "チムニー株式会社／グループ会社",
+      "category": "飲食",
+      "aliases": [
+        "66DINING",
+        "66キッチン"
+      ],
+      "source": "https://www.chimney.co.jp/"
+    },
+    {
+      "name": "村さ来",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [
+        "むらさき",
+        "村さ來"
+      ],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "ゆるりと菜 村さ来",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [
+        "ゆるりと菜村さ来"
+      ],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "囲炉家 村さ来",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [
+        "囲炉家村さ来"
+      ],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "ふらりむらさき",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "餃子歩兵",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [
+        "ぎょうざほへい"
+      ],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "えん屋",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "地魚屋",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "ちゃんこ江戸沢",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [
+        "ちゃんこえどさわ"
+      ],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "とりあえず吾平",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [
+        "とりあえずごへい"
+      ],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "てんてけてん",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "ヤマダモンゴル",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "ぱたぱた家",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよび加盟・グループ事業会社",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://ys-holdings.co.jp/search/"
+    },
+    {
+      "name": "焼肉屋さかい",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよびグループ事業会社",
+      "category": "飲食",
+      "aliases": [
+        "炭火焼肉屋さかい"
+      ],
+      "source": "https://ys-holdings.co.jp/brand/"
+    },
+    {
+      "name": "肉匠坂井",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよびグループ事業会社",
+      "category": "飲食",
+      "aliases": [
+        "にくしょうさかい"
+      ],
+      "source": "https://ys-holdings.co.jp/brand/"
+    },
+    {
+      "name": "平禄寿司",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよびグループ事業会社",
+      "category": "飲食",
+      "aliases": [
+        "へいろくずし"
+      ],
+      "source": "https://ys-holdings.co.jp/brand/"
+    },
+    {
+      "name": "平禄三昧",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよびグループ事業会社",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://ys-holdings.co.jp/brand/"
+    },
+    {
+      "name": "ジャンボおしどり寿司",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよびグループ事業会社",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://ys-holdings.co.jp/brand/"
+    },
+    {
+      "name": "あじこう",
+      "group": "yakiniku-sakai",
+      "operator": "焼肉坂井ホールディングスおよびグループ事業会社",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://ys-holdings.co.jp/brand/"
+    },
+    {
+      "name": "養老乃瀧",
+      "group": "yoronotaki",
+      "operator": "養老乃瀧株式会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "養老の滝",
+        "養老乃滝",
+        "ようろうのたき"
+      ],
+      "source": "https://www.yoronotaki.co.jp/corporate/businessarea.html"
+    },
+    {
+      "name": "だんまや水産",
+      "group": "yoronotaki",
+      "operator": "養老乃瀧株式会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.yoronotaki.co.jp/corporate/businessarea.html"
+    },
+    {
+      "name": "一軒め酒場",
+      "group": "yoronotaki",
+      "operator": "養老乃瀧株式会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "いっけんめさかば"
+      ],
+      "source": "https://www.yoronotaki.co.jp/corporate/businessarea.html"
+    },
+    {
+      "name": "韓激",
+      "group": "yoronotaki",
+      "operator": "養老乃瀧株式会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "かんげき"
+      ],
+      "source": "https://www.yoronotaki.co.jp/corporate/businessarea.html"
+    },
+    {
+      "name": "鳥貴族",
+      "group": "eternal-hospitality",
+      "operator": "株式会社エターナルホスピタリティグループと国内外の子会社・加盟店",
+      "category": "居酒屋",
+      "aliases": [
+        "とりきぞく",
+        "トリキ"
+      ],
+      "source": "https://eternal-hospitality.co.jp/business/"
+    },
+    {
+      "name": "やきとり大吉",
+      "group": "eternal-hospitality",
+      "operator": "株式会社エターナルホスピタリティグループと国内外の子会社・加盟店",
+      "category": "居酒屋",
+      "aliases": [
+        "焼き鳥大吉",
+        "だいきち"
+      ],
+      "source": "https://eternal-hospitality.co.jp/business/"
+    },
+    {
+      "name": "zoku",
+      "group": "eternal-hospitality",
+      "operator": "株式会社エターナルホスピタリティグループと国内外の子会社・加盟店",
+      "category": "居酒屋",
+      "aliases": [
+        "ゾク",
+        "zoku LA"
+      ],
+      "source": "https://eternal-hospitality.co.jp/business/"
+    },
+    {
+      "name": "HASU",
+      "group": "eternal-hospitality",
+      "operator": "株式会社エターナルホスピタリティグループと国内外の子会社・加盟店",
+      "category": "居酒屋",
+      "aliases": [
+        "ハス 焼鳥"
+      ],
+      "source": "https://eternal-hospitality.co.jp/business/"
+    },
+    {
+      "name": "mozu",
+      "group": "eternal-hospitality",
+      "operator": "株式会社エターナルホスピタリティグループと国内外の子会社・加盟店",
+      "category": "居酒屋",
+      "aliases": [
+        "モズ 焼鳥"
+      ],
+      "source": "https://eternal-hospitality.co.jp/business/"
+    },
+    {
+      "name": "やきとり松明",
+      "group": "eternal-hospitality",
+      "operator": "株式会社エターナルホスピタリティグループと国内外の子会社・加盟店",
+      "category": "居酒屋",
+      "aliases": [
+        "焼鳥松明",
+        "たいまつ"
+      ],
+      "source": "https://eternal-hospitality.co.jp/business/"
+    },
+    {
+      "name": "つぼ八",
+      "group": "tsubohachi",
+      "operator": "株式会社つぼ八・つぼ八酒類販売株式会社および加盟店",
+      "category": "居酒屋",
+      "aliases": [
+        "つぼはち"
+      ],
+      "source": "https://tsubohachi.jp/"
+    },
+    {
+      "name": "伊藤課長",
+      "group": "tsubohachi",
+      "operator": "株式会社つぼ八・つぼ八酒類販売株式会社および加盟店",
+      "category": "居酒屋",
+      "aliases": [
+        "焼肉ホルモン伊藤課長",
+        "いとうかちょう"
+      ],
+      "source": "https://tsubohachi.jp/"
     }
   ]
 }
