@@ -13,7 +13,7 @@
   let db = null;
   let activeFilter = 'すべて';
   const groupById = (id) => db.groups.find(g => g.id === id);
-  const categoryMatches = (b) => activeFilter === 'すべて' || b.category === activeFilter;
+  const categoryMatches = (b) => activeFilter === 'すべて' || b.category === activeFilter || (activeFilter === '飲食' && b.category === '居酒屋');
   function link(href, label) {
     const a = el('a','source',label);
     a.href = href; a.target = '_blank'; a.rel = 'noopener noreferrer';
@@ -59,12 +59,12 @@
       if(matched.length){const grid=el('div','results-grid');matched.forEach(b=>grid.append(resultFor(b)));area.append(grid);}
       else area.append(el('div','empty','一致するお店が見つかりません。未登録のブランドかもしれません。'));
     }
-    const groups=$('groups');groups.replaceChildren();let visible=0;
+    const groups=$('groups');groups.replaceChildren();let visible=0;let visibleGroups=0;
     db.groups.forEach(g=>{const brands=db.brands.filter(b=>b.group===g.id&&categoryMatches(b));if(!brands.length)return;
       if(q&&!matched.some(b=>b.group===g.id))return;
-      groups.append(sectionDetailFor(g,brands));visible+=brands.length;
+      groups.append(sectionDetailFor(g,brands));visible+=brands.length;visibleGroups++;
     });
-    $('count').textContent=q?`${matched.length}件`:`${db.groups.length}グループ・${visible}ブランド表示`;
+    $('count').textContent=q?`${matched.length}件`:`${visibleGroups}グループ・${visible}ブランド表示`;
     const params=new URL(location.href);if(q)params.searchParams.set('q',$('search').value.trim());else params.searchParams.delete('q');
     if (location.protocol === 'http:' || location.protocol === 'https:') { history.replaceState(null,'',params.pathname+params.search+params.hash); }
   }
