@@ -1550,6 +1550,203 @@
           "text": "公式ブランド一覧で居酒屋・イタリアンなどの多業態を確認。"
         }
       ]
+    },
+    {
+      "id": "ganja",
+      "name": "頑者グループ（川越ガンジャ）",
+      "company": "株式会社頑者",
+      "summary": "川越の製麺業『ひかり食品』をルーツとし、1993年に5坪7席の『ガンジャ』、2000年に極太麺・魚粉つけめんで知られる『頑者』が誕生。現在は頑者本店、メガガンジャ、UNDERGROUND RAMEN、GANJA RAMEN、らーめんひかり等を川越・さいたま・首都圏で展開。昔の『ガンジャ』は頑者の前身で、すべて同一現行店として二重計上しない。",
+      "accent": "#8B564F",
+      "source": "https://ganja.co.jp/shop/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1985",
+          "text": "製麺会社『有限会社ひかり食品』が設立。"
+        },
+        {
+          "year": "1993",
+          "text": "川越市月吉町に『ガンジャ』を開店。"
+        },
+        {
+          "year": "2000",
+          "text": "『らーめんひかり』と、つけめん店『頑者』を開店。"
+        },
+        {
+          "year": "2003",
+          "text": "有限会社頑者設立。"
+        },
+        {
+          "year": "2005",
+          "text": "UNDERGROUND RAMENを開店。"
+        },
+        {
+          "year": "2010",
+          "text": "メガガンジャを開店。"
+        },
+        {
+          "year": "2013",
+          "text": "株式会社頑者へ組織変更。"
+        }
+      ]
+    },
+    {
+      "id": "sakigake",
+      "name": "SAKIGAKEホールディングス（魁力屋）",
+      "company": "株式会社SAKIGAKEホールディングス",
+      "summary": "京都背脂醤油ラーメンの魁力屋を核とする多ブランド外食グループ。2025年7月グランキュイジーヌ、2026年1月エムピーキッチンを買収して『三田製麺所』『札幌みその』『肉そばけいすけ』『渋谷餃子』などと同系列に。2026年7月1日、旧株式会社魁力屋が持株会社『SAKIGAKEホールディングス』に商号変更し、店舗事業を新会社『株式会社魁力屋』が担う。",
+      "accent": "#B65738",
+      "source": "https://www.sakigake-holdings.co.jp/brand",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2003",
+          "text": "有限会社マルフジフーズ（現グループ）設立。"
+        },
+        {
+          "year": "2005",
+          "text": "滋賀県大津市に『ラーメン魁力屋』1号店。"
+        },
+        {
+          "year": "2009",
+          "text": "商号を『株式会社魁力屋』に変更。"
+        },
+        {
+          "year": "2023",
+          "text": "東証スタンダード市場に上場。"
+        },
+        {
+          "year": "2025",
+          "text": "7月、グランキュイジーヌの全株式を取得。"
+        },
+        {
+          "year": "2026",
+          "text": "1月、エムピーキッチンHDを買収。7月1日、SAKIGAKEホールディングスに商号変更し持株会社体制へ。"
+        }
+      ]
+    },
+    {
+      "id": "kurumaya-ramen",
+      "name": "くるまやラーメン（独立FCチェーン）",
+      "company": "株式会社くるまやラーメン",
+      "summary": "1968年創業の味噌ラーメンを看板とする老舗チェーン。2026年10月末時点、直営33店・FC103店の計136店。株主は従業員持株会・経営者・複数取引先等と公式会社概要に掲載され、単独の大手外食親会社傘下とは確認できない。各FC加盟店が独自に別屋号のラーメン店を経営する場合もあるが、それらをくるまや本体の兄弟ブランドとは扱わない。",
+      "accent": "#A75D4F",
+      "source": "https://www.kurumayaramen.co.jp/profile.htm",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1968",
+          "text": "くるまやラーメン創業。"
+        },
+        {
+          "year": "2026",
+          "text": "10月末時点、計136店舗（直営33、FC103）を展開。"
+        }
+      ]
+    },
+    {
+      "id": "oishes",
+      "name": "オイシーズグループ（田中そば店・つじ田）",
+      "company": "オイシーズ株式会社",
+      "summary": "田中そば店・田中商店（GMS）、つけ麺つじ田（H.I.T WORLD）、日本橋天丼金子半之助（バイザ・エフエム）等を傘下に持つ持株型外食グループ。ラーメンと天丼が同じ系列。田中そば店は田中商店の姉妹店として2008年誕生し、喜多方風の中華そばを主力とする。2025年末の公式企業概要で国内外132店舗。デリバリー専用ブランド、ブランドシェアリングの他社運営店は直接子会社と混同しない。",
+      "accent": "#A68143",
+      "source": "https://oishes.com/corporate/profile/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2000",
+          "text": "12月、足立区に『博多長浜らーめん 田中商店』を開店。"
+        },
+        {
+          "year": "2008",
+          "text": "『中華そば専門 田中そば店』1号店開店。"
+        },
+        {
+          "year": "2016",
+          "text": "10月、オイシーズ株式会社設立。"
+        },
+        {
+          "year": "2025",
+          "text": "12月末時点で国内外132店舗（公式会社概要）。"
+        },
+        {
+          "year": "2026",
+          "text": "8月16日、つじ田味噌の章三田店が開店。"
+        }
+      ]
+    },
+    {
+      "id": "jincle",
+      "name": "ジンクルグループ（日月堂・まめぞう）",
+      "company": "株式会社ジンクル",
+      "summary": "埼玉県志木市に本社があるラーメン企業。2000年の『ラーメンのまめぞう』草加本店から始まり、麺厨房ばんぶる、味噌ラーメン専門店 日月堂を展開。2001年設立、2006年に現社名へ。過去の『ガツ盛リラーメンみちる屋』などは現行営業を公式に確認できないため沿革にのみ記載。",
+      "accent": "#8D754B",
+      "source": "https://jincle.com/about/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2000",
+          "text": "11月、『ラーメンのまめぞう』草加本店開店。"
+        },
+        {
+          "year": "2001",
+          "text": "6月、有限会社ビーンズコーポレーション設立。"
+        },
+        {
+          "year": "2003",
+          "text": "『麺厨房ばんぶる』東川口店開店。"
+        },
+        {
+          "year": "2006",
+          "text": "組織変更し株式会社ジンクルとなる。"
+        },
+        {
+          "year": "2016",
+          "text": "10月、味噌ラーメン専門店『日月堂』三郷店開店。"
+        },
+        {
+          "year": "2024",
+          "text": "7月、『中華そば屋 日々是』北与野店開店（現行営業は未確認）。"
+        }
+      ]
+    },
+    {
+      "id": "ramen-shop-network",
+      "name": "ラーメンショップ（緩やかな店名・加盟ネットワーク）",
+      "company": "全国統一の直営企業ではない／椿食堂管理有限会社は一部加盟系統の本部として報道",
+      "summary": "赤い看板の『ラーメンショップ』、通称ラーショ。椿食堂管理有限会社が本部と報道されるが、全国の各店は個人・別法人経営が多く、ニューラーメンショップ、椿系、地域派生の看板も存在。加盟関係・仕入れ・地域系統は店舗ごとに違い、すべてが椿食堂管理の直営子会社・資本系列という意味ではない。本部は取材非対応で公式全国ブランド一覧は確認できず、個別の所属は原則未確定。",
+      "accent": "#B15B49",
+      "source": "https://www.moneypost.jp/822720",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1970年代",
+          "text": "東京・羽田の椿食堂などをルーツとして『ラーメンショップ』の屋号が拡大したと報道されるが、公式の確定年次は未公表。"
+        },
+        {
+          "year": "2026",
+          "text": "全国統一の公式店舗一覧がなく、椿系・ニュー系など複数の歴史的・地域的系統が混在。"
+        }
+      ]
+    },
+    {
+      "id": "tsukuba-tsubaki",
+      "name": "つくばコーポレーション（椿ラーメンショップ店舗群）",
+      "company": "有限会社つくばコーポレーション",
+      "summary": "『椿ラーメンショップ』の公式サイトを持つ茨城・千葉の店舗運営群。公式サイトには新守谷・石下・玉造・河内・坂東・野田の各店と姉妹店の牛久店・つくば店が掲載。全国に広がるラーメンショップのすべてを傘下に持つ企業ではなく、公式サイトで確認できる店舗群として個別登録。",
+      "accent": "#A56D50",
+      "source": "https://tsukuba-corporation.com/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2024",
+          "text": "8月、椿ラーメンショップの公式サイトを開設。"
+        },
+        {
+          "year": "2026",
+          "text": "茨城・千葉の6店舗と、牛久・つくばの姉妹店2店舗を公式案内で確認。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -7460,6 +7657,400 @@
         "logic italian"
       ],
       "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "頑者 本店",
+      "group": "ganja",
+      "operator": "株式会社頑者",
+      "category": "飲食",
+      "aliases": [
+        "頑者",
+        "ガンジャ",
+        "がんじゃ",
+        "ganja",
+        "つけめん頑者"
+      ],
+      "source": "https://ganja.co.jp/shop/"
+    },
+    {
+      "name": "頑者illmatic",
+      "group": "ganja",
+      "operator": "株式会社頑者",
+      "category": "飲食",
+      "aliases": [
+        "頑者イルマティック",
+        "がんじゃイルマティック"
+      ],
+      "source": "https://ganja.co.jp/shop/"
+    },
+    {
+      "name": "頑者製麺所",
+      "group": "ganja",
+      "operator": "株式会社頑者",
+      "category": "飲食",
+      "aliases": [
+        "がんじゃせいめんじょ"
+      ],
+      "source": "https://ganja.co.jp/shop/"
+    },
+    {
+      "name": "らーめんひかり",
+      "group": "ganja",
+      "operator": "株式会社頑者",
+      "category": "飲食",
+      "aliases": [
+        "ラーメンひかり",
+        "ひかりラーメン"
+      ],
+      "source": "https://ganja.co.jp/shop/"
+    },
+    {
+      "name": "UNDERGROUND RAMEN",
+      "group": "ganja",
+      "operator": "株式会社頑者",
+      "category": "飲食",
+      "aliases": [
+        "アンダーグラウンドラーメン",
+        "TOKYO UNDERGROUND RAMEN",
+        "UNDERGROUND RAMEN 頑者"
+      ],
+      "source": "https://ganja.co.jp/shop/"
+    },
+    {
+      "name": "GANJA RAMEN",
+      "group": "ganja",
+      "operator": "株式会社頑者",
+      "category": "飲食",
+      "aliases": [
+        "ガンジャラーメン",
+        "GANJARAMEN"
+      ],
+      "source": "https://ganja.co.jp/shop/"
+    },
+    {
+      "name": "メガガンジャ",
+      "group": "ganja",
+      "operator": "株式会社頑者",
+      "category": "飲食",
+      "aliases": [
+        "mega ganja",
+        "メガ頑者"
+      ],
+      "source": "https://ganja.co.jp/shop/"
+    },
+    {
+      "name": "ラーメン魁力屋",
+      "group": "sakigake",
+      "operator": "株式会社魁力屋",
+      "category": "飲食",
+      "aliases": [
+        "魁力屋",
+        "かいりきや",
+        "kairikiya"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "つけ麺専門店 三田製麺所",
+      "group": "sakigake",
+      "operator": "株式会社エムピーキッチン",
+      "category": "飲食",
+      "aliases": [
+        "三田製麺所",
+        "みたせいめんじょ"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "札幌みその",
+      "group": "sakigake",
+      "operator": "株式会社グランキュイジーヌ",
+      "category": "飲食",
+      "aliases": [
+        "さっぽろみその"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "からたま屋",
+      "group": "sakigake",
+      "operator": "株式会社魁力屋",
+      "category": "専門店",
+      "aliases": [
+        "からたまや"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "とりサブロー",
+      "group": "sakigake",
+      "operator": "株式会社魁力屋",
+      "category": "専門店",
+      "aliases": [
+        "とりさぶろー"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "タンメンと餃子 KIBARU",
+      "group": "sakigake",
+      "operator": "株式会社魁力屋",
+      "category": "飲食",
+      "aliases": [
+        "KIBARU",
+        "きばる"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "日本橋とんかつ 一",
+      "group": "sakigake",
+      "operator": "株式会社グランキュイジーヌ",
+      "category": "飲食",
+      "aliases": [
+        "とんかつ一",
+        "日本橋とんかつはじめ",
+        "HAJIME"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "薄皮餃子専門 渋谷餃子",
+      "group": "sakigake",
+      "operator": "株式会社エムピーキッチン",
+      "category": "飲食",
+      "aliases": [
+        "渋谷餃子",
+        "しぶやぎょうざ"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "天丼専門 銀座 いつき",
+      "group": "sakigake",
+      "operator": "株式会社グランキュイジーヌ",
+      "category": "飲食",
+      "aliases": [
+        "銀座いつき",
+        "いつき"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "肉そば けいすけ",
+      "group": "sakigake",
+      "operator": "株式会社グランキュイジーヌ",
+      "category": "飲食",
+      "aliases": [
+        "肉そばけいすけ",
+        "けいすけ"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "博多 一星",
+      "group": "sakigake",
+      "operator": "株式会社グランキュイジーヌ",
+      "category": "飲食",
+      "aliases": [
+        "博多一星",
+        "いっせい"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "鶏王 けいすけ",
+      "group": "sakigake",
+      "operator": "株式会社グランキュイジーヌ",
+      "category": "飲食",
+      "aliases": [
+        "鶏王けいすけ",
+        "とりおうけいすけ"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "銀座 鴨そば 九代目 けいすけ",
+      "group": "sakigake",
+      "operator": "株式会社グランキュイジーヌ",
+      "category": "飲食",
+      "aliases": [
+        "九代目けいすけ",
+        "銀座鴨そば"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "くるまやラーメン",
+      "group": "kurumaya-ramen",
+      "operator": "株式会社くるまやラーメン（直営／加盟法人）",
+      "category": "飲食",
+      "aliases": [
+        "くるまや",
+        "車屋ラーメン",
+        "kurumaya ramen"
+      ],
+      "source": "https://www.kurumayaramen.co.jp/profile.htm"
+    },
+    {
+      "name": "中華そば専門 田中そば店",
+      "group": "oishes",
+      "operator": "株式会社GMS",
+      "category": "飲食",
+      "aliases": [
+        "田中そば店",
+        "田中そば",
+        "たなかそば",
+        "たなかそばてん"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "博多長浜らーめん 田中商店",
+      "group": "oishes",
+      "operator": "株式会社GMS",
+      "category": "飲食",
+      "aliases": [
+        "田中商店",
+        "博多長浜ラーメン田中商店"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "つけ麺 つじ田",
+      "group": "oishes",
+      "operator": "株式会社H.I.T WORLD",
+      "category": "飲食",
+      "aliases": [
+        "つじ田",
+        "つじた",
+        "つじ田つけめん"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "つじ田 味噌の章",
+      "group": "oishes",
+      "operator": "株式会社H.I.T WORLD",
+      "category": "飲食",
+      "aliases": [
+        "つじ田味噌の章",
+        "味噌の章"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "成都正宗担々麺 つじ田",
+      "group": "oishes",
+      "operator": "株式会社H.I.T WORLD",
+      "category": "飲食",
+      "aliases": [
+        "成都正宗担々麺",
+        "成都正宗担担麺"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "日本橋 天丼 金子半之助",
+      "group": "oishes",
+      "operator": "株式会社バイザ・エフエム",
+      "category": "飲食",
+      "aliases": [
+        "金子半之助",
+        "かねこはんのすけ"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "日本橋 天ぷらめし 金子半之助",
+      "group": "oishes",
+      "operator": "株式会社バイザ・エフエム",
+      "category": "飲食",
+      "aliases": [
+        "天ぷらめし金子半之助"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "日本橋 稲庭うどんとめし 金子半之助",
+      "group": "oishes",
+      "operator": "株式会社バイザ・エフエム",
+      "category": "飲食",
+      "aliases": [
+        "稲庭うどんと丼めし金子半之助"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "日本橋 天むす 金子半之助",
+      "group": "oishes",
+      "operator": "株式会社and RICE",
+      "category": "飲食",
+      "aliases": [
+        "天むす金子半之助"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "味噌ラーメン専門店 日月堂",
+      "group": "jincle",
+      "operator": "株式会社ジンクル",
+      "category": "飲食",
+      "aliases": [
+        "日月堂",
+        "にちげつどう",
+        "nichigetsudo"
+      ],
+      "source": "https://jincle.com/"
+    },
+    {
+      "name": "ラーメンのまめぞう",
+      "group": "jincle",
+      "operator": "株式会社ジンクル",
+      "category": "飲食",
+      "aliases": [
+        "まめぞう",
+        "ラーメンまめぞう"
+      ],
+      "source": "https://jincle.com/"
+    },
+    {
+      "name": "麺厨房ばんぶる",
+      "group": "jincle",
+      "operator": "株式会社ジンクル",
+      "category": "飲食",
+      "aliases": [
+        "ばんぶる",
+        "麺厨房バンブル"
+      ],
+      "source": "https://jincle.com/"
+    },
+    {
+      "name": "ラーメンショップ",
+      "group": "ramen-shop-network",
+      "operator": "店舗ごとの個人・別法人運営。椿食堂管理系を含む複数加盟・派生系統（全店の統一本部・資本所属は未確認）",
+      "category": "飲食",
+      "aliases": [
+        "ラーショ",
+        "らーしょ",
+        "ラーメンショップ系",
+        "ニューラーメンショップ",
+        "うまいラーメンショップ"
+      ],
+      "source": "https://www.moneypost.jp/822720"
+    },
+    {
+      "name": "椿ラーメンショップ",
+      "group": "tsukuba-tsubaki",
+      "operator": "有限会社つくばコーポレーションの公式掲載店舗群",
+      "category": "飲食",
+      "aliases": [
+        "ラーメンショップ椿",
+        "椿ラーショ",
+        "椿ラーメンショップ新守谷店",
+        "椿ラーメンショップ野田店"
+      ],
+      "source": "https://tsukuba-corporation.com/"
     }
   ]
 }
