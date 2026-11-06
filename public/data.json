@@ -1021,6 +1021,53 @@
           "text": "1月14日、イオンがツルハHDを連結子会社化。"
         }
       ]
+    },
+    {
+      "id": "sugi-holdings",
+      "name": "スギ薬局グループ（セキ薬品を含む）",
+      "company": "スギホールディングス株式会社",
+      "summary": "愛知県発祥のスギ薬局グループ。ドラッグストアのスギ薬局・スギドラッグ・ドラッグスギ、関西のディスカウント店ジャパン、調剤中心の阪神調剤薬局、漢方専門店の薬日本堂・ニホンドウ漢方ブティック・カガエなどを展開。埼玉県宮代町のセキ薬品は2025年9月に49％出資の持分法適用関連会社となり、2026年9月1日の追加取得で51％出資の連結子会社に。ドラッグストア セキ、セキ薬局も同一企業グループになった。名称が似るトライアルHDとは2026年に包括的協業を開始したが、単なる資本上の親子会社・同一グループとしては扱わない。",
+      "accent": "#49856E",
+      "source": "https://www.sugi-hd.co.jp/company/business/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1976",
+          "text": "愛知県でスギ薬局の1号店が開店。"
+        },
+        {
+          "year": "1973",
+          "text": "セキ薬品の前身の1号店（宮代店の前身）が開業。"
+        },
+        {
+          "year": "1984",
+          "text": "1月、有限会社関薬品（現在のセキ薬品）が設立。"
+        },
+        {
+          "year": "2017",
+          "text": "セキ薬品の調剤薬局ブランド『チューリップ薬局』を『セキ薬局』に変更。"
+        },
+        {
+          "year": "2023",
+          "text": "12月、薬日本堂を子会社化。"
+        },
+        {
+          "year": "2024",
+          "text": "9月、旧I&H（阪神調剤グループ）を子会社化。"
+        },
+        {
+          "year": "2025",
+          "text": "3月、株式会社スギ薬局を存続会社としてI&H株式会社を吸収合併。"
+        },
+        {
+          "year": "2025",
+          "text": "9月30日、セキ薬品の株式49％を取得し持分法適用関連会社化。"
+        },
+        {
+          "year": "2026",
+          "text": "9月1日、セキ薬品株式を51％へ追加取得して連結子会社化（4月9日付発表、後の中間期開示で実行を確認）。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -5049,6 +5096,129 @@
         "ナルシス"
       ],
       "source": "https://colorstudio.co.jp/"
+    },
+    {
+      "name": "スギ薬局",
+      "group": "sugi-holdings",
+      "operator": "株式会社スギ薬局（直営・調剤併設店舗など）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "スギ",
+        "すぎやっきょく",
+        "sugi pharmacy"
+      ],
+      "source": "https://www.sugi-net.jp/stores"
+    },
+    {
+      "name": "スギドラッグ",
+      "group": "sugi-holdings",
+      "operator": "株式会社スギ薬局",
+      "category": "ドラッグストア",
+      "aliases": [
+        "スギドラ",
+        "sugi drug",
+        "スギドラッグストア"
+      ],
+      "source": "https://www.sugi-net.jp/stores"
+    },
+    {
+      "name": "ドラッグスギ",
+      "group": "sugi-holdings",
+      "operator": "株式会社スギ薬局",
+      "category": "ドラッグストア",
+      "aliases": [
+        "drug sugi",
+        "ドラッグすぎ"
+      ],
+      "source": "https://www.sugi-net.jp/contents/data/31141-syuusei260428.pdf"
+    },
+    {
+      "name": "ジャパン",
+      "group": "sugi-holdings",
+      "operator": "株式会社スギ薬局（関西地域ディスカウント店）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "スギのジャパン",
+        "ジャパンドラッグ",
+        "japan discount drug"
+      ],
+      "source": "https://www.sugi-net.jp/store-type"
+    },
+    {
+      "name": "ドラッグストア セキ",
+      "group": "sugi-holdings",
+      "operator": "株式会社セキ薬品（スギホールディングス連結子会社）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "セキドラッグ",
+        "ドラッグセキ",
+        "ドラッグストアセキ",
+        "セキ薬品",
+        "SEKI",
+        "drugstore seki",
+        "ドラッグストア せき"
+      ],
+      "source": "https://www.sekiyakuhin.co.jp/shop"
+    },
+    {
+      "name": "セキ薬局",
+      "group": "sugi-holdings",
+      "operator": "株式会社セキ薬品（スギホールディングス連結子会社）",
+      "category": "調剤薬局",
+      "aliases": [
+        "せきやっきょく",
+        "SEKI Pharmacy",
+        "チューリップ薬局（旧屋号）"
+      ],
+      "source": "https://www.sekiyakuhin.co.jp/dispensingpharmacy"
+    },
+    {
+      "name": "阪神調剤薬局",
+      "group": "sugi-holdings",
+      "operator": "株式会社スギ薬局および阪神調剤グループの各薬局運営会社",
+      "category": "調剤薬局",
+      "aliases": [
+        "阪神調剤",
+        "はんしんちょうざいやっきょく",
+        "Hanshin dispensing pharmacy"
+      ],
+      "source": "https://www.sugi-hd.co.jp/company/business/"
+    },
+    {
+      "name": "薬日本堂",
+      "group": "sugi-holdings",
+      "operator": "薬日本堂株式会社（スギホールディングスグループ）",
+      "category": "専門店",
+      "aliases": [
+        "にほんどう",
+        "nihondo",
+        "薬日本堂漢方"
+      ],
+      "source": "https://www.nihondo.co.jp/shop/"
+    },
+    {
+      "name": "ニホンドウ漢方ブティック",
+      "group": "sugi-holdings",
+      "operator": "薬日本堂株式会社（スギホールディングスグループ）",
+      "category": "専門店",
+      "aliases": [
+        "ニホンドウ",
+        "nihondo kampo boutique",
+        "日本堂漢方ブティック"
+      ],
+      "source": "https://www.nihondo.co.jp/shop/boutique/"
+    },
+    {
+      "name": "カガエ カンポウ ブティック",
+      "group": "sugi-holdings",
+      "operator": "薬日本堂株式会社（スギホールディングスグループ）",
+      "category": "専門店",
+      "aliases": [
+        "カガエ",
+        "kagae kampo boutique",
+        "カガエカンポウブティック"
+      ],
+      "source": "https://www.nihondo.co.jp/shop/"
     }
   ]
 }
