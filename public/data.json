@@ -1068,6 +1068,165 @@
           "text": "9月1日、セキ薬品株式を51％へ追加取得して連結子会社化（4月9日付発表、後の中間期開示で実行を確認）。"
         }
       ]
+    },
+    {
+      "id": "ringerhut",
+      "name": "リンガーハットグループ",
+      "company": "株式会社リンガーハット",
+      "summary": "長崎ちゃんぽんリンガーハット・とんかつ濵かつ・長崎卓袱浜勝を展開。実は1962年のとんかつ専門店『浜勝』から始まり、1974年にちゃんぽん店『長崎ちゃんめん』を開店、1977年にリンガーハットの屋号が誕生。日本の店舗はリンガーハットジャパン株式会社や浜勝株式会社等が運営。冷凍食品のリンガーフーズ、設備管理のリンガーハット開発等も傘下。",
+      "accent": "#B7544A",
+      "source": "https://www.ringerhut.co.jp/business/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1962",
+          "text": "7月22日、長崎市でとんかつ浜勝を創業。"
+        },
+        {
+          "year": "1968",
+          "text": "11月、郷土料理別館浜勝（現在の長崎卓袱浜勝）を開店。"
+        },
+        {
+          "year": "1974",
+          "text": "8月、ちゃんぽん店『長崎ちゃんめん』1号店を開店。"
+        },
+        {
+          "year": "1977",
+          "text": "『リンガーハット』の屋号へ転換。"
+        },
+        {
+          "year": "1979",
+          "text": "関東1号店を埼玉県与野市（現在のさいたま市）に出店。"
+        }
+      ]
+    },
+    {
+      "id": "yamadafoods",
+      "name": "山田食品産業グループ（山田うどん）",
+      "company": "山田食品産業株式会社",
+      "summary": "埼玉県所沢市発祥の独立系外食企業。1935年に手打ちうどん店として創業し、自社工場で麺・惣菜を製造。ファミリー食堂 山田うどん食堂と埼玉タンメン 山田太郎を展開。かつて1975年にニューヨークでラーメン店『TARO』を開業していたが、現在の店舗ブランドには数えない。",
+      "accent": "#BD9637",
+      "source": "https://www.yamada-udon.co.jp/company/overview",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1935",
+          "text": "所沢市日吉町で手打ちうどん専門店を創業。"
+        },
+        {
+          "year": "1953",
+          "text": "9月、山田製麺所を法人設立。"
+        },
+        {
+          "year": "1965",
+          "text": "1月、山田うどん1号店を開店。"
+        },
+        {
+          "year": "1975",
+          "text": "ニューヨークにラーメン店『TARO』を出店（過去の業態）。"
+        },
+        {
+          "year": "2018",
+          "text": "7月、屋号を『ファミリー食堂 山田うどん食堂』へ変更。"
+        },
+        {
+          "year": "2021",
+          "text": "7月、埼玉タンメン 山田太郎を出店。"
+        }
+      ]
+    },
+    {
+      "id": "mansyu",
+      "name": "ぎょうざの満洲（独立系）",
+      "company": "株式会社ぎょうざの満洲",
+      "summary": "1964年埼玉県所沢市の『満洲里』から始まった独立系餃子チェーン。現在は埼玉県川越市に本社・工場を持ち、製麺や餃子、総菜等を自社製造する。2026年4月現在直営104店舗。2010年には群馬県沼田市の老神温泉に旅館『東明館』を開業しており、温泉施設は関連事業として沿革に記載。京都発の餃子の王将、イートアンドの大阪王将とは別系列。",
+      "accent": "#B65E4B",
+      "source": "https://www.mansyu.co.jp/company/index.html",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1964",
+          "text": "所沢市緑町で『満洲里』を創業。"
+        },
+        {
+          "year": "1972",
+          "text": "7月、有限会社満洲飯店を設立。"
+        },
+        {
+          "year": "1977",
+          "text": "5月、屋号を『ぎょうざの満洲』に変更。"
+        },
+        {
+          "year": "1995",
+          "text": "8月31日、株式会社ぎょうざの満洲に組織変更。"
+        },
+        {
+          "year": "2010",
+          "text": "群馬県老神温泉に旅館『東明館』を開業。"
+        },
+        {
+          "year": "2026",
+          "text": "4月時点で直営104店舗と公式会社概要に記載。"
+        }
+      ]
+    },
+    {
+      "id": "ohsho-food-service",
+      "name": "王将フードサービス（餃子の王将）",
+      "company": "株式会社王将フードサービス",
+      "summary": "1967年京都で『餃子の王将』1号店を開いた独立系の中華料理チェーン。通常店と新コンセプト『GYOZA OHSHO』を展開。2026年3月末時点で直営551店・FC177店、計728店。『大阪王将』は別会社イートアンドホールディングスで、餃子の王将公式は資本関係・業務提携関係のいずれもないと明記。ぎょうざの満洲とも別系列。",
+      "accent": "#C44D41",
+      "source": "https://ir.ohsho.co.jp/company/outline/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1967",
+          "text": "12月24日、京都で創業。"
+        },
+        {
+          "year": "1974",
+          "text": "7月3日、株式会社王将フードサービスを設立。"
+        },
+        {
+          "year": "2016",
+          "text": "新コンセプト店『GYOZA OHSHO』を展開開始。"
+        },
+        {
+          "year": "2026",
+          "text": "3月末時点で全国・海外合計728店舗（直営551、FC177）。"
+        }
+      ]
+    },
+    {
+      "id": "eat-and",
+      "name": "イートアンドホールディングス（大阪王将）",
+      "company": "株式会社イートアンドホールディングス",
+      "summary": "1969年大阪京橋発祥の『大阪王将』から、太陽のトマト麺、よってこや、横濱一品香、R Baker、SAPPORO餃子製造所、くまちゃん温泉などを展開する総合外食・冷凍食品グループ。冷凍餃子の商品事業と実店舗ブランドは区別。『餃子の王将』を運営する京都の王将フードサービスとは資本・業務提携関係のない別会社。",
+      "accent": "#AD583F",
+      "source": "https://www.eat-and.jp/company/group/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1969",
+          "text": "9月、大阪・京橋に『大阪王将』1号店を開店。"
+        },
+        {
+          "year": "1977",
+          "text": "8月、法人設立。"
+        },
+        {
+          "year": "2014",
+          "text": "ベーカリーカフェ『R Baker』を開店。"
+        },
+        {
+          "year": "2020",
+          "text": "10月、持株会社化して『イートアンドホールディングス』に商号変更。"
+        },
+        {
+          "year": "2026",
+          "text": "8月末時点でグループ連結459店舗（FC含む）。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -5219,6 +5378,256 @@
         "カガエカンポウブティック"
       ],
       "source": "https://www.nihondo.co.jp/shop/"
+    },
+    {
+      "name": "長崎ちゃんぽん リンガーハット",
+      "group": "ringerhut",
+      "operator": "リンガーハットジャパン株式会社（国内の直営・FC）",
+      "category": "飲食",
+      "aliases": [
+        "長崎ちゃんぽん",
+        "リンガーハット",
+        "りんがーはっと",
+        "ringer hut",
+        "ringerhut",
+        "長崎ちゃんめん（旧屋号）"
+      ],
+      "source": "https://www.ringerhut.co.jp/business/"
+    },
+    {
+      "name": "とんかつ濵かつ",
+      "group": "ringerhut",
+      "operator": "浜勝株式会社（リンガーハットグループ）",
+      "category": "飲食",
+      "aliases": [
+        "とんかつ浜勝",
+        "とんかつ濱かつ",
+        "浜勝",
+        "濱かつ",
+        "はまかつ",
+        "hamakatsu"
+      ],
+      "source": "https://www.ringerhut.co.jp/business/"
+    },
+    {
+      "name": "長崎卓袱浜勝",
+      "group": "ringerhut",
+      "operator": "リンガーハットグループ（卓袱料理事業）",
+      "category": "飲食",
+      "aliases": [
+        "しっぽくはまかつ",
+        "卓袱浜勝",
+        "長崎卓袱 浜勝",
+        "長崎卓袱料理浜勝"
+      ],
+      "source": "https://www.ringerhut.co.jp/business/"
+    },
+    {
+      "name": "ファミリー食堂 山田うどん食堂",
+      "group": "yamadafoods",
+      "operator": "山田食品産業株式会社（直営・FC）",
+      "category": "飲食",
+      "aliases": [
+        "山田うどん",
+        "山田うどん食堂",
+        "やまだうどん",
+        "yamada udon",
+        "やまだうどんしょくどう"
+      ],
+      "source": "https://www.yamada-udon.co.jp/company/overview"
+    },
+    {
+      "name": "埼玉タンメン 山田太郎",
+      "group": "yamadafoods",
+      "operator": "山田食品産業株式会社",
+      "category": "飲食",
+      "aliases": [
+        "山田太郎",
+        "埼玉タンメン山田太郎",
+        "やまだたろう",
+        "saitama tanmen yamada taro"
+      ],
+      "source": "https://www.yamada-udon.co.jp/tanmen"
+    },
+    {
+      "name": "ぎょうざの満洲",
+      "group": "mansyu",
+      "operator": "株式会社ぎょうざの満洲（全店直営）",
+      "category": "飲食",
+      "aliases": [
+        "餃子の満洲",
+        "餃子の満州",
+        "ぎょうざの満州",
+        "ぎょうざ満洲",
+        "ぎょうざのまんしゅう",
+        "3割うまい"
+      ],
+      "source": "https://www.mansyu.co.jp/company/index.html"
+    },
+    {
+      "name": "餃子の王将",
+      "group": "ohsho-food-service",
+      "operator": "株式会社王将フードサービス（直営・FC）",
+      "category": "飲食",
+      "aliases": [
+        "京都王将",
+        "ぎょうざのおうしょう",
+        "ぎょうざの王将",
+        "gyoza no ohsho",
+        "王将"
+      ],
+      "source": "https://ir.ohsho.co.jp/company/outline/"
+    },
+    {
+      "name": "GYOZA OHSHO",
+      "group": "ohsho-food-service",
+      "operator": "株式会社王将フードサービス",
+      "category": "飲食",
+      "aliases": [
+        "ギョーザオーショー",
+        "ギョーザオウショウ",
+        "GYOZA OHSHO バル",
+        "ギョウザオーショー"
+      ],
+      "source": "https://ohsho.co.jp/concept/gyoza-ohsho/index.html"
+    },
+    {
+      "name": "大阪王将",
+      "group": "eat-and",
+      "operator": "株式会社大阪王将",
+      "category": "飲食",
+      "aliases": [
+        "おおさかおうしょう",
+        "osaka ohsho",
+        "大阪餃子王将"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "太陽のトマト麺",
+      "group": "eat-and",
+      "operator": "株式会社大阪王将（イートアンドグループ）",
+      "category": "飲食",
+      "aliases": [
+        "たいようのとまとめん",
+        "taiyo no tomato men"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "よってこや",
+      "group": "eat-and",
+      "operator": "株式会社大阪王将（イートアンドグループ）",
+      "category": "飲食",
+      "aliases": [
+        "yottekoya",
+        "よってこ屋"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "横濱一品香",
+      "group": "eat-and",
+      "operator": "株式会社一品香",
+      "category": "飲食",
+      "aliases": [
+        "横浜一品香",
+        "いっぴんこう",
+        "一品香"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "恵比寿 大龍軒",
+      "group": "eat-and",
+      "operator": "イートアンドグループの外食事業会社",
+      "category": "飲食",
+      "aliases": [
+        "大龍軒",
+        "えびすだいりゅうけん"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "新御茶ノ水 萬龍",
+      "group": "eat-and",
+      "operator": "イートアンドグループの外食事業会社",
+      "category": "飲食",
+      "aliases": [
+        "萬龍",
+        "まんりゅう",
+        "万龍"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "大塚 幸龍軒",
+      "group": "eat-and",
+      "operator": "イートアンドグループの外食事業会社",
+      "category": "飲食",
+      "aliases": [
+        "幸龍軒",
+        "こうりゅうけん"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "R Baker",
+      "group": "eat-and",
+      "operator": "株式会社アールベイカー",
+      "category": "飲食",
+      "aliases": [
+        "アールベイカー",
+        "r-baker",
+        "r baker inspired by court rosarian"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "Coccinelle",
+      "group": "eat-and",
+      "operator": "株式会社アールベイカー",
+      "category": "飲食",
+      "aliases": [
+        "コシニール",
+        "コクシネル",
+        "coccinelle bakery"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "THE GROUNDS BAKER",
+      "group": "eat-and",
+      "operator": "株式会社アールベイカー",
+      "category": "飲食",
+      "aliases": [
+        "ザ グラウンズ ベイカー",
+        "グラウンズベイカー"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "SAPPORO餃子製造所",
+      "group": "eat-and",
+      "operator": "イートアンドグループの外食事業会社",
+      "category": "飲食",
+      "aliases": [
+        "札幌餃子製造所",
+        "サッポロ餃子製造所"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
+    },
+    {
+      "name": "北海道めんこい鍋 くまちゃん温泉",
+      "group": "eat-and",
+      "operator": "イートアンドグループの外食事業会社",
+      "category": "飲食",
+      "aliases": [
+        "くまちゃん温泉",
+        "くまちゃんおんせん",
+        "北海道めんこい鍋"
+      ],
+      "source": "https://www.eat-and.jp/company/group/"
     }
   ]
 }
