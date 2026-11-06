@@ -1747,6 +1747,63 @@
           "text": "茨城・千葉の6店舗と、牛久・つくばの姉妹店2店舗を公式案内で確認。"
         }
       ]
+    },
+    {
+      "id": "sakigake-hd",
+      "name": "SAKIGAKEホールディングス（魁力屋・三田製麺所）",
+      "company": "株式会社SAKIGAKEホールディングス",
+      "summary": "2005年京都北白川創業のラーメン魁力屋を起点に、三田製麺所、札幌みその、肉そばけいすけ、鶏王けいすけ、渋谷餃子、とりサブロー、からたま屋などを傘下に持つ。2025年7月グランキュイジーヌ、2026年1月エムピーキッチン（旧エムピーキッチンHD）を完全子会社化。2026年7月1日に旧株式会社魁力屋が持株会社へ移行して現社名になり、店舗事業は新設の株式会社魁力屋に承継。『魁力屋は三田製麺所と同一グループ』という現在の関係に注意。",
+      "accent": "#BB594C",
+      "source": "https://www.sakigake-holdings.co.jp/brand",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2005",
+          "text": "京都北白川でラーメン魁力屋1号店を創業。"
+        },
+        {
+          "year": "2025",
+          "text": "7月、グランキュイジーヌを完全子会社化（札幌みその・けいすけ系等）。"
+        },
+        {
+          "year": "2026",
+          "text": "1月、エムピーキッチンHD（現エムピーキッチン）を完全子会社化（三田製麺所等）。"
+        },
+        {
+          "year": "2026",
+          "text": "7月1日、旧魁力屋が持株会社SAKIGAKE HDに改称。店舗運営は新・株式会社魁力屋が承継。"
+        }
+      ]
+    },
+    {
+      "id": "ramenshop-asaka",
+      "name": "椿ラーメンショップ（福島・アサカ商事運営）",
+      "company": "有限会社アサカ商事",
+      "summary": "福島県郡山市の有限会社アサカ商事が運営する『椿ラーメンショップ』の直営店と製麺事業。新さくら通り店、玉川店、泉崎店、矢吹店、二本松店、大玉店等を公式掲載。『椿ラーメンショップ』の文字が同じでも全国のラーメンショップ各店をすべてこの会社が運営しているわけではない。つくば・インペックス等の独立運営店舗と同一資本と断定しない。",
+      "accent": "#BD7757",
+      "source": "https://ramenshop.jp/company.html",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2016",
+          "text": "運営会社アサカ商事の公式サイトに福島県内の椿ラーメンショップ直営店舗と自家製麺事業を掲載。"
+        }
+      ]
+    },
+    {
+      "id": "ramenshop-inpex",
+      "name": "ラーメンショップ椿（埼玉・インペックス運営）",
+      "company": "インペックスグループ（飲食事業部）",
+      "summary": "埼玉県内の『ラーメンショップ椿』上彦川戸・松伏・庄和町南桜井・春日部備後店を、インペックスグループが公式に自社運営として紹介。同社は『三郷たかの食堂』も運営するが、これは別チェーン『まいどおおきに食堂』の加盟店に相当し、そのチェーン全体がインペックス傘下という意味ではない。全国のラーメンショップを一括した親会社として扱わない。",
+      "accent": "#AA6D57",
+      "source": "https://inpex.jpn.com/about/food",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2026",
+          "text": "公式飲食事業ページで埼玉県内のラーメンショップ椿4店舗と三郷たかの食堂を掲載。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -8051,6 +8108,123 @@
         "椿ラーメンショップ野田店"
       ],
       "source": "https://tsukuba-corporation.com/"
+    },
+    {
+      "name": "頑者",
+      "group": "ganja",
+      "operator": "株式会社頑者",
+      "category": "飲食",
+      "aliases": [
+        "ガンジャ",
+        "がんじゃ",
+        "ganja",
+        "つけめん頑者"
+      ],
+      "source": "https://ganja.co.jp/shop/"
+    },
+    {
+      "name": "京都北白川ラーメン魁力屋",
+      "group": "sakigake-hd",
+      "operator": "株式会社魁力屋",
+      "category": "飲食",
+      "aliases": [
+        "魁力屋",
+        "かいりきや",
+        "ラーメン魁力屋"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "三田製麺所",
+      "group": "sakigake-hd",
+      "operator": "株式会社エムピーキッチン",
+      "category": "飲食",
+      "aliases": [
+        "みたせいめんじょ",
+        "つけ麺専門店 三田製麺所"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "天丼専門 銀座いつき",
+      "group": "sakigake-hd",
+      "operator": "株式会社グランキュイジーヌ",
+      "category": "飲食",
+      "aliases": [
+        "銀座いつき",
+        "ぎんざいつき"
+      ],
+      "source": "https://www.sakigake-holdings.co.jp/brand"
+    },
+    {
+      "name": "つじ田",
+      "group": "oishes",
+      "operator": "株式会社H.I.T WORLD",
+      "category": "飲食",
+      "aliases": [
+        "つけ麺 つじ田",
+        "つけめんつじた",
+        "TSUJITA"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "天むす 金子半之助",
+      "group": "oishes",
+      "operator": "株式会社and RICE",
+      "category": "専門店",
+      "aliases": [
+        "天むす金子半之助",
+        "金子半之助の天むす"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "KILLER NOODLE",
+      "group": "oishes",
+      "operator": "オイシーズグループ海外事業会社",
+      "category": "飲食",
+      "aliases": [
+        "キラーヌードル",
+        "killer noodle tsujita"
+      ],
+      "source": "https://oishes.com/business/domestic/"
+    },
+    {
+      "name": "椿ラーメンショップ（福島・アサカ商事）",
+      "group": "ramenshop-asaka",
+      "operator": "有限会社アサカ商事",
+      "category": "飲食",
+      "aliases": [
+        "椿ラーメンショップ福島",
+        "椿ラーメンショップ新さくら通り",
+        "アサカ商事ラーメンショップ"
+      ],
+      "source": "https://ramenshop.jp/company.html"
+    },
+    {
+      "name": "ラーメンショップ椿（埼玉・インペックス）",
+      "group": "ramenshop-inpex",
+      "operator": "インペックスグループ飲食事業部",
+      "category": "飲食",
+      "aliases": [
+        "椿ラーメンショップ上彦川戸",
+        "ラーメンショップ椿松伏",
+        "ラーメンショップ椿春日部備後",
+        "ラーメンショップ椿庄和町南桜井"
+      ],
+      "source": "https://inpex.jpn.com/about/food"
+    },
+    {
+      "name": "三郷たかの食堂",
+      "group": "ramenshop-inpex",
+      "operator": "インペックスグループ（まいどおおきに食堂のFC店舗）",
+      "category": "飲食",
+      "aliases": [
+        "まいどおおきに食堂 三郷たかの",
+        "三郷たかの"
+      ],
+      "source": "https://inpex.jpn.com/about/food"
     }
   ]
 }
