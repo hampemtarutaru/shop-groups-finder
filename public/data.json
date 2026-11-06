@@ -1594,7 +1594,7 @@
       "id": "sakigake",
       "name": "SAKIGAKEホールディングス（魁力屋）",
       "company": "株式会社SAKIGAKEホールディングス",
-      "summary": "京都背脂醤油ラーメンの魁力屋を核とする多ブランド外食グループ。2025年7月グランキュイジーヌ、2026年1月エムピーキッチンを買収して『三田製麺所』『札幌みその』『肉そばけいすけ』『渋谷餃子』などと同系列に。2026年7月1日、旧株式会社魁力屋が持株会社『SAKIGAKEホールディングス』に商号変更し、店舗事業を新会社『株式会社魁力屋』が担う。",
+      "summary": "京都背脂醤油ラーメンの魁力屋を核とする多ブランド外食グループ。2025年7月グランキュイジーヌ、2026年1月エムピーキッチンを買収して『三田製麺所』『札幌みその』『肉そばけいすけ』『渋谷餃子』などと同系列に。2026年7月1日、旧株式会社魁力屋が持株会社『SAKIGAKEホールディングス』に商号変更し、店舗事業を新会社『株式会社魁力屋』が担う。 2026年7月1日の持株会社化後の親会社はSAKIGAKEホールディングス、店舗運営は新設の株式会社魁力屋が承継。",
       "accent": "#B65738",
       "source": "https://www.sakigake-holdings.co.jp/brand",
       "checked": "2026-11-06",
@@ -1745,33 +1745,6 @@
         {
           "year": "2026",
           "text": "茨城・千葉の6店舗と、牛久・つくばの姉妹店2店舗を公式案内で確認。"
-        }
-      ]
-    },
-    {
-      "id": "sakigake-hd",
-      "name": "SAKIGAKEホールディングス（魁力屋・三田製麺所）",
-      "company": "株式会社SAKIGAKEホールディングス",
-      "summary": "2005年京都北白川創業のラーメン魁力屋を起点に、三田製麺所、札幌みその、肉そばけいすけ、鶏王けいすけ、渋谷餃子、とりサブロー、からたま屋などを傘下に持つ。2025年7月グランキュイジーヌ、2026年1月エムピーキッチン（旧エムピーキッチンHD）を完全子会社化。2026年7月1日に旧株式会社魁力屋が持株会社へ移行して現社名になり、店舗事業は新設の株式会社魁力屋に承継。『魁力屋は三田製麺所と同一グループ』という現在の関係に注意。",
-      "accent": "#BB594C",
-      "source": "https://www.sakigake-holdings.co.jp/brand",
-      "checked": "2026-11-06",
-      "events": [
-        {
-          "year": "2005",
-          "text": "京都北白川でラーメン魁力屋1号店を創業。"
-        },
-        {
-          "year": "2025",
-          "text": "7月、グランキュイジーヌを完全子会社化（札幌みその・けいすけ系等）。"
-        },
-        {
-          "year": "2026",
-          "text": "1月、エムピーキッチンHD（現エムピーキッチン）を完全子会社化（三田製麺所等）。"
-        },
-        {
-          "year": "2026",
-          "text": "7月1日、旧魁力屋が持株会社SAKIGAKE HDに改称。店舗運営は新・株式会社魁力屋が承継。"
         }
       ]
     },
@@ -7725,7 +7698,8 @@
         "ガンジャ",
         "がんじゃ",
         "ganja",
-        "つけめん頑者"
+        "つけめん頑者",
+        "GANJA"
       ],
       "source": "https://ganja.co.jp/shop/"
     },
@@ -7803,7 +7777,8 @@
       "aliases": [
         "魁力屋",
         "かいりきや",
-        "kairikiya"
+        "kairikiya",
+        "京都北白川ラーメン魁力屋"
       ],
       "source": "https://www.sakigake-holdings.co.jp/brand"
     },
@@ -7889,7 +7864,9 @@
       "category": "飲食",
       "aliases": [
         "銀座いつき",
-        "いつき"
+        "いつき",
+        "天丼専門 銀座いつき",
+        "ぎんざいつき"
       ],
       "source": "https://www.sakigake-holdings.co.jp/brand"
     },
@@ -7981,7 +7958,9 @@
       "aliases": [
         "つじ田",
         "つじた",
-        "つじ田つけめん"
+        "つじ田つけめん",
+        "つけめんつじた",
+        "TSUJITA"
       ],
       "source": "https://oishes.com/business/domestic/"
     },
@@ -8044,7 +8023,9 @@
       "operator": "株式会社and RICE",
       "category": "飲食",
       "aliases": [
-        "天むす金子半之助"
+        "天むす金子半之助",
+        "天むす 金子半之助",
+        "金子半之助の天むす"
       ],
       "source": "https://oishes.com/business/domestic/"
     },
@@ -8108,76 +8089,6 @@
         "椿ラーメンショップ野田店"
       ],
       "source": "https://tsukuba-corporation.com/"
-    },
-    {
-      "name": "頑者",
-      "group": "ganja",
-      "operator": "株式会社頑者",
-      "category": "飲食",
-      "aliases": [
-        "ガンジャ",
-        "がんじゃ",
-        "ganja",
-        "つけめん頑者"
-      ],
-      "source": "https://ganja.co.jp/shop/"
-    },
-    {
-      "name": "京都北白川ラーメン魁力屋",
-      "group": "sakigake-hd",
-      "operator": "株式会社魁力屋",
-      "category": "飲食",
-      "aliases": [
-        "魁力屋",
-        "かいりきや",
-        "ラーメン魁力屋"
-      ],
-      "source": "https://www.sakigake-holdings.co.jp/brand"
-    },
-    {
-      "name": "三田製麺所",
-      "group": "sakigake-hd",
-      "operator": "株式会社エムピーキッチン",
-      "category": "飲食",
-      "aliases": [
-        "みたせいめんじょ",
-        "つけ麺専門店 三田製麺所"
-      ],
-      "source": "https://www.sakigake-holdings.co.jp/brand"
-    },
-    {
-      "name": "天丼専門 銀座いつき",
-      "group": "sakigake-hd",
-      "operator": "株式会社グランキュイジーヌ",
-      "category": "飲食",
-      "aliases": [
-        "銀座いつき",
-        "ぎんざいつき"
-      ],
-      "source": "https://www.sakigake-holdings.co.jp/brand"
-    },
-    {
-      "name": "つじ田",
-      "group": "oishes",
-      "operator": "株式会社H.I.T WORLD",
-      "category": "飲食",
-      "aliases": [
-        "つけ麺 つじ田",
-        "つけめんつじた",
-        "TSUJITA"
-      ],
-      "source": "https://oishes.com/business/domestic/"
-    },
-    {
-      "name": "天むす 金子半之助",
-      "group": "oishes",
-      "operator": "株式会社and RICE",
-      "category": "専門店",
-      "aliases": [
-        "天むす金子半之助",
-        "金子半之助の天むす"
-      ],
-      "source": "https://oishes.com/business/domestic/"
     },
     {
       "name": "KILLER NOODLE",
