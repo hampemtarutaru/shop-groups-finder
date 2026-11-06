@@ -1385,6 +1385,171 @@
           "text": "チムニーが34%を保有する持分法適用関連会社（2026年3月期開示）。"
         }
       ]
+    },
+    {
+      "id": "create-restaurants",
+      "name": "クリエイト・レストランツグループ（磯丸水産）",
+      "company": "株式会社クリエイト・レストランツ・ホールディングス",
+      "summary": "磯丸水産・鳥良商店・きづなすし・大衆酒場五の五などの旧SFP系ブランドを傘下に持つ外食企業。SFPホールディングス株式会社は2026年7月1日に親会社のクリエイト・レストランツHDと合併し、持株会社は消滅。元SFPブランドは現行グループに統合して収録。居酒屋以外の洋食・ラーメン・ベーカリー等も多数あるが今回は元SFP系を中心に登録。",
+      "accent": "#6F7894",
+      "source": "https://www.createrestaurants.com/business/main/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1997",
+          "text": "クリエイト・レストランツを設立。"
+        },
+        {
+          "year": "2013",
+          "text": "SFPダイニングがクリエイト・レストランツグループ入り。"
+        },
+        {
+          "year": "2026",
+          "text": "7月1日、SFPホールディングスをクリエイト・レストランツHDが吸収合併。"
+        }
+      ]
+    },
+    {
+      "id": "ap-holdings",
+      "name": "エー・ピーホールディングス（塚田農場）",
+      "company": "株式会社エー・ピーホールディングス",
+      "summary": "塚田農場をはじめ、四十八漁場、なきざかな、芝浦食肉、関根精肉店、日本橋墨之栄、つかだ食堂など多彩な外食ブランドを展開。宮崎・鹿児島・北海道といった産地から直接食材を届ける『生販直結』モデルが特徴。派生した塚田農場の屋号は同じ系列とし、独立屋号は個別登録。",
+      "accent": "#51936B",
+      "source": "https://ap-holdings.jp/brand-and-business/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2001",
+          "text": "前身となる飲食店事業を創業。"
+        },
+        {
+          "year": "2006",
+          "text": "宮崎地鶏を使う外食事業を拡大。"
+        },
+        {
+          "year": "2026",
+          "text": "公式ブランド一覧に塚田農場、四十八漁場、なきざかな等を掲載。"
+        }
+      ]
+    },
+    {
+      "id": "phads",
+      "name": "ファッズ（新時代グループ）",
+      "company": "株式会社ファッズ",
+      "summary": "2010年9月15日愛知県刈谷市で1号店を開いた居酒屋『新時代』を展開。兄弟ブランドは新時代44、鳥ぶら、とんぺら屋、タイ料理スコンターなど。名物『伝串』は商品名であり独立したチェーンとして数えない。2026年8月には海帆から新時代・新時代44計16店舗の事業を譲受。株式会社ファッズは創業者さのなおしが100%出資。",
+      "accent": "#A83C50",
+      "source": "https://www.phads.jp/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2006",
+          "text": "5月2日、株式会社ファッズ設立。"
+        },
+        {
+          "year": "2010",
+          "text": "9月15日、新時代1号店が愛知県刈谷市で開店。"
+        },
+        {
+          "year": "2026",
+          "text": "2月、新時代44が鶏料理中心の新メニューへ刷新。"
+        },
+        {
+          "year": "2026",
+          "text": "8月、海帆から新時代・新時代44の16店舗事業を譲受。"
+        }
+      ]
+    },
+    {
+      "id": "unisia",
+      "name": "ユニシアHD（旧串カツ田中ホールディングス）",
+      "company": "株式会社ユニシアホールディングス",
+      "summary": "2008年東京世田谷で『串カツ田中』1号店を開業。旧社名は株式会社串カツ田中ホールディングスで、2026年3月1日に現社名へ変更。2025年12月にイタリアンレストラン『PISOLA』を完全子会社化。串カツ田中のほか、天のめし、焼肉くるとん、ザ・メンチ、厚とん、カツのジョーなどを展開。",
+      "accent": "#A98B39",
+      "source": "https://unisia.co.jp/about/company/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2008",
+          "text": "12月、東京都世田谷区で串カツ田中の1号店を開店。"
+        },
+        {
+          "year": "2025",
+          "text": "12月、株式会社ピソラ（PISOLA）を完全子会社化。"
+        },
+        {
+          "year": "2026",
+          "text": "3月1日、串カツ田中ホールディングスからユニシアホールディングスへ社名変更。"
+        },
+        {
+          "year": "2026",
+          "text": "10月23日、和歌山県へ出店して串カツ田中は47都道府県への出店を達成（自社調べ）。"
+        }
+      ]
+    },
+    {
+      "id": "daisyo",
+      "name": "大庄グループ（庄や）",
+      "company": "株式会社大庄",
+      "summary": "『庄や』『日本海庄や』『大庄水産』『お魚総本家』など居酒屋を中心に展開。海鮮・焼き鳥・寿司・ジンギスカン・ベーカリーまで幅広い屋号がある。現行公式ブランド紹介に掲載の屋号を中心に記録。",
+      "accent": "#426C86",
+      "source": "https://www.daisyo.co.jp/brand/index.html",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1971",
+          "text": "前身の大庄事業を創業。"
+        },
+        {
+          "year": "1973",
+          "text": "東京都大田区で大衆割烹『庄や』を開店。"
+        },
+        {
+          "year": "2026",
+          "text": "公式ブランド一覧に庄や、日本海庄や、大庄水産、満天酒場等を確認。"
+        }
+      ]
+    },
+    {
+      "id": "yossix",
+      "name": "ヨシックスHD（や台ずし）",
+      "company": "株式会社ヨシックスホールディングス",
+      "summary": "『や台ずし』を中心に、低価格居酒屋ニパチ、串カツ居酒屋これや、ひとくち餃子の頂、や台やなどを展開。店舗は株式会社ヨシックスフーズなどが運営。2026年8月時点で41都道府県400店舗。",
+      "accent": "#996B4E",
+      "source": "https://www.yossix.co.jp/shop-guide/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1998",
+          "text": "鉄板居酒屋『や台や』1号店を開店。"
+        },
+        {
+          "year": "2025",
+          "text": "7月、『海老どて食堂』事業を譲受。"
+        },
+        {
+          "year": "2026",
+          "text": "8月、41都道府県400店舗に拡大。"
+        }
+      ]
+    },
+    {
+      "id": "oizumi-foods",
+      "name": "オーイズミフーズ（くいもの屋わん）",
+      "company": "株式会社オーイズミフーズ",
+      "summary": "居酒屋『くいもの屋わん』『かっこ』『千の庭』『九州魂』『九州自慢』などのほか、イタリアン『LOGiC』やステーキ・カフェ業態も展開する総合外食企業。公式店舗検索とブランド一覧から確認できる屋号を収録。",
+      "accent": "#8B5B6C",
+      "source": "https://www.oizumifoods.co.jp/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1982",
+          "text": "オーイズミフーズの前身事業が始まる。"
+        },
+        {
+          "year": "2026",
+          "text": "公式ブランド一覧で居酒屋・イタリアンなどの多業態を確認。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -6480,6 +6645,821 @@
         "いとうかちょう"
       ],
       "source": "https://tsubohachi.jp/"
+    },
+    {
+      "name": "磯丸水産",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "居酒屋",
+      "aliases": [
+        "いそまるすいさん"
+      ],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "鳥良商店",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "居酒屋",
+      "aliases": [
+        "とりよししょうてん"
+      ],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "おもてなしとりよし",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "居酒屋",
+      "aliases": [
+        "鳥良"
+      ],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "大衆酒場 五の五",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "居酒屋",
+      "aliases": [
+        "五の五"
+      ],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "大衆酒場 ホームベース",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "居酒屋",
+      "aliases": [
+        "ホームベース"
+      ],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "鳥平ちゃん",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "餃子販売所 いち五郎",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "居酒屋",
+      "aliases": [
+        "いち五郎"
+      ],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "ビストロISOMARU",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "居酒屋",
+      "aliases": [
+        "ビストロ磯丸"
+      ],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "きづなすし",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "鉄板二百℃",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "飲食",
+      "aliases": [
+        "鉄板200度"
+      ],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "生そば玉川",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "味噌煮込みうどん 玉丁本店",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "飲食",
+      "aliases": [
+        "玉丁本店"
+      ],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "町鮨 とろたく",
+      "group": "create-restaurants",
+      "operator": "クリエイト・レストランツグループ（旧SFP系事業会社）",
+      "category": "飲食",
+      "aliases": [
+        "とろたく"
+      ],
+      "source": "https://sfpdining.jp/"
+    },
+    {
+      "name": "宮崎県日南市・日向市 塚田農場",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "塚田農場",
+        "つかだのうじょう",
+        "宮崎塚田農場"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "鹿児島県霧島市 塚田農場",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "鹿児島塚田農場"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "北海道シントク町 塚田農場",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "北海道塚田農場"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "炭火焼鳥 塚田農場",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "焼鳥塚田農場"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "四十八漁場",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "よんぱちぎょじょう",
+        "48漁場"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "なきざかな",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "なまきざかな（旧表記）"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "日本橋 墨之栄",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "すみのえ"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "芝浦食肉",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "しばうらしょくにく"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "関根精肉店",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "農家ごはん つかだ食堂",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "つかだ食堂"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "地どり屋 つかだ",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "SAKE BAR オトナリ",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "オトナリ"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "炭火酒場 おやどりや",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "やきとりスタンダード",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "宮崎 日南 幻の地鶏焼 じとっこ",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "じとっこ"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "じとっこ組合",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社・ライセンス店舗",
+      "category": "居酒屋",
+      "aliases": [
+        "じとっこくみあい"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "立ち寿司横丁",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "しゃぶしゃぶ つかだ",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "Na Camo guro",
+      "group": "ap-holdings",
+      "operator": "株式会社エー・ピーホールディングスのグループ事業会社",
+      "category": "飲食",
+      "aliases": [
+        "ナカモグロ"
+      ],
+      "source": "https://ap-holdings.jp/brand-and-business/"
+    },
+    {
+      "name": "新時代",
+      "group": "phads",
+      "operator": "株式会社ファッズ（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "しんじだい",
+        "shinjidai"
+      ],
+      "source": "https://www.phads.jp/shop_search/"
+    },
+    {
+      "name": "新時代44",
+      "group": "phads",
+      "operator": "株式会社ファッズ（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "しんじだい44"
+      ],
+      "source": "https://www.phads.jp/shop_search/"
+    },
+    {
+      "name": "鳥ぶら",
+      "group": "phads",
+      "operator": "株式会社ファッズ（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "とりぶら"
+      ],
+      "source": "https://www.phads.jp/shop_search/"
+    },
+    {
+      "name": "とんぺら屋",
+      "group": "phads",
+      "operator": "株式会社ファッズ（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "とんぺらや"
+      ],
+      "source": "https://www.phads.jp/shop_search/"
+    },
+    {
+      "name": "スコンター",
+      "group": "phads",
+      "operator": "株式会社ファッズ",
+      "category": "飲食",
+      "aliases": [
+        "sukhontha"
+      ],
+      "source": "https://www.phads.jp/shop_search/"
+    },
+    {
+      "name": "串カツ田中",
+      "group": "unisia",
+      "operator": "株式会社ユニシアホールディングス傘下の事業会社（国内外）",
+      "category": "飲食",
+      "aliases": [
+        "くしかつたなか",
+        "kushikatsu tanaka"
+      ],
+      "source": "https://unisia.co.jp/about/company/"
+    },
+    {
+      "name": "PISOLA",
+      "group": "unisia",
+      "operator": "株式会社ユニシアホールディングス傘下の事業会社（国内外）",
+      "category": "飲食",
+      "aliases": [
+        "ピソラ",
+        "ぴそら"
+      ],
+      "source": "https://unisia.co.jp/about/company/"
+    },
+    {
+      "name": "天のめし",
+      "group": "unisia",
+      "operator": "株式会社ユニシアホールディングス傘下の事業会社（国内外）",
+      "category": "飲食",
+      "aliases": [
+        "てんのめし"
+      ],
+      "source": "https://unisia.co.jp/about/company/"
+    },
+    {
+      "name": "TANAKA",
+      "group": "unisia",
+      "operator": "株式会社ユニシアホールディングス傘下の事業会社（国内外）",
+      "category": "飲食",
+      "aliases": [
+        "TANAKA katsu sando",
+        "タナカ カツサンド"
+      ],
+      "source": "https://unisia.co.jp/about/company/"
+    },
+    {
+      "name": "挽きたて和牛 ザ・メンチ",
+      "group": "unisia",
+      "operator": "株式会社ユニシアホールディングス傘下の事業会社（国内外）",
+      "category": "飲食",
+      "aliases": [
+        "ザ・メンチ"
+      ],
+      "source": "https://unisia.co.jp/about/company/"
+    },
+    {
+      "name": "厚とん",
+      "group": "unisia",
+      "operator": "株式会社ユニシアホールディングス傘下の事業会社（国内外）",
+      "category": "飲食",
+      "aliases": [
+        "あつとん"
+      ],
+      "source": "https://unisia.co.jp/about/company/"
+    },
+    {
+      "name": "焼肉くるとん",
+      "group": "unisia",
+      "operator": "株式会社ユニシアホールディングス傘下の事業会社（国内外）",
+      "category": "飲食",
+      "aliases": [
+        "くるとん"
+      ],
+      "source": "https://unisia.co.jp/about/company/"
+    },
+    {
+      "name": "ザクッと とんかつ カツのジョー",
+      "group": "unisia",
+      "operator": "株式会社ユニシアホールディングス傘下の事業会社（国内外）",
+      "category": "飲食",
+      "aliases": [
+        "カツのジョー"
+      ],
+      "source": "https://unisia.co.jp/about/company/"
+    },
+    {
+      "name": "富之上",
+      "group": "unisia",
+      "operator": "株式会社ユニシアホールディングス傘下の事業会社（国内外）",
+      "category": "飲食",
+      "aliases": [
+        "とみのじょう"
+      ],
+      "source": "https://unisia.co.jp/about/company/"
+    },
+    {
+      "name": "庄や",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "しょうや",
+        "庄屋（誤表記）"
+      ],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "日本海庄や",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "にほんかいしょうや"
+      ],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "大庄水産",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "お魚総本家",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "満天酒場",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "呑兵衛",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "のんべえ"
+      ],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "やる気酒場",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "やるきさかば"
+      ],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "三四味屋",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "とり家ゑび寿",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "とりやえびす"
+      ],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "羊肉酒場 悟大",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "悟大"
+      ],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "大衆馬肉酒場 三村",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "三村"
+      ],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "オートロキッチン",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社（直営・FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "築地日本海",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "築地寿司岩",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "CAFE＆BAKERY MIYABI",
+      "group": "daisyo",
+      "operator": "株式会社大庄およびグループ会社",
+      "category": "飲食",
+      "aliases": [
+        "ミヤビ",
+        "MIYABI"
+      ],
+      "source": "https://www.daisyo.co.jp/brand/index.html"
+    },
+    {
+      "name": "や台ずし",
+      "group": "yossix",
+      "operator": "株式会社ヨシックスフーズなど",
+      "category": "居酒屋",
+      "aliases": [
+        "やたいずし"
+      ],
+      "source": "https://yossix-shop.com/"
+    },
+    {
+      "name": "ニパチ",
+      "group": "yossix",
+      "operator": "株式会社ヨシックスフーズなど",
+      "category": "居酒屋",
+      "aliases": [
+        "にぱち"
+      ],
+      "source": "https://yossix-shop.com/"
+    },
+    {
+      "name": "ひとくち餃子の頂",
+      "group": "yossix",
+      "operator": "株式会社ヨシックスフーズなど",
+      "category": "居酒屋",
+      "aliases": [
+        "ひとくちぎょうざのいただき"
+      ],
+      "source": "https://yossix-shop.com/"
+    },
+    {
+      "name": "や台や",
+      "group": "yossix",
+      "operator": "株式会社ヨシックスフーズなど",
+      "category": "居酒屋",
+      "aliases": [
+        "やたいや"
+      ],
+      "source": "https://yossix-shop.com/"
+    },
+    {
+      "name": "これや",
+      "group": "yossix",
+      "operator": "株式会社ヨシックスフーズなど",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://yossix-shop.com/"
+    },
+    {
+      "name": "焼とりてっぱん",
+      "group": "yossix",
+      "operator": "株式会社ヨシックスフーズなど",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://yossix-shop.com/"
+    },
+    {
+      "name": "玉鋼",
+      "group": "yossix",
+      "operator": "株式会社ヨシックスフーズなど",
+      "category": "居酒屋",
+      "aliases": [
+        "たまはがね"
+      ],
+      "source": "https://yossix-shop.com/"
+    },
+    {
+      "name": "華花",
+      "group": "yossix",
+      "operator": "株式会社ヨシックスフーズなど",
+      "category": "居酒屋",
+      "aliases": [
+        "はなはな"
+      ],
+      "source": "https://yossix-shop.com/"
+    },
+    {
+      "name": "人氣万両",
+      "group": "yossix",
+      "operator": "株式会社ヨシックスフーズなど",
+      "category": "居酒屋",
+      "aliases": [
+        "にんきまんりょう"
+      ],
+      "source": "https://yossix-shop.com/"
+    },
+    {
+      "name": "海老どて食堂",
+      "group": "yossix",
+      "operator": "株式会社ヨシックスフーズ",
+      "category": "飲食",
+      "aliases": [
+        "えびどてしょくどう"
+      ],
+      "source": "https://www.yossix.co.jp/shop-guide/"
+    },
+    {
+      "name": "くいもの屋わん",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "くいものやわん",
+        "わん"
+      ],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "くいもの屋つう",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "くいものやつう"
+      ],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "九州自慢",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "きゅうしゅうじまん"
+      ],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "九州魂",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "きゅうしゅうだましい"
+      ],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "千の庭",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "せんのにわ"
+      ],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "かっこ",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "とんとんびょうし",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "三代目文治",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "さんだいめぶんじ"
+      ],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "越前華丸",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "えちぜんはなまる"
+      ],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "越前鮮魚店",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "すりみや",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "三枚目助五郎",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "南3西4",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ（直営・一部FC）",
+      "category": "居酒屋",
+      "aliases": [
+        "みなみさんにしよん"
+      ],
+      "source": "https://www.oizumifoods.co.jp/"
+    },
+    {
+      "name": "LOGiC",
+      "group": "oizumi-foods",
+      "operator": "株式会社オーイズミフーズ",
+      "category": "飲食",
+      "aliases": [
+        "ロジック",
+        "logic italian"
+      ],
+      "source": "https://www.oizumifoods.co.jp/"
     }
   ]
 }
