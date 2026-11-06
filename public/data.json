@@ -44,11 +44,20 @@
       "id": "aeon",
       "name": "イオングループ",
       "company": "イオン株式会社",
-      "summary": "総合スーパーから小型食品店・コンビニまで、業種をまたいで展開。",
+      "summary": "総合スーパー・食品スーパー・コンビニからヘルス＆ウエルネスまで展開。2026年1月14日にツルハホールディングスを連結子会社化し、その完全子会社ウエルシアホールディングスと合わせて国内最大級のドラッグストア網を持つ。ツルハ・ウエルシアは本図鑑では子グループとして独立表示し、資本上はイオン傘下であることを明記。",
       "accent": "#9A588E",
       "source": "https://www.aeon.info/group/",
-      "checked": "2026-11-01",
-      "events": []
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "2025",
+          "text": "12月1日、ツルハHDがウエルシアHDを株式交換で完全子会社化。"
+        },
+        {
+          "year": "2026",
+          "text": "1月14日、イオンがツルハホールディングスを連結子会社化。"
+        }
+      ]
     },
     {
       "id": "trial",
@@ -952,6 +961,64 @@
         {
           "year": "2020",
           "text": "屋号を『北海道生まれ 和食処とんでん』へ変更。"
+        }
+      ]
+    },
+    {
+      "id": "fujiyakuhin",
+      "name": "富士薬品グループ（セイムス）",
+      "company": "株式会社富士薬品",
+      "summary": "1930年に富山県で家庭向けの配置薬販売から始まり、現在は本社をさいたま市大宮区に置く。1992年にドラッグストア事業へ進出し、セイムス、アメリカンドラッグ、ドラッグユタカ、ドラッグストアスマイル、スーパードラッグキリン、ドラッグストアエース、救命堂などを展開。東和製薬・パナケイア製薬など医薬品製造会社もグループ内に持つが、製品名は店名検索対象外。2026年3月末でドラッグストア・調剤薬局計1,285店。",
+      "accent": "#4B8882",
+      "source": "https://www.fujiyakuhin.co.jp/company/group/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1930",
+          "text": "2月、富山県富山市で家庭向け配置薬販売を開始。"
+        },
+        {
+          "year": "1954",
+          "text": "4月、有限会社高柳薬品商会を設立。"
+        },
+        {
+          "year": "1963",
+          "text": "有限会社富士薬品に社名変更。"
+        },
+        {
+          "year": "1992",
+          "text": "3月、ドラッグストア事業を開始。"
+        },
+        {
+          "year": "2026",
+          "text": "3月末時点、全国39都道府県にドラッグストア・調剤薬局1,285店舗。"
+        }
+      ]
+    },
+    {
+      "id": "tsuruha-welcia",
+      "name": "ツルハ・ウエルシア統合グループ（イオン傘下）",
+      "company": "株式会社ツルハホールディングス／ウエルシアホールディングス株式会社",
+      "summary": "1929年北海道旭川市で創業したツルハと、各地域の薬局を束ねるウエルシアが2025年12月1日に経営統合。ツルハHDがウエルシアHDの完全親会社となり、2026年1月14日にはツルハHDがイオンの連結子会社となった。ツルハドラッグ、くすりの福太郎、ウォンツ、杏林堂、ウエルシア、ハックドラッグ、コクミン、ウェルパーク等が同じ企業グループ。親会社イオンは本図鑑で別グループ項目に記載し、重層的な企業関係を示す。",
+      "accent": "#5B71AD",
+      "source": "https://www.tsuruha-hd.co.jp/company/list/",
+      "checked": "2026-11-06",
+      "events": [
+        {
+          "year": "1929",
+          "text": "5月、北海道旭川市で鶴羽薬師堂を創業。"
+        },
+        {
+          "year": "1995",
+          "text": "1月、ツルハがジャスコ（現イオン）と資本・業務提携。"
+        },
+        {
+          "year": "2025",
+          "text": "12月1日、ウエルシアHDを完全子会社化し経営統合。"
+        },
+        {
+          "year": "2026",
+          "text": "1月14日、イオンがツルハHDを連結子会社化。"
         }
       ]
     }
@@ -4652,6 +4719,336 @@
         "shinpachi shokudo"
       ],
       "source": "https://corp.skylark.co.jp/brand/brand_list/"
+    },
+    {
+      "name": "ドラッグセイムス",
+      "group": "fujiyakuhin",
+      "operator": "株式会社富士薬品および富士薬品グループ各社（地域によって運営会社が異なる）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "セイムス",
+        "SEIMS",
+        "ドラッグせいむす",
+        "せいむす"
+      ],
+      "source": "https://www.seims.co.jp/"
+    },
+    {
+      "name": "アメリカンドラッグ",
+      "group": "fujiyakuhin",
+      "operator": "株式会社モリキ",
+      "category": "ドラッグストア",
+      "aliases": [
+        "アメドラ",
+        "american drug"
+      ],
+      "source": "https://www.fujiyakuhin.co.jp/company/group/"
+    },
+    {
+      "name": "ドラッグユタカ",
+      "group": "fujiyakuhin",
+      "operator": "株式会社ユタカファーマシー",
+      "category": "ドラッグストア",
+      "aliases": [
+        "DRUGユタカ",
+        "ユタカ",
+        "drug yutaka"
+      ],
+      "source": "https://www.d-yutaka.co.jp/"
+    },
+    {
+      "name": "ドラッグストアスマイル",
+      "group": "fujiyakuhin",
+      "operator": "株式会社富士薬品（グループドラッグストア事業）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ドラッグスマイル",
+        "スマイル",
+        "smile drug"
+      ],
+      "source": "https://www.seims.co.jp/shop/pages/santool_2026cp.aspx"
+    },
+    {
+      "name": "スーパードラッグキリン",
+      "group": "fujiyakuhin",
+      "operator": "株式会社東海セイムス",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ドラッグキリン",
+        "スーパードラッグ キリン"
+      ],
+      "source": "https://www.tokai-seims.co.jp/"
+    },
+    {
+      "name": "ドラッグストアエース",
+      "group": "fujiyakuhin",
+      "operator": "株式会社あみはま薬局",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ドラッグエース",
+        "エース"
+      ],
+      "source": "https://www.fujiyakuhin.co.jp/company/group/"
+    },
+    {
+      "name": "くすりの救命堂",
+      "group": "fujiyakuhin",
+      "operator": "株式会社九州セイムス",
+      "category": "ドラッグストア",
+      "aliases": [
+        "救命堂",
+        "きゅうめいどう"
+      ],
+      "source": "https://www.fujiyakuhin.co.jp/company/group/"
+    },
+    {
+      "name": "ツルハドラッグ",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社ツルハ、株式会社ツルハグループドラッグ＆ファーマシー西日本等",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ツルハ",
+        "tsuruha drug",
+        "ツルハ薬局"
+      ],
+      "source": "https://www.tsuruha.co.jp/"
+    },
+    {
+      "name": "くすりの福太郎",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社くすりの福太郎",
+      "category": "ドラッグストア",
+      "aliases": [
+        "福太郎",
+        "くすりのふくたろう",
+        "fukutaro"
+      ],
+      "source": "https://www.kusurinofukutaro.co.jp/"
+    },
+    {
+      "name": "ドラッグストアウェルネス",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社ツルハグループドラッグ＆ファーマシー西日本",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ウェルネス",
+        "wellness drugstore"
+      ],
+      "source": "https://www.wellness-web.co.jp/"
+    },
+    {
+      "name": "ウォンツ",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社ツルハグループドラッグ＆ファーマシー西日本",
+      "category": "ドラッグストア",
+      "aliases": [
+        "wants",
+        "ドラッグストアウォンツ"
+      ],
+      "source": "https://www.wants.co.jp/"
+    },
+    {
+      "name": "くすりのレデイ",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社レデイ薬局",
+      "category": "ドラッグストア",
+      "aliases": [
+        "レデイ薬局",
+        "レデイ",
+        "lady drug"
+      ],
+      "source": "https://www.lady-drug.co.jp/"
+    },
+    {
+      "name": "杏林堂薬局",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社杏林堂薬局",
+      "category": "ドラッグストア",
+      "aliases": [
+        "杏林堂",
+        "杏林堂スーパードラッグストア",
+        "きょうりんどう"
+      ],
+      "source": "https://www.kyorindo.co.jp/"
+    },
+    {
+      "name": "ドラッグイレブン",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社ドラッグイレブン",
+      "category": "ドラッグストア",
+      "aliases": [
+        "drug eleven",
+        "ドラッグ11"
+      ],
+      "source": "https://www.drugeleven.com/"
+    },
+    {
+      "name": "ウエルシア",
+      "group": "tsuruha-welcia",
+      "operator": "ウエルシア薬局株式会社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ウェルシア",
+        "ウエルシア薬局",
+        "welcia",
+        "welcia yakkyoku"
+      ],
+      "source": "https://www.welcia-yakkyoku.co.jp/"
+    },
+    {
+      "name": "ハックドラッグ",
+      "group": "tsuruha-welcia",
+      "operator": "ウエルシア薬局株式会社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "HACドラッグ",
+        "ハック",
+        "hac drug"
+      ],
+      "source": "https://www.tsuruha-hd.co.jp/company/list/"
+    },
+    {
+      "name": "金光薬品",
+      "group": "tsuruha-welcia",
+      "operator": "ウエルシア薬局株式会社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "かなみつやくひん",
+        "かなみつ薬品"
+      ],
+      "source": "https://www.tsuruha-hd.co.jp/company/list/"
+    },
+    {
+      "name": "とをしや薬局",
+      "group": "tsuruha-welcia",
+      "operator": "ウエルシア薬局株式会社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "とをしや",
+        "とおしや薬局"
+      ],
+      "source": "https://www.tsuruha-hd.co.jp/company/list/"
+    },
+    {
+      "name": "ダックス",
+      "group": "tsuruha-welcia",
+      "operator": "シミズ薬品株式会社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "DACS",
+        "ダックスドラッグ"
+      ],
+      "source": "https://www.welcia.co.jp/ja/form.html"
+    },
+    {
+      "name": "ハッピー・ドラッグ",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社丸大サクラヰ薬局",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ハッピードラッグ",
+        "happy drug"
+      ],
+      "source": "https://www.welcia.co.jp/ja/form.html"
+    },
+    {
+      "name": "よどやドラッグ",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社よどや",
+      "category": "ドラッグストア",
+      "aliases": [
+        "よどや",
+        "yodoya drug"
+      ],
+      "source": "https://www.welcia.co.jp/ja/form.html"
+    },
+    {
+      "name": "マルエドラッグ",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社クスリのマルエ",
+      "category": "ドラッグストア",
+      "aliases": [
+        "マルエ薬局",
+        "クスリのマルエ",
+        "marue drug"
+      ],
+      "source": "https://www.welcia.co.jp/ja/form.html"
+    },
+    {
+      "name": "スーパードラッグひまわり",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社ププレひまわり",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ひまわり",
+        "ププレひまわり",
+        "pupule himawari"
+      ],
+      "source": "https://www.welcia.co.jp/ja/form.html"
+    },
+    {
+      "name": "コクミン",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社コクミン",
+      "category": "ドラッグストア",
+      "aliases": [
+        "KOKUMIN",
+        "コクミンドラッグ"
+      ],
+      "source": "https://www.kokumin.co.jp/"
+    },
+    {
+      "name": "ふく薬品",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社ふく薬品",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ふくやくひん"
+      ],
+      "source": "https://www.welcia.co.jp/ja/form.html"
+    },
+    {
+      "name": "ウェルパーク",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社ウェルパーク",
+      "category": "ドラッグストア",
+      "aliases": [
+        "welpark",
+        "ウェルパーク薬局"
+      ],
+      "source": "https://www.welpark.jp/"
+    },
+    {
+      "name": "COLOR STUDIO",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社MASAYA",
+      "category": "専門店",
+      "aliases": [
+        "カラースタジオ",
+        "colorstudio"
+      ],
+      "source": "https://colorstudio.co.jp/"
+    },
+    {
+      "name": "MASAYA",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社MASAYA",
+      "category": "専門店",
+      "aliases": [
+        "マサヤ",
+        "マサヤ化粧品"
+      ],
+      "source": "https://colorstudio.co.jp/"
+    },
+    {
+      "name": "NARCIS",
+      "group": "tsuruha-welcia",
+      "operator": "株式会社MASAYA",
+      "category": "専門店",
+      "aliases": [
+        "ナルシス"
+      ],
+      "source": "https://colorstudio.co.jp/"
     }
   ]
 }
