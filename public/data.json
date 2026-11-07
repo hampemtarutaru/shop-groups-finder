@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "notice": "掲載対象は一部のブランドです。企業の資本・運営関係は変わることがあります。",
   "groups": [
     {
@@ -44,10 +44,10 @@
       "id": "aeon",
       "name": "イオングループ",
       "company": "イオン株式会社",
-      "summary": "総合スーパー・食品スーパー・コンビニからヘルス＆ウエルネスまで展開。2026年1月14日にツルハホールディングスを連結子会社化し、その完全子会社ウエルシアホールディングスと合わせて国内最大級のドラッグストア網を持つ。ツルハ・ウエルシアは本図鑑では子グループとして独立表示し、資本上はイオン傘下であることを明記。",
+      "summary": "総合スーパー・食品スーパー・コンビニからヘルス＆ウエルネスまで展開。2026年1月14日にツルハホールディングスを連結子会社化し、その完全子会社ウエルシアホールディングスと合わせて国内最大級のドラッグストア網を持つ。ツルハ・ウエルシアは本図鑑では子グループとして独立表示し、資本上はイオン傘下であることを明記。 2026年時点で首都圏食品スーパーの中間持株会社U.S.M.Hがマルエツ、カスミ、いなげや、イオンフードスタイルを統括。本図鑑ではこの4社のブランドを独立サブグループ『usmh』に掲載。各地のマックスバリュはエリアによって運営会社が異なるため全国一括でU.S.M.Hに移さない。",
       "accent": "#9A588E",
       "source": "https://www.aeon.info/group/",
-      "checked": "2026-11-06",
+      "checked": "2026-11-07",
       "events": [
         {
           "year": "2025",
@@ -1777,6 +1777,360 @@
           "text": "公式飲食事業ページで埼玉県内のラーメンショップ椿4店舗と三郷たかの食堂を掲載。"
         }
       ]
+    },
+    {
+      "id": "bluezones",
+      "name": "ブルーゾーンHD（ヤオコー系）",
+      "company": "株式会社ブルーゾーンホールディングス",
+      "summary": "ヤオコーを中心に、エイヴイ、フーコット、文化堂、千葉のせんどう、愛知・静岡のクックマートが同じ持株会社傘下にある。各地の店名を残しながら地域スーパーを広域展開する。2025年にヤオコーの持株会社として設立・上場。クックマートのデライトHDとの関係などは公式グループ会社一覧に沿う。",
+      "source": "https://www.bluezonesholdings.co.jp/corporate/group.html",
+      "accent": "#8A8B51",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "2025",
+          "text": "10月、ヤオコーの株式移転によってブルーゾーンHD体制へ。"
+        },
+        {
+          "year": "2026",
+          "text": "3月末時点でヤオコー202店、エイヴイ14店、フーコット5店、文化堂18店、せんどう25店、クックマート12店（各公式紹介）。"
+        }
+      ]
+    },
+    {
+      "id": "oic",
+      "name": "OICグループ（ロピア・スーパーバリュー）",
+      "company": "株式会社OICグループ",
+      "summary": "食品スーパーのロピア、スーパーバリュー、アキダイ、精肉店の新鮮大売ユータカラヤなどを展開。2026年1月にスーパーバリューがOICグループの完全子会社へ。食肉加工から食品製造・小売まで広がる。名前の似た洋菓子メーカー『ロピア』とは別会社。",
+      "source": "https://lopia.jp/company",
+      "accent": "#B8564C",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "1971",
+          "text": "ロピアの前身となる精肉店を創業。"
+        },
+        {
+          "year": "2026",
+          "text": "1月、スーパーバリューを完全子会社化。"
+        }
+      ]
+    },
+    {
+      "id": "belc",
+      "name": "ベルクグループ（クルベ）",
+      "company": "株式会社ベルク",
+      "summary": "埼玉県発祥の上場スーパー。『ベルク』のほか、ディスカウント業態『CLBE／旬鮮魚市場クルベ』を展開。2026年2月末のベルク大株主ではイオンが15%保有するが、ベルクは独立上場企業で、イオンの連結子会社と断定しない。しまむらも4.21%を保有する株主であり、しまむらとの親子会社関係もない。",
+      "source": "https://www.belc.jp/company/stock/basicinfo",
+      "accent": "#58966D",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "2026",
+          "text": "2月末、イオンの持株比率15.00%とベルク公式株式基本情報に掲載。"
+        }
+      ]
+    },
+    {
+      "id": "mami-mart-hd",
+      "name": "マミーマートHD（生鮮市場TOP・マミープラス）",
+      "company": "株式会社マミーマートホールディングス",
+      "summary": "さいたま市北区宮原町に本部を置く上場スーパー企業。2025年10月に持株会社化し、運営子会社株式会社マミーマートを新設。『マミーマート』『生鮮市場TOP!』『マミープラス』を展開。彩裕フーズ、マミーサービス等もグループにあり、マミーサービスには温浴・葬祭事業があるがスーパーマーケットと混同しない。",
+      "source": "https://mami-mart-holdings.com/",
+      "accent": "#A14F6E",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "1950",
+          "text": "マミーマート前身企業設立。"
+        },
+        {
+          "year": "2025",
+          "text": "10月、マミーマートHDを持株会社として、事業会社の株式会社マミーマートを新設。"
+        },
+        {
+          "year": "2026",
+          "text": "9月時点、運営子会社公式会社概要でスーパー93店と発表。"
+        }
+      ]
+    },
+    {
+      "id": "ok-supermarket",
+      "name": "オーケー（独立系スーパー）",
+      "company": "オーケー株式会社",
+      "summary": "1958年に岡永商店の小売部門として創業、1967年に独立会社設立。ディスカウントスーパー『オーケー』を関東・関西に展開。オーケークリエイティブやオーケー育英財団が主要株主。伊藤忠食品・三菱商事など少数株主の名前があっても、コンビニのファミリーマートや三菱商事の完全子会社として誤分類しない。",
+      "source": "https://ok-corporation.jp/company/company-profile.html",
+      "accent": "#527F92",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "1958",
+          "text": "6月、岡永商店の小売部門としてスタート。"
+        },
+        {
+          "year": "1967",
+          "text": "9月、オーケー株式会社を設立。"
+        },
+        {
+          "year": "2026",
+          "text": "関西と関東でディスカウントスーパーを展開。"
+        }
+      ]
+    },
+    {
+      "id": "life-corp",
+      "name": "ライフコーポレーション（ビオラル）",
+      "company": "株式会社ライフコーポレーション",
+      "summary": "首都圏・近畿圏で『ライフ』『ビオラル』を運営する独立上場企業。三菱商事は2026年2月末時点24.37%の大株主だが、ライフは三菱商事の連結子会社ではない。2026年9月8日、北陸のアルビスを子会社化するTOBを発表したが、11月7日時点では11月10日終了予定の公開買付期間中であり**アルビスの子会社化は未確定**。アルビスは別グループで管理し成立確認後に更新する。",
+      "source": "https://www.lifecorp.jp/company/ir/IRnews/2026/index.html",
+      "accent": "#63936F",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "2026",
+          "text": "9月8日、アルビスへの公開買付けを発表。"
+        },
+        {
+          "year": "2026",
+          "text": "11月7日時点、公開買付期間中（11月10日終了予定）。子会社化の完了は未確認。"
+        }
+      ]
+    },
+    {
+      "id": "albis-pending",
+      "name": "アルビス（ライフTOB進行中・現時点で別系列）",
+      "company": "アルビス株式会社",
+      "summary": "富山・石川・福井を中心に食品スーパー『アルビス』を展開する上場企業。2026年9月8日にライフコーポレーションから買収提案を受け賛同、TOBの公開買付期間は9月9日～11月10日、決済開始予定11月17日。2026年11月7日時点では**ライフへの子会社化は未成立・結果未確認**なので、実行済みの同一系列として表示しない。成立後は企業関係を改めて確認して修正。",
+      "source": "https://www.albis.co.jp/",
+      "accent": "#547FA9",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "2026",
+          "text": "9月8日、ライフコーポレーションによる公開買付けへの賛同を表明。"
+        },
+        {
+          "year": "2026",
+          "text": "11月10日、TOB応募期限の予定日（11月7日現在未来の予定）。"
+        }
+      ]
+    },
+    {
+      "id": "summit-sumitomo",
+      "name": "サミット・トモズ（住友商事グループ）",
+      "company": "住友商事株式会社／サミット株式会社／株式会社トモズ",
+      "summary": "食品スーパー『サミットストア』とドラッグストア『トモズ』『アメリカンファーマシー』『メディコ』『カツマタ』は住友商事傘下。サミットもトモズも住友商事の100%事業会社。2025年10月に共通ポイント『STポイント』で会員IDを統合。商品仕入先・取引先ではなく真正の資本関係。",
+      "source": "https://www.sumitomocorp.com/ja/jp/news/topics/2025/group/20251001",
+      "accent": "#64759F",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "1963",
+          "text": "7月、サミット株式会社設立。"
+        },
+        {
+          "year": "1993",
+          "text": "9月、株式会社トモズ設立。"
+        },
+        {
+          "year": "2025",
+          "text": "10月、サミットとトモズで『STポイント』共通ポイントを開始。"
+        }
+      ]
+    },
+    {
+      "id": "beisia-family",
+      "name": "ベイシアグループ（カインズ・ワークマン・ハンズ）",
+      "company": "株式会社ベイシア／株式会社カインズ／株式会社ワークマンほかベイシアグループ各社",
+      "summary": "群馬発祥『いせや』を起点とする35社の企業集団。食品スーパー『ベイシア』、ホームセンター『カインズ』、作業服『ワークマン』、生活雑貨『ハンズ』、カー用品『オートアールズ』、家電『ベイシア電器』、食品スーパー『トップワン』『スーパー三心』などが同じ企業グループに属する。ただしワークマン公式は『親会社及び子会社を有しておりません』と説明しており、単一の持株会社が全社を連結子会社として統括するという意味ではない。",
+      "source": "https://www.cainz.co.jp/corporate/group/",
+      "accent": "#6F8C52",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "1958",
+          "text": "前身『いせや』設立。"
+        },
+        {
+          "year": "1996",
+          "text": "『ベイシア』設立。"
+        },
+        {
+          "year": "2026",
+          "text": "2月末時点、グループ35社・1,930店・売上1兆2,137億円と発表。"
+        }
+      ]
+    },
+    {
+      "id": "rogers",
+      "name": "ロヂャース（北辰商事・独立系）",
+      "company": "北辰商事株式会社",
+      "summary": "埼玉県さいたま市桜区に本社を置く独立系ディスカウントストア。大型『ロヂャース』に加え、小型『ロヂャースマート』『マイカイマート』を運営。食料品から日用品まで幅広く扱う。綴りは『ロジャース』ではなく正式には『ロヂャース』。",
+      "source": "https://www.rogers.co.jp/company/business.html",
+      "accent": "#A77756",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "2026",
+          "text": "公式店舗一覧でロヂャース、ロヂャースマート、マイカイマートを確認。"
+        }
+      ]
+    },
+    {
+      "id": "jm-holdings",
+      "name": "JMホールディングス（ジャパンミート・肉のハナマサ）",
+      "company": "株式会社JMホールディングス",
+      "summary": "『ジャパンミート生鮮館』『ジャパンミート卸売市場』『MEATMeet』『パワーマート』に加え『肉のハナマサ』『肉のハナマサPLUS』『スーパーみらべる』も傘下。ジャパンミートがジョイフル本田店内へ出店しているからといってジョイフル本田そのものの子会社という意味ではない。焼肉や漫遊亭など飲食事業もある。",
+      "source": "https://jm-holdings.co.jp/profile/profile.html",
+      "accent": "#AD704F",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "1978",
+          "text": "8月、ジャパンミートの前身を設立。"
+        },
+        {
+          "year": "2023",
+          "text": "2月、スーパーみらべるを子会社化。"
+        },
+        {
+          "year": "2026",
+          "text": "7月末時点、公式会社概要にジャパンミート、花正、スーパーみらべるの各事業を記載。"
+        }
+      ]
+    },
+    {
+      "id": "ecos",
+      "name": "エコスグループ（TAIRAYA・与野フード）",
+      "company": "株式会社エコス",
+      "summary": "エコス、TAIRAYA、たいらや、マスダ、与野フード、フードガーデン、Yバリュー、ココスナカムラ、ベンガベンガ等を展開。1965年青果店から創業。与野フードセンターは2020年、ココスナカムラは2024年、ベンガベンガは2026年10月に子会社化。『TAIRAYA』は複数グループ事業会社で使う共通屋号であり、会社名は店舗ごとに確認が必要。",
+      "source": "https://www.eco-s.co.jp/profile/",
+      "accent": "#73966A",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "1965",
+          "text": "12月、有限会社たいらや商店を設立。"
+        },
+        {
+          "year": "2020",
+          "text": "9月、与野フードセンターを子会社化。"
+        },
+        {
+          "year": "2024",
+          "text": "9月、ココスナカムラを子会社化。"
+        },
+        {
+          "year": "2026",
+          "text": "10月、ベンガベンガを連結子会社化。"
+        }
+      ]
+    },
+    {
+      "id": "ozam",
+      "name": "オザムグループ（ラコマート・たじま）",
+      "company": "株式会社オザム",
+      "summary": "東京・埼玉でスーパーオザム、オザムバリュー、ラコマート、エネルギースーパーたじまを展開。別事業としてパチンコホール『トワーズ』やアミューズメント『キャッチラボ』も運営する。スーパー企業だがレジャー事業も同じ会社の事業。",
+      "source": "https://www.ozam.jp/html/01.htm",
+      "accent": "#67888E",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "1969",
+          "text": "6月、株式会社オザム設立。"
+        },
+        {
+          "year": "2026",
+          "text": "3月期時点、スーパー4屋号とレジャー事業を公式会社概要に掲載。"
+        }
+      ]
+    },
+    {
+      "id": "kobebussan",
+      "name": "神戸物産（業務スーパーのFC本部）",
+      "company": "株式会社神戸物産",
+      "summary": "『業務スーパー』のフランチャイズ本部である神戸物産。店舗の実際の小売運営会社は全国のFC加盟企業が中心。『馳走菜』『プレミアムカルビ』『神戸クック・ワールドビュッフェ』も展開。FCの実店舗運営法人と神戸物産本体の親子会社関係を混同しない。",
+      "source": "https://www.gyomusuper.jp/opinion/fc.php",
+      "accent": "#64866D",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "2026",
+          "text": "4月末時点、公式事業紹介でワールドビュッフェ、プレミアムカルビ、馳走菜を確認。"
+        }
+      ]
+    },
+    {
+      "id": "daikokuten",
+      "name": "大黒天物産（ラ・ムー・ディオ）",
+      "company": "大黒天物産株式会社",
+      "summary": "岡山県を中心に西日本・中部などでディスカウントスーパー『ラ・ムー』『ディオ』『ザ・大黒天』『ディオマート』、小型店『ら・む～マート』等を運営。大黒天物産の公式サイト掲載屋号に限定し、屋号が似る別会社や未確認の海外業態を含めない。",
+      "source": "https://www.e-dkt.co.jp/",
+      "accent": "#9E6B52",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "2026",
+          "text": "公式会社紹介にラ・ムー、ディオ、ザ・大黒天、ディオマート、バリュー100、ら・む～マートを掲載。"
+        }
+      ]
+    },
+    {
+      "id": "valor-hd",
+      "name": "バローホールディングス（スーパー・ドラッグ）",
+      "company": "株式会社バローホールディングス",
+      "summary": "中部・東海を中心に『バロー』『タチヤ』『食鮮館タイヨー』『公正屋』『フタバヤ』『三幸』等の食品スーパーを多ブランド展開。ドラッグストアのV・drug、ホームセンターバローやペット専門店も傘下。2026年9月末現在グループで食品スーパー368店、ドラッグストア585店、ホームセンター165店などを公式集計。",
+      "source": "https://valorholdings.co.jp/corporate/stores.html",
+      "accent": "#7C8B5F",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "2026",
+          "text": "9月末時点、食品スーパー368店舗・ドラッグストア585店舗等と公式集計。"
+        }
+      ]
+    },
+    {
+      "id": "arcs",
+      "name": "アークスグループ（北海道・東北のスーパー）",
+      "company": "株式会社アークス",
+      "summary": "北海道・東北・北関東の食品スーパー持株会社。ラルズ、ユニバース、ベルジョイス、福原、道北アークス、東光ストア、道南ラルズ、道東アークス、伊藤チェーン、オータニなど地域事業会社が参加。『スーパーアークス』『ビッグハウス』『ユニバース』『東光ストア』『フクハラ』『オータニ』等の看板で展開。事業会社名と店の屋号は同一とは限らない。",
+      "source": "https://www.arcs-g.co.jp/about/group-company/",
+      "accent": "#497C98",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "2026",
+          "text": "公式グループ企業一覧に北海道・東北・栃木・埼玉の地域事業会社を掲載。"
+        }
+      ]
+    },
+    {
+      "id": "usmh",
+      "name": "U.S.M.H（マルエツ・カスミ・いなげや／イオン傘下）",
+      "company": "ユナイテッド・スーパーマーケット・ホールディングス株式会社",
+      "summary": "イオングループの首都圏食品スーパー共同持株会社。マルエツ（マルエツプチ・リンコス）、カスミ（フードスクエア、FOOD OFFストッカー、BLΛNDE）、いなげや（ina21・ブルーミングブルーミー）、2026年に発足したイオンフードスタイル（関東マックスバリュ・旧ダイエー関東・ピーコックストア関連）が同じグループ。2026年9月28日760店。親会社イオンと中間持株会社U.S.M.Hを区別。全国の『マックスバリュ』全店をU.S.M.H直轄とは表現しない。",
+      "source": "https://www.usmh.co.jp/about",
+      "accent": "#876D9B",
+      "checked": "2026-11-07",
+      "events": [
+        {
+          "year": "2015",
+          "text": "3月、マルエツ・カスミ・マックスバリュ関東の共同持株会社として発足。"
+        },
+        {
+          "year": "2024",
+          "text": "11月、いなげやをグループへ統合。"
+        },
+        {
+          "year": "2026",
+          "text": "3月、関東のマックスバリュ・旧ダイエー関東事業・イオンマーケットを統合しイオンフードスタイルを設立。"
+        },
+        {
+          "year": "2026",
+          "text": "9月28日、4事業会社合計760店。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -1934,11 +2288,11 @@
     },
     {
       "name": "マルエツ",
-      "group": "aeon",
-      "operator": "株式会社マルエツ",
+      "group": "usmh",
+      "operator": "株式会社マルエツ（U.S.M.H／イオングループ）",
       "category": "スーパー",
       "aliases": [],
-      "source": "https://www.aeon.info/group/"
+      "source": "https://www.usmh.co.jp/about"
     },
     {
       "name": "ミニストップ",
@@ -1963,11 +2317,11 @@
     },
     {
       "name": "カスミ",
-      "group": "aeon",
-      "operator": "株式会社カスミ",
+      "group": "usmh",
+      "operator": "株式会社カスミ（U.S.M.H／イオングループ）",
       "category": "スーパー",
       "aliases": [],
-      "source": "https://www.aeon.info/group/"
+      "source": "https://www.usmh.co.jp/about"
     },
     {
       "name": "トライアル",
@@ -8136,6 +8490,1112 @@
         "三郷たかの"
       ],
       "source": "https://inpex.jpn.com/about/food"
+    },
+    {
+      "name": "ヤオコー",
+      "group": "bluezones",
+      "operator": "株式会社ヤオコー",
+      "category": "スーパー",
+      "aliases": [
+        "やおこー",
+        "Yaoko"
+      ],
+      "source": "https://www.bluezonesholdings.co.jp/corporate/group.html"
+    },
+    {
+      "name": "エイヴイ",
+      "group": "bluezones",
+      "operator": "株式会社エイヴイ",
+      "category": "スーパー",
+      "aliases": [
+        "エイビイ",
+        "エイヴィ",
+        "ave",
+        "AVE"
+      ],
+      "source": "https://www.bluezonesholdings.co.jp/corporate/group.html"
+    },
+    {
+      "name": "フーコット",
+      "group": "bluezones",
+      "operator": "株式会社フーコット",
+      "category": "スーパー",
+      "aliases": [
+        "FOOCOT",
+        "ふーこっと"
+      ],
+      "source": "https://www.bluezonesholdings.co.jp/corporate/group.html"
+    },
+    {
+      "name": "せんどう",
+      "group": "bluezones",
+      "operator": "株式会社せんどう",
+      "category": "スーパー",
+      "aliases": [
+        "SENDO"
+      ],
+      "source": "https://www.bluezonesholdings.co.jp/corporate/group.html"
+    },
+    {
+      "name": "文化堂",
+      "group": "bluezones",
+      "operator": "株式会社文化堂",
+      "category": "スーパー",
+      "aliases": [
+        "ぶんかどう",
+        "BUNKADO"
+      ],
+      "source": "https://www.bluezonesholdings.co.jp/corporate/group.html"
+    },
+    {
+      "name": "クックマート",
+      "group": "bluezones",
+      "operator": "クックマート株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "Cook Mart",
+        "cookmart"
+      ],
+      "source": "https://www.bluezonesholdings.co.jp/corporate/group.html"
+    },
+    {
+      "name": "ロピア",
+      "group": "oic",
+      "operator": "株式会社ロピア",
+      "category": "スーパー",
+      "aliases": [
+        "LOPIA",
+        "食生活ロピア"
+      ],
+      "source": "https://lopia.jp/company"
+    },
+    {
+      "name": "新鮮大売 ユータカラヤ",
+      "group": "oic",
+      "operator": "株式会社ロピア",
+      "category": "スーパー",
+      "aliases": [
+        "ユータカラヤ",
+        "ユータカラヤ食品"
+      ],
+      "source": "https://lopia.jp/company"
+    },
+    {
+      "name": "スーパーバリュー",
+      "group": "oic",
+      "operator": "株式会社スーパーバリュー",
+      "category": "スーパー",
+      "aliases": [
+        "SuperValue",
+        "スーパー・バリュー"
+      ],
+      "source": "https://www.supervalue.jp/company/history.html"
+    },
+    {
+      "name": "アキダイ",
+      "group": "oic",
+      "operator": "株式会社アキダイ",
+      "category": "スーパー",
+      "aliases": [
+        "あきだい"
+      ],
+      "source": "https://lopia.jp/company"
+    },
+    {
+      "name": "REACO",
+      "group": "oic",
+      "operator": "株式会社REACO",
+      "category": "専門店",
+      "aliases": [
+        "リアコ",
+        "リアコ韓国"
+      ],
+      "source": "https://lopia.jp/company"
+    },
+    {
+      "name": "ベルク",
+      "group": "belc",
+      "operator": "株式会社ベルク",
+      "category": "スーパー",
+      "aliases": [
+        "belc"
+      ],
+      "source": "https://www.belc.jp/"
+    },
+    {
+      "name": "旬鮮魚市場クルベ",
+      "group": "belc",
+      "operator": "株式会社ベルク",
+      "category": "スーパー",
+      "aliases": [
+        "クルベ",
+        "CLBE",
+        "旬鮮魚市場 クルベ"
+      ],
+      "source": "https://www.belc.jp/"
+    },
+    {
+      "name": "マミーマート",
+      "group": "mami-mart-hd",
+      "operator": "株式会社マミーマート（マミーマートHD傘下）",
+      "category": "スーパー",
+      "aliases": [
+        "mami-mart",
+        "mamimart"
+      ],
+      "source": "https://mami-mart-holdings.com/"
+    },
+    {
+      "name": "生鮮市場TOP!",
+      "group": "mami-mart-hd",
+      "operator": "株式会社マミーマート（マミーマートHD傘下）",
+      "category": "スーパー",
+      "aliases": [
+        "生鮮市場TOP",
+        "生鮮市場トップ",
+        "TOP!"
+      ],
+      "source": "https://mami-mart-holdings.com/"
+    },
+    {
+      "name": "マミープラス",
+      "group": "mami-mart-hd",
+      "operator": "株式会社マミーマート（マミーマートHD傘下）",
+      "category": "スーパー",
+      "aliases": [
+        "Mammy Plus",
+        "マミーPLUS"
+      ],
+      "source": "https://mami-mart-holdings.com/"
+    },
+    {
+      "name": "オーケー",
+      "group": "ok-supermarket",
+      "operator": "オーケー株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "OKストア",
+        "OKスーパー",
+        "オーケーストア",
+        "OK"
+      ],
+      "source": "https://ok-corporation.jp/company/company-profile.html"
+    },
+    {
+      "name": "ライフ",
+      "group": "life-corp",
+      "operator": "株式会社ライフコーポレーション",
+      "category": "スーパー",
+      "aliases": [
+        "ライフコーポレーション",
+        "スーパーライフ",
+        "Life supermarket"
+      ],
+      "source": "https://www.lifecorp.jp/company/info/news/"
+    },
+    {
+      "name": "ビオラル",
+      "group": "life-corp",
+      "operator": "株式会社ライフコーポレーション",
+      "category": "スーパー",
+      "aliases": [
+        "BIO-RAL",
+        "BIORAL",
+        "BIO RAL"
+      ],
+      "source": "https://www.lifecorp.jp/company/info/news/"
+    },
+    {
+      "name": "アルビス",
+      "group": "albis-pending",
+      "operator": "アルビス株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "ALBIS",
+        "albis supermarket"
+      ],
+      "source": "https://www.albis.co.jp/"
+    },
+    {
+      "name": "サミットストア",
+      "group": "summit-sumitomo",
+      "operator": "サミット株式会社（住友商事100%子会社）",
+      "category": "スーパー",
+      "aliases": [
+        "サミット",
+        "summit store"
+      ],
+      "source": "https://www.sumitomocorp.com/ja/jp/about/company/scgroup/business/business06"
+    },
+    {
+      "name": "トモズ",
+      "group": "summit-sumitomo",
+      "operator": "株式会社トモズ（住友商事100%子会社）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "Tomod's",
+        "Tomods"
+      ],
+      "source": "https://www.tomods.jp/company"
+    },
+    {
+      "name": "アメリカンファーマシー",
+      "group": "summit-sumitomo",
+      "operator": "株式会社トモズ（住友商事100%子会社）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "American Pharmacy",
+        "AMERICAN PHARMACY"
+      ],
+      "source": "https://www.tomods.jp/company"
+    },
+    {
+      "name": "メディコ",
+      "group": "summit-sumitomo",
+      "operator": "株式会社トモズ（住友商事100%子会社）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "トモズ メディコ"
+      ],
+      "source": "https://www.tomods.jp/company"
+    },
+    {
+      "name": "カツマタ",
+      "group": "summit-sumitomo",
+      "operator": "株式会社トモズ（住友商事100%子会社）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ドラッグカツマタ",
+        "クスリのカツマタ"
+      ],
+      "source": "https://www.tomods.jp/company"
+    },
+    {
+      "name": "インクローバー",
+      "group": "summit-sumitomo",
+      "operator": "株式会社トモズ",
+      "category": "専門店",
+      "aliases": [
+        "INCLOVER",
+        "in clover"
+      ],
+      "source": "https://www.tomods.jp/company"
+    },
+    {
+      "name": "ベイシア",
+      "group": "beisia-family",
+      "operator": "株式会社ベイシア",
+      "category": "スーパー",
+      "aliases": [
+        "Beisia"
+      ],
+      "source": "https://www.beisia.co.jp/企業情報/店舗形態について"
+    },
+    {
+      "name": "ベイシアマート",
+      "group": "beisia-family",
+      "operator": "株式会社ベイシア",
+      "category": "スーパー",
+      "aliases": [
+        "Beisia Mart"
+      ],
+      "source": "https://www.beisia.co.jp/企業情報/店舗形態について"
+    },
+    {
+      "name": "ベイシア Foods Park",
+      "group": "beisia-family",
+      "operator": "株式会社ベイシア",
+      "category": "スーパー",
+      "aliases": [
+        "ベイシアフーズパーク",
+        "Beisia Foods Park"
+      ],
+      "source": "https://www.beisia.co.jp/企業情報/店舗形態について"
+    },
+    {
+      "name": "トップワン",
+      "group": "beisia-family",
+      "operator": "株式会社トップワン",
+      "category": "スーパー",
+      "aliases": [
+        "スーパー トップワン",
+        "TOP1"
+      ],
+      "source": "https://www.cainz.co.jp/corporate/group/"
+    },
+    {
+      "name": "スーパー三心",
+      "group": "beisia-family",
+      "operator": "株式会社三心",
+      "category": "スーパー",
+      "aliases": [
+        "三心",
+        "さんしん"
+      ],
+      "source": "https://www.cainz.co.jp/corporate/group/"
+    },
+    {
+      "name": "カインズ",
+      "group": "beisia-family",
+      "operator": "株式会社カインズ",
+      "category": "量販店",
+      "aliases": [
+        "カインズホーム",
+        "CAINZ"
+      ],
+      "source": "https://www.cainz.co.jp/corporate/group/"
+    },
+    {
+      "name": "ワークマン",
+      "group": "beisia-family",
+      "operator": "株式会社ワークマン（ベイシアグループ所属、独立上場）",
+      "category": "専門店",
+      "aliases": [
+        "WORKMAN"
+      ],
+      "source": "https://www.workman.co.jp/ビジネス情報/企業概要"
+    },
+    {
+      "name": "WORKMAN Plus",
+      "group": "beisia-family",
+      "operator": "株式会社ワークマン（ベイシアグループ所属、独立上場）",
+      "category": "専門店",
+      "aliases": [
+        "ワークマンプラス",
+        "WORKMAN PLUS"
+      ],
+      "source": "https://www.workman.co.jp/ビジネス情報/企業概要"
+    },
+    {
+      "name": "ハンズ",
+      "group": "beisia-family",
+      "operator": "株式会社ハンズ",
+      "category": "専門店",
+      "aliases": [
+        "東急ハンズ（旧称）",
+        "HANDS"
+      ],
+      "source": "https://www.cainz.co.jp/corporate/group/"
+    },
+    {
+      "name": "ハンズ ビー",
+      "group": "beisia-family",
+      "operator": "株式会社ハンズ",
+      "category": "専門店",
+      "aliases": [
+        "ハンズビー",
+        "HANDS BE"
+      ],
+      "source": "https://www.cainz.co.jp/corporate/group/"
+    },
+    {
+      "name": "オートアールズ",
+      "group": "beisia-family",
+      "operator": "株式会社オートアールズ",
+      "category": "専門店",
+      "aliases": [
+        "AUTOR'S",
+        "Auto Rs"
+      ],
+      "source": "https://www.cainz.co.jp/corporate/group/"
+    },
+    {
+      "name": "ベイシア電器",
+      "group": "beisia-family",
+      "operator": "株式会社ベイシア電器",
+      "category": "量販店",
+      "aliases": [
+        "ベイシアでんき"
+      ],
+      "source": "https://www.cainz.co.jp/corporate/group/"
+    },
+    {
+      "name": "ロヂャース",
+      "group": "rogers",
+      "operator": "北辰商事株式会社",
+      "category": "量販店",
+      "aliases": [
+        "ロジャース",
+        "Rogers",
+        "ろぢゃーす"
+      ],
+      "source": "https://www.rogers.co.jp/sp/shop/"
+    },
+    {
+      "name": "ロヂャースマート",
+      "group": "rogers",
+      "operator": "北辰商事株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "ロジャースマート",
+        "ロヂャース smart"
+      ],
+      "source": "https://www.rogers.co.jp/sp/shop/"
+    },
+    {
+      "name": "マイカイマート",
+      "group": "rogers",
+      "operator": "北辰商事株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "まいかいマート",
+        "MAIKAI MART"
+      ],
+      "source": "https://www.rogers.co.jp/sp/shop/"
+    },
+    {
+      "name": "ジャパンミート生鮮館",
+      "group": "jm-holdings",
+      "operator": "株式会社ジャパンミート",
+      "category": "スーパー",
+      "aliases": [
+        "ジャパンミート",
+        "生鮮館",
+        "Japan Meat"
+      ],
+      "source": "https://jm-holdings.co.jp/profile/profile.html"
+    },
+    {
+      "name": "ジャパンミート卸売市場",
+      "group": "jm-holdings",
+      "operator": "株式会社ジャパンミート",
+      "category": "スーパー",
+      "aliases": [
+        "ジャパンミート卸売",
+        "卸売市場 ジャパンミート"
+      ],
+      "source": "https://jm-holdings.co.jp/profile/profile.html"
+    },
+    {
+      "name": "MEATMeet",
+      "group": "jm-holdings",
+      "operator": "株式会社ジャパンミート",
+      "category": "スーパー",
+      "aliases": [
+        "ミートミート",
+        "MEAT MEET",
+        "食肉卸売センター MEATMeet"
+      ],
+      "source": "https://jm-holdings.co.jp/profile/profile.html"
+    },
+    {
+      "name": "パワーマート",
+      "group": "jm-holdings",
+      "operator": "株式会社ジャパンミート",
+      "category": "スーパー",
+      "aliases": [
+        "Power Mart"
+      ],
+      "source": "https://jm-holdings.co.jp/profile/profile.html"
+    },
+    {
+      "name": "肉のハナマサ",
+      "group": "jm-holdings",
+      "operator": "株式会社花正",
+      "category": "スーパー",
+      "aliases": [
+        "ハナマサ",
+        "HANAMASA"
+      ],
+      "source": "https://jm-holdings.co.jp/profile/profile.html"
+    },
+    {
+      "name": "肉のハナマサPLUS",
+      "group": "jm-holdings",
+      "operator": "株式会社花正",
+      "category": "スーパー",
+      "aliases": [
+        "ハナマサプラス",
+        "肉のハナマサプラス"
+      ],
+      "source": "https://jm-holdings.co.jp/profile/profile.html"
+    },
+    {
+      "name": "スーパーみらべる",
+      "group": "jm-holdings",
+      "operator": "株式会社スーパーみらべる",
+      "category": "スーパー",
+      "aliases": [
+        "みらべる",
+        "mirabel"
+      ],
+      "source": "https://jm-holdings.co.jp/profile/profile.html"
+    },
+    {
+      "name": "焼肉や漫遊亭",
+      "group": "jm-holdings",
+      "operator": "株式会社ジャパンデリカ",
+      "category": "飲食",
+      "aliases": [
+        "漫遊亭",
+        "焼肉漫遊亭"
+      ],
+      "source": "https://jm-holdings.co.jp/profile/profile.html"
+    },
+    {
+      "name": "とんかつや漫遊亭",
+      "group": "jm-holdings",
+      "operator": "株式会社ジャパンデリカ",
+      "category": "飲食",
+      "aliases": [
+        "とんかつ漫遊亭"
+      ],
+      "source": "https://jm-holdings.co.jp/profile/profile.html"
+    },
+    {
+      "name": "エコス",
+      "group": "ecos",
+      "operator": "株式会社エコス",
+      "category": "スーパー",
+      "aliases": [
+        "Eco's",
+        "Ecos"
+      ],
+      "source": "https://www.eco-s.co.jp/profile/"
+    },
+    {
+      "name": "TAIRAYA",
+      "group": "ecos",
+      "operator": "株式会社エコス・株式会社たいらや等のグループ各社",
+      "category": "スーパー",
+      "aliases": [
+        "タイラヤ",
+        "Tairaya"
+      ],
+      "source": "https://www.recruit-eco-s.jp/faq/"
+    },
+    {
+      "name": "たいらや",
+      "group": "ecos",
+      "operator": "株式会社たいらや",
+      "category": "スーパー",
+      "aliases": [
+        "たいらやスーパー"
+      ],
+      "source": "https://www.recruit-eco-s.jp/faq/"
+    },
+    {
+      "name": "マスダ",
+      "group": "ecos",
+      "operator": "株式会社マスダ",
+      "category": "スーパー",
+      "aliases": [
+        "スーパー マスダ"
+      ],
+      "source": "https://www.recruit-eco-s.jp/faq/"
+    },
+    {
+      "name": "与野フード",
+      "group": "ecos",
+      "operator": "株式会社与野フードセンター",
+      "category": "スーパー",
+      "aliases": [
+        "よのふーど",
+        "与野フードセンター"
+      ],
+      "source": "https://www.recruit-eco-s.jp/faq/"
+    },
+    {
+      "name": "フードガーデン",
+      "group": "ecos",
+      "operator": "株式会社与野フードセンター",
+      "category": "スーパー",
+      "aliases": [
+        "Food Garden",
+        "フード・ガーデン"
+      ],
+      "source": "https://www.recruit-eco-s.jp/faq/"
+    },
+    {
+      "name": "Yバリュー",
+      "group": "ecos",
+      "operator": "株式会社与野フードセンター",
+      "category": "スーパー",
+      "aliases": [
+        "ワイバリュー",
+        "ワイ・バリュー",
+        "Y Value"
+      ],
+      "source": "https://www.recruit-eco-s.jp/faq/"
+    },
+    {
+      "name": "ココスナカムラ",
+      "group": "ecos",
+      "operator": "株式会社ココスナカムラ",
+      "category": "スーパー",
+      "aliases": [
+        "ココス・ナカムラ"
+      ],
+      "source": "https://www.recruit-eco-s.jp/faq/"
+    },
+    {
+      "name": "ベンガベンガ",
+      "group": "ecos",
+      "operator": "株式会社ベンガベンガ（2026年10月エコス傘下）",
+      "category": "スーパー",
+      "aliases": [
+        "BENGA BENGA",
+        "ベンガ・ベンガ"
+      ],
+      "source": "https://www.eco-s.co.jp/profile/"
+    },
+    {
+      "name": "スーパーオザム",
+      "group": "ozam",
+      "operator": "株式会社オザム・関連会社",
+      "category": "スーパー",
+      "aliases": [
+        "オザム",
+        "スーパー OZAM"
+      ],
+      "source": "https://www.ozam.jp/html/01.htm"
+    },
+    {
+      "name": "オザムバリュー",
+      "group": "ozam",
+      "operator": "株式会社オザム・関連会社",
+      "category": "スーパー",
+      "aliases": [
+        "オザム Value"
+      ],
+      "source": "https://www.ozam.jp/html/01.htm"
+    },
+    {
+      "name": "ラコマート",
+      "group": "ozam",
+      "operator": "株式会社オザム・関連会社",
+      "category": "スーパー",
+      "aliases": [
+        "RACOMART"
+      ],
+      "source": "https://www.ozam.jp/html/01.htm"
+    },
+    {
+      "name": "エネルギースーパーたじま",
+      "group": "ozam",
+      "operator": "株式会社オザム・関連会社",
+      "category": "スーパー",
+      "aliases": [
+        "たじま",
+        "エネルギー スーパーたじま"
+      ],
+      "source": "https://www.ozam.jp/html/01.htm"
+    },
+    {
+      "name": "業務スーパー",
+      "group": "kobebussan",
+      "operator": "株式会社神戸物産（業務スーパーFC本部。各店の運営は加盟企業）",
+      "category": "スーパー",
+      "aliases": [
+        "ぎょうむすーぱー",
+        "Gyomu Super",
+        "業スー"
+      ],
+      "source": "https://www.gyomusuper.jp/opinion/fc.php"
+    },
+    {
+      "name": "神戸クック・ワールドビュッフェ",
+      "group": "kobebussan",
+      "operator": "神戸物産グループの直営・加盟企業",
+      "category": "飲食",
+      "aliases": [
+        "神戸クックワールドビュッフェ",
+        "ワールドビュッフェ"
+      ],
+      "source": "https://kobebussan.co.jp/business/restaurant.php"
+    },
+    {
+      "name": "プレミアムカルビ",
+      "group": "kobebussan",
+      "operator": "神戸物産グループの直営・加盟企業",
+      "category": "飲食",
+      "aliases": [
+        "Premium Karubi"
+      ],
+      "source": "https://kobebussan.co.jp/business/restaurant.php"
+    },
+    {
+      "name": "馳走菜",
+      "group": "kobebussan",
+      "operator": "株式会社神戸物産・加盟事業者",
+      "category": "専門店",
+      "aliases": [
+        "ちそうな",
+        "chisonna"
+      ],
+      "source": "https://kobebussan.co.jp/business/restaurant.php"
+    },
+    {
+      "name": "ラ・ムー",
+      "group": "daikokuten",
+      "operator": "大黒天物産株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "ラ・ムー",
+        "ラ・ムー（LAMU）",
+        "LAMU",
+        "ラムー"
+      ],
+      "source": "https://www.e-dkt.co.jp/"
+    },
+    {
+      "name": "ディオ",
+      "group": "daikokuten",
+      "operator": "大黒天物産株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "DIO",
+        "スーパー ディオ"
+      ],
+      "source": "https://www.e-dkt.co.jp/"
+    },
+    {
+      "name": "ザ・大黒天",
+      "group": "daikokuten",
+      "operator": "大黒天物産株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "大黒天"
+      ],
+      "source": "https://www.e-dkt.co.jp/"
+    },
+    {
+      "name": "ディオマート",
+      "group": "daikokuten",
+      "operator": "大黒天物産株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "DIOMART"
+      ],
+      "source": "https://www.e-dkt.co.jp/"
+    },
+    {
+      "name": "バリュー100",
+      "group": "daikokuten",
+      "operator": "大黒天物産株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "VALU100",
+        "バリュー１００"
+      ],
+      "source": "https://www.e-dkt.co.jp/"
+    },
+    {
+      "name": "ら・む～マート",
+      "group": "daikokuten",
+      "operator": "大黒天物産株式会社",
+      "category": "コンビニ",
+      "aliases": [
+        "らむーマート",
+        "ラムーマート"
+      ],
+      "source": "https://www.e-dkt.co.jp/"
+    },
+    {
+      "name": "バロー",
+      "group": "valor-hd",
+      "operator": "株式会社バロー",
+      "category": "スーパー",
+      "aliases": [
+        "スーパーマーケットバロー",
+        "VALOR"
+      ],
+      "source": "https://valorholdings.co.jp/corporate/stores.html"
+    },
+    {
+      "name": "タチヤ",
+      "group": "valor-hd",
+      "operator": "株式会社タチヤ",
+      "category": "スーパー",
+      "aliases": [
+        "TACHIYA"
+      ],
+      "source": "https://valorholdings.co.jp/corporate/stores.html"
+    },
+    {
+      "name": "食鮮館タイヨー",
+      "group": "valor-hd",
+      "operator": "株式会社食鮮館タイヨー",
+      "category": "スーパー",
+      "aliases": [
+        "食鮮館たいよう"
+      ],
+      "source": "https://valorholdings.co.jp/corporate/stores.html"
+    },
+    {
+      "name": "公正屋",
+      "group": "valor-hd",
+      "operator": "株式会社公正屋",
+      "category": "スーパー",
+      "aliases": [
+        "こうせいや"
+      ],
+      "source": "https://valorholdings.co.jp/corporate/stores.html"
+    },
+    {
+      "name": "フタバヤ",
+      "group": "valor-hd",
+      "operator": "株式会社フタバヤ",
+      "category": "スーパー",
+      "aliases": [
+        "ふたばや"
+      ],
+      "source": "https://valorholdings.co.jp/corporate/stores.html"
+    },
+    {
+      "name": "スーパー三幸",
+      "group": "valor-hd",
+      "operator": "株式会社三幸",
+      "category": "スーパー",
+      "aliases": [
+        "三幸スーパー",
+        "三幸"
+      ],
+      "source": "https://valorholdings.co.jp/corporate/stores.html"
+    },
+    {
+      "name": "V・drug",
+      "group": "valor-hd",
+      "operator": "中部薬品株式会社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "Vドラッグ",
+        "ブイドラッグ",
+        "V drug"
+      ],
+      "source": "https://valorholdings.co.jp/corporate/stores.html"
+    },
+    {
+      "name": "ホームセンターバロー",
+      "group": "valor-hd",
+      "operator": "株式会社ホームセンターバロー",
+      "category": "量販店",
+      "aliases": [
+        "バローホームセンター"
+      ],
+      "source": "https://valorholdings.co.jp/corporate/stores.html"
+    },
+    {
+      "name": "スーパーアークス",
+      "group": "arcs",
+      "operator": "株式会社ラルズ",
+      "category": "スーパー",
+      "aliases": [
+        "アークススーパー",
+        "Super ARCS"
+      ],
+      "source": "https://www.arcs-g.co.jp/about/group-company/"
+    },
+    {
+      "name": "ラルズマート",
+      "group": "arcs",
+      "operator": "株式会社ラルズ",
+      "category": "スーパー",
+      "aliases": [
+        "RALSE mart"
+      ],
+      "source": "https://www.arcs-g.co.jp/about/group-company/"
+    },
+    {
+      "name": "ビッグハウス",
+      "group": "arcs",
+      "operator": "株式会社ラルズ",
+      "category": "スーパー",
+      "aliases": [
+        "BIG HOUSE"
+      ],
+      "source": "https://www.arcs-g.co.jp/about/group-company/"
+    },
+    {
+      "name": "ユニバース",
+      "group": "arcs",
+      "operator": "株式会社ユニバース",
+      "category": "スーパー",
+      "aliases": [
+        "UNIVERSE スーパー"
+      ],
+      "source": "https://www.arcs-g.co.jp/about/group-company/"
+    },
+    {
+      "name": "東光ストア",
+      "group": "arcs",
+      "operator": "株式会社東光ストア",
+      "category": "スーパー",
+      "aliases": [
+        "東光スーパー"
+      ],
+      "source": "https://www.arcs-g.co.jp/about/group-company/"
+    },
+    {
+      "name": "フクハラ",
+      "group": "arcs",
+      "operator": "株式会社福原",
+      "category": "スーパー",
+      "aliases": [
+        "スーパー フクハラ"
+      ],
+      "source": "https://www.arcs-g.co.jp/about/group-company/"
+    },
+    {
+      "name": "ジョイス",
+      "group": "arcs",
+      "operator": "株式会社ベルジョイス",
+      "category": "スーパー",
+      "aliases": [
+        "JOIS"
+      ],
+      "source": "https://www.arcs-g.co.jp/about/group-company/"
+    },
+    {
+      "name": "ベルプラス",
+      "group": "arcs",
+      "operator": "株式会社ベルジョイス",
+      "category": "スーパー",
+      "aliases": [
+        "BEL PLUS"
+      ],
+      "source": "https://www.arcs-g.co.jp/about/group-company/"
+    },
+    {
+      "name": "オータニ",
+      "group": "arcs",
+      "operator": "株式会社オータニ",
+      "category": "スーパー",
+      "aliases": [
+        "スーパーオータニ"
+      ],
+      "source": "https://www.arcs-g.co.jp/about/group-company/"
+    },
+    {
+      "name": "FOOD DEPO COSPA",
+      "group": "arcs",
+      "operator": "株式会社伊藤チェーン",
+      "category": "スーパー",
+      "aliases": [
+        "フードデポコスパ",
+        "COSPA"
+      ],
+      "source": "https://www.arcs-g.co.jp/about/group-company/"
+    },
+    {
+      "name": "マルエツ プチ",
+      "group": "usmh",
+      "operator": "株式会社マルエツ",
+      "category": "スーパー",
+      "aliases": [
+        "マルエツプチ",
+        "Maruetsu Petit"
+      ],
+      "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "リンコス",
+      "group": "usmh",
+      "operator": "株式会社マルエツ",
+      "category": "スーパー",
+      "aliases": [
+        "LINCOS"
+      ],
+      "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "フードスクエア カスミ",
+      "group": "usmh",
+      "operator": "株式会社カスミ",
+      "category": "スーパー",
+      "aliases": [
+        "フードスクエア",
+        "フードスクエアカスミ"
+      ],
+      "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "フードマーケット カスミ",
+      "group": "usmh",
+      "operator": "株式会社カスミ",
+      "category": "スーパー",
+      "aliases": [
+        "フードマーケットカスミ"
+      ],
+      "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "FOOD OFF ストッカー",
+      "group": "usmh",
+      "operator": "株式会社カスミ",
+      "category": "スーパー",
+      "aliases": [
+        "フードオフストッカー",
+        "FOOD OFF"
+      ],
+      "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "BLΛNDE",
+      "group": "usmh",
+      "operator": "株式会社カスミ",
+      "category": "スーパー",
+      "aliases": [
+        "ブランデ",
+        "BLANDE",
+        "ブランデカスミ"
+      ],
+      "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "いなげや",
+      "group": "usmh",
+      "operator": "株式会社いなげや",
+      "category": "スーパー",
+      "aliases": [
+        "inageya",
+        "イナゲヤ"
+      ],
+      "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "ina21",
+      "group": "usmh",
+      "operator": "株式会社いなげや",
+      "category": "スーパー",
+      "aliases": [
+        "イーナ21",
+        "イナ21"
+      ],
+      "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "ブルーミングブルーミー",
+      "group": "usmh",
+      "operator": "株式会社いなげや",
+      "category": "スーパー",
+      "aliases": [
+        "bloomingbloomy",
+        "ブルーミングブルーミィ"
+      ],
+      "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "フードスタイル",
+      "group": "usmh",
+      "operator": "株式会社イオンフードスタイル（関東エリア）",
+      "category": "スーパー",
+      "aliases": [
+        "FoodStyle",
+        "イオンフードスタイル"
+      ],
+      "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "ピーコックストア",
+      "group": "usmh",
+      "operator": "株式会社イオンフードスタイル（関東エリア）",
+      "category": "スーパー",
+      "aliases": [
+        "PEACOCK STORE",
+        "ピーコック"
+      ],
+      "source": "https://www.usmh.co.jp/about"
     }
   ]
 }
