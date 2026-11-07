@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "notice": "掲載対象は一部のブランドです。企業の資本・運営関係は変わることがあります。",
   "groups": [
     {
@@ -2129,6 +2129,103 @@
         {
           "year": "2026",
           "text": "9月28日、4事業会社合計760店。"
+        }
+      ]
+    },
+    {
+      "id": "five-group-pancho",
+      "name": "ファイブグループ（パンチョ関連企業）",
+      "company": "株式会社ファイブグループ／株式会社パンチョほか関連企業",
+      "summary": "武蔵野市発の多業態外食企業グループ。居酒屋『旨串とりとん』『燻し家もっくん』『居酒屋行くなら俺んち来い。』『ペコリ』『鬼ぞりゴリラ』やステーキロッヂ、ローストビーフ大野などを展開。ナポリタン専門の『スパゲッティーのパンチョ』は2009年ファイブグループ内のブランド開発から生まれ、2022年に株式会社パンチョとして分社化した関連企業。『キッチンパンチョ』『ごちそうスープパスタ』も同社展開。2026年10月のごちそうスープパスタ開業確認。かつて同グループが展開した『牛かつもと村』は2024年12月にサンマルクHDへ売却済みで、現在は別グループ。『串カツ田中』『ゴンチャ』『肉汁餃子のダンダダン』等はファイブ側に加盟店・FC運営実績があっても全国ブランド全体の所有権・資本系列ではないため本グループのブランドには登録しない。",
+      "accent": "#C35F4D",
+      "source": "https://five-group.co.jp/brands/outline",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "2003",
+          "text": "ファイブグループが飲食店事業を開始（居酒屋等）。"
+        },
+        {
+          "year": "2004",
+          "text": "自社居酒屋『旨串とりとん』1号店が開店。"
+        },
+        {
+          "year": "2009",
+          "text": "11月、ナポリタン専門店『スパゲッティーのパンチョ』を創業。"
+        },
+        {
+          "year": "2022",
+          "text": "パンチョ事業を株式会社パンチョとして分社化。"
+        },
+        {
+          "year": "2024",
+          "text": "12月6日、牛かつもと村事業をサンマルクHDへ譲渡（旧系列から離脱）。"
+        },
+        {
+          "year": "2026",
+          "text": "7月3日、パンチョ50店舗達成。10月2日、パンチョの新ブランド『ごちそうスープパスタ』代々木1号店が開店。"
+        }
+      ]
+    },
+    {
+      "id": "sawayaka-shizuoka",
+      "name": "さわやか（静岡県内の独立系）",
+      "company": "さわやか株式会社",
+      "summary": "1977年静岡県菊川市の『コーヒーショップさわやか』から始まった『炭焼きレストランさわやか』の独立系運営企業。1989年に現社名・現ブランド名へ。2026年5月の公式説明では静岡県内35店舗すべて直営、ハンバーグは自社工場製造、他社への製造委託なし。静岡県外の店や他社販売ハンバーグを同系列・公式商品と認めていない。『げんこつハンバーグ』『おにぎりハンバーグ』はメニュー商品名で別店舗チェーンではない。2026年12月1日に新店・御殿場ぐみ沢店が開業予定と11月2日告知（11月8日時点では未開業）。同名の飲食会社や他地域の『さわやか』とは混同しない。",
+      "accent": "#538A6D",
+      "source": "https://corp.genkotsu-hb.com/",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1976",
+          "text": "9月、前身のグリーン観光株式会社を設立。"
+        },
+        {
+          "year": "1977",
+          "text": "7月、菊川市に『コーヒーショップさわやか 菊川本店』開店。"
+        },
+        {
+          "year": "1989",
+          "text": "8月、さわやか株式会社に社名変更、『炭焼きレストランさわやか』へ改称。"
+        },
+        {
+          "year": "2026",
+          "text": "5月、全35店が静岡県内の直営店でハンバーグは自社工場製造と公式公表。"
+        },
+        {
+          "year": "2026",
+          "text": "12月1日、御殿場ぐみ沢店開業予定（11月8日時点は将来予定）。"
+        }
+      ]
+    },
+    {
+      "id": "saintmarc-hd",
+      "name": "サンマルクHD（牛かつもと村・京都勝牛）",
+      "company": "株式会社サンマルクホールディングス",
+      "summary": "サンマルクカフェ、ベーカリーレストランサンマルク、鎌倉パスタ、倉式珈琲店、神戸元町ドリア、牛カツ京都勝牛、牛かつもと村などを傘下に持つ外食持株会社。牛かつもと村は元ファイブグループ関連事業だが2024年12月6日にサンマルクHDが取得し、2025年4月に株式会社牛かつもと村へ関連企業を合併、2026年3月期有価証券報告書でも連結子会社と確認。2026年時点ではパンチョの兄弟会社ではない。『てっぱんのスパゲッティ』も同社グループで、ナポリタン専門店パンチョとは別系列。",
+      "accent": "#9B6B4B",
+      "source": "https://www.saint-marc-hd.com/hd/brand",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1989",
+          "text": "ベーカリーレストラン『サンマルク』創業。"
+        },
+        {
+          "year": "1991",
+          "text": "7月19日、株式会社サンマルク設立（現持株会社）。"
+        },
+        {
+          "year": "2024",
+          "text": "11月に京都勝牛、12月6日に牛かつもと村事業を買収し連結子会社化。"
+        },
+        {
+          "year": "2025",
+          "text": "4月1日、牛かつもと村が旧持株会社などを吸収合併。"
+        },
+        {
+          "year": "2026",
+          "text": "6月、サンマルクHDが『株式会社牛かつもと村』を連結子会社と明記した配当金受領を公表。"
         }
       ]
     }
@@ -9596,6 +9693,490 @@
         "ピーコック"
       ],
       "source": "https://www.usmh.co.jp/about"
+    },
+    {
+      "name": "スパゲッティーのパンチョ",
+      "group": "five-group-pancho",
+      "operator": "株式会社パンチョ",
+      "category": "飲食",
+      "aliases": [
+        "パンチョ",
+        "スパゲッティのパンチョ",
+        "ナポリタンパンチョ",
+        "Spaghetti Pancho"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "キッチンパンチョ",
+      "group": "five-group-pancho",
+      "operator": "株式会社パンチョ",
+      "category": "飲食",
+      "aliases": [
+        "Kitchen Pancho"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "ごちそうスープパスタ",
+      "group": "five-group-pancho",
+      "operator": "株式会社パンチョ",
+      "category": "飲食",
+      "aliases": [
+        "ごちスパ",
+        "ごちそうスープパスタ 代々木",
+        "Gochisou Soup Pasta"
+      ],
+      "source": "https://prtimes.jp/main/html/rd/p/000000383.000012709.html"
+    },
+    {
+      "name": "旨串とりとん",
+      "group": "five-group-pancho",
+      "operator": "株式会社ファイブグループ",
+      "category": "居酒屋",
+      "aliases": [
+        "とりとん",
+        "うまくしとりとん"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "燻し家もっくん",
+      "group": "five-group-pancho",
+      "operator": "株式会社ファイブグループ",
+      "category": "居酒屋",
+      "aliases": [
+        "もっくん",
+        "いぶしやもっくん"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "居酒屋行くなら俺んち来い。",
+      "group": "five-group-pancho",
+      "operator": "株式会社ファイブグループ",
+      "category": "居酒屋",
+      "aliases": [
+        "いざこい",
+        "居酒屋行くなら俺んち来い",
+        "俺んち来い"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "居酒屋行くなら俺んち来る？",
+      "group": "five-group-pancho",
+      "operator": "株式会社ファイブグループ",
+      "category": "居酒屋",
+      "aliases": [
+        "いざくる",
+        "居酒屋行くなら俺んち来る",
+        "俺んち来る"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "洋風居酒屋 ペコリ",
+      "group": "five-group-pancho",
+      "operator": "株式会社ファイブグループ",
+      "category": "居酒屋",
+      "aliases": [
+        "ペコリ",
+        "洋風居酒屋ペコリ",
+        "PECORI"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "ガブ飲み処 鬼ぞりゴリラ",
+      "group": "five-group-pancho",
+      "operator": "株式会社ファイブグループ",
+      "category": "居酒屋",
+      "aliases": [
+        "鬼ぞりゴリラ",
+        "おにぞりごりら"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "焼鳥とあて巻き 居酒屋大悟",
+      "group": "five-group-pancho",
+      "operator": "株式会社ファイブグループ",
+      "category": "居酒屋",
+      "aliases": [
+        "居酒屋大悟",
+        "大悟",
+        "だいご"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "大衆酒場 酒呑んで飯食って蛙之介",
+      "group": "five-group-pancho",
+      "operator": "株式会社ファイブグループ",
+      "category": "居酒屋",
+      "aliases": [
+        "蛙之介",
+        "かえるのすけ",
+        "大衆酒場蛙之介"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "とととりとん",
+      "group": "five-group-pancho",
+      "operator": "株式会社ファイブグループ",
+      "category": "居酒屋",
+      "aliases": [
+        "三茶っ子居酒屋 とととりとん"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "ステーキロッヂ",
+      "group": "five-group-pancho",
+      "operator": "株式会社B級グルメ研究所（ファイブグループ関連企業）",
+      "category": "飲食",
+      "aliases": [
+        "ステーキロッジ",
+        "ステーキロッヂ"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "ローストビーフ大野",
+      "group": "five-group-pancho",
+      "operator": "株式会社B級グルメ研究所（ファイブグループ関連企業）",
+      "category": "飲食",
+      "aliases": [
+        "ローストビーフおおの"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "らあ麺 さわ田",
+      "group": "five-group-pancho",
+      "operator": "株式会社B級グルメ研究所（ファイブグループ関連企業）",
+      "category": "飲食",
+      "aliases": [
+        "らあ麺さわ田",
+        "さわ田"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "台湾老劉胡椒餅",
+      "group": "five-group-pancho",
+      "operator": "株式会社B級グルメ研究所（ファイブグループ関連企業）",
+      "category": "専門店",
+      "aliases": [
+        "老劉胡椒餅",
+        "台湾老劉",
+        "こしょうもち"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "甘味処 旅氷",
+      "group": "five-group-pancho",
+      "operator": "株式会社B級グルメ研究所（ファイブグループ関連企業）",
+      "category": "飲食",
+      "aliases": [
+        "旅氷",
+        "たびごおり"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "とりとんくん",
+      "group": "five-group-pancho",
+      "operator": "株式会社ファイブグループ",
+      "category": "居酒屋",
+      "aliases": [
+        "とりとんくん居酒屋"
+      ],
+      "source": "https://five-group.co.jp/brands/outline"
+    },
+    {
+      "name": "炭焼きレストランさわやか",
+      "group": "sawayaka-shizuoka",
+      "operator": "さわやか株式会社（全店直営）",
+      "category": "飲食",
+      "aliases": [
+        "さわやか",
+        "げんこつハンバーグのさわやか",
+        "静岡さわやか",
+        "炭焼きさわやか"
+      ],
+      "source": "https://www.genkotsu-hb.com/faq"
+    },
+    {
+      "name": "サンマルクカフェ",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクカフェ",
+      "category": "飲食",
+      "aliases": [
+        "ST.MARC CAFE",
+        "サンマルク カフェ"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "ベーカリーレストラン サンマルク",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクホールディングス・直営FC事業会社",
+      "category": "飲食",
+      "aliases": [
+        "サンマルク",
+        "ベーカリーレストランサンマルク"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "生麺専門 鎌倉パスタ",
+      "group": "saintmarc-hd",
+      "operator": "株式会社鎌倉パスタ",
+      "category": "飲食",
+      "aliases": [
+        "鎌倉パスタ",
+        "KAMAKURA PASTA"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "倉式珈琲店",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクホールディングス・運営事業部",
+      "category": "飲食",
+      "aliases": [
+        "倉式珈琲",
+        "くらしきこーひー"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "牛かつ もと村",
+      "group": "saintmarc-hd",
+      "operator": "株式会社牛かつもと村（2024年12月にサンマルクHD傘下へ）",
+      "category": "飲食",
+      "aliases": [
+        "牛かつもと村",
+        "牛カツもと村",
+        "GYUKATSU MOTOMURA",
+        "もと村"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "牛カツ京都勝牛",
+      "group": "saintmarc-hd",
+      "operator": "株式会社京都勝牛（サンマルクHD連結子会社）",
+      "category": "飲食",
+      "aliases": [
+        "京都勝牛",
+        "牛カツ京都勝牛",
+        "京都 勝牛"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "神戸元町ドリア",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "神戸元町 ドリア"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "横濱元町ドリア",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "横浜元町ドリア"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "グリル蔵敷",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "グリルくらしき"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "てっぱんのスパゲッティ",
+      "group": "saintmarc-hd",
+      "operator": "株式会社鎌倉パスタ",
+      "category": "飲食",
+      "aliases": [
+        "てっぱんスパゲッティ",
+        "てっぱんのスパゲティ"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "おだしもん",
+      "group": "saintmarc-hd",
+      "operator": "株式会社鎌倉パスタ",
+      "category": "飲食",
+      "aliases": [
+        "お出汁もん",
+        "おだし門"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "町屋イタリアン ぎをん椿庵",
+      "group": "saintmarc-hd",
+      "operator": "株式会社鎌倉パスタ",
+      "category": "飲食",
+      "aliases": [
+        "ぎをん椿庵",
+        "ぎおんつばきあん"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "KamakuraPasta Fresca",
+      "group": "saintmarc-hd",
+      "operator": "株式会社鎌倉パスタ",
+      "category": "飲食",
+      "aliases": [
+        "カマクラパスタフレスカ"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "グリル&ベーカリー THE SEASON",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "THE SEASON",
+        "ザシーズン"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "BISTRO309",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "ビストロ309",
+        "ビストロサンマルク"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "ベーカリーレストラン バケット",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "バケット",
+        "BAQET"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "ブレッドガーデン",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "Bread Garden"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "パントリエ",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "Pantrie"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "台湾小籠包",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "台湾ショウロンポウ"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "九份小籠包",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "九份ショウロンポウ",
+        "九分小籠包"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "函館市場",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクホールディングス運営事業会社",
+      "category": "飲食",
+      "aliases": [
+        "すし処函館市場",
+        "函館市場寿司"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "宝田水産",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクホールディングス運営事業会社",
+      "category": "飲食",
+      "aliases": [
+        "宝田水産寿司"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "チーズ＆ドリア．スイーツ",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "チーズ＆ドリアスイーツ",
+        "チーズとドリアスイーツ"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "石焼炒飯店",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "いしやきちゃーはんてん"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "Wallace Brothers Cheese Bar",
+      "group": "saintmarc-hd",
+      "operator": "株式会社サンマルクグリル",
+      "category": "飲食",
+      "aliases": [
+        "ウォレスブラザーズチーズバー"
+      ],
+      "source": "https://www.saint-marc-hd.com/hd/brand"
     }
   ]
 }
