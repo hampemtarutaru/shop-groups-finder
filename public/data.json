@@ -2395,6 +2395,230 @@
           "text": "4月30日時点、連結275店舗・売上298億24百万円。"
         }
       ]
+    },
+    {
+      "id": "isetan-mitsukoshi",
+      "name": "三越伊勢丹グループ（三越・伊勢丹・岩田屋・丸井今井）",
+      "company": "株式会社三越伊勢丹ホールディングス",
+      "summary": "百貨店の『三越』『伊勢丹』『丸井今井』『岩田屋』を同一グループで展開。伊勢丹浦和店も所属。三越と伊勢丹の経営統合から生まれた持株会社で、エムアイカード等もグループ事業。『丸井今井』はマルイ（丸井グループ）とは別の百貨店ブランド。",
+      "accent": "#9B5973",
+      "source": "https://www.imhds.co.jp/corporate/business/department/index.html",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "2008",
+          "text": "三越と伊勢丹の経営統合により三越伊勢丹ホールディングス発足。"
+        },
+        {
+          "year": "2011",
+          "text": "百貨店の中核運営会社・株式会社三越伊勢丹が発足。"
+        }
+      ]
+    },
+    {
+      "id": "j-front",
+      "name": "J.フロント リテイリング（大丸・松坂屋・PARCO）",
+      "company": "Ｊ．フロント リテイリング株式会社",
+      "summary": "百貨店の『大丸』『松坂屋』とファッションビル『PARCO（パルコ）』が同じグループ。PARCOは百貨店そのものではなくショッピングセンター事業。飲食の『松屋』や百貨店の『松屋銀座』とは異なる。",
+      "accent": "#8D668D",
+      "source": "https://www.j-front-retailing.com/company/business.php",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "2007",
+          "text": "大丸と松坂屋ホールディングスが経営統合してJ.フロント リテイリング発足。"
+        },
+        {
+          "year": "2012",
+          "text": "パルコを連結子会社化。"
+        }
+      ]
+    },
+    {
+      "id": "takashimaya",
+      "name": "高島屋グループ（百貨店・高島屋S.C.）",
+      "company": "株式会社高島屋",
+      "summary": "『高島屋』と『玉川高島屋S.C.』『柏高島屋ステーションモール』『流山おおたかの森S.C.』などを展開。商業施設は東神開発が管理運営。『ジェイアール名古屋タカシマヤ』はJR東海と高島屋などの共同出資会社で、高島屋の100％子会社ではなく持分法適用会社。",
+      "accent": "#7F739E",
+      "source": "https://www.takashimaya.co.jp/corp/info/outline/",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1831",
+          "text": "高島屋創業。"
+        },
+        {
+          "year": "1992",
+          "text": "JR東海等との共同出資でジェイアール東海高島屋設立。"
+        }
+      ]
+    },
+    {
+      "id": "sogo-seibu",
+      "name": "そごう・西武（フォートレス系）",
+      "company": "株式会社そごう・西武",
+      "summary": "『そごう』『西武』百貨店を運営。2023年9月にセブン＆アイ・ホールディングスからフォートレス・インベストメント・グループ関連事業体へ全株式が譲渡され、現在はセブン＆アイとは別系列。ヨドバシとは事業協力関係があるが、ヨドバシの子会社として登録しない。また西武鉄道や西武プリンスホテルズとは現時点で同じ資本グループとして登録しない。2026年9月に西武渋谷店は閉店済み。",
+      "accent": "#6583A6",
+      "source": "https://www.sogo-seibu.co.jp/info/history.html",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "2006",
+          "text": "そごう・西武がセブン＆アイ傘下へ。"
+        },
+        {
+          "year": "2023",
+          "text": "9月、フォートレス関連事業体へ株式譲渡が完了。"
+        },
+        {
+          "year": "2026",
+          "text": "9月、西武渋谷店の営業終了。"
+        }
+      ]
+    },
+    {
+      "id": "h2o-retailing",
+      "name": "H2Oリテイリング（阪急・阪神百貨店・食品スーパー）",
+      "company": "エイチ・ツー・オー リテイリング株式会社",
+      "summary": "『阪急百貨店』『阪神百貨店』と、スーパー『阪急オアシス』『イズミヤ』『関西スーパー』『カナート』が同一のH2Oリテイリング傘下。H2Oは阪急阪神東宝グループの一員だが、阪急阪神ホールディングスの単純な完全子会社ではない。食品事業会社は2026年4月の合併・改称で『関西フードマーケット』となった。",
+      "accent": "#B37755",
+      "source": "https://www.h2o-retailing.co.jp/ja/company/hhtg.html",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "2007",
+          "text": "阪急百貨店と阪神百貨店を経営統合してH2Oリテイリング体制へ。"
+        },
+        {
+          "year": "2019",
+          "text": "旧そごう神戸店・西武高槻店が神戸阪急・高槻阪急に改称。"
+        },
+        {
+          "year": "2026",
+          "text": "4月、食品スーパー運営会社を関西フードマーケットとして統合。"
+        }
+      ]
+    },
+    {
+      "id": "kintetsu-dept",
+      "name": "近鉄グループ（近鉄百貨店）",
+      "company": "近鉄グループホールディングス株式会社",
+      "summary": "『あべのハルカス近鉄本店』など近鉄百貨店を、近鉄グループの一員である株式会社近鉄百貨店が運営。同じ近鉄グループには近畿日本鉄道、近商ストア、近鉄リテーリング等も所属。鉄道とデパートとスーパーをつなぐ系列。",
+      "accent": "#94724F",
+      "source": "https://www.kintetsu-g-hd.co.jp/group-info/list.html",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "2014",
+          "text": "あべのハルカスがグランドオープン。"
+        }
+      ]
+    },
+    {
+      "id": "tokyu-dept",
+      "name": "東急グループ（東急百貨店・109）",
+      "company": "東急株式会社／株式会社東急百貨店",
+      "summary": "東急百貨店のほか、商業施設SHIBUYA109や東急ストア等も広い東急グループの仲間。2025年8月に百貨店運営事業を東急100％出資の新会社へ承継し、商業施設運営事業を再編。『東急百貨店』と『東武百貨店』は名前が似ているが別系列。",
+      "accent": "#8B6495",
+      "source": "https://www.tokyu.co.jp/company/news/detail/56006.html",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1934",
+          "text": "東急百貨店の前身事業開始。"
+        },
+        {
+          "year": "2025",
+          "text": "8月、東急グループの商業施設運営事業を再編。"
+        }
+      ]
+    },
+    {
+      "id": "tobu-dept",
+      "name": "東武グループ（東武百貨店・東武ストア）",
+      "company": "東武鉄道株式会社",
+      "summary": "池袋・船橋等の『東武百貨店』、宇都宮の『東武宇都宮百貨店』、食品スーパー『東武ストア』はいずれも東武鉄道グループ。鉄道・百貨店・スーパーを同じグループとして見られる。百貨店の『松屋銀座』とは別企業。",
+      "accent": "#568A83",
+      "source": "https://www.tobu.co.jp/corporation/group/list/",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1897",
+          "text": "東武鉄道設立。"
+        }
+      ]
+    },
+    {
+      "id": "odakyu-dept",
+      "name": "小田急グループ（小田急百貨店・OX）",
+      "company": "小田急電鉄株式会社",
+      "summary": "『小田急百貨店』は小田急電鉄が100％出資する百貨店会社。小田急グループには食品スーパーを展開する小田急商事なども属する。百貨店と電鉄が直結しているグループ。",
+      "accent": "#5877A4",
+      "source": "https://www.odakyu.jp/company/group/",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1961",
+          "text": "小田急百貨店創業。"
+        }
+      ]
+    },
+    {
+      "id": "keio-dept",
+      "name": "京王グループ（京王百貨店）",
+      "company": "京王電鉄株式会社",
+      "summary": "京王百貨店は京王電鉄100％出資の百貨店会社。新宿店・聖蹟桜ヶ丘店等を展開し、駅ビルやショッピングセンターへの小型出店も行う。百貨店会社と電鉄の親子関係が公式の会社概要で明示されている。",
+      "accent": "#6A81A1",
+      "source": "https://www.keionet.com/corp/company/outline.html",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1961",
+          "text": "京王百貨店設立。"
+        },
+        {
+          "year": "1964",
+          "text": "京王百貨店新宿店開店。"
+        }
+      ]
+    },
+    {
+      "id": "matsuya-dept",
+      "name": "松屋百貨店（銀座・浅草）",
+      "company": "株式会社松屋",
+      "summary": "『松屋銀座』『松屋浅草』を運営する独立系の百貨店会社。牛めしの『松屋フーズ』や『松坂屋』とは別会社。系列には商業施設『銀座インズ』を運営する会社などもある。",
+      "accent": "#A27953",
+      "source": "https://www.matsuya.com/corp/company/profile/",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1869",
+          "text": "松屋の起源となる事業創業。"
+        },
+        {
+          "year": "1925",
+          "text": "松屋銀座店開店。"
+        },
+        {
+          "year": "2021",
+          "text": "銀座インズを子会社化。"
+        }
+      ]
+    },
+    {
+      "id": "marui-group",
+      "name": "丸井グループ（マルイ・モディ・エポス）",
+      "company": "株式会社丸井グループ",
+      "summary": "ファッション小売・商業施設『マルイ』『モディ』に加え、クレジットカード『エポスカード』などを展開。現代的には百貨店そのものというより小売とフィンテックの複合グループ。『丸井今井』は三越伊勢丹傘下で、この丸井グループとは別。",
+      "accent": "#8C6A9E",
+      "source": "https://www.0101maruigroup.co.jp/ci/group",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "2006",
+          "text": "エポスカード発行開始。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -10975,6 +11199,426 @@
         "梅の花のお弁当"
       ],
       "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "三越",
+      "group": "isetan-mitsukoshi",
+      "operator": "株式会社三越伊勢丹およびグループ各社",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.imhds.co.jp/corporate/business/department/index.html"
+    },
+    {
+      "name": "伊勢丹",
+      "group": "isetan-mitsukoshi",
+      "operator": "株式会社三越伊勢丹およびグループ各社",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.imhds.co.jp/corporate/business/department/index.html"
+    },
+    {
+      "name": "丸井今井",
+      "group": "isetan-mitsukoshi",
+      "operator": "株式会社三越伊勢丹およびグループ各社",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.imhds.co.jp/corporate/business/department/index.html"
+    },
+    {
+      "name": "岩田屋",
+      "group": "isetan-mitsukoshi",
+      "operator": "株式会社三越伊勢丹およびグループ各社",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.imhds.co.jp/corporate/business/department/index.html"
+    },
+    {
+      "name": "伊勢丹浦和店",
+      "group": "isetan-mitsukoshi",
+      "operator": "株式会社三越伊勢丹およびグループ各社",
+      "category": "百貨店",
+      "aliases": [
+        "浦和伊勢丹"
+      ],
+      "source": "https://www.imhds.co.jp/corporate/business/department/index.html"
+    },
+    {
+      "name": "三越日本橋本店",
+      "group": "isetan-mitsukoshi",
+      "operator": "株式会社三越伊勢丹およびグループ各社",
+      "category": "百貨店",
+      "aliases": [
+        "日本橋三越"
+      ],
+      "source": "https://www.imhds.co.jp/corporate/business/department/index.html"
+    },
+    {
+      "name": "大丸",
+      "group": "j-front",
+      "operator": "株式会社大丸松坂屋百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.j-front-retailing.com/company/business.php"
+    },
+    {
+      "name": "松坂屋",
+      "group": "j-front",
+      "operator": "株式会社大丸松坂屋百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.j-front-retailing.com/company/business.php"
+    },
+    {
+      "name": "PARCO",
+      "group": "j-front",
+      "operator": "株式会社パルコ",
+      "category": "専門店",
+      "aliases": [
+        "パルコ",
+        "渋谷パルコ"
+      ],
+      "source": "https://www.j-front-retailing.com/company/business.php"
+    },
+    {
+      "name": "高島屋",
+      "group": "takashimaya",
+      "operator": "株式会社高島屋／地域運営会社",
+      "category": "百貨店",
+      "aliases": [
+        "髙島屋",
+        "タカシマヤ"
+      ],
+      "source": "https://www.takashimaya.co.jp/corp/info/outline/"
+    },
+    {
+      "name": "高島屋大宮店",
+      "group": "takashimaya",
+      "operator": "株式会社高島屋／地域運営会社",
+      "category": "百貨店",
+      "aliases": [
+        "大宮高島屋"
+      ],
+      "source": "https://www.takashimaya.co.jp/corp/info/outline/"
+    },
+    {
+      "name": "高島屋日本橋店",
+      "group": "takashimaya",
+      "operator": "株式会社高島屋／地域運営会社",
+      "category": "百貨店",
+      "aliases": [
+        "日本橋高島屋"
+      ],
+      "source": "https://www.takashimaya.co.jp/corp/info/outline/"
+    },
+    {
+      "name": "玉川高島屋S.C.",
+      "group": "takashimaya",
+      "operator": "東神開発株式会社",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://www.takashimaya.co.jp/corp/info/group/domestic.html"
+    },
+    {
+      "name": "柏高島屋ステーションモール",
+      "group": "takashimaya",
+      "operator": "東神開発株式会社",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://www.takashimaya.co.jp/corp/info/group/domestic.html"
+    },
+    {
+      "name": "流山おおたかの森S.C.",
+      "group": "takashimaya",
+      "operator": "東神開発株式会社",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://www.takashimaya.co.jp/corp/info/group/domestic.html"
+    },
+    {
+      "name": "ジェイアール名古屋タカシマヤ",
+      "group": "takashimaya",
+      "operator": "株式会社ジェイアール東海高島屋（JR東海・高島屋等共同出資）",
+      "category": "百貨店",
+      "aliases": [
+        "JR名古屋高島屋",
+        "名古屋タカシマヤ"
+      ],
+      "source": "https://www.jr-takashimaya.co.jp/company/"
+    },
+    {
+      "name": "そごう",
+      "group": "sogo-seibu",
+      "operator": "株式会社そごう・西武",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.sogo-seibu.co.jp/info/"
+    },
+    {
+      "name": "西武",
+      "group": "sogo-seibu",
+      "operator": "株式会社そごう・西武",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.sogo-seibu.co.jp/info/"
+    },
+    {
+      "name": "そごう大宮店",
+      "group": "sogo-seibu",
+      "operator": "株式会社そごう・西武",
+      "category": "百貨店",
+      "aliases": [
+        "大宮そごう"
+      ],
+      "source": "https://www.sogo-seibu.co.jp/info/"
+    },
+    {
+      "name": "西武池袋本店",
+      "group": "sogo-seibu",
+      "operator": "株式会社そごう・西武",
+      "category": "百貨店",
+      "aliases": [
+        "池袋西武"
+      ],
+      "source": "https://www.sogo-seibu.co.jp/info/"
+    },
+    {
+      "name": "阪急百貨店",
+      "group": "h2o-retailing",
+      "operator": "株式会社阪急阪神百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.h2o-retailing.co.jp/ja/company/business.html"
+    },
+    {
+      "name": "阪神百貨店",
+      "group": "h2o-retailing",
+      "operator": "株式会社阪急阪神百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.h2o-retailing.co.jp/ja/company/business.html"
+    },
+    {
+      "name": "阪急うめだ本店",
+      "group": "h2o-retailing",
+      "operator": "株式会社阪急阪神百貨店",
+      "category": "百貨店",
+      "aliases": [
+        "梅田阪急"
+      ],
+      "source": "https://www.h2o-retailing.co.jp/ja/company/business.html"
+    },
+    {
+      "name": "阪神梅田本店",
+      "group": "h2o-retailing",
+      "operator": "株式会社阪急阪神百貨店",
+      "category": "百貨店",
+      "aliases": [
+        "梅田阪神"
+      ],
+      "source": "https://www.h2o-retailing.co.jp/ja/company/business.html"
+    },
+    {
+      "name": "神戸阪急",
+      "group": "h2o-retailing",
+      "operator": "株式会社阪急阪神百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.h2o-retailing.co.jp/ja/company/business.html"
+    },
+    {
+      "name": "高槻阪急",
+      "group": "h2o-retailing",
+      "operator": "株式会社阪急阪神百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.h2o-retailing.co.jp/ja/company/business.html"
+    },
+    {
+      "name": "阪急オアシス",
+      "group": "h2o-retailing",
+      "operator": "株式会社関西フードマーケット等",
+      "category": "スーパー",
+      "aliases": [],
+      "source": "https://www.h2o-retailing.co.jp/ja/company/hhtg.html"
+    },
+    {
+      "name": "イズミヤ",
+      "group": "h2o-retailing",
+      "operator": "株式会社関西フードマーケット等",
+      "category": "スーパー",
+      "aliases": [],
+      "source": "https://www.h2o-retailing.co.jp/ja/company/hhtg.html"
+    },
+    {
+      "name": "関西スーパー",
+      "group": "h2o-retailing",
+      "operator": "株式会社関西フードマーケット等",
+      "category": "スーパー",
+      "aliases": [],
+      "source": "https://www.h2o-retailing.co.jp/ja/company/hhtg.html"
+    },
+    {
+      "name": "カナート",
+      "group": "h2o-retailing",
+      "operator": "株式会社関西フードマーケット等",
+      "category": "スーパー",
+      "aliases": [],
+      "source": "https://www.h2o-retailing.co.jp/ja/company/hhtg.html"
+    },
+    {
+      "name": "近鉄百貨店",
+      "group": "kintetsu-dept",
+      "operator": "株式会社近鉄百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.kintetsu-g-hd.co.jp/group-info/list.html"
+    },
+    {
+      "name": "あべのハルカス近鉄本店",
+      "group": "kintetsu-dept",
+      "operator": "株式会社近鉄百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.kintetsu-g-hd.co.jp/group-info/list.html"
+    },
+    {
+      "name": "近商ストア",
+      "group": "kintetsu-dept",
+      "operator": "株式会社近商ストア",
+      "category": "スーパー",
+      "aliases": [],
+      "source": "https://www.kintetsu-g-hd.co.jp/group-info/list.html"
+    },
+    {
+      "name": "ハーベス",
+      "group": "kintetsu-dept",
+      "operator": "株式会社近商ストア",
+      "category": "スーパー",
+      "aliases": [],
+      "source": "https://www.kintetsu-g-hd.co.jp/group-info/list.html"
+    },
+    {
+      "name": "東急百貨店",
+      "group": "tokyu-dept",
+      "operator": "株式会社東急百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.tokyu-dept.co.jp/corporate/corporate/"
+    },
+    {
+      "name": "ながの東急百貨店",
+      "group": "tokyu-dept",
+      "operator": "株式会社東急百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.tokyu-dept.co.jp/corporate/corporate/"
+    },
+    {
+      "name": "SHIBUYA109",
+      "group": "tokyu-dept",
+      "operator": "株式会社SHIBUYA109エンタテイメント",
+      "category": "専門店",
+      "aliases": [
+        "109",
+        "渋谷109"
+      ],
+      "source": "https://www.tokyu.co.jp/company/news/detail/56006.html"
+    },
+    {
+      "name": "東武百貨店",
+      "group": "tobu-dept",
+      "operator": "株式会社東武百貨店／株式会社東武宇都宮百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.tobu.co.jp/corporation/group/list/"
+    },
+    {
+      "name": "東武宇都宮百貨店",
+      "group": "tobu-dept",
+      "operator": "株式会社東武百貨店／株式会社東武宇都宮百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.tobu.co.jp/corporation/group/list/"
+    },
+    {
+      "name": "東武ストア",
+      "group": "tobu-dept",
+      "operator": "株式会社東武ストア",
+      "category": "スーパー",
+      "aliases": [],
+      "source": "https://www.tobu.co.jp/corporation/group/list/"
+    },
+    {
+      "name": "小田急百貨店",
+      "group": "odakyu-dept",
+      "operator": "株式会社小田急百貨店",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.odakyu-dept.co.jp/corporation/profile/index.html"
+    },
+    {
+      "name": "Odakyu OX",
+      "group": "odakyu-dept",
+      "operator": "小田急商事株式会社",
+      "category": "スーパー",
+      "aliases": [
+        "小田急OX",
+        "オダキューオーエックス"
+      ],
+      "source": "https://www.odakyu.jp/company/group/"
+    },
+    {
+      "name": "京王百貨店",
+      "group": "keio-dept",
+      "operator": "株式会社京王百貨店",
+      "category": "百貨店",
+      "aliases": [
+        "京王デパート"
+      ],
+      "source": "https://www.keionet.com/corp/company/outline.html"
+    },
+    {
+      "name": "松屋銀座",
+      "group": "matsuya-dept",
+      "operator": "株式会社松屋",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.matsuya.com/corp/company/stores/"
+    },
+    {
+      "name": "松屋浅草",
+      "group": "matsuya-dept",
+      "operator": "株式会社松屋",
+      "category": "百貨店",
+      "aliases": [],
+      "source": "https://www.matsuya.com/corp/company/stores/"
+    },
+    {
+      "name": "銀座インズ",
+      "group": "matsuya-dept",
+      "operator": "株式会社銀座インズ",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://www.matsuya.com/corp/company/group/"
+    },
+    {
+      "name": "マルイ",
+      "group": "marui-group",
+      "operator": "株式会社丸井",
+      "category": "専門店",
+      "aliases": [
+        "丸井",
+        "OIOI"
+      ],
+      "source": "https://www.0101maruigroup.co.jp/ci/group"
+    },
+    {
+      "name": "モディ",
+      "group": "marui-group",
+      "operator": "株式会社丸井",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://www.0101maruigroup.co.jp/ci/group"
     }
   ]
 }
