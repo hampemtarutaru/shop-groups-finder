@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-08現在、107グループ・794ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-08現在、119グループ・842ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -714,3 +714,37 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://www.bronco.co.jp/corporate/ir/management_policy/message/
 - https://tonkatu-no-wakura.com/info
 - https://www.umenohana.co.jp/corporate/brands
+
+
+## 出典・更新メモ（2026-11-08 百貨店・ファッションビル系列）
+
+三越伊勢丹、J.フロント リテイリング、高島屋、そごう・西武、H2Oリテイリング、近鉄、東急、東武、小田急、京王、松屋百貨店、丸井グループを新規追加。百貨店を中心に12グループ・48ブランド。『百貨店』フィルターを追加。SCやスーパーは実際の業態に合わせ『専門店』『スーパー』に分類した。
+
+**関係の注意点**：①2023年9月にそごう・西武はセブン＆アイからフォートレス関連事業体へ売却、ヨドバシとは協力関係でありヨドバシ子会社ではない。西武鉄道とも別系列。②J.フロントのPARCOはSC事業で百貨店店舗ではない。③『丸井今井』は三越伊勢丹傘下で、マルイ／モディの丸井グループとは別。④『ジェイアール名古屋タカシマヤ』はJR東海・高島屋等の共同出資で高島屋の完全子会社ではない。⑤H2Oは阪急阪神東宝グループの構成企業だが、阪急阪神HDの完全子会社ではない。⑥松屋銀座・松屋浅草の株式会社松屋と、牛めしの松屋フーズ、松坂屋は別法人。⑦2025年8月の東急百貨店法人再編、2026年4月のH2O食品事業再編、2026年9月の西武渋谷閉店を現行関係に反映。過去の屋号・店舗を現役ブランドとして混ぜない。
+
+- https://www.imhds.co.jp/corporate/business/department/index.html
+- https://www.imhds.co.jp/corporate/business/department/isetanmitsukoshi.html
+- https://www.j-front-retailing.com/company/business.php
+- https://www.takashimaya.co.jp/corp/info/outline/
+- https://www.takashimaya.co.jp/corp/info/group/domestic.html
+- https://www.jr-takashimaya.co.jp/company/
+- https://www.sogo-seibu.co.jp/info/history.html
+- https://www.sogo-seibu.co.jp/info/
+- https://www.7andi.com/ir/file/library/ks/pdf/2023_1012ks_01.pdf
+- https://global.yodobashi/announcement/418/
+- https://www.h2o-retailing.co.jp/ja/company/hhtg.html
+- https://www.h2o-retailing.co.jp/ja/company/group.ht
+- https://www.h2o-retailing.co.jp/ja/company/history.html
+- https://www.kintetsu-g-hd.co.jp/group-info/list.html
+- https://www.kintetsu-g-hd.co.jp/recruit/g-hd_recruit/business/merchandise/index.html
+- https://www.tokyu.co.jp/company/news/detail/56006.html
+- https://www.tokyu-dept.co.jp/corporate/corporate/
+- https://www.tobu.co.jp/corporation/group/list/
+- https://www.odakyu.jp/company/group/
+- https://www.odakyu-dept.co.jp/corporation/profile/index.html
+- https://www.odakyu-shoji.jp/shop/list.html
+- https://www.keionet.com/corp/company/outline.html
+- https://www.matsuya.com/corp/company/profile/
+- https://www.matsuya.com/corp/company/stores/
+- https://www.matsuya.com/corp/company/group/
+- https://www.0101maruigroup.co.jp/ci/group
