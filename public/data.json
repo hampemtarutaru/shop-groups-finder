@@ -2228,6 +2228,157 @@
           "text": "6月、サンマルクHDが『株式会社牛かつもと村』を連結子会社と明記した配当金受領を公表。"
         }
       ]
+    },
+    {
+      "id": "orenoco",
+      "name": "俺の株式会社（俺のイタリアン・フレンチ）",
+      "company": "俺の株式会社",
+      "summary": "『俺のイタリアン』『俺のフレンチ』を中心に、焼肉、ステーキ、割烹、やきとり、ベーカリー、レストラン等を展開する独立の外食事業会社。創業者・坂本孝はブックオフの創業者でもあるが、現在の俺の株式会社とブックオフを同じ資本系列とは扱わない。2026年10-11月には『俺のやきとり』『俺の炉ばた』『俺のそば』『おでん 俺のだし』など一部店舗を『俺の割烹 やきとり』『俺の割烹 炉ばた』『俺の割烹 そば』『俺の割烹 おでん』へ改称。旧名は検索別名として維持する。",
+      "source": "https://www.oreno.co.jp/restaurants",
+      "accent": "#B45C52",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "2011",
+          "text": "9月、東京銀座で1号店『俺のイタリアン』創業。"
+        },
+        {
+          "year": "2012",
+          "text": "11月、俺の株式会社設立。"
+        },
+        {
+          "year": "2025",
+          "text": "11月、2027年の株式公開を目指して代表取締役2名体制へ移行。"
+        },
+        {
+          "year": "2026",
+          "text": "10月から11月に俺のやきとり・炉ばた・そば等の複数店を『俺の割烹』へ改称・再編。"
+        }
+      ]
+    },
+    {
+      "id": "bronco-billy",
+      "name": "ブロンコビリーグループ（かつひろ・かつ雅）",
+      "company": "株式会社ブロンコビリー",
+      "summary": "愛知発のステーキハウス『ブロンコビリー』と、厚切りとんかつ『かつひろ』、子会社レ・ヴァンの『かつ雅』、和食居酒屋『信貴や』を展開。2022年に調味料メーカー『松屋栄食品本舗』、2024年4月に『かつ雅』運営のレ・ヴァンを子会社化。松屋栄食品本舗は食品製造事業会社であり店舗ブランドには数えない。2025年12月末時点でグループ161店（ステーキ・ハンバーグ146店、とんかつ14店、居酒屋1店）。",
+      "source": "https://www.bronco.co.jp/corporate/about/business/",
+      "accent": "#927046",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1978",
+          "text": "名古屋でステーキハウス事業を開始。"
+        },
+        {
+          "year": "1983",
+          "text": "12月、株式会社ブロンコビリー設立。"
+        },
+        {
+          "year": "2021",
+          "text": "9月、新業態『かつひろ』1号店が開店。"
+        },
+        {
+          "year": "2022",
+          "text": "7月、株式会社松屋栄食品本舗を子会社化。"
+        },
+        {
+          "year": "2024",
+          "text": "4月、株式会社レ・ヴァン（とんかつかつ雅運営）を子会社化。"
+        },
+        {
+          "year": "2025",
+          "text": "12月末、グループ161店舗と経営トップメッセージに記載。"
+        }
+      ]
+    },
+    {
+      "id": "kisoji",
+      "name": "木曽路グループ（焼肉くいどん・大穴ほか）",
+      "company": "株式会社木曽路",
+      "summary": "しゃぶしゃぶ日本料理『木曽路』だけでなく、焼肉『特選和牛 大将軍』『国産牛焼肉 くいどん』、鶏料理の『とりかく』、酒場『大穴』、和食『鈴のれん』、からあげ専門『からしげ』を同じ株式会社木曽路が展開。公式会社概要2026年9月30日時点で計188店（木曽路125、大将軍12、くいどん32、とりかく3、大穴7、鈴のれん5、からしげ4）。",
+      "source": "https://www.kisoji.co.jp/company/profile.html",
+      "accent": "#9A6F54",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1950",
+          "text": "5月20日、飲食事業として創業。"
+        },
+        {
+          "year": "1952",
+          "text": "9月30日、法人設立。"
+        },
+        {
+          "year": "2026",
+          "text": "9月30日時点、7業態計188店舗。"
+        }
+      ]
+    },
+    {
+      "id": "choushimaru",
+      "name": "銚子丸（直営寿司チェーン）",
+      "company": "株式会社銚子丸",
+      "summary": "千葉発の独立上場寿司チェーン。『すし銚子丸』『すし銚子丸 雅』『江戸前すし 百萬石』『鮨 Yasuke』『Standing 鮨 Bar Yasuke』『鮨 Yasuke 潮彩』を運営。公式2026年創業祭で各屋号を確認。2026年2月期有価証券報告書では国内は直営店のみで事業展開する単一寿司セグメント。『すし銚子丸』は銚子港に由来する屋号だが、店舗本部の発祥は千葉県。",
+      "source": "https://www.choushimaru.co.jp/",
+      "accent": "#5A8F9C",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1977",
+          "text": "11月、株式会社銚子丸の前身法人設立。"
+        },
+        {
+          "year": "2007",
+          "text": "3月7日、JASDAQへ株式上場。"
+        },
+        {
+          "year": "2026",
+          "text": "2月期の有価証券報告書で直営寿司業態の単一セグメントと記載。"
+        },
+        {
+          "year": "2026",
+          "text": "10月31日から11月29日までの創業祭に複数の屋号が参加。"
+        }
+      ]
+    },
+    {
+      "id": "umenohana",
+      "name": "梅の花グループ（さくら水産・古市庵ほか）",
+      "company": "株式会社梅の花グループ",
+      "summary": "湯葉・豆腐懐石の『梅の花』を中心に、創業時の『かにしげ』、チャイナ梅の花、かに重、花小梅、すし半、海鮮居酒屋『さくら水産』、魚がイチバン、古市庵等のレストラン・テイクアウトを展開。2019年に海鮮居酒屋さくら水産運営のテラケンを子会社化、2017年にすし半、2007年に古市庵を子会社化。2025年5月『株式会社梅の花』から『株式会社梅の花グループ』へ社名変更。公式2026年4月期275店舗。2016年のフジオフードグループ本社との資本業務提携は確認できるが、全ブランドをフジオ傘下とは扱わない。",
+      "source": "https://www.umenohana.co.jp/corporate/brands",
+      "accent": "#A96B7C",
+      "checked": "2026-11-08",
+      "events": [
+        {
+          "year": "1976",
+          "text": "7月、創業者がかに料理店『かにしげ』を創業。"
+        },
+        {
+          "year": "1986",
+          "text": "4月、福岡県久留米市で『湯葉と豆腐の店 梅の花』1号店開店。"
+        },
+        {
+          "year": "2007",
+          "text": "10月、寿司惣菜『古市庵』を子会社化。"
+        },
+        {
+          "year": "2017",
+          "text": "4月、株式会社すし半を完全子会社化。"
+        },
+        {
+          "year": "2019",
+          "text": "5月、『さくら水産』等を展開する株式会社テラケンを子会社化。"
+        },
+        {
+          "year": "2025",
+          "text": "5月、株式会社梅の花グループへ商号変更。"
+        },
+        {
+          "year": "2026",
+          "text": "4月30日時点、連結275店舗・売上298億24百万円。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -10177,6 +10328,590 @@
         "ウォレスブラザーズチーズバー"
       ],
       "source": "https://www.saint-marc-hd.com/hd/brand"
+    },
+    {
+      "name": "俺のイタリアン",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "飲食",
+      "aliases": [
+        "俺のイタリアンand BAR",
+        "俺のイタリアン&bar"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺のフレンチ",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "飲食",
+      "aliases": [
+        "俺のフレンチGRILL&WINE"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺のフレンチ・イタリアン",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "飲食",
+      "aliases": [
+        "俺のフレンチイタリアン",
+        "俺のフレンチ＆イタリアン"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺の焼肉",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "飲食",
+      "aliases": [
+        "俺の焼き肉"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺のステーキ",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "飲食",
+      "aliases": [
+        "俺の炭火焼ステーキ"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺の割烹",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "飲食",
+      "aliases": [
+        "おれのかっぽう"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺の割烹 やきとり",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "居酒屋",
+      "aliases": [
+        "俺のやきとり",
+        "俺の焼き鳥",
+        "俺の割烹やきとり"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺の割烹 炉ばた",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "居酒屋",
+      "aliases": [
+        "俺の炉ばた",
+        "俺のろばた",
+        "俺の割烹炉ばた"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺の割烹 そば",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "飲食",
+      "aliases": [
+        "俺のそば",
+        "そば 俺のだし",
+        "俺の割烹そば"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺の割烹 おでん",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "飲食",
+      "aliases": [
+        "おでん 俺のだし",
+        "俺のだし",
+        "俺の割烹おでん"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺のBakery",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "専門店",
+      "aliases": [
+        "俺のベーカリー",
+        "俺のBakery&Cafe",
+        "俺のベーカリー＆カフェ"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺のグランメゾン TOKYO",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "飲食",
+      "aliases": [
+        "俺のグランメゾン",
+        "俺のグランメゾン東京"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "銀座しまだ",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "飲食",
+      "aliases": [
+        "銀座しまだ 俺の割烹"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "俺の割烹 うお炭",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "居酒屋",
+      "aliases": [
+        "うお炭",
+        "うおすみ"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "鳥たん",
+      "group": "orenoco",
+      "operator": "俺の株式会社",
+      "category": "居酒屋",
+      "aliases": [
+        "とりたん",
+        "牛たん 鳥たん"
+      ],
+      "source": "https://www.oreno.co.jp/restaurants"
+    },
+    {
+      "name": "ステーキハウス ブロンコビリー",
+      "group": "bronco-billy",
+      "operator": "株式会社ブロンコビリー",
+      "category": "飲食",
+      "aliases": [
+        "ブロンコビリー",
+        "bronco billy",
+        "ブロンコ"
+      ],
+      "source": "https://www.bronco.co.jp/corporate/about/business/"
+    },
+    {
+      "name": "厚切りとんかつ京風おばんざい かつひろ",
+      "group": "bronco-billy",
+      "operator": "株式会社ブロンコビリー",
+      "category": "飲食",
+      "aliases": [
+        "かつひろ",
+        "とんかつかつひろ"
+      ],
+      "source": "https://www.bronco.co.jp/corporate/about/business/"
+    },
+    {
+      "name": "とんかつ かつ雅",
+      "group": "bronco-billy",
+      "operator": "株式会社レ・ヴァン（ブロンコビリー連結子会社）",
+      "category": "飲食",
+      "aliases": [
+        "かつ雅",
+        "かつまさ",
+        "かつ雅 とんかつ"
+      ],
+      "source": "https://www.katumasa.jp/"
+    },
+    {
+      "name": "お酒とお肉とおばんざい 信貴や",
+      "group": "bronco-billy",
+      "operator": "株式会社ブロンコビリー",
+      "category": "居酒屋",
+      "aliases": [
+        "信貴や",
+        "しきや"
+      ],
+      "source": "https://www.bronco.co.jp/corporate/about/business/"
+    },
+    {
+      "name": "しゃぶしゃぶ・日本料理 木曽路",
+      "group": "kisoji",
+      "operator": "株式会社木曽路",
+      "category": "飲食",
+      "aliases": [
+        "木曽路",
+        "しゃぶしゃぶ木曽路",
+        "きそじ"
+      ],
+      "source": "https://www.kisoji.co.jp/company/profile.html"
+    },
+    {
+      "name": "特選和牛 大将軍",
+      "group": "kisoji",
+      "operator": "株式会社木曽路",
+      "category": "飲食",
+      "aliases": [
+        "大将軍",
+        "焼肉大将軍",
+        "とくせんわぎゅうだいしょうぐん"
+      ],
+      "source": "https://www.kisoji.co.jp/company/profile.html"
+    },
+    {
+      "name": "国産牛焼肉 くいどん",
+      "group": "kisoji",
+      "operator": "株式会社木曽路",
+      "category": "飲食",
+      "aliases": [
+        "くいどん",
+        "国産牛焼肉くいどん"
+      ],
+      "source": "https://www.kisoji.co.jp/company/profile.html"
+    },
+    {
+      "name": "鶏料理 とりかく",
+      "group": "kisoji",
+      "operator": "株式会社木曽路",
+      "category": "居酒屋",
+      "aliases": [
+        "とりかく",
+        "鶏料理専門店とりかく"
+      ],
+      "source": "https://www.kisoji.co.jp/company/profile.html"
+    },
+    {
+      "name": "酒場 大穴",
+      "group": "kisoji",
+      "operator": "株式会社木曽路",
+      "category": "居酒屋",
+      "aliases": [
+        "大穴",
+        "だいあな",
+        "酒場大穴"
+      ],
+      "source": "https://www.kisoji.co.jp/company/profile.html"
+    },
+    {
+      "name": "和食旬彩処 鈴のれん",
+      "group": "kisoji",
+      "operator": "株式会社木曽路",
+      "category": "飲食",
+      "aliases": [
+        "鈴のれん",
+        "すずのれん"
+      ],
+      "source": "https://www.kisoji.co.jp/company/profile.html"
+    },
+    {
+      "name": "からあげ専門店 からしげ",
+      "group": "kisoji",
+      "operator": "株式会社木曽路",
+      "category": "飲食",
+      "aliases": [
+        "からしげ",
+        "唐揚げからしげ"
+      ],
+      "source": "https://www.kisoji.co.jp/company/profile.html"
+    },
+    {
+      "name": "すし銚子丸",
+      "group": "choushimaru",
+      "operator": "株式会社銚子丸（直営）",
+      "category": "飲食",
+      "aliases": [
+        "銚子丸",
+        "すしちょうしまる"
+      ],
+      "source": "https://event.choushimaru.co.jp/fes/2026sougyousai"
+    },
+    {
+      "name": "すし銚子丸 雅",
+      "group": "choushimaru",
+      "operator": "株式会社銚子丸（直営）",
+      "category": "飲食",
+      "aliases": [
+        "銚子丸雅",
+        "雅銚子丸",
+        "銚子丸 雅"
+      ],
+      "source": "https://event.choushimaru.co.jp/fes/2026sougyousai"
+    },
+    {
+      "name": "江戸前すし 百萬石",
+      "group": "choushimaru",
+      "operator": "株式会社銚子丸（直営）",
+      "category": "飲食",
+      "aliases": [
+        "百萬石",
+        "江戸前すし百萬石",
+        "百万石",
+        "百萬石寿司"
+      ],
+      "source": "https://event.choushimaru.co.jp/fes/2026sougyousai"
+    },
+    {
+      "name": "鮨 Yasuke",
+      "group": "choushimaru",
+      "operator": "株式会社銚子丸（直営）",
+      "category": "飲食",
+      "aliases": [
+        "鮨Yasuke",
+        "すしやすけ",
+        "Sushi Yasuke"
+      ],
+      "source": "https://event.choushimaru.co.jp/fes/2026sougyousai"
+    },
+    {
+      "name": "Standing 鮨 Bar Yasuke",
+      "group": "choushimaru",
+      "operator": "株式会社銚子丸（直営）",
+      "category": "飲食",
+      "aliases": [
+        "Standing鮨BarYasuke",
+        "スタンディング鮨バーやすけ"
+      ],
+      "source": "https://event.choushimaru.co.jp/fes/2026sougyousai"
+    },
+    {
+      "name": "鮨 Yasuke 潮彩",
+      "group": "choushimaru",
+      "operator": "株式会社銚子丸（直営）",
+      "category": "飲食",
+      "aliases": [
+        "鮨Yasuke潮彩",
+        "やすけしおさい",
+        "Yasuke 潮彩"
+      ],
+      "source": "https://event.choushimaru.co.jp/fes/2026sougyousai"
+    },
+    {
+      "name": "湯葉と豆腐の店 梅の花",
+      "group": "umenohana",
+      "operator": "株式会社梅の花サービス",
+      "category": "飲食",
+      "aliases": [
+        "梅の花",
+        "うめのはな",
+        "豆腐料理梅の花"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "かに料理専門店 かにしげ",
+      "group": "umenohana",
+      "operator": "株式会社梅の花サービス",
+      "category": "飲食",
+      "aliases": [
+        "かにしげ",
+        "蟹しげ"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "かに料理専門店 かに重",
+      "group": "umenohana",
+      "operator": "株式会社梅の花サービス",
+      "category": "飲食",
+      "aliases": [
+        "かに重",
+        "かにじゅう"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "CHINA 梅の花",
+      "group": "umenohana",
+      "operator": "株式会社梅の花サービス",
+      "category": "飲食",
+      "aliases": [
+        "チャイナ梅の花",
+        "中国料理梅の花"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "季節釜めし 花小梅",
+      "group": "umenohana",
+      "operator": "株式会社梅の花サービス",
+      "category": "飲食",
+      "aliases": [
+        "花小梅",
+        "はなこうめ"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "食のつむぎ",
+      "group": "umenohana",
+      "operator": "株式会社梅の花サービス",
+      "category": "飲食",
+      "aliases": [
+        "食の紡ぎ"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "湯葉と飲茶の店 茶青花",
+      "group": "umenohana",
+      "operator": "株式会社梅の花サービス",
+      "category": "飲食",
+      "aliases": [
+        "茶青花",
+        "ちゃせいか"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "梅の花の定食や うめまめ",
+      "group": "umenohana",
+      "operator": "株式会社梅の花サービス",
+      "category": "飲食",
+      "aliases": [
+        "うめまめ",
+        "梅の花うめまめ"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "中華料理 梅香",
+      "group": "umenohana",
+      "operator": "株式会社梅の花サービス",
+      "category": "飲食",
+      "aliases": [
+        "梅香",
+        "メイシャン",
+        "meixiang"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "熊本あか牛しゃぶしゃぶ 甲梅",
+      "group": "umenohana",
+      "operator": "株式会社三協梅の花",
+      "category": "飲食",
+      "aliases": [
+        "甲梅",
+        "こうばい"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "和食鍋処 すし半",
+      "group": "umenohana",
+      "operator": "株式会社すし半",
+      "category": "飲食",
+      "aliases": [
+        "すし半",
+        "すしはん"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "海鮮処 さくら水産",
+      "group": "umenohana",
+      "operator": "株式会社テラケン",
+      "category": "居酒屋",
+      "aliases": [
+        "さくら水産",
+        "海産物居酒屋さくら水産"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "てらけん本家",
+      "group": "umenohana",
+      "operator": "株式会社テラケン",
+      "category": "居酒屋",
+      "aliases": [
+        "てらけん",
+        "てらけん本家"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "魚がイチバン",
+      "group": "umenohana",
+      "operator": "株式会社テラケン",
+      "category": "居酒屋",
+      "aliases": [
+        "魚がいちばん",
+        "魚が一番"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "海鮮処 魚さま",
+      "group": "umenohana",
+      "operator": "株式会社テラケン",
+      "category": "居酒屋",
+      "aliases": [
+        "魚さま",
+        "さかなさま"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "古市庵",
+      "group": "umenohana",
+      "operator": "株式会社古市庵プラス",
+      "category": "専門店",
+      "aliases": [
+        "こいちあん",
+        "古市庵プラス",
+        "こいち庵"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "梅の花 物販店",
+      "group": "umenohana",
+      "operator": "株式会社古市庵プラス",
+      "category": "専門店",
+      "aliases": [
+        "梅の花テイクアウト専門店",
+        "梅の花惣菜"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "Umenohana KITCHEN",
+      "group": "umenohana",
+      "operator": "株式会社古市庵プラス",
+      "category": "専門店",
+      "aliases": [
+        "梅の花キッチン",
+        "梅の花KITCHEN"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "梅の花バイキングレストラン ほたる",
+      "group": "umenohana",
+      "operator": "株式会社梅の花サービス",
+      "category": "飲食",
+      "aliases": [
+        "ほたる",
+        "梅の花ほたる"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
+    },
+    {
+      "name": "BUA SPA",
+      "group": "umenohana",
+      "operator": "株式会社梅の花グループのスパ事業",
+      "category": "専門店",
+      "aliases": [
+        "ブアスパ",
+        "ブア・スパ"
+      ],
+      "source": "https://www.umenohana.co.jp/corporate/brands"
     }
   ]
 }
