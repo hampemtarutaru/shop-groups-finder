@@ -40,7 +40,7 @@ export function auditData(db,{today=todayJST()}={}){
     if(!/^#[0-9a-f]{6}$/i.test(String(g.accent||'')))error(p,'invalid accent CSS color');
     if(!Array.isArray(g.events))error(p,'events must be an array');
     else g.events.forEach((e,j)=>{
-      if(!e||!/^(?:19|20|21)\d{2}$/.test(String(e.year))||!requiredText(e.text))error(p+'.events['+j+']','invalid event');
+      if(!e||!/^(?:17|18|19|20|21)\d{2}$/.test(String(e.year))||!requiredText(e.text))error(p+'.events['+j+']','invalid event');
     });
   });
   db.brands.forEach((b,i)=>{
