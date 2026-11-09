@@ -51,10 +51,13 @@ const run=async()=>{
   assert.match(await page.title(),/このサイトについて/);
   assert.equal((await page.locator('h1').count()),1);
   assert.match(await page.locator('main').innerText(),/運営|出典/);
+  assert.match(await page.locator('main').innerText(),/登記された法人ではありません/);
+  assert.doesNotMatch(await page.locator('main').innerText(),/公開前草案/);
   assert.equal((await page.locator('a[href="./"]').count())>0,true);
   await page.locator('a[href="./privacy.html"]').first().click();
   assert.match(await page.title(),/プライバシー/);
   assert.match(await page.locator('main').innerText(),/Web Analyticsを使用しています/);
+  assert.doesNotMatch(await page.locator('main').innerText(),/公開前草案/);
   assert.match(await page.locator('main').innerText(),/\?q=/);
 
   const mobCtx=await browser.newContext({viewport:{width:390,height:844},deviceScaleFactor:1,isMobile:true,hasTouch:true});
