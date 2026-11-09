@@ -47,16 +47,23 @@ const run=async()=>{
   assert.ok(await page.locator('.group-card').count()>0,'supermarket category rendered no groups');
   await page.locator('[data-filter="すべて"]').click();
 
+  assert.equal(await page.locator('.footer-links a[href="https://ws.formzu.net/fgen/S91789198/"]').count(),1,'home footer contact link missing');
   await page.locator('.footer-links a[href="./about.html"]').click();
   assert.match(await page.title(),/このサイトについて/);
   assert.equal((await page.locator('h1').count()),1);
   assert.match(await page.locator('main').innerText(),/運営|出典/);
   assert.match(await page.locator('main').innerText(),/登記された法人ではありません/);
+  const aboutContact=page.locator('.info-section a[href="https://ws.formzu.net/fgen/S91789198/"]');
+  assert.equal(await aboutContact.count(),1,'shared contact link missing from About');
+  assert.equal(await aboutContact.getAttribute('rel'),'noopener noreferrer');
   assert.doesNotMatch(await page.locator('main').innerText(),/公開前草案/);
   assert.equal((await page.locator('a[href="./"]').count())>0,true);
   await page.locator('a[href="./privacy.html"]').first().click();
   assert.match(await page.title(),/プライバシー/);
   assert.match(await page.locator('main').innerText(),/Web Analyticsを使用しています/);
+  const privacyContact=page.locator('.info-section a[href="https://ws.formzu.net/fgen/S91789198/"]');
+  assert.equal(await privacyContact.count(),1,'shared contact link missing from Privacy');
+  assert.match(await page.locator('main').innerText(),/Formzu/);
   assert.doesNotMatch(await page.locator('main').innerText(),/公開前草案/);
   assert.match(await page.locator('main').innerText(),/\?q=/);
 
