@@ -4,6 +4,8 @@ on:
     paths:
       - 'qa/seo-poc/**'
       - 'scripts/seo_group_poc*.mjs'
+      - 'scripts/k089_data_audit*.mjs'
+      - 'scripts/k089_data_audit*.mjs'
       - 'public/data.json'
       - '.github/workflows/k089-seo-poc.yml'
   push:
@@ -23,6 +25,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Validate all corporate group and brand records
+        run: |
+          node --test scripts/k089_data_audit.test.mjs
+          node scripts/k089_data_audit.mjs
       - name: Regenerate the three isolated HTML pages
         run: node scripts/seo_group_poc.mjs
       - name: Check source data and generated links
