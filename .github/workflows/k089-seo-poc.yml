@@ -1,0 +1,35 @@
+name: K-089 SEO PoC verification
+on:
+  pull_request:
+    paths:
+      - 'qa/seo-poc/**'
+      - 'scripts/seo_group_poc*.mjs'
+      - 'public/data.json'
+      - '.github/workflows/k089-seo-poc.yml'
+  push:
+    branches: [k089/seo-group-pages-poc-20261109]
+    paths:
+      - 'qa/seo-poc/**'
+      - 'scripts/seo_group_poc*.mjs'
+      - 'public/data.json'
+      - '.github/workflows/k089-seo-poc.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Regenerate the three isolated HTML pages
+        run: node scripts/seo_group_poc.mjs
+      - name: Check source data and generated links
+        run: node --test scripts/seo_group_poc.test.mjs
+      - name: Ensure regenerated HTML matches checked-in snapshots
+        run: git diff --exit-code -- qa/seo-poc/groups/
+      - name: Regenerate again and check determinism
+        run: |
+          node scripts/seo_group_poc.mjs
+          git diff --exit-code -- qa/seo-poc/groups/
