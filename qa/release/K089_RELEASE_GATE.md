@@ -21,8 +21,8 @@
 4. テストに追加した運営者の**法人未登記説明**が合格。これらはコード・ブラウザ動作の試験であり、公式出典の最新性や現行会社フォームの承認確認には代替しない
 
 ## 公開前の人間判断・環境確認（未完了）
-- [ ] 会社サイト「お問い合わせ」リンクの現在のURLと送信先が確認でき、K-089に案内してよいこと。別サイトで使われたフォームを無断で流用しない
-- [ ] Cloudflare PagesのPreview/Production設定、Previewの閲覧制限、Deployments一覧を確認。Production branch=main、Build output=publicを実機で確認
+- [x] 創業者が2026/11/09、君たち株式会社の既存共通お問い合わせフォームをK-089でも利用することを明示承認。過去の会社運用記録で特定されたFormzuフォームID S91789198（https://ws.formzu.net/fgen/S91789198/）をindex/footer・about・privacyに設置し、送信は外部フォームで行う旨を記載。直接フォームのライブ開通確認・送信テストは環境制限で未実施。公開前に創業者のブラウザで開いて正しいフォームか最終確認する。
+- [x] 2026/11/09 Cloudflare設定画面でProduction branch=main、Build output=public、自動デプロイ有効、Preview branch=All non-production branchesを確認。PreviewはAccess保護なし・公開URL扱い。GitHub PR5はDraftで未マージ
 - [ ] 公開する「このサイトについて」「プライバシー」の本文を創業者が確認
 - [ ] 主要な記載企業の公式出典の現在性に重要な誤りがないことを確認
 - [ ] 最終承認を受けてからPRをReady for reviewにし、mainへのマージ/Cloudflare本番デプロイを実施
@@ -30,7 +30,7 @@
 ## 反映後のスモークチェック
 - [ ] https://groups.hampemtarutaru.com/ で検索可能・データ数表示・ブランドカードが正常
 - [ ] /?q=%E3%81%AA%E3%81%8B%E5%8D%AF（なか卯）からゼンショーへの検索結果
-- [ ] /about.html と /privacy.html のリンク・スマホ表示・登記法人ではない旨の注記
+- [ ] /about.html と /privacy.html のリンク・スマホ表示・登記法人ではない旨の注記、共通Formzu問い合わせフォームへの外部リンクを確認
 - [ ] ブラウザの共有URL・検索クリア・業種フィルタの動作
 - [ ] 新規の /groups/zensho.html 等は存在しない（隔離PoCを誤公開していない）
 - [ ] Analyticsのデータ受信は継続しているか。前日との差は小標本のため効果の断定に使わない
