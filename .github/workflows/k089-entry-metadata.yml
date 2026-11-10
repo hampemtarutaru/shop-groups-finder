@@ -1,0 +1,21 @@
+name: K-089 entry metadata check
+on:
+  pull_request:
+    paths:
+      - 'public/index.html'
+      - 'public/about.html'
+      - 'public/privacy.html'
+      - 'public/sitemap.xml'
+      - 'scripts/k089_entry_metadata.test.mjs'
+      - '.github/workflows/k089-entry-metadata.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test scripts/k089_entry_metadata.test.mjs
