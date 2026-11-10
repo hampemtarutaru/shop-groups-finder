@@ -5,7 +5,7 @@ on:
       - 'qa/seo-poc/**'
       - 'scripts/seo_group_poc*.mjs'
       - 'scripts/k089_data_audit*.mjs'
-      - 'scripts/k089_data_audit*.mjs'
+      - 'scripts/k089_seo_release_gate*.mjs'
       - 'public/data.json'
       - '.github/workflows/k089-seo-poc.yml'
   push:
@@ -29,6 +29,10 @@ jobs:
         run: |
           node --test scripts/k089_data_audit.test.mjs
           node scripts/k089_data_audit.mjs
+      - name: Verify small-cohort editorial release gates (read-only)
+        run: |
+          node --test scripts/k089_seo_release_gate.test.mjs
+          node scripts/k089_seo_release_gate.mjs
       - name: Regenerate the three isolated HTML pages
         run: node scripts/seo_group_poc.mjs
       - name: Check source data and generated links
