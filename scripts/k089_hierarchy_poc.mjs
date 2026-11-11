@@ -49,7 +49,7 @@ function renderPage(db,groupId){
   const sections=clusters.map((c,i)=>{
     const list=c.brands.map(b=>{
       const src=safeHttps(b.source);
-      return `<li><span class="brand"><a href="/?q=${encodeURIComponent(b.name)}">${esc(b.name)}</a></span>${src?`<a class="ref" href="${esc(src)}" target="_blank" rel="noopener noreferrer">個別の公式情報</a>`:"<span class=\"ref\">公式出典未確認</span>"}${!c.verified?`<div class="raw">現行データの記載：${esc(b.operatorDisplay||"記載なし")}</div>`:""}</li>`;
+      return `<li><span class="brand"><a href="/?q=${encodeURIComponent(b.name)}">${esc(b.name)}</a></span>${src?`<a class="ref" href="${esc(src)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(b.name)}の登録出典（公式サイトを別タブで開く）">登録出典（公式・別タブ）</a>`:"<span class=\"ref\">公式出典未確認</span>"}${!c.verified?`<div class="raw">現行データの記載：${esc(b.operatorDisplay||"記載なし")}</div>`:""}</li>`;
     }).join("\n");
     return `<section class="operator ${c.verified?"":"pending"}" id="operator-${i+1}" aria-labelledby="operator-heading-${i+1}">
   <div class="operator-heading"><h2 id="operator-heading-${i+1}">${esc(c.label)}</h2><span class="count">${c.brands.length}ブランド</span></div>
@@ -74,27 +74,28 @@ main{max-width:1050px;margin:auto;padding:28px 20px 70px}h1{font-size:clamp(1.7r
 .status{padding:12px 16px;background:#fff3da;border-left:4px solid #b88431;font-size:.88rem;margin:22px 0}
 .summary{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0 28px}.summary span{background:#e5eee8;padding:7px 13px;border-radius:8px;font-weight:700;font-size:.9rem}
 .tree{border-left:3px solid #78a095;margin:20px 0 28px;padding-left:17px}.tree strong{display:block}.tree small{color:#4a675d}
-nav{background:white;border:1px solid #dae6df;border-radius:12px;padding:15px 19px;margin:24px 0 28px}nav h2{margin-bottom:8px}nav .links{display:flex;flex-wrap:wrap;gap:8px}nav a{font-size:.83rem;text-decoration:none;border:1px solid #cbdcd4;border-radius:7px;padding:5px 9px}nav a span{color:#52746a}
+nav{background:white;border:1px solid #dae6df;border-radius:12px;padding:15px 19px;margin:24px 0 28px}nav h2{margin-bottom:8px}nav .links{display:flex;flex-wrap:wrap;gap:8px}nav a{display:inline-flex;align-items:center;gap:6px;min-height:44px;max-width:100%;overflow-wrap:anywhere;font-size:.88rem;text-decoration:none;border:1px solid #cbdcd4;border-radius:7px;padding:9px 11px}nav a span{color:#52746a}
 .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;align-items:start}.operator{background:white;border:1px solid #d9e6df;border-radius:14px;padding:18px;min-width:0;box-shadow:0 1px 6px #153b2e0d}
 .operator-heading{display:flex;justify-content:space-between;align-items:center;gap:10px;border-bottom:1px solid #e5eee9;padding-bottom:12px}.count{white-space:nowrap;color:#35675c;font-size:.78rem;background:#eaf4ed;padding:3px 8px;border-radius:20px}
-.brand-list{list-style:none;padding:0;margin:8px 0 0}.brand-list li{display:flex;justify-content:space-between;gap:10px;align-items:baseline;flex-wrap:wrap;border-bottom:1px solid #eff3f0;padding:8px 0}.brand-list li:last-child{border:0}.brand{font-weight:700}.ref{font-size:.75rem}.pending{border:2px dashed #bf8c38}.warning,.raw{font-size:.78rem;color:#825c18}.raw{flex-basis:100%}
-.notes{margin-top:28px;padding:18px 20px;background:#edf1ec;border-radius:12px;font-size:.88rem}footer{background:#e3ebe5;padding:18px;text-align:center;font-size:.8rem}
+.brand-list{list-style:none;padding:0;margin:8px 0 0}.brand-list li{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;border-bottom:1px solid #eff3f0;padding:8px 0}.brand-list li:last-child{border:0}.brand{font-weight:700}.brand-list li a{display:inline-flex;align-items:center;min-height:44px;max-width:100%;overflow-wrap:anywhere}.ref{font-size:.86rem}.pending{border:2px dashed #bf8c38}.warning,.raw{font-size:.78rem;color:#825c18}.raw{flex-basis:100%}
+.notes{margin-top:28px;padding:18px 20px;background:#edf1ec;border-radius:12px;font-size:.88rem}footer{background:#e3ebe5;padding:18px;text-align:center;font-size:.8rem}.skip{position:absolute;left:-200vw;top:0;background:white;color:#143f36;padding:10px 16px;z-index:10}.skip:focus{left:8px;top:8px}h1,h2,.operator-heading{overflow-wrap:anywhere}
 @media(max-width:680px){.grid{grid-template-columns:1fr}.operator{padding:15px}.brand-list li{gap:4px}.summary span{font-size:.84rem}}
 </style>
 </head>
 <body>
+<a class="skip" href="#main">本文へスキップ</a>
 <header><a href="/">この店、どこの系列？</a> ／ 構造表示の隔離試作</header>
-<main>
+<main id="main">
 <p class="kicker">親グループ → 運営会社 → ブランド</p>
 <h1>${esc(group.name)}</h1>
 <p class="lead">現行の登録情報を、運営会社ごとに並べ替えました。同じグループでも実際の運営会社は異なることがあります。</p>
 <div class="status"><strong>非公開の検証用HTML・検索対象外。</strong> ブランドの網羅や各店舗の直営・FC契約の証明ではありません。${esc(intro)}</div>
 <div class="tree"><strong>親グループ：${esc(group.company)}</strong><small>登録上のグループ名：${esc(group.name)} ／ グループデータの確認日：${esc(group.checked||"未記録")}</small></div>
-<div class="summary"><span>${brands.length} 登録ブランド</span><span>${knownCompanies} 運営会社</span>${unknownBrandCount?`<span>${unknownBrandCount}件 要確認</span>`:""}</div>
+<div class="summary"><span>${brands.length} 登録ブランド</span><span>${knownCompanies} 運営会社名を掲載</span>${unknownBrandCount?`<span>${unknownBrandCount}件 要確認</span>`:""}</div>
 <nav aria-label="運営会社へ移動"><h2>運営会社から探す</h2><div class="links">${navigation}</div></nav>
 <div class="grid">${sections}</div>
-<section class="notes"><h2>表示の考え方</h2><p>会社名として確認できる登録情報だけを運営会社の見出しにしました。カッコ内のグループ説明は既知の対応表でのみ整理し、元のブランド所属データは変更していません。各店舗の運営主体がフランチャイズ等で異なる可能性があります。</p>
-<p>出典は現行の登録データに保存された公式リンクです。新規に全件の照合を終えたことを意味しません。正式公開前に個別の出典確認・使い勝手とSEOの品質審査が必要です。</p><a href="/">店名検索トップへ戻る</a></section>
+<section class="notes"><h2>表示の考え方</h2><p>登録データに法人名が明記されている場合に、その表記を運営会社の見出しにしました。カッコ内のグループ説明は既知の対応表でのみ整理し、元のブランド所属データは変更していません。各店舗の運営主体がフランチャイズ等で異なる可能性があります。</p>
+<p>出典は現行の登録データに保存された公式リンクで、ブランド専用ページとは限りません。個別の運営法人の関係を新規に全件照合したことを意味しません。正式公開前に個別の出典確認・使い勝手とSEOの品質審査が必要です。</p><a href="/">店名検索トップへ戻る</a></section>
 </main>
 <footer>君たち株式会社 ／ 企業公式サイトではありません ／ このページは公開前の試作品です。</footer>
 </body>
