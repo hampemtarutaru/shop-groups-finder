@@ -2646,6 +2646,33 @@
           "text": "9月、愛知県安城市の『手打ちとんかつ かつ屋』一店舗を『かつ麦』に転換。"
         }
       ]
+    },
+    {
+      "id": "inoue-sweets-paradise",
+      "name": "井上商事（スイーツパラダイス・コラボカフェ）",
+      "company": "井上商事株式会社",
+      "summary": "大阪市に本社を置く洋菓子製造・デザートバイキング運営会社。『スイーツパラダイス』のほか、アニメ・キャラクター等とのコラボレーションカフェ『COLLABO PARADISE』『CONCEPT CAFE KOBE BY SWEETS PARADISE』『DISH UP』『S-PiCK CAFE』、テイクアウト『CAFE STAND SWEETS PARADISE』等を公式店舗一覧に掲載。2026年8月には農産物の産直EC『スイパラ農園直売所』を開設（実店舗ではないのでブランド検索対象外）。2026年11月1日にはSTPRとの共同企画のテイクアウト店『Puffy & Sweety』が池袋に開業。ただしSTPRと井上商事は資本上の同一系列と確認されておらず、STPR共同企画店を井上商事単独の兄弟ブランドとして登録しない。旧CONCEPT CAFE等の改称された店舗名は現行新ブランドとして二重登録しない。パルコ・丸井等は出店先・取引先であり親会社ではない。",
+      "accent": "#B9869B",
+      "source": "https://www.sweets-paradise.jp/company/",
+      "checked": "2026-11-11",
+      "events": [
+        {
+          "year": "1954",
+          "text": "井上商事株式会社設立（公式会社概要）。"
+        },
+        {
+          "year": "2003",
+          "text": "大阪・心斎橋にスイーツパラダイス1号店開店。"
+        },
+        {
+          "year": "2026",
+          "text": "8月、産地直送EC『スイパラ農園直売所』開設。"
+        },
+        {
+          "year": "2026",
+          "text": "11月1日、STPRとの共同企画店『Puffy & Sweety』が池袋にオープン。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -11725,6 +11752,75 @@
         "かつ屋"
       ],
       "source": "https://www.foods-japan.co.jp/"
+    },
+    {
+      "name": "スイーツパラダイス",
+      "group": "inoue-sweets-paradise",
+      "operator": "井上商事株式会社",
+      "category": "飲食",
+      "aliases": [
+        "スイパラ",
+        "SWEETS PARADISE",
+        "Sweets Paradise",
+        "スイーツぱらだいす"
+      ],
+      "source": "https://www.sweets-paradise.jp/shop/"
+    },
+    {
+      "name": "COLLABO PARADISE",
+      "group": "inoue-sweets-paradise",
+      "operator": "井上商事株式会社",
+      "category": "飲食",
+      "aliases": [
+        "コラボパラダイス",
+        "コラボパラダイス あべの"
+      ],
+      "source": "https://www.sweets-paradise.jp/shop/area/collabo/"
+    },
+    {
+      "name": "CONCEPT CAFE KOBE BY SWEETS PARADISE",
+      "group": "inoue-sweets-paradise",
+      "operator": "井上商事株式会社",
+      "category": "飲食",
+      "aliases": [
+        "CONCEPT CAFE",
+        "コンセプトカフェ神戸",
+        "コンセプトカフェ"
+      ],
+      "source": "https://www.sweets-paradise.jp/shop/area/collabo/"
+    },
+    {
+      "name": "DISH UP",
+      "group": "inoue-sweets-paradise",
+      "operator": "井上商事株式会社",
+      "category": "飲食",
+      "aliases": [
+        "ディッシュアップ"
+      ],
+      "source": "https://www.sweets-paradise.jp/shop/dish-up/"
+    },
+    {
+      "name": "S-PiCK CAFE",
+      "group": "inoue-sweets-paradise",
+      "operator": "井上商事株式会社",
+      "category": "飲食",
+      "aliases": [
+        "エスピックカフェ",
+        "SPICK CAFE"
+      ],
+      "source": "https://www.sweets-paradise.jp/shop/area/collabo/"
+    },
+    {
+      "name": "CAFE STAND SWEETS PARADISE",
+      "group": "inoue-sweets-paradise",
+      "operator": "井上商事株式会社",
+      "category": "飲食",
+      "aliases": [
+        "CAFE STAND KYOTO SWEETS PARADISE",
+        "CAFE STAND OSAKA SWEETS PARADISE",
+        "スイパラ カフェスタンド"
+      ],
+      "source": "https://www.sweets-paradise.jp/shop/area/cakeshop/"
     }
   ]
 }
