@@ -19,7 +19,11 @@ for(const [id,count,operators,unknown] of expectations){
     const html=renderPage(db,id);
     assert.match(html,/noindex,nofollow/);
     assert.match(html,/親グループ → 運営会社 → ブランド/);
-    assert.match(html,/個別の公式情報/);
+    assert.match(html,/登録出典（公式・別タブ）/);
+    assert.doesNotMatch(html,/個別の公式情報/);
+    assert.match(html,/公式リンクで、ブランド専用ページとは限りません/);
+    assert.match(html,/本文へスキップ/);
+    assert.match(html,/min-height:44px/);
     assert.doesNotMatch(html,/<script\b/i);
     assert.match(html,/検索対象外/);
     for(const b of h.brands)assert.ok(html.includes(encodeURIComponent(b.name)),b.name);
