@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-11現在、121グループ・856ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-11現在、123グループ・862ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -782,3 +782,27 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://stpr-info.com/special/stpr-paradise/puffy-and-sweety
 - https://prtimes.jp/main/html/rd/p/000000842.000059399.html
 - https://online.bci.co.jp/article/detail/5868
+
+
+## 出典・更新メモ（2026-11-11 りらくる／Re.Ra.Ku／非飲食業態へ拡張）
+
+公式資料から、以下の別グループ2件／店舗ブランド合計6件を追加し、『リラクゼーション』フィルターを新設した。
+
+- 株式会社りらく：『りらくる』1ブランド。2009年『りらく』として創業、2016年『りらくる』へ改称（旧屋号は検索別名）。2013年アドバンテッジパートナーズ系が買収、2017年12月にCVC Asia IVが過半数を取得。CVC公式ポートフォリオに2026年11月時点で掲載があるが、直近の出資比率は未確認。公式2026年9月プレスリリースによると603店舗（2026年3月時点）。複数施術メニューを別ブランドとして重複登録しない。
+- メディロム（株式会社メディロム・ウェルネス等）：『Re.Ra.Ku』『Spa Re.Ra.Ku』『Re.Ra.Ku PRO』『Bell Epoc』『Ruam Ruam』の5ブランド。2026年11月5日のメディロム公式発表でブランド一覧を確認。旧株式会社リラクは2017年1月にメディロムへ商号変更している。同グループにはほかに美容室ZACCやヘルスケア事業等があるが、異業態は現段階では個別登録しない。
+
+**誤認回避**：ひらがなの『りらく』（りらくる旧屋号／株式会社りらく）と、Re.Ra.Ku読みの『リラク』（メディロム旧社名）は、似た名称でも異なる企業。『りらく』で検索したとき両社の現在の屋号が候補に現れるのは、区別の機会として意図した設定。資本上の兄弟ブランドとして表示していない。なおCVC投資先一覧にある他業種企業を無条件に『りらくる』の兄弟ブランドとして追加しない。
+
+- https://relxle.com/company
+- https://relxle.com/usr/news/detail/509
+- https://www.cvc.com/media/news/2017/2017-12-18-cvc-asia-iv-to-partner-with-riraku/
+- https://www.cvc.com/portfolio/our-portfolio/
+- https://www.advantagepartners.com/news/2013_08_14/
+- https://medirom.co.jp/news/20261105
+- https://medirom.co.jp/news/6atb8v7n1z9k
+- https://medirom-wellness.co.jp/
+- https://reraku.jp/brand/reraku
+- https://reraku.jp/brand/spareraku
+- https://reraku.jp/brand/rerakupro
+- https://reraku.jp/brand/bellepoc
+- https://reraku.jp/brand/ruamruam
