@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-11現在、123グループ・862ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-11現在、126グループ・882ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -806,3 +806,30 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://reraku.jp/brand/rerakupro
 - https://reraku.jp/brand/bellepoc
 - https://reraku.jp/brand/ruamruam
+
+
+## 出典・更新メモ（2026-11-11 ラフィネ／てもみん／カラダファクトリー系列）
+
+創業者の希望でリラクゼーション3系統を公式情報で調査し、新規3グループ・20店舗ブランドを追加。従来の『リラクゼーション』フィルターはそのまま使い、トレーニング・運動を主とする2サービスだけ『専門店』に分類した。ブランドごとの検索別名、会社の沿革、誤解しやすい資本関係の区別を追加した。
+
+- **ボディワークグループ**：ラフィネ／グランラフィネ／バダンバルー／ラフィネプリュス／プチラフィネ／整体ナチュラルボディ／トータルセラピー／フットデザイン／リフレの9ブランド。ラフィネグループ公式ブランド一覧・ボディワークHDの子会社説明で確認。なおオーストラリアの『ラフィネ トウキョウ』や『ラフィネ ランニングスタイル』も公式ブランド一覧に記載されているが、今回は国内リラクゼーション店の検索収録に絞っており対象外。『リフレ』は一般名詞と混同しやすいため運営を株式会社ボディワークと明記。
+- **グローバルスポーツ医学研究所**：てもみん／PLANET／グローバル治療院／ウェルネススタジオGSの4ブランド。前者2件はてもみん系リラクゼーション、グローバル治療院は国家資格の鍼灸マッサージ等に基づく治療院、ウェルネススタジオGSはトレーニングサービス。1982年に前身治療院が創業、1985年に会社設立、1996年1月東京駅前に『てもみん』1号店。提供資格や業態を混同しない。
+- **ファクトリージャパングループ**：カラダファクトリー／カラダストレッチ／カラダピオニー／カラダプレミアム／カラダシエスタ／本格整体処 和み庵／カラダプチフィットの7ブランド。公式サロン事業・主力ブランド公式ガイドを参照。カラダプチフィットは運動・フィットネス寄りのサービスとして『専門店』で登録。2001年4月に上大岡1号店、2010年に現社名へ変更。
+
+**注意**：3社はいずれも別の企業系列。商業施設への出店先（イオン・PARCO等）を親会社扱いしない。個別のFC店舗では運営主体が異なる場合がある。手技の宣伝・効能は公式の宣伝文を医療事実として検証したものではない。
+
+公式出典：
+- https://www.bodywork-holdings.co.jp/company/info
+- https://www.bodywork-holdings.co.jp/group/bodywork
+- https://www.bodywork.co.jp/brand/
+- https://www.bodywork.co.jp/tokushoho
+- https://www.global-sports.co.jp/company/company_outline
+- https://www.global-sports.co.jp/brands/
+- https://www.global-sports.co.jp/brands/temomin
+- https://www.global-sports.co.jp/brands/global_clinic
+- https://www.global-sports.co.jp/brands/wellnessstudio
+- https://map.global-sports.co.jp/
+- https://www.factoryjapan.jp/company/
+- https://www.factoryjapan.jp/service/salon/
+- https://factoryjapan.jp/company/history/
+- https://karada39.com/guide/
