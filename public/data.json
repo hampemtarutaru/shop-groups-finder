@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "notice": "掲載対象は一部のブランドです。企業の資本・運営関係は変わることがあります。",
   "groups": [
     {
@@ -2621,6 +2621,29 @@
         {
           "year": "2006",
           "text": "エポスカード発行開始。"
+        }
+      ]
+    },
+    {
+      "id": "foods-japan",
+      "name": "フーズジャパン（とろ麦・かつ麦・麦福ほか）",
+      "company": "株式会社フーズジャパン",
+      "summary": "滋賀県草津市の和食系外食企業。『ご飯ととろろ とろ麦』を中心に、とんかつ『かつ麦』『勝六』『かつ屋』、そば『麦福』、鶏料理『鶏山賊』、うどん『う権』等を展開。2026年1月、グローバルフードソリューション（GFS）と共同で店舗運営会社『イートリンク』を設立し、とろ麦の一部（浅草EKIMISE・立川高島屋・セレオ八王子・大宮マルイ等）の運営・出店拡大に着手。イートリンクは『サンドイッチのお店 Merci』も運営するが、フーズジャパンとMerciを同一資本系列・兄弟ブランドと断定しない。とろ麦のブランド展開元と個別店舗の運営主体を区別する。『手打ちとんかつ かつ屋』は2026年9月に一部店舗が『かつ麦』へ業態転換しており全店改称ではない。",
+      "accent": "#7B9762",
+      "source": "https://www.foods-japan.co.jp/brand/",
+      "checked": "2026-11-11",
+      "events": [
+        {
+          "year": "2025",
+          "text": "12月、そばと和食『麦福』イオンモール福岡店開業。"
+        },
+        {
+          "year": "2026",
+          "text": "1月、GFSと共同で店舗運営会社『イートリンク』を設立。とろ麦の一部店舗の運営・拡大に着手。"
+        },
+        {
+          "year": "2026",
+          "text": "9月、愛知県安城市の『手打ちとんかつ かつ屋』一店舗を『かつ麦』に転換。"
         }
       ]
     }
@@ -11630,6 +11653,78 @@
         "杜の都仙台牛タン伊達哉"
       ],
       "source": "https://www.onesfarm.com/company/09.html"
+    },
+    {
+      "name": "ご飯ととろろ とろ麦",
+      "group": "foods-japan",
+      "operator": "株式会社フーズジャパン（ブランド展開元。店舗によって株式会社イートリンク等が運営）",
+      "category": "飲食",
+      "aliases": [
+        "とろ麦",
+        "とろむぎ",
+        "大豆ととろろ とろ麦"
+      ],
+      "source": "https://www.foods-japan.co.jp/shop_category/shop_toromugi/"
+    },
+    {
+      "name": "とんかつととろろ膳 かつ麦",
+      "group": "foods-japan",
+      "operator": "株式会社フーズジャパン",
+      "category": "飲食",
+      "aliases": [
+        "かつ麦"
+      ],
+      "source": "https://www.foods-japan.co.jp/brand/"
+    },
+    {
+      "name": "とんかつ 勝六",
+      "group": "foods-japan",
+      "operator": "株式会社フーズジャパン",
+      "category": "飲食",
+      "aliases": [
+        "勝六"
+      ],
+      "source": "https://www.foods-japan.co.jp/shop_category/shop_katsuroku/"
+    },
+    {
+      "name": "そばと和食 麦福",
+      "group": "foods-japan",
+      "operator": "株式会社フーズジャパン",
+      "category": "飲食",
+      "aliases": [
+        "麦福"
+      ],
+      "source": "https://www.foods-japan.co.jp/brand/"
+    },
+    {
+      "name": "親子丼と鶏料理 鶏山賊",
+      "group": "foods-japan",
+      "operator": "株式会社フーズジャパン",
+      "category": "飲食",
+      "aliases": [
+        "鶏山賊"
+      ],
+      "source": "https://www.foods-japan.co.jp/access/"
+    },
+    {
+      "name": "うどんと和食膳 う権",
+      "group": "foods-japan",
+      "operator": "株式会社フーズジャパン",
+      "category": "飲食",
+      "aliases": [
+        "う権"
+      ],
+      "source": "https://www.foods-japan.co.jp/"
+    },
+    {
+      "name": "手打ちとんかつ かつ屋",
+      "group": "foods-japan",
+      "operator": "株式会社フーズジャパン",
+      "category": "飲食",
+      "aliases": [
+        "かつ屋"
+      ],
+      "source": "https://www.foods-japan.co.jp/"
     }
   ]
 }
