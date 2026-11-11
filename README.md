@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-08現在、119グループ・842ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-11現在、120グループ・850ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -748,3 +748,20 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://www.matsuya.com/corp/company/stores/
 - https://www.matsuya.com/corp/company/group/
 - https://www.0101maruigroup.co.jp/ci/group
+
+
+## 出典・更新メモ（2026-11-11 とろ麦・フーズジャパン）
+
+株式会社フーズジャパン（本社・滋賀県草津市）を追加し、公式ブランド紹介と店舗情報に基づいて『ご飯ととろろ とろ麦』『とんかつととろろ膳 かつ麦』『とんかつ 勝六』『そばと和食 麦福』『親子丼と鶏料理 鶏山賊』『うどんと和食膳 う権』『手打ちとんかつ かつ屋』の7ブランドを収録。店名の短縮形を検索別名に設定。愛知県安城市のかつ屋1店舗は2026年9月10日、かつ麦へ業態転換済みだが、全店一斉改称とは扱わない。
+
+**運営体制の注意点**：フーズジャパンは『とろ麦』ブランドの展開元。2026年1月にグローバルフードソリューション（GFS）と共同設立した株式会社イートリンクが関東4店舗（浅草EKIMISE、立川高島屋、セレオ八王子、大宮マルイ）の運営拡大を担当。イートリンクは『サンドイッチのお店 Merci』も運営するが、運営委託・共同事業関係と資本上の同一グループは区別し、フーズジャパンの『兄弟ブランド』としてMerciを無断登録しない。今回追加は1グループ7ブランドのみ。
+
+- https://www.foods-japan.co.jp/
+- https://www.foods-japan.co.jp/brand/
+- https://www.foods-japan.co.jp/shop_category/shop_toromugi/
+- https://www.foods-japan.co.jp/shop_category/shop_katsuroku/
+- https://www.foods-japan.co.jp/access/
+- https://eat-link.co.jp/business/
+- https://eat-link.co.jp/brand/
+- https://eat-link.co.jp/faq/
+- https://gourmetpress.net/1402358/
