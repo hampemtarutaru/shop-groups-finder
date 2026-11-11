@@ -2673,6 +2673,68 @@
           "text": "11月1日、STPRとの共同企画店『Puffy & Sweety』が池袋にオープン。"
         }
       ]
+    },
+    {
+      "id": "rirakuru",
+      "name": "りらくる（株式会社りらく／CVC出資）",
+      "company": "株式会社りらく",
+      "summary": "大阪に本部を置き、全身もみほぐし・足つぼ等の低価格リラクゼーションチェーン『りらくる』を全国展開。2009年に『りらく』として創業、2016年に『りらくる』へ屋号変更。2017年12月にCVC Capital Partners系ファンドが過半数株式を取得し、2026年11月現在もCVC公式投資先一覧にRirakuが掲載されている（現在の持分比率は未確認）。2026年3月現在603店舗との同社2026年9月公表資料あり。2026年時点でその他の独立した店舗ブランドは公式に確認できない。名前が似た『Re.Ra.Ku（リラク）』は別会社であり、同グループの兄弟店ではない。",
+      "accent": "#668AA5",
+      "source": "https://relxle.com/company",
+      "checked": "2026-11-11",
+      "events": [
+        {
+          "year": "2009",
+          "text": "4月、大阪府和泉市に旧屋号『りらく』1号店が開店。"
+        },
+        {
+          "year": "2010",
+          "text": "1月、株式会社りらく設立。"
+        },
+        {
+          "year": "2013",
+          "text": "アドバンテッジパートナーズ系ファンドが株式取得に合意。"
+        },
+        {
+          "year": "2016",
+          "text": "『りらく』から『りらくる』へ屋号変更。"
+        },
+        {
+          "year": "2017",
+          "text": "12月、CVC Asia IVが過半数株式を取得。"
+        }
+      ]
+    },
+    {
+      "id": "medirom-reraku",
+      "name": "メディロムグループ（Re.Ra.Ku・Bell Epocほか）",
+      "company": "株式会社メディロム／株式会社メディロム・ウェルネスほか",
+      "summary": "『Re.Ra.Ku（リラク）』を中核に、温浴施設向け『Spa Re.Ra.Ku』、ランニング支援型『Re.Ra.Ku PRO』、アロマやリフレクソロジーの『Bell Epoc』、アジアン手技の『Ruam Ruam』の計5ブランドを公式に展開。Re.Ra.Kuの運営にはメディロム・ウェルネス等が関与。親会社メディロムはヘルスケア技術事業や美容室『ZACC』などにも展開するが、今回はリラクゼーション施設5ブランドを登録。創業会社はかつて『株式会社リラク』という名前だったが、2017年に『メディロム』へ改称と公式発表。旧屋号『りらく』→『りらくる』の株式会社りらくとは別企業で、資本上の同一系列ではない。",
+      "accent": "#9A7C67",
+      "source": "https://medirom.co.jp/news/20261105",
+      "checked": "2026-11-11",
+      "events": [
+        {
+          "year": "2000",
+          "text": "前身の株式会社ヤングリーブス設立。"
+        },
+        {
+          "year": "2001",
+          "text": "社名を株式会社リラクに変更。"
+        },
+        {
+          "year": "2008",
+          "text": "Re.Ra.Kuブランド第1号店を浦安に出店。"
+        },
+        {
+          "year": "2017",
+          "text": "1月、株式会社リラクから株式会社メディロムへ商号変更。"
+        },
+        {
+          "year": "2026",
+          "text": "11月5日付公式発表でリラクゼーション5ブランドの現行展開を確認。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -11821,6 +11883,75 @@
         "スイパラ カフェスタンド"
       ],
       "source": "https://www.sweets-paradise.jp/shop/area/cakeshop/"
+    },
+    {
+      "name": "りらくる",
+      "group": "rirakuru",
+      "operator": "株式会社りらく",
+      "category": "リラクゼーション",
+      "aliases": [
+        "りらく",
+        "リラクル",
+        "relxle"
+      ],
+      "source": "https://relxle.com/company"
+    },
+    {
+      "name": "Re.Ra.Ku",
+      "group": "medirom-reraku",
+      "operator": "株式会社メディロム・ウェルネス等",
+      "category": "リラクゼーション",
+      "aliases": [
+        "リラク",
+        "リ・ラク",
+        "ReRaKu",
+        "リラクゼーションスタジオリラク"
+      ],
+      "source": "https://reraku.jp/brand/reraku"
+    },
+    {
+      "name": "Spa Re.Ra.Ku",
+      "group": "medirom-reraku",
+      "operator": "メディロムグループの温浴施設系運営会社等",
+      "category": "リラクゼーション",
+      "aliases": [
+        "スパリラク",
+        "Spa リラク"
+      ],
+      "source": "https://reraku.jp/brand/spareraku"
+    },
+    {
+      "name": "Re.Ra.Ku PRO",
+      "group": "medirom-reraku",
+      "operator": "メディロムグループ",
+      "category": "リラクゼーション",
+      "aliases": [
+        "リラクプロ",
+        "Re.Ra.Ku PRO ランニング"
+      ],
+      "source": "https://reraku.jp/brand/rerakupro"
+    },
+    {
+      "name": "Bell Epoc",
+      "group": "medirom-reraku",
+      "operator": "メディロムグループ",
+      "category": "リラクゼーション",
+      "aliases": [
+        "ベルエポック",
+        "ベルエポック リラク"
+      ],
+      "source": "https://reraku.jp/brand/bellepoc"
+    },
+    {
+      "name": "Ruam Ruam",
+      "group": "medirom-reraku",
+      "operator": "株式会社サワン（メディロムグループ）",
+      "category": "リラクゼーション",
+      "aliases": [
+        "ルアンルアン",
+        "ルアン ルアン"
+      ],
+      "source": "https://reraku.jp/brand/ruamruam"
     }
   ]
 }
