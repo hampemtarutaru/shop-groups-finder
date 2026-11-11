@@ -44,6 +44,7 @@ function buildHierarchy(db,groupId){
 function renderPage(db,groupId){
   const {group,brands,clusters,unknownBrandCount}=buildHierarchy(db,groupId);
   const knownCompanies=clusters.filter(c=>c.verified).length;
+  const headingHtml=groupId==="usmh"?'<h1>U.S.M.H</h1><p class="subhead">マルエツ・カスミ・いなげや／イオン傘下</p>':`<h1>${esc(group.name)}</h1>`;
   const intro=unknownBrandCount?`運営法人が特定できていない${unknownBrandCount}件は、会社名を推測せず別枠に置いています。`:"";
   const navigation=clusters.map((c,i)=>`<a href="#operator-${i+1}">${esc(c.label)} <span>${c.brands.length}件</span></a>`).join("\n");
   const sections=clusters.map((c,i)=>{
@@ -69,7 +70,7 @@ function renderPage(db,groupId){
 :root{color-scheme:light}*{box-sizing:border-box}body{margin:0;background:#f6f7f3;color:#1c342d;font-family:system-ui,"Hiragino Kaku Gothic ProN",Meiryo,sans-serif;line-height:1.7}
 a{color:#155e51}a:hover{text-decoration-thickness:2px}a:focus-visible{outline:3px solid #e4a543;outline-offset:3px}
 header{background:#143f36;color:white;padding:14px 24px}header a{color:white;text-decoration:none;font-weight:700}
-main{max-width:1050px;margin:auto;padding:28px 20px 70px}h1{font-size:clamp(1.7rem,4vw,2.6rem);line-height:1.3;margin:8px 0 14px}h2{font-size:1.08rem;margin:0}
+main{max-width:1050px;margin:auto;padding:28px 20px 70px}h1{font-size:clamp(1.7rem,4vw,2.6rem);line-height:1.3;margin:8px 0 14px}h2{font-size:1.08rem;margin:0}.subhead{font-size:.95rem;color:#416960;margin:-4px 0 15px}
 .kicker{font-size:.79rem;font-weight:700;letter-spacing:.04em;color:#416960}.lead{font-size:1.04rem;max-width:75ch}
 .status{padding:12px 16px;background:#fff3da;border-left:4px solid #b88431;font-size:.88rem;margin:22px 0}
 .summary{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0 28px}.summary span{background:#e5eee8;padding:7px 13px;border-radius:8px;font-weight:700;font-size:.9rem}
@@ -84,10 +85,10 @@ nav{background:white;border:1px solid #dae6df;border-radius:12px;padding:15px 19
 </head>
 <body>
 <a class="skip" href="#main">本文へスキップ</a>
-<header><a href="/">この店、どこの系列？</a> ／ 構造表示の隔離試作</header>
+<header><a href="/">この店、どこの系列？</a> ／ 3階層試作</header>
 <main id="main">
 <p class="kicker">親グループ → 運営会社 → ブランド</p>
-<h1>${esc(group.name)}</h1>
+${headingHtml}
 <p class="lead">現行の登録情報を、運営会社ごとに並べ替えました。同じグループでも実際の運営会社は異なることがあります。</p>
 <div class="status"><strong>本番サイト未掲載の検証用HTML・検索対象外。</strong> ブランドの網羅や各店舗の直営・FC契約の証明ではありません。${esc(intro)}</div>
 <div class="tree"><strong>親グループ：${esc(group.company)}</strong><small>登録上のグループ名：${esc(group.name)} ／ グループデータの確認日：${esc(group.checked||"未記録")}</small></div>
