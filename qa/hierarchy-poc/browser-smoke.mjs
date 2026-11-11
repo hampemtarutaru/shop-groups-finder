@@ -47,10 +47,10 @@ try {
         assert.ok(checks.refTargets.every(x=>x.target==="_blank"&&x.rel.includes("noopener")&&x.rel.includes("noreferrer")&&x.accessible?.includes("登録出典")&&x.text.includes("登録出典")),id+" source-link accessibility");
         assert.equal(checks.skipHref,"#main");
         assert.equal(checks.mainId,"main");
-        await page.keyboard.press("Tab");
-        assert.equal(await page.locator(".skip").evaluate(e=>document.activeElement===e),true,id+" skip link keyboard focus");
         if (width===375||width===1280)
           await page.screenshot({path:join(out,id+"-"+width+".png"),fullPage:true});
+        await page.keyboard.press("Tab");
+        assert.equal(await page.locator(".skip").evaluate(e=>document.activeElement===e),true,id+" skip link keyboard focus");
         console.log("PASS",id,"viewport",width,"brands",brandCount,"operators",operatorCount,"no horizontal overflow");
       } finally {await page.close();}
     }
