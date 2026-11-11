@@ -19,7 +19,7 @@ for(const [id,count,operators,unknown] of expectations){
     const html=renderPage(db,id);
     assert.match(html,/noindex,nofollow/);
     assert.match(html,/親グループ → 運営会社 → ブランド/);
-    assert.match(html,/登録出典<\\/a>/);
+    assert.match(html,/登録出典<\/a>/);
     assert.match(html,/ブランド専用ページとは限りません/);
     assert.match(html,/本番サイト未掲載の検証用HTML/);
     assert.doesNotMatch(html,/個別の公式情報/);
