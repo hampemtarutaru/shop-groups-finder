@@ -1,0 +1,22 @@
+name: K-089 hierarchy PoC verification
+on:
+  pull_request:
+    paths:
+      - 'qa/hierarchy-poc/**'
+      - 'scripts/k089_hierarchy_poc*.mjs'
+      - '.github/workflows/k089-hierarchy-poc.yml'
+      - 'public/data.json'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test scripts/k089_hierarchy_poc.test.mjs
+      - run: node scripts/k089_hierarchy_poc.mjs
+      - run: git diff --exit-code -- qa/hierarchy-poc/
+      - run: node scripts/k089_hierarchy_poc.mjs && git diff --exit-code -- qa/hierarchy-poc/
