@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-11現在、120グループ・850ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-11現在、121グループ・856ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -765,3 +765,20 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://eat-link.co.jp/brand/
 - https://eat-link.co.jp/faq/
 - https://gourmetpress.net/1402358/
+
+
+## 出典・更新メモ（2026-11-11 スイーツパラダイス／井上商事）
+
+大阪市の井上商事株式会社（洋菓子製造・デザートバイキング経営）を追加。公式店舗一覧で確認した『スイーツパラダイス』『COLLABO PARADISE』『CONCEPT CAFE KOBE BY SWEETS PARADISE』『DISH UP』『S-PiCK CAFE』『CAFE STAND SWEETS PARADISE』を1グループ6ブランド登録。スタンドは大阪・京都の店舗名称を別名検索に登録し、同じブランドの地域店を独立ブランドとして二重登録しない。2026年にCOLLABO PARADISEへ改称された旧CONCEPT CAFE店舗と、改称済み名称を同時に現行屋号として重複登録しない。
+
+**区分の注意点**：2026年11月1日オープンの『Puffy & Sweety』は株式会社STPRと井上商事の『STPR PARADISE』共同プロジェクト店。STPRと井上商事が同じ資本グループであるとは確認できないため、同一グループの単純な兄弟ブランドとして今回登録しない。2026年8月開設の農産物販売EC『スイパラ農園直売所』は実店舗型サービスではないためブランド検索対象外。スイパラ公式会社概要に掲載されるPARCO・丸井等は主な取引先・出店施設であり、スイーツパラダイスの親会社ではない。
+
+- https://www.sweets-paradise.jp/company/
+- https://www.sweets-paradise.jp/shop/
+- https://www.sweets-paradise.jp/shop/area/collabo/
+- https://www.sweets-paradise.jp/shop/area/cakeshop/
+- https://www.sweets-paradise.jp/shop/dish-up/
+- https://www.sweets-paradise.jp/collaboration/puffyandsweety
+- https://stpr-info.com/special/stpr-paradise/puffy-and-sweety
+- https://prtimes.jp/main/html/rd/p/000000842.000059399.html
+- https://online.bci.co.jp/article/detail/5868
