@@ -2735,6 +2735,75 @@
           "text": "11月5日付公式発表でリラクゼーション5ブランドの現行展開を確認。"
         }
       ]
+    },
+    {
+      "id": "bodywork-raffine",
+      "name": "ボディワークグループ（ラフィネ・グランラフィネほか）",
+      "company": "株式会社ボディワークホールディングス／株式会社ボディワーク",
+      "summary": "商業施設・駅・空港などでリラクゼーションスペースを展開。主力『ラフィネ』に加え、アロマ系『グランラフィネ』『ラフィネプリュス』、バリ式『バダンバルー』、短時間向け『プチラフィネ』、整体『整体ナチュラルボディ』、ボディケア『トータルセラピー』、足専門『フットデザイン』『リフレ』等、ラフィネグループ公式ブランド一覧に掲載。ラフィネは株式会社ボディワークの事業。国内の代表的店舗ブランド9件を掲載し、海外『ラフィネ トウキョウ』やランニング支援『ラフィネ ランニングスタイル』は今回の国内リラクゼーション検索対象と分ける。『てもみん』『カラダファクトリー』とは別の企業グループ。",
+      "accent": "#9F819E",
+      "source": "https://www.bodywork.co.jp/brand/",
+      "checked": "2026-11-11",
+      "events": [
+        {
+          "year": "1987",
+          "text": "持株会社ボディワークホールディングスの設立年。現行グループの企業情報に記載。"
+        },
+        {
+          "year": "2008",
+          "text": "現・株式会社ボディワーク設立（前身2001年）。"
+        }
+      ]
+    },
+    {
+      "id": "global-sports-temomin",
+      "name": "グローバルスポーツ医学研究所（てもみん・グローバル治療院）",
+      "company": "株式会社グローバルスポーツ医学研究所",
+      "summary": "『てもみん』を運営する会社は株式会社グローバルスポーツ医学研究所。リラクゼーションの『てもみん』『PLANET』に加え、国家資格を持つ施術者が統合治療を行う『グローバル治療院』、パーソナルトレーニング等を扱う『ウェルネススタジオGS』を公式ブランド一覧に掲載。1982年の治療院事業がルーツ。リラクゼーション店と治療院は業態・資格を混同せず区別する。『Re.Ra.Ku（メディロム）』『りらくる（りらく）』とは別会社。",
+      "accent": "#6E9F9B",
+      "source": "https://www.global-sports.co.jp/brands/",
+      "checked": "2026-11-11",
+      "events": [
+        {
+          "year": "1982",
+          "text": "グローバル治療院の前身となる事業を創業。"
+        },
+        {
+          "year": "1985",
+          "text": "株式会社グローバルスポーツ医学研究所設立。"
+        },
+        {
+          "year": "1996",
+          "text": "1月、東京駅前に『てもみん』1号店を開業。"
+        }
+      ]
+    },
+    {
+      "id": "factory-japan-karada",
+      "name": "ファクトリージャパングループ（カラダファクトリーほか）",
+      "company": "株式会社ファクトリージャパングループ",
+      "summary": "整体×骨盤『カラダファクトリー』を主力に、ストレッチ専門『カラダストレッチ』、女性向け美容整体『カラダピオニー』、高級整体『カラダプレミアム』、ドライヘッドスパ『カラダシエスタ』、関西の整体『和み庵』などを展開。公式の姉妹ブランド紹介には運動系『カラダプチフィット』も掲載。2001年に横浜・上大岡で1号店開業。海外FC事業もあるが、海外の店舗名称を国内ブランドとして数えない。他のリラクゼーション各社とは資本上の兄弟系列ではない。",
+      "accent": "#B08063",
+      "source": "https://www.factoryjapan.jp/service/salon/",
+      "checked": "2026-11-11",
+      "events": [
+        {
+          "year": "2001",
+          "text": "4月、横浜市・上大岡に『カラダファクトリー』1号店を開業。8月、株式会社ファクトリージャパンを設立。"
+        },
+        {
+          "year": "2008",
+          "text": "『カラダピオニー』を開業。"
+        },
+        {
+          "year": "2010",
+          "text": "株式会社ファクトリージャパングループへ社名変更。"
+        },
+        {
+          "year": "2011",
+          "text": "『カラダストレッチ』を開業。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -11952,6 +12021,221 @@
         "ルアン ルアン"
       ],
       "source": "https://reraku.jp/brand/ruamruam"
+    },
+    {
+      "name": "ラフィネ",
+      "group": "bodywork-raffine",
+      "operator": "株式会社ボディワーク",
+      "category": "リラクゼーション",
+      "aliases": [
+        "Raffine",
+        "ラフィネサロン"
+      ],
+      "source": "https://www.bodywork.co.jp/brand/"
+    },
+    {
+      "name": "グランラフィネ",
+      "group": "bodywork-raffine",
+      "operator": "株式会社ボディワーク",
+      "category": "リラクゼーション",
+      "aliases": [
+        "Grand Raffine"
+      ],
+      "source": "https://www.bodywork.co.jp/brand/"
+    },
+    {
+      "name": "バダンバルー",
+      "group": "bodywork-raffine",
+      "operator": "株式会社ボディワーク",
+      "category": "リラクゼーション",
+      "aliases": [
+        "Badan Baru"
+      ],
+      "source": "https://www.bodywork.co.jp/brand/"
+    },
+    {
+      "name": "ラフィネプリュス",
+      "group": "bodywork-raffine",
+      "operator": "株式会社ボディワーク",
+      "category": "リラクゼーション",
+      "aliases": [
+        "Raffine Plus",
+        "ラフィネプラス"
+      ],
+      "source": "https://www.bodywork.co.jp/brand/"
+    },
+    {
+      "name": "プチラフィネ",
+      "group": "bodywork-raffine",
+      "operator": "株式会社ボディワーク",
+      "category": "リラクゼーション",
+      "aliases": [
+        "Petit Raffine"
+      ],
+      "source": "https://www.bodywork.co.jp/brand/"
+    },
+    {
+      "name": "整体ナチュラルボディ",
+      "group": "bodywork-raffine",
+      "operator": "株式会社ボディワーク",
+      "category": "リラクゼーション",
+      "aliases": [
+        "ナチュラルボディ",
+        "Natural Body"
+      ],
+      "source": "https://www.bodywork.co.jp/brand/"
+    },
+    {
+      "name": "トータルセラピー",
+      "group": "bodywork-raffine",
+      "operator": "株式会社ボディワーク",
+      "category": "リラクゼーション",
+      "aliases": [
+        "Total Therapy"
+      ],
+      "source": "https://www.bodywork.co.jp/brand/"
+    },
+    {
+      "name": "フットデザイン",
+      "group": "bodywork-raffine",
+      "operator": "株式会社ボディワーク",
+      "category": "リラクゼーション",
+      "aliases": [
+        "Foot Design"
+      ],
+      "source": "https://www.bodywork.co.jp/brand/"
+    },
+    {
+      "name": "リフレ",
+      "group": "bodywork-raffine",
+      "operator": "株式会社ボディワーク",
+      "category": "リラクゼーション",
+      "aliases": [
+        "REFLE",
+        "リフレ ラフィネ"
+      ],
+      "source": "https://www.bodywork.co.jp/brand/"
+    },
+    {
+      "name": "てもみん",
+      "group": "global-sports-temomin",
+      "operator": "株式会社グローバルスポーツ医学研究所",
+      "category": "リラクゼーション",
+      "aliases": [
+        "TEMOMIN",
+        "手もみん"
+      ],
+      "source": "https://www.global-sports.co.jp/brands/temomin"
+    },
+    {
+      "name": "PLANET",
+      "group": "global-sports-temomin",
+      "operator": "株式会社グローバルスポーツ医学研究所",
+      "category": "リラクゼーション",
+      "aliases": [
+        "プラネット てもみん"
+      ],
+      "source": "https://www.global-sports.co.jp/brands/"
+    },
+    {
+      "name": "グローバル治療院",
+      "group": "global-sports-temomin",
+      "operator": "株式会社グローバルスポーツ医学研究所",
+      "category": "リラクゼーション",
+      "aliases": [
+        "鍼灸マッサージ グローバル治療院"
+      ],
+      "source": "https://www.global-sports.co.jp/brands/global_clinic"
+    },
+    {
+      "name": "ウェルネススタジオGS",
+      "group": "global-sports-temomin",
+      "operator": "株式会社グローバルスポーツ医学研究所",
+      "category": "専門店",
+      "aliases": [
+        "ウェルネススタジオ",
+        "wellness studio GS"
+      ],
+      "source": "https://www.global-sports.co.jp/brands/wellnessstudio"
+    },
+    {
+      "name": "カラダファクトリー",
+      "group": "factory-japan-karada",
+      "operator": "株式会社ファクトリージャパングループ",
+      "category": "リラクゼーション",
+      "aliases": [
+        "KA・RA・DA factory",
+        "KA RA DA factory",
+        "KARADA factory",
+        "からだファクトリー"
+      ],
+      "source": "https://karada39.com/guide/"
+    },
+    {
+      "name": "カラダストレッチ",
+      "group": "factory-japan-karada",
+      "operator": "株式会社ファクトリージャパングループ",
+      "category": "リラクゼーション",
+      "aliases": [
+        "KA・RA・DA stretch",
+        "カ・ラ・ダストレッチ"
+      ],
+      "source": "https://www.factoryjapan.jp/service/salon/"
+    },
+    {
+      "name": "カラダピオニー",
+      "group": "factory-japan-karada",
+      "operator": "株式会社ファクトリージャパングループ",
+      "category": "リラクゼーション",
+      "aliases": [
+        "KA・RA・DA peony",
+        "カ・ラ・ダ ピオニー"
+      ],
+      "source": "https://www.factoryjapan.jp/service/salon/"
+    },
+    {
+      "name": "カラダプレミアム",
+      "group": "factory-japan-karada",
+      "operator": "株式会社ファクトリージャパングループ",
+      "category": "リラクゼーション",
+      "aliases": [
+        "KA・RA・DA PREMIUM"
+      ],
+      "source": "https://karada39.com/guide/"
+    },
+    {
+      "name": "カラダシエスタ",
+      "group": "factory-japan-karada",
+      "operator": "株式会社ファクトリージャパングループ",
+      "category": "リラクゼーション",
+      "aliases": [
+        "KA・RA・DA siesta",
+        "カ・ラ・ダシエスタ"
+      ],
+      "source": "https://karada39.com/guide/"
+    },
+    {
+      "name": "本格整体処 和み庵",
+      "group": "factory-japan-karada",
+      "operator": "株式会社ファクトリージャパングループ",
+      "category": "リラクゼーション",
+      "aliases": [
+        "なごみ庵",
+        "和み庵",
+        "なごみあん"
+      ],
+      "source": "https://www.factoryjapan.jp/service/salon/"
+    },
+    {
+      "name": "カラダプチフィット",
+      "group": "factory-japan-karada",
+      "operator": "株式会社ファクトリージャパングループ",
+      "category": "専門店",
+      "aliases": [
+        "カ・ラ・ダ プチフィット",
+        "KARADA petitfit"
+      ],
+      "source": "https://karada39.com/guide/"
     }
   ]
 }
