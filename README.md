@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-12現在、131グループ・900ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-12現在、133グループ・916ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -911,3 +911,27 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://corp.ebisu-toraji.com/brand/
 - https://www.toraji-onlinestore.com/
 - https://news.nissyoku.co.jp/restaurant/tanakak20260918015701138
+
+
+## 出典・更新メモ（2026-11-12 Flying Tiger Copenhagen／ハンプティーダンプティー）
+
+創業者の雑貨チェーン調査依頼を受け、公式情報と2024年の事業承継開示を確認して新規2グループ・16店舗ブランドを登録。『雑貨』フィルターを新設し、既存の『ロフト』『ハンズ』『ハンズ ビー』も『専門店』から雑貨へ業態再分類（資本・運営の所属変更なし）。
+
+**フライングタイガーとサザビーリーグの関係**：デンマークのZebra A/Sに由来する『Flying Tiger Copenhagen』の日本での運営会社はZebra Japan株式会社（2011年設立）。日本初出店は2012年大阪・心斎橋。2013年サザビーリーグとの合弁会社になった。サザビーリーグ公式『関係会社一覧』では2026年現在、**Zebra Japan株式会社に対する出資比率50%** と明記。Zebra A/Sは世界のFlying Tigerブランド権者であり、サザビーリーグの他事業ブランドまでデンマーク本社が所有するわけではない。日本側の出資・グループ関係を検証可能な形で説明するため、検索図鑑ではサザビーリーグ関連のひとつのグループで代表ブランドを表示し、完全子会社と合弁会社を明確に区別する。フライングタイガーの公式オンラインストアは2026年11月2日開設、Amazon・楽天チャネルも新規店名ブランドとしては重複計上しない。Zebra Japan自体が運営するブランドは同社公式では『Flying Tiger Copenhagen』1ブランド。
+
+サザビーリーグ関連として今回検索対象とした15ブランド：Flying Tiger Copenhagen／Afternoon Tea LIVING（ICL）／AKOMEYA TOKYO（AKOMEYA TOKYO）／Afternoon Tea TEAROOM（アイビーカンパニー）／KIHACHI（アイビーカンパニー）／Shake Shack（アイビーカンパニー）／BAKERS gonna BAKE（アイビーカンパニー）／LE SUN PALM（アイビーカンパニー）／Ron Herman（リトルリーグ）／ESTNATION（エストネーション）／agete（エーアンドエス）／NOJESS（エーアンドエス）／CAMPER（カンペールジャパン）／MAISON SPECIAL（サザビーリーグ関連）／ANAYI（ファーイーストカンパニー）。これはサザビーリーグ全ブランドの網羅ではなく、2026年時点の公式関係会社一覧とショップ一覧から有名な現行店舗業態を抜粋。日本での運営会社を記し、出資比率50%のZebra Japanと他の完全子会社・関連会社を混同しない。米国のShake Shackブランドやイタリア等のブランド権の全世界所有権を日本のサザビーリーグに帰属させる解釈もしない。
+
+**ハンプティーダンプティーの現法人**：前橋市の雑貨店を起源とする1982年創業の事業。現行の公式通販会社概要によれば、株式会社ハンプティーダンプティー（前橋市青柳町198）がFC含め42店舗を展開。2024年3月1日、ポストコロナ・リカバリー株式会社が運営するポストコロナ・リカバリーファンドが、**旧**ハンプティーダンプティー、ニッキ、ニコット、ビグラッド、ハンプティーダンプティーティーパーティーの5社の事業を会社分割で承継。旧会社は（株）N企画へ改称し、2025年7月に特別清算開始（帝国データバンクの2025年8月報道）。ブランドと実店舗は新会社で継続。旧会社群を現行の『兄弟店舗ブランド』として重複登録しない。現行の新会社の発行株式に対する2026年現在の直接・間接持分比率、ファンドの保有継続状況は一次資料で確認できないため断定しない。ショップのFC加盟法人と本部運営会社が異なる場合がある。
+
+公式ほか出典：
+- https://jp.flyingtiger.com/pages/aboutus
+- https://jp.flyingtiger.com/policies/legal-notice
+- https://www.sazaby-league.co.jp/company/group/
+- https://www.sazaby-league.co.jp/brands/
+- https://www.sazaby-league.co.jp/shop/
+- https://www.sazaby-league.co.jp/shop/afternoontealiving.html
+- https://www.sazaby-league.co.jp/news/707374
+- https://shop.humpty-dumpty.jp/view/company
+- https://www.humpty-dumpty.jp/
+- https://recoveryjpn.jp/news_cat/140/
+- https://news.livedoor.com/article/detail/29366916/
