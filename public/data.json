@@ -2889,6 +2889,37 @@
           "text": "一部ロックスハンバーグ、92s-クニズ-店舗をペッパーランチへ業態転換。"
         }
       ]
+    },
+    {
+      "id": "hungry-tiger-yokohama",
+      "name": "ハングリータイガー（TORAのお肉屋さん・Home Made）",
+      "company": "株式会社ハングリータイガー",
+      "summary": "1969年に横浜・保土ヶ谷で創業したハンバーグ・ステーキ専門レストラン。牛肉100%のラグビーボール型ハンバーグを炭火で焼き、熱々の鉄板で仕上げるスタイルで知られる。公式店舗一覧に、レストラン『ハングリータイガー』（神奈川県内に複数店）、大船の肉バル『TORAのお肉屋さん』、横浜髙島屋食料品フロアの総菜・弁当店『Hungry Tiger Home Made』を掲載。同社公式会社概要では株式会社HTwellsをグループ企業として明記。HTwellsは食肉加工・ソース製造を担う製造会社であって店舗ブランドではない。独立した地域密着系企業で、ペッパーフードサービス（いきなり！ステーキ）やホットパレット（ペッパーランチ）とは別系列。出店先の高島屋と資本系列を混同しない。かつてのO157事故・BSE問題を経た経営危機からの復活の歴史がある。",
+      "accent": "#8B754A",
+      "source": "https://hungrytiger.co.jp/history/company.html",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1969",
+          "text": "2月14日、株式会社ハングリータイガー設立。横浜・保土ヶ谷でハングリータイガー1号店を開業。"
+        },
+        {
+          "year": "2000",
+          "text": "O157食中毒事故を経験。翌2001年のBSE問題とも重なり店舗縮小を余儀なくされ、その後事業を再建。"
+        },
+        {
+          "year": "2017",
+          "text": "9月、グループの食品加工会社・株式会社HTwellsを設立。"
+        },
+        {
+          "year": "2019",
+          "text": "11月、大船で肉バル『TORAのお肉屋さん』を開業。"
+        },
+        {
+          "year": "2026",
+          "text": "公式店舗一覧にレストラン12店、TORAのお肉屋さん、横浜高島屋の惣菜・弁当売場を掲載。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -12443,6 +12474,44 @@
         "ロックス ハンバーグ"
       ],
       "source": "https://hotpalette.co.jp/brand/"
+    },
+    {
+      "name": "ハングリータイガー",
+      "group": "hungry-tiger-yokohama",
+      "operator": "株式会社ハングリータイガー",
+      "category": "飲食",
+      "aliases": [
+        "Hungry Tiger",
+        "ハングリ―タイガー",
+        "ハングリータイガー 保土ヶ谷本店"
+      ],
+      "source": "https://hungrytiger.co.jp/location/"
+    },
+    {
+      "name": "TORAのお肉屋さん",
+      "group": "hungry-tiger-yokohama",
+      "operator": "株式会社ハングリータイガー",
+      "category": "居酒屋",
+      "aliases": [
+        "トラのお肉屋さん",
+        "TORA お肉屋さん",
+        "TORANIKU",
+        "TORA肉屋"
+      ],
+      "source": "https://hungrytiger.co.jp/location/"
+    },
+    {
+      "name": "Hungry Tiger Home Made",
+      "group": "hungry-tiger-yokohama",
+      "operator": "株式会社ハングリータイガー（食品製造はグループ企業・株式会社HTwells等）",
+      "category": "専門店",
+      "aliases": [
+        "ハングリータイガー ホームメイド",
+        "ハングリータイガー 横浜高島屋食料品フロア店",
+        "ハングリータイガー 横浜髙島屋店",
+        "Hungry Tiger Homemade"
+      ],
+      "source": "https://hungrytiger.co.jp/location/"
     }
   ]
 }
