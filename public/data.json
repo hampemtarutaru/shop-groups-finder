@@ -361,10 +361,10 @@
       "id": "arclands",
       "name": "アークランズグループ",
       "company": "アークランズ株式会社",
-      "summary": "からやま・かつやなどの外食ブランドと、ビバホーム・ホームセンタームサシなどの小売事業を展開。アークランドサービスホールディングスは完全子会社。",
+      "summary": "ホームセンター『ビバホーム』『ムサシ』、プロショップ『アークマスター』『ビバホームプロ』『ムサシプロ』、ペット『NICO PET』、クラフト『アークオアシス』『ヴィシーズ』と、とんかつ『かつや』、唐揚げ『からやま』などの飲食ブランドを傘下に展開。ビバホームはLIXIL系だったが2020年11月にアークランズが子会社化し、2022年9月に吸収合併。2026年4月にジョイフル本田との経営統合の基本合意を発表したが、7月に予定日が未定となり、2026年11月時点では統合未了。ジョイフル本田の現行ブランドを本グループに含めない。北海道のジョイフルエーケーはキムラ70％・ジョイフル本田15％・アークランズ15％出資の別法人。ロピアは一部店舗内のFC運営関係があるが、OICグループ本体をアークランズの子会社とは扱わない。",
       "accent": "#947544",
       "source": "https://www.arclands.co.jp/ja/company/outline.html",
-      "checked": "2026-11-05",
+      "checked": "2026-11-12",
       "events": [
         {
           "year": "2020",
@@ -373,6 +373,10 @@
         {
           "year": "2023",
           "text": "9月、アークランドサービスホールディングスを完全子会社化。"
+        },
+        {
+          "year": "2026",
+          "text": "4月、ジョイフル本田との経営統合基本合意。7月、統合日程は未定へ変更。"
         }
       ]
     },
@@ -1946,10 +1950,10 @@
       "id": "beisia-family",
       "name": "ベイシアグループ（カインズ・ワークマン・ハンズ）",
       "company": "株式会社ベイシア／株式会社カインズ／株式会社ワークマンほかベイシアグループ各社",
-      "summary": "群馬発祥『いせや』を起点とする35社の企業集団。食品スーパー『ベイシア』、ホームセンター『カインズ』、作業服『ワークマン』、生活雑貨『ハンズ』、カー用品『オートアールズ』、家電『ベイシア電器』、食品スーパー『トップワン』『スーパー三心』などが同じ企業グループに属する。ただしワークマン公式は『親会社及び子会社を有しておりません』と説明しており、単一の持株会社が全社を連結子会社として統括するという意味ではない。",
+      "summary": "群馬発祥『いせや』を起点とする35社の企業集団。食品スーパー『ベイシア』、ホームセンター『カインズ』、作業服『ワークマン』、生活雑貨『ハンズ』、カー用品『オートアールズ』、家電『ベイシア電器』、食品スーパー『トップワン』『スーパー三心』などが同じ企業グループに属する。ただしワークマン公式は『親会社及び子会社を有しておりません』と説明しており、単一の持株会社が全社を連結子会社として統括するという意味ではない。 『カインズ』はホームセンター業態で、株式会社カインズが運営。ベイシアグループは同族系企業集団であり、ワークマンをカインズの100％子会社とは扱わない。",
       "source": "https://www.cainz.co.jp/corporate/group/",
       "accent": "#6F8C52",
-      "checked": "2026-11-07",
+      "checked": "2026-11-12",
       "events": [
         {
           "year": "1958",
@@ -2083,10 +2087,10 @@
       "id": "valor-hd",
       "name": "バローホールディングス（スーパー・ドラッグ）",
       "company": "株式会社バローホールディングス",
-      "summary": "中部・東海を中心に『バロー』『タチヤ』『食鮮館タイヨー』『公正屋』『フタバヤ』『三幸』等の食品スーパーを多ブランド展開。ドラッグストアのV・drug、ホームセンターバローやペット専門店も傘下。2026年9月末現在グループで食品スーパー368店、ドラッグストア585店、ホームセンター165店などを公式集計。",
+      "summary": "中部・東海を中心に『バロー』『タチヤ』『食鮮館タイヨー』『公正屋』『フタバヤ』『三幸』等の食品スーパーを多ブランド展開。ドラッグストアのV・drug、ホームセンターバローやペット専門店も傘下。2026年9月末現在グループで食品スーパー368店、ドラッグストア585店、ホームセンター165店などを公式集計。 同グループに『ダイユーエイト』『エイトプロ』『ホームセンタータイム』『ホームセンターハッピー』なども所属し、ホームセンター各社とスーパー・ドラッグ・ペット専門店を運営する複合流通グループ。",
       "source": "https://valorholdings.co.jp/corporate/stores.html",
       "accent": "#7C8B5F",
-      "checked": "2026-11-07",
+      "checked": "2026-11-12",
       "events": [
         {
           "year": "2026",
@@ -3015,6 +3019,193 @@
         {
           "year": "2025",
           "text": "旧会社・N企画が特別清算。ブランドと店舗は新会社が運営を継続。"
+        }
+      ]
+    },
+    {
+      "id": "kohnan",
+      "name": "コーナングループ（コーナン・ドイト・建デポ）",
+      "company": "コーナン商事株式会社",
+      "summary": "大阪を本拠にホームセンター『コーナン』、プロ向け『コーナンPRO』『建デポ』、首都圏『ドイト』、小型店『ホームストック』等を展開。旧ドイトはドン・キホーテ／PPIH傘下だったが、2020年2月にコーナン商事がホームセンター・リフォーム事業を承継。2026年11月時点でも『ドイト朝霞店』『ドイト東大宮店』『PROドイト与野店』『PROドイト戸田店』等の名称が公式店舗検索に掲載されており、完全消滅した旧屋号ではない。関連会社に建デポ、ホームインプルーブメントひろせ（HIヒロセ・OKホーム＆ガーデン）、ホームセンターみつわ。『ビーバートザン』は2017年取得、2023年に本体へ吸収合併。旧親会社PPIH・ドン・キホーテとは2020年以降の現行系列を混同しない。",
+      "accent": "#BC7C52",
+      "source": "https://www.hc-kohnan.com/corporate/",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1978",
+          "text": "コーナン商事創業。"
+        },
+        {
+          "year": "2017",
+          "text": "ビーバートザンを子会社化。"
+        },
+        {
+          "year": "2019",
+          "text": "建デポを子会社化。"
+        },
+        {
+          "year": "2020",
+          "text": "2月にドイトのホームセンター・リフォーム事業を承継。"
+        },
+        {
+          "year": "2023",
+          "text": "ビーバートザン吸収合併、ホームインプルーブメントひろせ子会社化。"
+        }
+      ]
+    },
+    {
+      "id": "dcm-holdings",
+      "name": "DCMグループ（旧ホーマック・カーマ・ダイキ・ケーヨー）",
+      "company": "ＤＣＭホールディングス株式会社／ＤＣＭ株式会社",
+      "summary": "ホームセンター『DCM』を中心とする企業グループ。2021年にDCMカーマ・ダイキ・ホーマック・サンワ・くろがねやを統合し、2022年9月に店名をDCMへ統一。2024年9月に『ケーヨーデイツー』運営のケーヨーを吸収合併。2025年9月には静岡を拠点とするエンチョーを完全子会社化。2026年の公式店検索に『DCM』『DCMニコット』『ホダカ』とエンチョーの『ジャンボエンチョー』『Home Assist』『Hard Stock』『SWEN』等が掲載。旧ブランド『ホーマック』『カーマ』『ダイキ』『ケーヨーデイツー』は検索別名と経緯として残し、現行の別法人・現役屋号として二重登録しない。『DCMカーマ』の名称と『カインズ』は無関係。",
+      "accent": "#6B86A2",
+      "source": "https://www.dcm-hldgs.co.jp/grp/company/group.html",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "2021",
+          "text": "3月、カーマ・ダイキ・ホーマック・サンワ・くろがねやの事業会社5社統合。"
+        },
+        {
+          "year": "2022",
+          "text": "9月、店舗名をDCMに統一。"
+        },
+        {
+          "year": "2024",
+          "text": "9月、ケーヨーを吸収合併。"
+        },
+        {
+          "year": "2025",
+          "text": "9月、エンチョーを完全子会社化。"
+        }
+      ]
+    },
+    {
+      "id": "komeri",
+      "name": "コメリ（パワー・ハード＆グリーン・PRO）",
+      "company": "株式会社コメリ",
+      "summary": "新潟を本拠とし、地域密着型『コメリハード＆グリーン』、大型店『コメリパワー』、資材・工具特化『コメリPRO』、インテリア『アテーナ』を全国展開。2026年の公式店検索は4店舗業態を列挙。『コメリ』を経営する独立した上場企業であり、アークランズ（ムサシ）、DCMやカインズの一部ではない。『ハード＆グリーン』と『パワー』は同じコメリの異なる店型。",
+      "accent": "#79A06B",
+      "source": "https://www.komeri.bit.or.jp/",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1952",
+          "text": "コメリの前身となる会社設立。"
+        }
+      ]
+    },
+    {
+      "id": "nitori-shimachu",
+      "name": "ニトリグループ（島忠・ホームズ・ニトリ）",
+      "company": "株式会社ニトリホールディングス／株式会社島忠",
+      "summary": "家具の『ニトリ』『デコホーム』などに加え、2021年に島忠を完全子会社化。ホームセンターと家具を扱う『島忠』『ホームズ』もニトリグループ。『ニトリホームズ宮原店』のような複合店舗名も公式店検索に存在するが、同じ島忠の複合店型であり親会社はニトリHD。ホームズは住宅メーカー『積水ハウス』等と無関係。『ニトリホームズ』を独立の資本グループとして扱わない。",
+      "accent": "#A47C6A",
+      "source": "https://www.nitorihd.co.jp/",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "2021",
+          "text": "ニトリホールディングスが島忠を完全子会社化。"
+        }
+      ]
+    },
+    {
+      "id": "joyful-honda",
+      "name": "ジョイフル本田（本田屋・THE GLOBE・Pet's CLOVER）",
+      "company": "株式会社ジョイフル本田",
+      "summary": "茨城県土浦市の大型ホームセンター企業。ホームセンター『ジョイフル本田』『JOYHON』、プロ向け『本田屋』『ジョイフル本田資材館』、ペット専門店『Pet's CLOVER』、アンティークショップ『THE GLOBE』、リフォーム『JOYFUL HOME』などを展開。2026年4月14日にアークランズと共同持株会社による経営統合の基本合意を発表したが、同年7月に統合スケジュールは未定へ変更。2026年11月12日時点で統合完了は未確認なので、本図鑑ではアークランズと別グループとして登録。『ジョイフルエーケー』はキムラ70％・ジョイフル本田15％・アークランズ15％の共同出資会社であり、ジョイフル本田の100％子会社ではない。",
+      "accent": "#769171",
+      "source": "https://www.joyfulhonda.co.jp/ja/company/summary.html",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1975",
+          "text": "株式会社ジョイフル本田設立。"
+        },
+        {
+          "year": "2026",
+          "text": "4月14日、アークランズとの経営統合基本合意。"
+        },
+        {
+          "year": "2026",
+          "text": "7月3日、統合の最終契約・効力発生日などを未定に変更。"
+        }
+      ]
+    },
+    {
+      "id": "nafco",
+      "name": "ナフコ（ホームセンター・TWO-ONE STYLE）",
+      "company": "株式会社ナフコ",
+      "summary": "福岡県を拠点とする『ホームセンターナフコ』運営企業。木材・建材・DIY・園芸用品などのホームセンター事業と、家具・ホームファッション『TWO-ONE STYLE（ツーワンスタイル）』の2つの店舗業態を展開。ホームセンターと家具店を組み合わせたコンビネーションストアもあるが、その複合店を第三の独立店舗ブランドとして水増ししない。",
+      "accent": "#8B7F66",
+      "source": "https://www.nafco.tv/ir/policy/strategy.html",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "2001",
+          "text": "家具・ホームファッション専門のTWO-ONE STYLEを開始。"
+        }
+      ]
+    },
+    {
+      "id": "royal-hc",
+      "name": "大和ハウスグループ（ロイヤルホームセンター）",
+      "company": "大和ハウス工業株式会社／ロイヤルホームセンター株式会社",
+      "summary": "『ロイヤルホームセンター』とプロ向け店型『ロイヤルプロ』『ロイヤル金物』を展開。公式会社概要で、ロイヤルホームセンター株式会社は大和ハウス工業株式会社100％出資と明記。ロイヤルプロワーキングやアニマルシティは公式店検索では店内専門売場に分類されるため、単独店舗ブランドには含めない。アストロプロダクツやダイソーはインショップとして名前が出るが、資本上の同一系列ではない。",
+      "accent": "#8B90A3",
+      "source": "https://www.royal-hc.co.jp/corporate/business/outline",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1980",
+          "text": "大和ハウス工業がホームセンター事業部を発足。"
+        },
+        {
+          "year": "1993",
+          "text": "ロイヤルホームセンター株式会社設立。"
+        },
+        {
+          "year": "2004",
+          "text": "大和ハウス工業からホームセンター会社を分社独立。"
+        }
+      ]
+    },
+    {
+      "id": "sekichu",
+      "name": "セキチュー（オートウェイ・サイクルワールド）",
+      "company": "株式会社セキチュー",
+      "summary": "群馬県高崎市に本社を置くホームセンターの独立系上場企業。1806年の関口材木店に起源を持ち、ホームセンター『セキチュー』、自動車用品専門店『オートウェイ』、自転車専門店『サイクルワールド』、工具買取専門『TOOL BOX』を公式会社概要に掲載。1806年創業は現在の株式会社設立年ではない。現行親会社が別の大手ホームセンターにあると断定しない。",
+      "accent": "#A38E57",
+      "source": "https://www.sekichu.co.jp/company/aboutus/",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1806",
+          "text": "関口材木店として創業。"
+        },
+        {
+          "year": "1975",
+          "text": "ホームセンターの第1号店を開業。"
+        }
+      ]
+    },
+    {
+      "id": "joyful-ak",
+      "name": "ジョイフルエーケー（キムラ中心の3社共同出資）",
+      "company": "株式会社ジョイフルエーケー",
+      "summary": "北海道で大型ホームセンター『ジョイフルエーケー』、プロ向け資材店『ジョイフルエーケー BUILD-ON』、ペット専門店『ペットワールドPROX』を展開。2026年公式会社概要で出資割合はキムラ70％、ジョイフル本田15％、アークランズ15％。ジョイフル本田グループの単純な100％子会社でも、アークランズの完全子会社でもないため独立の共同出資グループとして表示。なお2026年のアークランズ／ジョイフル本田の経営統合は未完了で別件。",
+      "accent": "#608F98",
+      "source": "https://www.joyful-ak.com/company",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "2001",
+          "text": "8月、株式会社ジョイフルエーケー設立。"
+        },
+        {
+          "year": "2002",
+          "text": "札幌市北区に屯田1号店開店。"
         }
       ]
     }
@@ -4751,7 +4942,7 @@
       "name": "ホームセンタームサシ",
       "group": "arclands",
       "operator": "アークランズ株式会社",
-      "category": "量販店",
+      "category": "ホームセンター",
       "aliases": [
         "ムサシ",
         "スーパーセンタームサシ",
@@ -4763,7 +4954,7 @@
       "name": "ビバホーム",
       "group": "arclands",
       "operator": "アークランズ株式会社",
-      "category": "量販店",
+      "category": "ホームセンター",
       "aliases": [
         "スーパービバホーム",
         "vivahome",
@@ -4786,7 +4977,7 @@
       "name": "ビバホームプロ",
       "group": "arclands",
       "operator": "アークランズ株式会社",
-      "category": "専門店",
+      "category": "ホームセンター",
       "aliases": [
         "ビバプロ"
       ],
@@ -9718,7 +9909,7 @@
       "name": "カインズ",
       "group": "beisia-family",
       "operator": "株式会社カインズ",
-      "category": "量販店",
+      "category": "ホームセンター",
       "aliases": [
         "カインズホーム",
         "CAINZ"
@@ -10249,7 +10440,7 @@
       "name": "ホームセンターバロー",
       "group": "valor-hd",
       "operator": "株式会社ホームセンターバロー",
-      "category": "量販店",
+      "category": "ホームセンター",
       "aliases": [
         "バローホームセンター"
       ],
@@ -12859,6 +13050,664 @@
         "ハンプティーダンプティー ステラタウン"
       ],
       "source": "https://shop.humpty-dumpty.jp/view/company"
+    },
+    {
+      "name": "コーナン",
+      "group": "kohnan",
+      "operator": "コーナン商事株式会社",
+      "category": "ホームセンター",
+      "aliases": [
+        "ホームセンターコーナン",
+        "KOHNAN"
+      ],
+      "source": "https://www.kohnan-eshop.com/shop/store/list.aspx"
+    },
+    {
+      "name": "コーナンPRO",
+      "group": "kohnan",
+      "operator": "コーナン商事株式会社",
+      "category": "ホームセンター",
+      "aliases": [
+        "コーナンプロ",
+        "PROコーナン"
+      ],
+      "source": "https://www.kohnan-eshop.com/shop/store/list.aspx"
+    },
+    {
+      "name": "ドイト",
+      "group": "kohnan",
+      "operator": "コーナン商事株式会社（旧PPIH系ドイト事業を承継）",
+      "category": "ホームセンター",
+      "aliases": [
+        "DOIT",
+        "ドイトホームセンター",
+        "ドイト東大宮",
+        "ドイト与野",
+        "PROドイト",
+        "コーナンPROドイト"
+      ],
+      "source": "https://www.kohnan-eshop.com/shop/store/list.aspx"
+    },
+    {
+      "name": "ホームストック",
+      "group": "kohnan",
+      "operator": "コーナン商事株式会社",
+      "category": "ホームセンター",
+      "aliases": [
+        "HOME STOCK"
+      ],
+      "source": "https://www.kohnan-eshop.com/shop/store/list.aspx"
+    },
+    {
+      "name": "コーナン WORK＆TOOL",
+      "group": "kohnan",
+      "operator": "コーナン商事株式会社",
+      "category": "ホームセンター",
+      "aliases": [
+        "WORK&TOOL",
+        "ワークアンドツール",
+        "コーナンワークアンドツール"
+      ],
+      "source": "https://www.kohnan-eshop.com/shop/store/list.aspx"
+    },
+    {
+      "name": "CAMP DEPOT",
+      "group": "kohnan",
+      "operator": "コーナン商事株式会社",
+      "category": "専門店",
+      "aliases": [
+        "キャンプデポ"
+      ],
+      "source": "https://www.kohnan-eshop.com/shop/store/list.aspx"
+    },
+    {
+      "name": "建デポ",
+      "group": "kohnan",
+      "operator": "株式会社建デポ（コーナングループ）",
+      "category": "ホームセンター",
+      "aliases": [
+        "KENDepo",
+        "建築資材 建デポ"
+      ],
+      "source": "https://www.hc-kohnan.com/corporate/"
+    },
+    {
+      "name": "ビーバートザン",
+      "group": "kohnan",
+      "operator": "コーナン商事株式会社（旧株式会社ビーバートザン）",
+      "category": "ホームセンター",
+      "aliases": [
+        "ビーバー トザン",
+        "ビーバープロ"
+      ],
+      "source": "https://www.hc-kohnan.com/corporate/profile/history/"
+    },
+    {
+      "name": "HIヒロセ",
+      "group": "kohnan",
+      "operator": "株式会社ホームインプルーブメントひろせ（コーナングループ）",
+      "category": "ホームセンター",
+      "aliases": [
+        "ホームインプルーブメントひろせ",
+        "HIヒロセスーパーコンボ"
+      ],
+      "source": "https://www.hc-kohnan.com/corporate/"
+    },
+    {
+      "name": "OKホーム＆ガーデン",
+      "group": "kohnan",
+      "operator": "株式会社ホームインプルーブメントひろせ（コーナングループ）",
+      "category": "ホームセンター",
+      "aliases": [
+        "OKホームアンドガーデン"
+      ],
+      "source": "https://www.hc-kohnan.com/corporate/"
+    },
+    {
+      "name": "ホームセンターみつわ",
+      "group": "kohnan",
+      "operator": "株式会社ホームセンターみつわ（コーナングループ）",
+      "category": "ホームセンター",
+      "aliases": [
+        "みつわ"
+      ],
+      "source": "https://www.hc-kohnan.com/corporate/"
+    },
+    {
+      "name": "DCM",
+      "group": "dcm-holdings",
+      "operator": "DCM株式会社",
+      "category": "ホームセンター",
+      "aliases": [
+        "DCMホーマック",
+        "DCMカーマ",
+        "DCMダイキ",
+        "DCMサンワ",
+        "DCMくろがねや",
+        "ホーマック",
+        "カーマ",
+        "ダイキ",
+        "サンワドー",
+        "くろがねや",
+        "ケーヨーデイツー",
+        "ケーヨーD2",
+        "ケーヨー デイツー",
+        "D2"
+      ],
+      "source": "https://www.dcm-hc.co.jp/shop/"
+    },
+    {
+      "name": "DCMニコット",
+      "group": "dcm-holdings",
+      "operator": "株式会社DCMニコット",
+      "category": "ホームセンター",
+      "aliases": [
+        "ホーマックニコット",
+        "ニコット",
+        "DCM NICOT"
+      ],
+      "source": "https://www.dcm-hc.co.jp/shop/"
+    },
+    {
+      "name": "ホダカ",
+      "group": "dcm-holdings",
+      "operator": "ホダカ株式会社（DCMホールディングス傘下）",
+      "category": "ホームセンター",
+      "aliases": [
+        "プロショップホダカ",
+        "HODAKA"
+      ],
+      "source": "https://www.dcm-hc.co.jp/shop/"
+    },
+    {
+      "name": "ジャンボエンチョー",
+      "group": "dcm-holdings",
+      "operator": "株式会社エンチョー（DCM傘下）",
+      "category": "ホームセンター",
+      "aliases": [
+        "エンチョー",
+        "ホームセンターエンチョー"
+      ],
+      "source": "https://www.dcm-hc.co.jp/shop/"
+    },
+    {
+      "name": "Home Assist",
+      "group": "dcm-holdings",
+      "operator": "株式会社エンチョー（DCM傘下）",
+      "category": "ホームセンター",
+      "aliases": [
+        "ホームアシスト"
+      ],
+      "source": "https://www.dcm-hc.co.jp/shop/"
+    },
+    {
+      "name": "Hard Stock",
+      "group": "dcm-holdings",
+      "operator": "株式会社エンチョー（DCM傘下）",
+      "category": "ホームセンター",
+      "aliases": [
+        "ハードストック"
+      ],
+      "source": "https://www.dcm-hc.co.jp/shop/"
+    },
+    {
+      "name": "SWEN",
+      "group": "dcm-holdings",
+      "operator": "株式会社エンチョー（DCM傘下）",
+      "category": "専門店",
+      "aliases": [
+        "スウェン"
+      ],
+      "source": "https://www.dcm-hc.co.jp/shop/"
+    },
+    {
+      "name": "Zoo Square",
+      "group": "dcm-holdings",
+      "operator": "株式会社エンチョー（DCM傘下）",
+      "category": "専門店",
+      "aliases": [
+        "ズースクエア"
+      ],
+      "source": "https://www.dcm-hc.co.jp/shop/"
+    },
+    {
+      "name": "ペットエキスポ",
+      "group": "dcm-holdings",
+      "operator": "DCMグループ",
+      "category": "専門店",
+      "aliases": [
+        "PET EXPO"
+      ],
+      "source": "https://www.dcm-hc.co.jp/shop/"
+    },
+    {
+      "name": "コメリハード＆グリーン",
+      "group": "komeri",
+      "operator": "株式会社コメリ",
+      "category": "ホームセンター",
+      "aliases": [
+        "コメリ",
+        "コメリ ハードアンドグリーン",
+        "コメリハード&グリーン",
+        "ハードアンドグリーン"
+      ],
+      "source": "https://www.komeri.bit.or.jp/"
+    },
+    {
+      "name": "コメリパワー",
+      "group": "komeri",
+      "operator": "株式会社コメリ",
+      "category": "ホームセンター",
+      "aliases": [
+        "コメリ POWER",
+        "コメリ パワー"
+      ],
+      "source": "https://www.komeri.bit.or.jp/"
+    },
+    {
+      "name": "コメリPRO",
+      "group": "komeri",
+      "operator": "株式会社コメリ",
+      "category": "ホームセンター",
+      "aliases": [
+        "コメリプロ",
+        "コメリ プロ"
+      ],
+      "source": "https://www.komeri.bit.or.jp/"
+    },
+    {
+      "name": "アテーナ",
+      "group": "komeri",
+      "operator": "株式会社コメリ",
+      "category": "専門店",
+      "aliases": [
+        "コメリ アテーナ",
+        "A-TEHNA"
+      ],
+      "source": "https://www.komeri.bit.or.jp/"
+    },
+    {
+      "name": "ニトリ",
+      "group": "nitori-shimachu",
+      "operator": "株式会社ニトリ",
+      "category": "専門店",
+      "aliases": [
+        "NITORI"
+      ],
+      "source": "https://www.nitorihd.co.jp/"
+    },
+    {
+      "name": "デコホーム",
+      "group": "nitori-shimachu",
+      "operator": "株式会社ニトリ",
+      "category": "専門店",
+      "aliases": [
+        "ニトリデコホーム",
+        "DECO HOME"
+      ],
+      "source": "https://www.nitorihd.co.jp/"
+    },
+    {
+      "name": "N+",
+      "group": "nitori-shimachu",
+      "operator": "株式会社Nプラス（ニトリグループ）",
+      "category": "専門店",
+      "aliases": [
+        "Nプラス",
+        "エヌプラス"
+      ],
+      "source": "https://www.nitorihd.co.jp/"
+    },
+    {
+      "name": "島忠",
+      "group": "nitori-shimachu",
+      "operator": "株式会社島忠（ニトリホールディングス傘下）",
+      "category": "ホームセンター",
+      "aliases": [
+        "島忠ホームセンター",
+        "シマホ",
+        "SHIMACHU"
+      ],
+      "source": "https://www.shimachu.co.jp/shop/"
+    },
+    {
+      "name": "ホームズ",
+      "group": "nitori-shimachu",
+      "operator": "株式会社島忠（ニトリホールディングス傘下）",
+      "category": "ホームセンター",
+      "aliases": [
+        "島忠ホームズ",
+        "HOME'S",
+        "ホームズ 宮原",
+        "ニトリホームズ",
+        "ニトリホームズ宮原店"
+      ],
+      "source": "https://www.shimachu.co.jp/shop/"
+    },
+    {
+      "name": "ジョイフル本田",
+      "group": "joyful-honda",
+      "operator": "株式会社ジョイフル本田",
+      "category": "ホームセンター",
+      "aliases": [
+        "JOYFUL HONDA",
+        "JOYHON",
+        "ジョイホン"
+      ],
+      "source": "https://www.joyfulhonda.co.jp/ja/company/summary.html"
+    },
+    {
+      "name": "本田屋",
+      "group": "joyful-honda",
+      "operator": "株式会社ジョイフル本田",
+      "category": "ホームセンター",
+      "aliases": [
+        "本田屋プロショップ",
+        "ジョイフル本田 本田屋"
+      ],
+      "source": "https://www.joyfulhonda.co.jp/ja/company/summary.html"
+    },
+    {
+      "name": "ジョイフル本田資材館",
+      "group": "joyful-honda",
+      "operator": "株式会社ジョイフル本田",
+      "category": "ホームセンター",
+      "aliases": [
+        "ジョイフル資材館",
+        "本田資材館"
+      ],
+      "source": "https://www.joyfulhonda.co.jp/ja/company/summary.html"
+    },
+    {
+      "name": "Pet's CLOVER",
+      "group": "joyful-honda",
+      "operator": "株式会社ジョイフル本田",
+      "category": "専門店",
+      "aliases": [
+        "ペッツクローバー",
+        "ペットクローバー",
+        "Pet’s CLOVER"
+      ],
+      "source": "https://www.joyfulhonda.co.jp/ja/company/summary.html"
+    },
+    {
+      "name": "THE GLOBE",
+      "group": "joyful-honda",
+      "operator": "株式会社ジョイフル本田",
+      "category": "雑貨",
+      "aliases": [
+        "ザ グローブ",
+        "THE GLOBE ANTIQUES"
+      ],
+      "source": "https://www.joyfulhonda.co.jp/ja/company/summary.html"
+    },
+    {
+      "name": "JOYFUL HOME",
+      "group": "joyful-honda",
+      "operator": "株式会社ジョイフル本田（リフォーム事業）",
+      "category": "専門店",
+      "aliases": [
+        "ジョイフルホーム",
+        "ジョイフル本田リフォーム"
+      ],
+      "source": "https://www.joyfulhonda.co.jp/ja/company/summary.html"
+    },
+    {
+      "name": "ナフコ",
+      "group": "nafco",
+      "operator": "株式会社ナフコ",
+      "category": "ホームセンター",
+      "aliases": [
+        "ホームセンターナフコ",
+        "ホームプラザナフコ",
+        "NAFCO"
+      ],
+      "source": "https://www.nafco.tv/ir/policy/strategy.html"
+    },
+    {
+      "name": "TWO-ONE STYLE",
+      "group": "nafco",
+      "operator": "株式会社ナフコ",
+      "category": "専門店",
+      "aliases": [
+        "ツーワンスタイル",
+        "21スタイル",
+        "TWO ONE STYLE",
+        "ナフコツーワンスタイル"
+      ],
+      "source": "https://www.nafco.tv/ir/policy/strategy.html"
+    },
+    {
+      "name": "ロイヤルホームセンター",
+      "group": "royal-hc",
+      "operator": "ロイヤルホームセンター株式会社（大和ハウス工業100％出資）",
+      "category": "ホームセンター",
+      "aliases": [
+        "ロイヤルHC"
+      ],
+      "source": "https://www.royal-hc.co.jp/shops"
+    },
+    {
+      "name": "ロイヤルプロ",
+      "group": "royal-hc",
+      "operator": "ロイヤルホームセンター株式会社（大和ハウス工業100％出資）",
+      "category": "ホームセンター",
+      "aliases": [
+        "Royal PRO"
+      ],
+      "source": "https://www.royal-hc.co.jp/shops"
+    },
+    {
+      "name": "ロイヤル金物",
+      "group": "royal-hc",
+      "operator": "ロイヤルホームセンター株式会社（大和ハウス工業100％出資）",
+      "category": "ホームセンター",
+      "aliases": [
+        "ロイヤルかなもの"
+      ],
+      "source": "https://www.royal-hc.co.jp/shops"
+    },
+    {
+      "name": "ホームセンターセキチュー",
+      "group": "sekichu",
+      "operator": "株式会社セキチュー",
+      "category": "ホームセンター",
+      "aliases": [
+        "セキチュー"
+      ],
+      "source": "https://www.sekichu.co.jp/company/aboutus/"
+    },
+    {
+      "name": "オートウェイ",
+      "group": "sekichu",
+      "operator": "株式会社セキチュー",
+      "category": "専門店",
+      "aliases": [
+        "AUTO WAY",
+        "セキチュー オートウェイ"
+      ],
+      "source": "https://www.sekichu.co.jp/company/aboutus/"
+    },
+    {
+      "name": "サイクルワールド",
+      "group": "sekichu",
+      "operator": "株式会社セキチュー",
+      "category": "専門店",
+      "aliases": [
+        "CYCLE WORLD",
+        "セキチュー サイクルワールド"
+      ],
+      "source": "https://www.sekichu.co.jp/company/aboutus/"
+    },
+    {
+      "name": "TOOL BOX",
+      "group": "sekichu",
+      "operator": "株式会社セキチュー",
+      "category": "専門店",
+      "aliases": [
+        "ツールボックス",
+        "工具買取ツールボックス"
+      ],
+      "source": "https://www.sekichu.co.jp/company/aboutus/"
+    },
+    {
+      "name": "ジョイフルエーケー",
+      "group": "joyful-ak",
+      "operator": "株式会社ジョイフルエーケー（キムラ70％・ジョイフル本田15％・アークランズ15％）",
+      "category": "ホームセンター",
+      "aliases": [
+        "ジョイフルAK",
+        "Joyful AK",
+        "ジョイフルエーケー屯田"
+      ],
+      "source": "https://www.joyful-ak.com/company"
+    },
+    {
+      "name": "ジョイフルエーケー BUILD-ON",
+      "group": "joyful-ak",
+      "operator": "株式会社ジョイフルエーケー（キムラ70％・ジョイフル本田15％・アークランズ15％）",
+      "category": "ホームセンター",
+      "aliases": [
+        "BUILD-ON",
+        "ビルドオン",
+        "ジョイフルAKビルドオン"
+      ],
+      "source": "https://www.joyful-ak.com/company"
+    },
+    {
+      "name": "ペットワールドPROX",
+      "group": "joyful-ak",
+      "operator": "株式会社ジョイフルエーケー（キムラ70％・ジョイフル本田15％・アークランズ15％）",
+      "category": "専門店",
+      "aliases": [
+        "ペットワールドプロックス",
+        "PROX ペットワールド"
+      ],
+      "source": "https://www.joyful-ak.com/company"
+    },
+    {
+      "name": "ムサシプロ",
+      "group": "arclands",
+      "operator": "アークランズ株式会社／グループ会社",
+      "category": "ホームセンター",
+      "aliases": [
+        "ムサシ PRO"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "アークマスター",
+      "group": "arclands",
+      "operator": "アークランズ株式会社／グループ会社",
+      "category": "ホームセンター",
+      "aliases": [
+        "ARC MASTER"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "NICO PET",
+      "group": "arclands",
+      "operator": "アークランズ株式会社／グループ会社",
+      "category": "専門店",
+      "aliases": [
+        "ニコペット",
+        "ニコペット ムサシ"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "P's-first",
+      "group": "arclands",
+      "operator": "アークランズ株式会社／グループ会社",
+      "category": "専門店",
+      "aliases": [
+        "ペッツファースト",
+        "P's first"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "ヴィシーズ",
+      "group": "arclands",
+      "operator": "アークランズ株式会社／グループ会社",
+      "category": "専門店",
+      "aliases": [
+        "VIC'S",
+        "ヴィシーズ画材"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "アークホーム",
+      "group": "arclands",
+      "operator": "アークランズ株式会社／グループ会社",
+      "category": "専門店",
+      "aliases": [
+        "アークホーム リフォーム"
+      ],
+      "source": "https://www.arclands.co.jp/ja/company/network.html"
+    },
+    {
+      "name": "ダイユーエイト",
+      "group": "valor-hd",
+      "operator": "株式会社ダイユーエイト",
+      "category": "ホームセンター",
+      "aliases": [
+        "DAIYU8"
+      ],
+      "source": "https://valorholdings.co.jp/group/"
+    },
+    {
+      "name": "エイトプロ",
+      "group": "valor-hd",
+      "operator": "株式会社ダイユーエイト",
+      "category": "ホームセンター",
+      "aliases": [
+        "EIGHT PRO"
+      ],
+      "source": "https://valorholdings.co.jp/group/"
+    },
+    {
+      "name": "ホームセンタータイム",
+      "group": "valor-hd",
+      "operator": "株式会社タイム",
+      "category": "ホームセンター",
+      "aliases": [
+        "タイム ホームセンター",
+        "ホームセンター TIME"
+      ],
+      "source": "https://valorholdings.co.jp/group/"
+    },
+    {
+      "name": "ホームセンターハッピー",
+      "group": "valor-hd",
+      "operator": "株式会社日敷（バローグループ）",
+      "category": "ホームセンター",
+      "aliases": [
+        "ハッピー ホームセンター"
+      ],
+      "source": "https://valorholdings.co.jp/group/"
+    },
+    {
+      "name": "インナチュレ",
+      "group": "valor-hd",
+      "operator": "株式会社タイム（バローグループ）",
+      "category": "雑貨",
+      "aliases": [
+        "in nature"
+      ],
+      "source": "https://valorholdings.co.jp/group/"
+    },
+    {
+      "name": "ワンズサイクル",
+      "group": "valor-hd",
+      "operator": "株式会社ダイユーエイト",
+      "category": "専門店",
+      "aliases": [
+        "ワンズサイクル ダイユーエイト"
+      ],
+      "source": "https://valorholdings.co.jp/group/"
     }
   ]
 }
