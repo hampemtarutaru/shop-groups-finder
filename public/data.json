@@ -2831,6 +2831,64 @@
           "text": "9月の公式ニュースでステーキ＆グリルの上尾・越谷・入間・大宮宮原ステラタウンの4店舗を確認。"
         }
       ]
+    },
+    {
+      "id": "pepper-food-service",
+      "name": "ペッパーフードサービス（いきなり！ステーキ・くに・かいり）",
+      "company": "株式会社ペッパーフードサービス",
+      "summary": "東証スタンダード上場の外食企業。2026年10月末現在の公式事業一覧に『いきなり！ステーキ』（国内167店舗・海外13店舗）、『炭焼ステーキ・くに』（2店）、『こだわりとんかつ・かつき亭』（1店）、すき焼き専門『すきはな』（1店）、牡蠣・海鮮居酒屋『かいり』（4店）の5業態を掲載。かいりは2025年3月に事業譲受。かつて『ペッパーランチ』も同社系列だったが、2020年8月にペッパーランチ運営子会社の全株式をJ-STAR系ファンド出資会社へ売却し、現在は別資本系列。『いきなり！ステーキ』とペッパーランチを同一グループに登録しない。『いきなり！ステーキ次世代型店舗』は主力ブランドの店舗形態であり別ブランドには数えない。",
+      "accent": "#A6604A",
+      "source": "https://www.pepper-fs.co.jp/product/",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1994",
+          "text": "元のペッパーランチ事業を創業。現在の運営会社は売却後のホットパレット。"
+        },
+        {
+          "year": "2013",
+          "text": "『いきなり！ステーキ』を開業。"
+        },
+        {
+          "year": "2020",
+          "text": "8月、ペッパーランチ事業を譲渡し、同ブランドと資本関係を分離。"
+        },
+        {
+          "year": "2024",
+          "text": "12月、新業態のすき焼き専門店『すきはな』を開業。"
+        },
+        {
+          "year": "2025",
+          "text": "3月、牡蠣・海鮮居酒屋『かいり』事業を譲受。"
+        }
+      ]
+    },
+    {
+      "id": "hot-palette-pepper-lunch",
+      "name": "ホットパレット（ペッパーランチ・武蔵ハンバーグ）",
+      "company": "株式会社ホットパレットホールディングス／株式会社ホットパレット",
+      "summary": "鉄皿ステーキの『ペッパーランチ』を主力に、公式ブランド一覧で『武蔵ハンバーグ』『ロックスハンバーグ』も展開。会社概要では『ペッパーランチPLUS』も主なブランドに掲げるが、公式ブランド一覧ではペッパーランチの派生形態として扱われるため本図鑑では別名登録とし重複計上しない。2020年8月にペッパーフードサービスから当時のペッパーランチ運営会社の全株式がJ-STAR系出資会社へ売却され、運営会社の商号をホットパレットに変更。2022年設立のホットパレットホールディングスを持株会社とする。現在の資本系列は『いきなり！ステーキ』のペッパーフードサービスとは別。2025年にロックスハンバーグや92s-クニズ-の一部店舗をペッパーランチへ転換した事例があるため、過去屋号と現役店舗を区別。",
+      "accent": "#9A8063",
+      "source": "https://hotpalette.co.jp/brand/",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1994",
+          "text": "『ペッパーランチ』が誕生（当時の運営母体はペッパーフードサービス）。"
+        },
+        {
+          "year": "2020",
+          "text": "8月31日、J-STAR系ファンド出資会社へペッパーランチ事業が移り、運営会社が株式会社ホットパレットへ改称。"
+        },
+        {
+          "year": "2022",
+          "text": "12月、株式会社ホットパレットホールディングス設立。"
+        },
+        {
+          "year": "2025",
+          "text": "一部ロックスハンバーグ、92s-クニズ-店舗をペッパーランチへ業態転換。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -12292,6 +12350,99 @@
         "焼肉ホルモン専門店マーベリックス"
       ],
       "source": "https://yakiniku-mavericks.com/"
+    },
+    {
+      "name": "いきなり！ステーキ",
+      "group": "pepper-food-service",
+      "operator": "株式会社ペッパーフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "いきなりステーキ",
+        "いきステ",
+        "Ikinari Steak",
+        "いきなり!ステーキ"
+      ],
+      "source": "https://www.pepper-fs.co.jp/product/"
+    },
+    {
+      "name": "炭焼ステーキ・くに",
+      "group": "pepper-food-service",
+      "operator": "株式会社ペッパーフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "炭焼ステーキくに",
+        "ステーキくに",
+        "ステーキ・くに"
+      ],
+      "source": "https://www.pepper-fs.co.jp/product/"
+    },
+    {
+      "name": "こだわりとんかつ・かつき亭",
+      "group": "pepper-food-service",
+      "operator": "株式会社ペッパーフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "かつき亭",
+        "こだわりとんかつかつき亭"
+      ],
+      "source": "https://www.pepper-fs.co.jp/product/"
+    },
+    {
+      "name": "すきはな",
+      "group": "pepper-food-service",
+      "operator": "株式会社ペッパーフードサービス",
+      "category": "飲食",
+      "aliases": [
+        "すき焼き すきはな",
+        "Sukihana"
+      ],
+      "source": "https://www.pepper-fs.co.jp/product/"
+    },
+    {
+      "name": "かいり",
+      "group": "pepper-food-service",
+      "operator": "株式会社ペッパーフードサービス",
+      "category": "居酒屋",
+      "aliases": [
+        "牡蠣かいり",
+        "牡蠣貝鮮かいり",
+        "牡蠣×海老かいり",
+        "牡蠣海幸かいり"
+      ],
+      "source": "https://www.pepper-fs.co.jp/product/"
+    },
+    {
+      "name": "ペッパーランチ",
+      "group": "hot-palette-pepper-lunch",
+      "operator": "株式会社ホットパレット",
+      "category": "飲食",
+      "aliases": [
+        "Pepper Lunch",
+        "ペッパーランチPLUS",
+        "Pepper Lunch PLUS"
+      ],
+      "source": "https://hotpalette.co.jp/brand/"
+    },
+    {
+      "name": "武蔵ハンバーグ",
+      "group": "hot-palette-pepper-lunch",
+      "operator": "株式会社ホットパレット",
+      "category": "飲食",
+      "aliases": [
+        "むさしハンバーグ"
+      ],
+      "source": "https://hotpalette.co.jp/brand/"
+    },
+    {
+      "name": "ロックスハンバーグ",
+      "group": "hot-palette-pepper-lunch",
+      "operator": "株式会社ホットパレット",
+      "category": "飲食",
+      "aliases": [
+        "Rocks Hamburg",
+        "ロックス ハンバーグ"
+      ],
+      "source": "https://hotpalette.co.jp/brand/"
     }
   ]
 }
