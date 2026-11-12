@@ -2920,6 +2920,45 @@
           "text": "公式店舗一覧にレストラン12店、TORAのお肉屋さん、横浜高島屋の惣菜・弁当売場を掲載。"
         }
       ]
+    },
+    {
+      "id": "trs-holdings-toraji",
+      "name": "TRSホールディングス（焼肉トラジ・牛印・たん之助）",
+      "company": "株式会社TRS HOLDINGS（TRSホールディングス）",
+      "summary": "1995年に東京・恵比寿で創業した焼肉トラジを中心とする企業グループ。2026年7月1日に従来の株式会社トラジを『株式会社TRS HOLDINGS』へ商号変更・持株会社化し、飲食事業を株式会社トラジ（焼肉トラジ／焼肉トラジNY）、株式会社たんぐ（牛たん たん之助／千だか）、株式会社牛印（焼肉 牛印）の3社で運営する体制へ再編。2026年の新しい公式ブランド一覧は5ブランド。旧公式サイト掲載の『美食焼肉トラジ 葉菜』『焼肉excellent』『トラジ食堂』などは旧業態として沿革に残るが、新公式一覧の現行5ブランドには含まれないため現役ブランドとしては今回登録しない。埼玉県神川町に、牛の生産・販売を行う株式会社トラジ・ファーム（同社グループ関連事業）もあるが、牧場は飲食店舗ブランドではない。",
+      "accent": "#9B7358",
+      "source": "https://trs-hd.com/company",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1995",
+          "text": "12月、恵比寿に炭火焼肉トラジ本店を開業。厚切りタン塩を提案。"
+        },
+        {
+          "year": "2001",
+          "text": "株式会社トラジへ改組。"
+        },
+        {
+          "year": "2012",
+          "text": "新業態の美食焼肉トラジ 葉菜を開始（現在の5ブランド一覧には未掲載）。"
+        },
+        {
+          "year": "2015",
+          "text": "牛たん たん之助の1号店を開業。"
+        },
+        {
+          "year": "2021",
+          "text": "ニューヨークに出店し、焼肉 牛印をオープン。"
+        },
+        {
+          "year": "2026",
+          "text": "7月1日、株式会社TRS HOLDINGSを持株会社とするグループ経営に移行。株式会社トラジ、株式会社たんぐ、株式会社牛印の3事業会社が各ブランドを担当。"
+        },
+        {
+          "year": "2026",
+          "text": "新業態『焼肉 ホルモン 肉料理 千だか』がオープン。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -12512,6 +12551,70 @@
         "Hungry Tiger Homemade"
       ],
       "source": "https://hungrytiger.co.jp/location/"
+    },
+    {
+      "name": "焼肉トラジ",
+      "group": "trs-holdings-toraji",
+      "operator": "株式会社トラジ（株式会社TRS HOLDINGS傘下）",
+      "category": "飲食",
+      "aliases": [
+        "トラジ",
+        "TORAJI",
+        "炭火焼肉トラジ",
+        "恵比寿トラジ",
+        "焼肉TORAJI"
+      ],
+      "source": "https://trs-hd.com/company"
+    },
+    {
+      "name": "焼肉トラジNY",
+      "group": "trs-holdings-toraji",
+      "operator": "株式会社トラジ（株式会社TRS HOLDINGS傘下）",
+      "category": "飲食",
+      "aliases": [
+        "トラジNY",
+        "Toraji NY",
+        "焼肉トラジニューヨーク",
+        "Toraji New York"
+      ],
+      "source": "https://trs-hd.com/company"
+    },
+    {
+      "name": "焼肉 牛印",
+      "group": "trs-holdings-toraji",
+      "operator": "株式会社牛印（株式会社TRS HOLDINGS傘下）",
+      "category": "飲食",
+      "aliases": [
+        "牛印",
+        "焼肉牛印",
+        "うしじるし"
+      ],
+      "source": "https://trs-hd.com/company"
+    },
+    {
+      "name": "牛たん たん之助",
+      "group": "trs-holdings-toraji",
+      "operator": "株式会社たんぐ（株式会社TRS HOLDINGS傘下）",
+      "category": "飲食",
+      "aliases": [
+        "たん之助",
+        "タンノスケ",
+        "たんのすけ",
+        "たん之助酒場"
+      ],
+      "source": "https://trs-hd.com/company"
+    },
+    {
+      "name": "千だか",
+      "group": "trs-holdings-toraji",
+      "operator": "株式会社たんぐ（株式会社TRS HOLDINGS傘下）",
+      "category": "飲食",
+      "aliases": [
+        "せんだか",
+        "焼肉 ホルモン 肉料理 千だか",
+        "千たか"
+      ],
+      "source": "https://trs-hd.com/company"
     }
   ]
 }
