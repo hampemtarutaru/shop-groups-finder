@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-11現在、126グループ・882ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-12現在、127グループ・884ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -833,3 +833,19 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://www.factoryjapan.jp/service/salon/
 - https://factoryjapan.jp/company/history/
 - https://karada39.com/guide/
+
+
+## 出典・更新メモ（2026-11-12 マーベリックス／グリーンエージェント）
+
+創業者の『マーヴェリックってステーキ屋は？』という照会から、さいたま市北区ステラタウンに出店する『ステーキ＆グリル マーベリックス（MAVERICKS）』を調査。公式の特定商取引法表記で運営会社はグリーンエージェント株式会社と確認。同社公式会社概要によると2008年3月6日設立、上尾市西門前288-1に所在、レストラン運営と海外食品・酒類等の輸出入・卸売・小売が事業。2020年8月20日に上尾で『マーベリックス ビアステーション』を開店。2026年9月10日付マーベリックス公式ニュースは上尾本店・越谷市場店・入間ジョンソンタウン店・大宮宮原ステラタウン店のステーキ4店舗を掲載。
+
+2024年4月25日付マーベリックス公式ニュースは、4月26日に上尾本店の隣へ『焼肉マーベリックス』が**兄弟店**として開店すると明記。焼肉店公式ページでも2026年現在の営業案内を確認。そこで同一グループの**2ブランド**（ステーキ＆グリル マーベリックス／焼肉マーベリックス）を登録。**4店舗＋焼肉1店＝5店舗であり、5ブランドではない。** 今回は1グループ2ブランド追加。『マーヴェリック』『マーベリック』『マーヴェリックス』『MAVERICKS BEERSTATION』など表記ゆれは検索別名に設定。出店先の上尾市場・ステラタウンは資本上の系列としない。ビールの輸入販売とビールメーカーの資本関係を混同しない。
+
+- https://www.greenagent.co.jp/
+- https://greenagent.co.jp/about/index.html
+- https://greenagent.co.jp/business/restaurant/index.html
+- https://mavericks-beerstation.com/
+- https://mavericks-beerstation.com/law/
+- https://mavericks-beerstation.com/news/article/%E3%80%8C%E5%AE%B4%E4%BC%9A%E5%A0%B4%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E3%81%AB%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81
+- https://mavericks-beerstation.com/news/article/%E3%80%90%E6%96%B0%E5%BA%97%E3%80%91%E7%84%BC%E8%82%89%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E4%B8%8A%E5%B0%BE%E6%9C%AC%E5%BA%97%E3%80%804%E6%9C%8826%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3
+- https://yakiniku-mavericks.com/
