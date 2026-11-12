@@ -2959,6 +2959,64 @@
           "text": "新業態『焼肉 ホルモン 肉料理 千だか』がオープン。"
         }
       ]
+    },
+    {
+      "id": "sazaby-league",
+      "name": "サザビーリーグ関連（フライングタイガー・アフタヌーンティーほか）",
+      "company": "株式会社サザビーリーグ／Zebra Japan株式会社（出資比率50％の合弁会社）",
+      "summary": "日本の『Flying Tiger Copenhagen』運営はZebra Japan株式会社。北欧デンマークのZebra A/Sのブランドを日本展開する企業で、2013年に株式会社サザビーリーグとの合弁に移行。サザビーリーグ公式関係会社一覧では同社への出資比率50％。サザビーリーグの別会社による『Afternoon Tea LIVING』『Afternoon Tea TEAROOM』『KIHACHI』『Shake Shack』『AKOMEYA TOKYO』『Ron Herman』『agete』『ESTNATION』などとは日本側の出資・提携グループを通じた関連であり、フライングタイガーのデンマーク本社Zebra A/Sがそれらブランドを所有する意味ではない。国内のブランド運営法人は各社別。フライングタイガーの楽天・Amazon・直営オンライン店舗は販売チャネルであり別チェーンに重複登録しない。2026年11月2日に日本公式オンラインストアを新たに開設。",
+      "accent": "#B47B7B",
+      "source": "https://www.sazaby-league.co.jp/company/group/",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1995",
+          "text": "デンマーク・コペンハーゲンにFlying Tigerの前身となるブランドが誕生。"
+        },
+        {
+          "year": "2011",
+          "text": "日本展開の運営会社Zebra Japan株式会社設立。"
+        },
+        {
+          "year": "2012",
+          "text": "大阪・心斎橋でアジア初の店舗を開店。"
+        },
+        {
+          "year": "2013",
+          "text": "サザビーリーグとの合弁企業になり、Flying Tiger Copenhagenのブランド名へ変更。"
+        },
+        {
+          "year": "2026",
+          "text": "11月2日、ブランド直営の日本公式オンラインストアを開設。"
+        }
+      ]
+    },
+    {
+      "id": "humpty-dumpty",
+      "name": "ハンプティーダンプティー（前橋発祥／2024年事業承継）",
+      "company": "株式会社ハンプティーダンプティー",
+      "summary": "群馬県前橋市発祥のライフスタイル雑貨店『ハンプティーダンプティー』を展開。現在の株式会社ハンプティーダンプティーは群馬県前橋市青柳町198に所在し、公式オンラインショップ会社概要によるとFCを含め全国42店舗。1982年に前橋市で始まった雑貨販売事業を前身とする。2024年3月にポストコロナ・リカバリーファンドが旧ハンプティーダンプティーグループ5社の事業を会社分割で承継。現・同名会社は旧法人と別法人で、旧会社は株式会社N企画へ改称して2025年に特別清算。2024年の事業承継は公式の投資運営会社が明記するが、2026年時点の株主比率やファンド継続保有状況は未確認。現行公式情報で確認できた店舗屋号はハンプティーダンプティー1ブランド。旧関連会社『ニッキ』『ニコット』『ビグラッド』『ハンプティーダンプティーティーパーティー』は過去の承継対象会社であり、現役の別店舗チェーンとして登録しない。",
+      "accent": "#9C8766",
+      "source": "https://shop.humpty-dumpty.jp/view/company",
+      "checked": "2026-11-12",
+      "events": [
+        {
+          "year": "1982",
+          "text": "創業者が群馬県前橋市で雑貨店を創業。"
+        },
+        {
+          "year": "1997",
+          "text": "旧・株式会社ハンプティーダンプティー設立（のちのN企画）。"
+        },
+        {
+          "year": "2024",
+          "text": "3月1日、投資ファンドが旧グループ5社から事業を承継し、新たな運営体制へ。"
+        },
+        {
+          "year": "2025",
+          "text": "旧会社・N企画が特別清算。ブランドと店舗は新会社が運営を継続。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -3321,7 +3379,7 @@
       "name": "ロフト",
       "group": "york",
       "operator": "株式会社ロフト",
-      "category": "専門店",
+      "category": "雑貨",
       "aliases": [
         "loft",
         "ろふと"
@@ -9692,7 +9750,7 @@
       "name": "ハンズ",
       "group": "beisia-family",
       "operator": "株式会社ハンズ",
-      "category": "専門店",
+      "category": "雑貨",
       "aliases": [
         "東急ハンズ（旧称）",
         "HANDS"
@@ -9703,7 +9761,7 @@
       "name": "ハンズ ビー",
       "group": "beisia-family",
       "operator": "株式会社ハンズ",
-      "category": "専門店",
+      "category": "雑貨",
       "aliases": [
         "ハンズビー",
         "HANDS BE"
@@ -12615,6 +12673,192 @@
         "千たか"
       ],
       "source": "https://trs-hd.com/company"
+    },
+    {
+      "name": "Flying Tiger Copenhagen",
+      "group": "sazaby-league",
+      "operator": "Zebra Japan株式会社（サザビーリーグ50%出資の合弁）",
+      "category": "雑貨",
+      "aliases": [
+        "フライングタイガー",
+        "フライング タイガー コペンハーゲン",
+        "フライングタイガーコペンハーゲン",
+        "フライング タイガー",
+        "Flying Tiger",
+        "タイガー 雑貨"
+      ],
+      "source": "https://jp.flyingtiger.com/pages/aboutus"
+    },
+    {
+      "name": "Afternoon Tea LIVING",
+      "group": "sazaby-league",
+      "operator": "株式会社ICL（サザビーリーググループ）",
+      "category": "雑貨",
+      "aliases": [
+        "アフタヌーンティー・リビング",
+        "アフタヌーンティー リビング",
+        "Afternoon Tea Living"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/afternoontealiving.html"
+    },
+    {
+      "name": "AKOMEYA TOKYO",
+      "group": "sazaby-league",
+      "operator": "株式会社AKOMEYA TOKYO（サザビーリーググループ）",
+      "category": "雑貨",
+      "aliases": [
+        "アコメヤ トウキョウ",
+        "アコメヤ",
+        "AKOMEYA"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "Afternoon Tea TEAROOM",
+      "group": "sazaby-league",
+      "operator": "アイビーカンパニー株式会社（サザビーリーググループ）",
+      "category": "飲食",
+      "aliases": [
+        "アフタヌーンティー・ティールーム",
+        "アフタヌーンティーティールーム"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "KIHACHI",
+      "group": "sazaby-league",
+      "operator": "アイビーカンパニー株式会社（サザビーリーググループ）",
+      "category": "飲食",
+      "aliases": [
+        "キハチ",
+        "パティスリーキハチ",
+        "KIHACHI CAFE"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "Shake Shack",
+      "group": "sazaby-league",
+      "operator": "アイビーカンパニー株式会社（サザビーリーググループ／米国ブランドの日本展開）",
+      "category": "飲食",
+      "aliases": [
+        "シェイクシャック",
+        "SHAKE SHACK",
+        "シェイク シャック"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "BAKERS gonna BAKE",
+      "group": "sazaby-league",
+      "operator": "アイビーカンパニー株式会社（サザビーリーググループ）",
+      "category": "飲食",
+      "aliases": [
+        "ベイカーズゴナベイク",
+        "BAKERS gonna BAKE!"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "LE SUN PALM",
+      "group": "sazaby-league",
+      "operator": "アイビーカンパニー株式会社（サザビーリーググループ）",
+      "category": "飲食",
+      "aliases": [
+        "ルサンパーム",
+        "ル サン パーム"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "Ron Herman",
+      "group": "sazaby-league",
+      "operator": "株式会社リトルリーグ（サザビーリーググループ）",
+      "category": "専門店",
+      "aliases": [
+        "ロンハーマン",
+        "RON HERMAN",
+        "ロンハーマン カフェ"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "ESTNATION",
+      "group": "sazaby-league",
+      "operator": "株式会社エストネーション（サザビーリーググループ）",
+      "category": "専門店",
+      "aliases": [
+        "エストネーション"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "agete",
+      "group": "sazaby-league",
+      "operator": "株式会社エーアンドエス（サザビーリーググループ）",
+      "category": "専門店",
+      "aliases": [
+        "アガット",
+        "アガット ジュエリー"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "NOJESS",
+      "group": "sazaby-league",
+      "operator": "株式会社エーアンドエス（サザビーリーググループ）",
+      "category": "専門店",
+      "aliases": [
+        "ノジェス"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "CAMPER",
+      "group": "sazaby-league",
+      "operator": "株式会社カンペールジャパン（サザビーリーググループ）",
+      "category": "専門店",
+      "aliases": [
+        "カンペール",
+        "CAMPER SHOP"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "MAISON SPECIAL",
+      "group": "sazaby-league",
+      "operator": "サザビーリーググループのアパレル事業",
+      "category": "専門店",
+      "aliases": [
+        "メゾンスペシャル",
+        "メゾンスペシャル メンズ"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "ANAYI",
+      "group": "sazaby-league",
+      "operator": "株式会社ファーイーストカンパニー（サザビーリーググループ）",
+      "category": "専門店",
+      "aliases": [
+        "アナイ",
+        "ANAYI STORE"
+      ],
+      "source": "https://www.sazaby-league.co.jp/shop/"
+    },
+    {
+      "name": "ハンプティーダンプティー",
+      "group": "humpty-dumpty",
+      "operator": "株式会社ハンプティーダンプティー（2024年承継後の新法人）",
+      "category": "雑貨",
+      "aliases": [
+        "ハンプティダンプティ",
+        "ハンプテイダンプティ",
+        "Humpty Dumpty",
+        "HUMPTY DUMPTY",
+        "ハンプティーダンプティー ステラタウン"
+      ],
+      "source": "https://shop.humpty-dumpty.jp/view/company"
     }
   ]
 }
