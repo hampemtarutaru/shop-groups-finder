@@ -41,9 +41,38 @@ function buildHierarchy(db,groupId){
   parts.sort((a,b)=>(a.verified===b.verified?(b.brands.length-a.brands.length||a.label.localeCompare(b.label,"ja")):(a.verified?-1:1)));
   return {group,brands,clusters:parts,unknownBrandCount:parts.filter(p=>!p.verified).reduce((n,p)=>n+p.brands.length,0)};
 }
+// Editorial pairings drawn only from currently registered brands under the same operator.
+// If either brand moves or the operator label changes, generation fails instead of
+// silently showing a potentially misleading relationship.
+const DISCOVERY_PAIRS={
+  skylark:[
+    ["夢庵","むさしの森珈琲"],
+    ["グランブッフェ","くし葉"],
+    ["トマト＆オニオン","じゅうじゅうカルビ"]
+  ],
+  usmh:[
+    ["マルエツ プチ","リンコス"],
+    ["カスミ","BLΛNDE"],
+    ["いなげや","ブルーミングブルーミー"]
+  ]
+};
+function buildDiscoveries(clusters,groupId){
+  return (DISCOVERY_PAIRS[groupId]||[]).map(pair=>{
+    const idx=clusters.findIndex(c=>c.verified&&pair.every(name=>c.brands.some(b=>b.name===name)));
+    if(idx<0)throw Error("Unverified discovery pair "+groupId+": "+pair.join(" / "));
+    return {brandNames:pair,company:clusters[idx].label,anchor:"operator-"+(idx+1)};
+  });
+}
 function renderPage(db,groupId){
   const {group,brands,clusters,unknownBrandCount}=buildHierarchy(db,groupId);
   const knownCompanies=clusters.filter(c=>c.verified).length;
+  const discoveries=buildDiscoveries(clusters,groupId);
+  const discoveryHtml=discoveries.length?`<section class="discoveries" aria-labelledby="discovery-heading">
+<h2 id="discovery-heading">この2つの店も、同じ運営会社</h2>
+<p>現行の登録情報から選んだ組み合わせ。個々の店舗の直営・FC契約を示すものではありません。</p>
+<div class="discovery-grid">${discoveries.map(d=>`<div class="discovery-card"><a href="#${esc(d.anchor)}">${esc(d.brandNames[0])} <span aria-label="と">＋</span> ${esc(d.brandNames[1])}</a><small>${esc(d.company)}</small></div>`).join("")}</div>
+</section>`:"";
+
   const headingHtml=groupId==="usmh"?'<h1>U.S.M.H</h1><p class="subhead">マルエツ・カスミ・いなげや／イオン傘下</p>':`<h1>${esc(group.name)}</h1>`;
   const intro=unknownBrandCount?`運営法人が特定できていない${unknownBrandCount}件は、会社名を推測せず別枠に置いています。`:"";
   const navigation=clusters.map((c,i)=>`<a href="#operator-${i+1}">${esc(c.label)} <span>${c.brands.length}件</span></a>`).join("\n");
@@ -76,11 +105,18 @@ main{max-width:1050px;margin:auto;padding:28px 20px 70px}h1{font-size:clamp(1.7r
 .summary{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0 28px}.summary span{background:#e5eee8;padding:7px 13px;border-radius:8px;font-weight:700;font-size:.9rem}
 .tree{border-left:3px solid #78a095;margin:20px 0 28px;padding-left:17px}.tree strong{display:block}.tree small{color:#4a675d}
 nav{background:white;border:1px solid #dae6df;border-radius:12px;padding:15px 19px;margin:24px 0 28px}nav h2{margin-bottom:8px}nav .links{display:flex;flex-wrap:wrap;gap:8px}nav a{display:inline-flex;align-items:center;gap:6px;min-height:44px;max-width:100%;overflow-wrap:anywhere;font-size:.88rem;text-decoration:none;border:1px solid #cbdcd4;border-radius:7px;padding:9px 11px}nav a span{color:#52746a}
+
+.discoveries{margin:20px 0 28px;padding:18px 20px;background:#edf5ee;border:1px solid #cbded0;border-radius:12px}
+.discoveries h2{font-size:1.1rem}.discoveries p{font-size:.86rem;color:#416960;margin:6px 0 12px}
+.discovery-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.discovery-card{background:white;border:1px solid #dae6df;border-radius:9px;padding:10px 12px;min-width:0}
+.discovery-card a{display:flex;align-items:center;flex-wrap:wrap;gap:5px;min-height:44px;font-size:.94rem;font-weight:700;overflow-wrap:anywhere}
+.discovery-card a span{color:#7c876c}.discovery-card small{display:block;font-size:.75rem;color:#416960;overflow-wrap:anywhere}
 .source-help{font-size:.88rem;color:#416960;margin:0 0 12px}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;align-items:start}.operator{background:white;border:1px solid #d9e6df;border-radius:14px;padding:18px;min-width:0;box-shadow:0 1px 6px #153b2e0d}
 .operator-heading{display:flex;justify-content:space-between;align-items:center;gap:10px;border-bottom:1px solid #e5eee9;padding-bottom:12px}.count{white-space:nowrap;color:#35675c;font-size:.78rem;background:#eaf4ed;padding:3px 8px;border-radius:20px}
 .brand-list{list-style:none;padding:0;margin:8px 0 0}.brand-list li{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;border-bottom:1px solid #eff3f0;padding:8px 0}.brand-list li:last-child{border:0}.brand{font-weight:700}.brand-list li a{display:inline-flex;align-items:center;min-height:44px;max-width:100%;overflow-wrap:anywhere}.ref{font-size:.86rem}.pending{border:2px dashed #bf8c38}.warning,.raw{font-size:.78rem;color:#825c18}.raw{flex-basis:100%}
 .notes{margin-top:28px;padding:18px 20px;background:#edf1ec;border-radius:12px;font-size:.88rem}footer{background:#e3ebe5;padding:18px;text-align:center;font-size:.8rem}.skip{position:absolute;left:-200vw;top:0;background:white;color:#143f36;padding:10px 16px;z-index:10}.skip:focus{left:8px;top:8px}h1,h2,.operator-heading{overflow-wrap:anywhere}
-@media(max-width:680px){.grid{grid-template-columns:1fr}.operator{padding:15px}.brand-list li{gap:4px}.summary span{font-size:.84rem}}
+@media(max-width:680px){.discovery-grid{grid-template-columns:1fr}.discoveries{padding:14px}.grid{grid-template-columns:1fr}.operator{padding:15px}.brand-list li{gap:4px}.summary span{font-size:.84rem}}
 </style>
 </head>
 <body>
@@ -93,6 +129,7 @@ ${headingHtml}
 <div class="status"><strong>本番サイト未掲載の検証用HTML・検索対象外。</strong> ブランドの網羅や各店舗の直営・FC契約の証明ではありません。${esc(intro)}</div>
 <div class="tree"><strong>親グループ：${esc(group.company)}</strong><small>登録上のグループ名：${esc(group.name)} ／ グループデータの確認日：${esc(group.checked||"未記録")}</small></div>
 <div class="summary"><span>${brands.length} 登録ブランド</span><span>${knownCompanies} 運営会社名を掲載</span>${unknownBrandCount?`<span>${unknownBrandCount}件 要確認</span>`:""}</div>
+${discoveryHtml}
 <nav aria-label="運営会社へ移動"><h2>運営会社から探す</h2><div class="links">${navigation}</div></nav>
 <p class="source-help">各ブランドの「登録出典」は、登録時に参照した公式資料へのリンクです。ブランド専用ページとは限りません。</p>
 <div class="grid">${sections}</div>
@@ -103,7 +140,7 @@ ${headingHtml}
 </body>
 </html>`;
 }
-export {mapOperator,buildHierarchy,renderPage};
+export {mapOperator,buildHierarchy,buildDiscoveries,renderPage};
 if(process.argv[1] && resolve(process.argv[1])===fileURLToPath(import.meta.url)){
   const db=JSON.parse(readFileSync(join(root,"public","data.json"),"utf8"));
   const ids=["zensho","skylark","usmh"];
