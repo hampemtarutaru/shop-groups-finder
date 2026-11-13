@@ -16,11 +16,18 @@ main{max-width:1050px;margin:auto;padding:28px 20px 70px}h1{font-size:clamp(1.7r
 .summary{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0 28px}.summary span{background:#e5eee8;padding:7px 13px;border-radius:8px;font-weight:700;font-size:.9rem}
 .tree{border-left:3px solid #78a095;margin:20px 0 28px;padding-left:17px}.tree strong{display:block}.tree small{color:#4a675d}
 nav{background:white;border:1px solid #dae6df;border-radius:12px;padding:15px 19px;margin:24px 0 28px}nav h2{margin-bottom:8px}nav .links{display:flex;flex-wrap:wrap;gap:8px}nav a{display:inline-flex;align-items:center;gap:6px;min-height:44px;max-width:100%;overflow-wrap:anywhere;font-size:.88rem;text-decoration:none;border:1px solid #cbdcd4;border-radius:7px;padding:9px 11px}nav a span{color:#52746a}
+
+.discoveries{margin:20px 0 28px;padding:18px 20px;background:#edf5ee;border:1px solid #cbded0;border-radius:12px}
+.discoveries h2{font-size:1.1rem}.discoveries p{font-size:.86rem;color:#416960;margin:6px 0 12px}
+.discovery-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.discovery-card{background:white;border:1px solid #dae6df;border-radius:9px;padding:10px 12px;min-width:0}
+.discovery-card a{display:flex;align-items:center;flex-wrap:wrap;gap:5px;min-height:44px;font-size:.94rem;font-weight:700;overflow-wrap:anywhere}
+.discovery-card a span{color:#7c876c}.discovery-card small{display:block;font-size:.75rem;color:#416960;overflow-wrap:anywhere}
 .source-help{font-size:.88rem;color:#416960;margin:0 0 12px}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;align-items:start}.operator{background:white;border:1px solid #d9e6df;border-radius:14px;padding:18px;min-width:0;box-shadow:0 1px 6px #153b2e0d}
 .operator-heading{display:flex;justify-content:space-between;align-items:center;gap:10px;border-bottom:1px solid #e5eee9;padding-bottom:12px}.count{white-space:nowrap;color:#35675c;font-size:.78rem;background:#eaf4ed;padding:3px 8px;border-radius:20px}
 .brand-list{list-style:none;padding:0;margin:8px 0 0}.brand-list li{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;border-bottom:1px solid #eff3f0;padding:8px 0}.brand-list li:last-child{border:0}.brand{font-weight:700}.brand-list li a{display:inline-flex;align-items:center;min-height:44px;max-width:100%;overflow-wrap:anywhere}.ref{font-size:.86rem}.pending{border:2px dashed #bf8c38}.warning,.raw{font-size:.78rem;color:#825c18}.raw{flex-basis:100%}
 .notes{margin-top:28px;padding:18px 20px;background:#edf1ec;border-radius:12px;font-size:.88rem}footer{background:#e3ebe5;padding:18px;text-align:center;font-size:.8rem}.skip{position:absolute;left:-200vw;top:0;background:white;color:#143f36;padding:10px 16px;z-index:10}.skip:focus{left:8px;top:8px}h1,h2,.operator-heading{overflow-wrap:anywhere}
-@media(max-width:680px){.grid{grid-template-columns:1fr}.operator{padding:15px}.brand-list li{gap:4px}.summary span{font-size:.84rem}}
+@media(max-width:680px){.discovery-grid{grid-template-columns:1fr}.discoveries{padding:14px}.grid{grid-template-columns:1fr}.operator{padding:15px}.brand-list li{gap:4px}.summary span{font-size:.84rem}}
 </style>
 </head>
 <body>
@@ -33,6 +40,7 @@ nav{background:white;border:1px solid #dae6df;border-radius:12px;padding:15px 19
 <div class="status"><strong>本番サイト未掲載の検証用HTML・検索対象外。</strong> ブランドの網羅や各店舗の直営・FC契約の証明ではありません。運営法人が特定できていない2件は、会社名を推測せず別枠に置いています。</div>
 <div class="tree"><strong>親グループ：株式会社ゼンショーホールディングス</strong><small>登録上のグループ名：ゼンショーグループ ／ グループデータの確認日：2026-11-06</small></div>
 <div class="summary"><span>18 登録ブランド</span><span>13 運営会社名を掲載</span><span>2件 要確認</span></div>
+
 <nav aria-label="運営会社へ移動"><h2>運営会社から探す</h2><div class="links"><a href="#operator-1">株式会社エイ・ダイニング <span>2件</span></a>
 <a href="#operator-2">株式会社バーガー・ワン <span>2件</span></a>
 <a href="#operator-3">株式会社ビッグボーイジャパン <span>2件</span></a>
