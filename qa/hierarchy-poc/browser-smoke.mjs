@@ -24,6 +24,21 @@ try {
         assert.equal(await page.locator("nav a").count(),operatorCount,id+" operator links");
         assert.equal(await page.locator(".ref").count(),brandCount,id+" source count");
         assert.equal(await page.locator("h1").count(),1);
+        const discoveryCount=id==="zensho"?0:3;
+        assert.equal(await page.locator(".discovery-card").count(),discoveryCount,id+" expected discovery cards");
+        if(discoveryCount){
+          const discoveryLinks=await page.locator(".discovery-card a").evaluateAll(links=>
+            links.map(a=>({
+              validAnchor:!!document.querySelector(a.getAttribute("href")),
+              height:Math.round(a.getBoundingClientRect().height)
+            }))
+          );
+          assert.ok(discoveryLinks.every(x=>x.validAnchor&&x.height>=44),id+" discovery links");
+          const discoveryColumns=await page.locator(".discovery-grid").evaluate(el=>
+            getComputedStyle(el).gridTemplateColumns.split(" ").length
+          );
+          assert.equal(discoveryColumns,width<=680?1:3,id+" discovery columns");
+        }
         const checks=await page.evaluate(()=>{
           const cols=getComputedStyle(document.querySelector(".grid")).gridTemplateColumns.split(" ").length;
           const navTargets=[...document.querySelectorAll("nav a")].map(x=>Math.round(x.getBoundingClientRect().height));
