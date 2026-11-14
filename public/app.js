@@ -31,6 +31,12 @@
       button.addEventListener('click',()=>{$('search').value=item.name;update();$('search').focus();window.scrollTo({top:220,behavior:'smooth'});});
       pillWrap.append(button);
     });card.append(pillWrap);
+    // Optional in-depth operator view, limited to audited pilot groups.
+    if(group.id==='skylark'||group.id==='usmh'){
+      const browse=el('a','group-hierarchy-link','運営会社別に見る →');
+      browse.href='./groups/'+group.id+'.html';
+      card.append(browse);
+    }
     if(group.events.length){const details=el('details','history'),summary=el('summary','', '成り立ちを少し見る'),list=el('ul');group.events.forEach(e=>list.append(el('li','',`${e.year}年 — ${e.text}`)));details.append(summary,list);card.append(details);}
     const bottom=el('div','group-bottom');bottom.append(link(group.source,'公式情報を確認 ↗'),el('span','group-date',`確認 ${group.checked}`));card.append(bottom);
     return card;
