@@ -22,3 +22,7 @@
 .info-section code{font-size:13px;white-space:nowrap}
 .info-updated{font-size:12px;color:#68746e;margin:26px 0 0}
 @media(max-width:650px){.info-page{width:calc(100% - 30px);padding:34px 0 58px}.info-lead{font-size:14px}.info-section{margin:20px 0}}
+
+/* K-089: in-depth operator pages for two piloted groups only. */
+.group-hierarchy-link{display:inline-flex;align-items:center;min-height:44px;margin-top:13px;padding:8px 12px;border-radius:9px;background:#eaf2e8;border:1px solid #c9ddd1;color:#245e4e;font-weight:700;font-size:13px;text-decoration:none}
+.group-hierarchy-link:hover{background:#dceadc}
