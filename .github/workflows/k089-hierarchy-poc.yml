@@ -6,6 +6,10 @@ on:
       - 'scripts/k089_hierarchy_poc*.mjs'
       - '.github/workflows/k089-hierarchy-poc.yml'
       - 'public/data.json'
+      - 'public/groups/**'
+      - 'public/app.js'
+      - 'public/styles.css'
+      - 'scripts/k089_public_candidate*.mjs'
 permissions:
   contents: read
 jobs:
@@ -17,6 +21,9 @@ jobs:
         with:
           node-version: '22'
       - run: node --test scripts/k089_hierarchy_poc.test.mjs
+      - run: node --test scripts/k089_public_candidate.test.mjs
+      - run: node scripts/k089_public_candidate.mjs
+      - run: git diff --exit-code -- public/groups/
       - run: node scripts/k089_hierarchy_poc.mjs
       - run: git diff --exit-code -- qa/hierarchy-poc/
       - run: node scripts/k089_hierarchy_poc.mjs && git diff --exit-code -- qa/hierarchy-poc/
