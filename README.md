@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-16現在、143グループ・1002ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-16現在、160グループ・1041ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -1013,3 +1013,29 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://sinseido-co.jp/news/%E3%80%8Cblack-friday%E3%80%8D%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%9211%E6%9C%8816%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%82%88%E3%82%8A%E9%96%8B%E5%82%AC/
 - https://www.universal-drug.co.jp/stores
 - https://johnmastersorganics.jp/blogs/online-store-news/news0824
+
+## 出典・更新メモ（2026-11-16 チョコレート専門店と系列）
+
+日本国内のチョコレート専門店を中心に、公式の国内運営法人・親会社・兄弟ブランドを調べ、17グループと39ブランドを追加（160グループ・1041ブランド）。コロワイドの既存グループ説明にN Baton Companyの菓子事業を追記。GODIVA／ピエール マルコリーニはゴディバ ジャパンの親会社オーキッドに属する兄弟事業であり、GODIVAが直接マルコリーニを買収したとの記述は避ける。ジャン＝ポール・エヴァンの日本事業はアンデルセングループの株式会社アンデルセン傘下。ヴィタメールはベルギー発ブランドの日本展開をエーデルワイス系が担う。レオニダスと久遠チョコレートは全店共通の直接所有関係を推定しない。モンロワール／ル ペパン／ベル プラージュのつながりも区別。
+
+- https://orchidinc.com/company/profile/
+- https://www.godiva.co.jp/company/
+- https://www.lindt.jp/f/company
+- https://www.andersen-group.jp/company/23/
+- https://www.andersen-group.jp/company/27/
+- https://www.lamaisonduchocolat.com/ja_jp/gts
+- https://venchi.co.jp/company/
+- https://cacaosampaka.jp/
+- https://delrey.co.jp/pages/aboutus
+- https://www.j-works-net.co.jp/brand/
+- https://palet-dor.com/company/
+- https://www.edelweiss.co.jp/brand/
+- https://www.lotte.co.jp/corporate/about/outline/group_domestic.html
+- https://www.royce.com/brand/contents/story/
+- https://www.monloire.co.jp/company/
+- https://www.lepepin.jp/
+- https://www.leonidas-alex.jp/partner
+- https://www.vanillabeans.yokohama/view/page/company
+- https://dandelionchocolate.jp/pages/company
+- https://quon-choco.com/aboutus/
+- https://www.colowide.co.jp/inquiry/brand_list.html
