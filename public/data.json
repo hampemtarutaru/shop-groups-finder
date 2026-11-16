@@ -13822,9 +13822,7 @@
       "group": "matsukiyococokara",
       "operator": "マツモトキヨシグループ各社",
       "category": "ドラッグストア",
-      "aliases": [
-        "ファミドラ"
-      ],
+      "aliases": [],
       "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
     },
     {
@@ -13855,8 +13853,7 @@
       "operator": "マツモトキヨシグループ各社",
       "category": "ドラッグストア",
       "aliases": [
-        "ダルマ",
-        "薬王堂ダルマ"
+        "ダルマ"
       ],
       "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
     },
@@ -13879,8 +13876,7 @@
       "category": "調剤薬局",
       "aliases": [
         "丘の上薬品",
-        "おかのうえ薬局",
-        "丘の上ドラッグ"
+        "おかのうえ薬局"
       ],
       "source": "https://okanoue.co.jp/"
     },
@@ -14020,8 +14016,7 @@
       "operator": "株式会社新生堂薬局（株式会社アンドカンパニー傘下）",
       "category": "ドラッグストア",
       "aliases": [
-        "くすりのハッピー新生堂",
-        "ハッピー薬局 新生堂"
+        "くすりのハッピー新生堂"
       ],
       "source": "https://sinseido-co.jp/drug/"
     },
@@ -14042,8 +14037,7 @@
       "operator": "ユニバーサルドラッグ株式会社（株式会社アンドカンパニー傘下）",
       "category": "ドラッグストア",
       "aliases": [
-        "UNIVERSAL DRUG",
-        "ユニバーサル薬局"
+        "UNIVERSAL DRUG"
       ],
       "source": "https://www.universal-drug.co.jp/stores"
     },
