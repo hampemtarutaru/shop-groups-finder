@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-16",
   "notice": "掲載対象は一部のブランドです。企業の資本・運営関係は変わることがあります。",
   "groups": [
     {
@@ -3206,6 +3206,45 @@
         {
           "year": "2002",
           "text": "札幌市北区に屯田1号店開店。"
+        }
+      ]
+    },
+    {
+      "id": "matsukiyococokara",
+      "name": "マツキヨココカラ＆カンパニー（マツモトキヨシ・ココカラファインほか）",
+      "company": "株式会社マツキヨココカラ＆カンパニー",
+      "summary": "2021年10月にマツモトキヨシHDとココカラファインが経営統合して発足した全国規模のドラッグストア・調剤薬局グループ。中間持株会社にマツモトキヨシグループ、ココカラファイングループ、アンドカンパニーがある。マツモトキヨシ、どらっぐぱぱす、ヘルスバンク、ミドリ薬品、くすりのラブ、シメノドラッグ、ケイポート、丘の上薬局、matsukiyo LAB、Medi+マツキヨ、H&B Place等、ココカラファイン、セイジョー、ドラッグセガミ、ジップドラッグ、ライフォート、クスリのコダマ、クスリ岩崎チェーン、ココカラファインプラスイズミヤ等を展開。2025年10月に新生堂薬局（ドラッグ新生堂、くすりのハッピー、調剤の新生堂薬局）がアンドカンパニー傘下へ、2026年4月にユニバーサルドラッグを子会社化。さらに2026年9月7日にMCCマネジメントがジョンマスターホールディングス全株式を取得し、オーガニック化粧品店『john masters organics』もグループ入りした。美容情報サイト『LIPS』運営AppBrewもグループ会社だがWebサービスであり店舗ブランドとして数えない。『ココカラファインプラスイズミヤ』のCFIZは阪急阪神百貨店系H2Oとの協業から生まれた事業法人であり、H2Oの全事業をマツキヨ傘下とは扱わない。2026年9月末の国内店総数はマツモトキヨシ側1,999、ココカラ側1,522、アンドカンパニー側130、管理サポート35、計3,686店（2026年11月13日公表の中間決算）。旧屋号の多くは2026年の現行キャンペーン・店舗検索に残るが、店舗限定フォーマットや旧店名の重複登録には注意する。ドラッグストア『ドラッグイレブン』はツルハ・ウエルシア系であり、マツキヨとは別系列。",
+      "accent": "#9C8A53",
+      "source": "https://www.matsukiyococokara.com/company/group/",
+      "checked": "2026-11-16",
+      "events": [
+        {
+          "year": "1932",
+          "text": "12月、創業者・松本清が千葉県松戸市に『松本薬舗』を創業。"
+        },
+        {
+          "year": "2005",
+          "text": "株式会社ぱぱすがマツモトキヨシグループに参加。"
+        },
+        {
+          "year": "2021",
+          "text": "10月1日、マツモトキヨシHDとココカラファインが経営統合し、現商号へ変更。"
+        },
+        {
+          "year": "2024",
+          "text": "1月、ケイポートを子会社化。"
+        },
+        {
+          "year": "2025",
+          "text": "5月に丘の上薬局を取得、10月にアンドカンパニーが新生堂薬局の全株式を取得。"
+        },
+        {
+          "year": "2026",
+          "text": "4月1日、ユニバーサルドラッグを子会社化し、岩崎宏健堂をココカラファインヘルスケアへ吸収合併。"
+        },
+        {
+          "year": "2026",
+          "text": "9月7日、ジョンマスターホールディングスの全株式をMCCマネジメントが取得。"
         }
       ]
     }
@@ -13708,6 +13747,317 @@
         "ワンズサイクル ダイユーエイト"
       ],
       "source": "https://valorholdings.co.jp/group/"
+    },
+    {
+      "name": "マツモトキヨシ",
+      "group": "matsukiyococokara",
+      "operator": "株式会社マツモトキヨシ・各地域販売会社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "マツキヨ",
+        "matsukiyo",
+        "Matsumoto Kiyoshi"
+      ],
+      "source": "https://www.matsukiyococokara.com/company/group/mk/"
+    },
+    {
+      "name": "matsukiyo LAB",
+      "group": "matsukiyococokara",
+      "operator": "株式会社マツモトキヨシ・地域販売会社（マツキヨの健康・美容強化型店舗）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "マツキヨラボ",
+        "matsukiyoLAB",
+        "マツモトキヨシ matsukiyo LAB"
+      ],
+      "source": "https://www.matsukiyococokara.com/company/group/mk/mk_east/"
+    },
+    {
+      "name": "どらっぐぱぱす",
+      "group": "matsukiyococokara",
+      "operator": "株式会社ぱぱす",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ぱぱす",
+        "どらっぐパパス",
+        "ドラッグぱぱす",
+        "ぱぱす薬局"
+      ],
+      "source": "https://www.matsukiyococokara.com/company/group/mk/"
+    },
+    {
+      "name": "petit madoca",
+      "group": "matsukiyococokara",
+      "operator": "マツモトキヨシグループ各社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "プチマドカ",
+        "プチ madoca",
+        "Petit madoca"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "ヘルスバンク",
+      "group": "matsukiyococokara",
+      "operator": "マツモトキヨシグループ各社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "HEALTH BANK"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "シメノドラッグ",
+      "group": "matsukiyococokara",
+      "operator": "マツモトキヨシグループ各社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "しめのドラッグ"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "ファミリードラッグ",
+      "group": "matsukiyococokara",
+      "operator": "マツモトキヨシグループ各社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ファミドラ"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "くすりのラブ",
+      "group": "matsukiyococokara",
+      "operator": "マツモトキヨシグループ各社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "くすりのラブ薬局",
+        "ドラッグのラブ"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "ミドリ薬品",
+      "group": "matsukiyococokara",
+      "operator": "マツモトキヨシグループ各社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "みどり薬品",
+        "MIDORI"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "ダルマ薬局",
+      "group": "matsukiyococokara",
+      "operator": "マツモトキヨシグループ各社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ダルマ",
+        "薬王堂ダルマ"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "ケイポート",
+      "group": "matsukiyococokara",
+      "operator": "株式会社ケイポート",
+      "category": "ドラッグストア",
+      "aliases": [
+        "K-PORT",
+        "K-PORT COSM",
+        "ケイポート薬局"
+      ],
+      "source": "https://kport.co.jp/store/division/drugstore"
+    },
+    {
+      "name": "丘の上薬局",
+      "group": "matsukiyococokara",
+      "operator": "株式会社マツモトキヨシ（2026年4月に旧運営会社を吸収合併）",
+      "category": "調剤薬局",
+      "aliases": [
+        "丘の上薬品",
+        "おかのうえ薬局",
+        "丘の上ドラッグ"
+      ],
+      "source": "https://okanoue.co.jp/"
+    },
+    {
+      "name": "H&B Place",
+      "group": "matsukiyococokara",
+      "operator": "マツモトキヨシグループ各社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "エイチアンドビープレイス",
+        "H&Bプレイス"
+      ],
+      "source": "https://www.matsukiyococokara-online.com/map?kid=10001345"
+    },
+    {
+      "name": "Medi+マツキヨ",
+      "group": "matsukiyococokara",
+      "operator": "マツモトキヨシグループ各社",
+      "category": "ドラッグストア",
+      "aliases": [
+        "Medi マツキヨ",
+        "メディプラスマツキヨ",
+        "Medi+ Matsukiyo"
+      ],
+      "source": "https://www.matsukiyococokara-online.com/map?kid=10001377"
+    },
+    {
+      "name": "ココカラファイン",
+      "group": "matsukiyococokara",
+      "operator": "株式会社ココカラファインヘルスケア",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ココカラ",
+        "ココカラファイン薬局",
+        "cocokarafine"
+      ],
+      "source": "https://www.matsukiyococokara.com/company/group/cocokara/"
+    },
+    {
+      "name": "セイジョー",
+      "group": "matsukiyococokara",
+      "operator": "株式会社ココカラファインヘルスケア",
+      "category": "ドラッグストア",
+      "aliases": [
+        "くすりセイジョー",
+        "ドラッグストアいわい",
+        "成城薬局"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "ドラッグセガミ",
+      "group": "matsukiyococokara",
+      "operator": "株式会社ココカラファインヘルスケア",
+      "category": "ドラッグストア",
+      "aliases": [
+        "セガミ",
+        "パワードラッグワンズ"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "ジップドラッグ",
+      "group": "matsukiyococokara",
+      "operator": "株式会社ココカラファインヘルスケア",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ZIPドラッグ",
+        "ココカラファイン ジップドラッグ"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "ライフォート",
+      "group": "matsukiyococokara",
+      "operator": "株式会社ココカラファインヘルスケア",
+      "category": "ドラッグストア",
+      "aliases": [
+        "LIFORT",
+        "マルゼン",
+        "シンヤクドー",
+        "ホップスドラッグ",
+        "マツノキ"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "クスリのコダマ",
+      "group": "matsukiyococokara",
+      "operator": "株式会社ココカラファインヘルスケア",
+      "category": "ドラッグストア",
+      "aliases": [
+        "コダマ",
+        "くすりのコダマ",
+        "ドラッグコダマ"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "クスリ岩崎チェーン",
+      "group": "matsukiyococokara",
+      "operator": "株式会社ココカラファインヘルスケア（2026年4月に岩崎宏健堂を吸収合併）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "岩崎チェーン",
+        "クスリ岩崎",
+        "薬の岩崎"
+      ],
+      "source": "https://www.matsukiyococokara.com/company/history/"
+    },
+    {
+      "name": "ココカラファインプラスイズミヤ",
+      "group": "matsukiyococokara",
+      "operator": "株式会社CFIZ（ココカラファイン系・H2Oとの協業法人）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ココカラファインイズミヤ",
+        "ココカラファイン＋イズミヤ",
+        "ココカラファインプラス イズミヤ"
+      ],
+      "source": "https://cp.matsukiyococokara-online.com/gc/202609/top.php"
+    },
+    {
+      "name": "ドラッグ新生堂",
+      "group": "matsukiyococokara",
+      "operator": "株式会社新生堂薬局（株式会社アンドカンパニー傘下）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "ドラッグしんせいどう",
+        "ドラッグシンセイドウ"
+      ],
+      "source": "https://sinseido-co.jp/drug/"
+    },
+    {
+      "name": "くすりのハッピー",
+      "group": "matsukiyococokara",
+      "operator": "株式会社新生堂薬局（株式会社アンドカンパニー傘下）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "くすりのハッピー新生堂",
+        "ハッピー薬局 新生堂"
+      ],
+      "source": "https://sinseido-co.jp/drug/"
+    },
+    {
+      "name": "新生堂薬局",
+      "group": "matsukiyococokara",
+      "operator": "株式会社新生堂薬局（株式会社アンドカンパニー傘下）",
+      "category": "調剤薬局",
+      "aliases": [
+        "しんせいどう薬局",
+        "新生堂調剤薬局"
+      ],
+      "source": "https://sinseido-co.jp/"
+    },
+    {
+      "name": "ユニバーサルドラッグ",
+      "group": "matsukiyococokara",
+      "operator": "ユニバーサルドラッグ株式会社（株式会社アンドカンパニー傘下）",
+      "category": "ドラッグストア",
+      "aliases": [
+        "UNIVERSAL DRUG",
+        "ユニバーサル薬局"
+      ],
+      "source": "https://www.universal-drug.co.jp/stores"
+    },
+    {
+      "name": "john masters organics",
+      "group": "matsukiyococokara",
+      "operator": "株式会社ジョンマスターオーガニックグループ（MCCマネジメント傘下）",
+      "category": "専門店",
+      "aliases": [
+        "ジョンマスターオーガニック",
+        "John Masters Organics",
+        "ジョンマスター"
+      ],
+      "source": "https://johnmastersorganics.jp/blogs/online-store-news/news0824"
     }
   ]
 }
