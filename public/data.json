@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "notice": "掲載対象は一部のブランドです。企業の資本・運営関係は変わることがあります。",
   "groups": [
     {
@@ -3454,6 +3454,196 @@
       "accent": "#7E8060",
       "source": "https://quon-choco.com/aboutus/",
       "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "morinaga-confectionery",
+      "name": "森永製菓グループ（ステラおばさんのクッキー）",
+      "company": "森永製菓株式会社",
+      "summary": "株式会社アントステラが「ステラおばさんのクッキー」を運営。アントステラは2008年に森永製菓グループ入りし、2026年現在も森永製菓公式グループ一覧に掲載。森永ビスケット「マリー」等は菓子の商品銘柄であって店舗ブランドとしては登録しない。",
+      "accent": "#AD7559",
+      "source": "https://www.morinaga.co.jp/company/about/group.html",
+      "checked": "2026-11-17",
+      "events": [
+        {
+          "year": "2008",
+          "text": "アントステラが森永製菓グループ入り。"
+        }
+      ]
+    },
+    {
+      "id": "yokumoku-group",
+      "name": "ヨックモックグループ（ヨックモック・アン グラン）",
+      "company": "株式会社ヨックモックホールディングス／株式会社ヨックモック",
+      "summary": "ロール状クッキー「シガール」で知られるヨックモックを基幹ブランドに、ミニャルディーズ専門店「UN GRAIN（アン グラン）」も展開。シガールは商品名であり独立店舗ブランドとしては計上しない。過去に「アンリ・ルルー」を保有したが2019年に売却済みのため現グループに登録しない。",
+      "accent": "#7193A3",
+      "source": "https://yokumoku.co.jp/pages/company-business",
+      "checked": "2026-11-17",
+      "events": [
+        {
+          "year": "1969",
+          "text": "ヨックモック創業。"
+        },
+        {
+          "year": "2015",
+          "text": "UN GRAINをオープン。"
+        },
+        {
+          "year": "2019",
+          "text": "アンリ・ルルー事業を売却。"
+        }
+      ]
+    },
+    {
+      "id": "suzette-sweets",
+      "name": "シュゼットグループ（アンリ・シャルパンティエほか）",
+      "company": "株式会社シュゼット・ホールディングス",
+      "summary": "アンリ・シャルパンティエ、C³（シーキューブ）、CASANEO（カサネオ）、back haus IRIE（バックハウスイリエ）を展開。2026年10月時点のブランド一覧に基づく。",
+      "accent": "#AB7372",
+      "source": "https://www.suzette.co.jp/brand/",
+      "checked": "2026-11-17",
+      "events": [
+        {
+          "year": "1969",
+          "text": "アンリ・シャルパンティエとして創業。"
+        },
+        {
+          "year": "1987",
+          "text": "C³（シーキューブ）誕生。"
+        }
+      ]
+    },
+    {
+      "id": "grapestone-sweets",
+      "name": "グレープストーン（東京ばな奈・ねんりん家ほか）",
+      "company": "株式会社グレープストーン",
+      "summary": "東京ばな奈、ねんりん家、シュガーバターの木、銀のぶどう、鎌倉五郎本店、TOKYOチューリップローズなど多彩な菓子専門ブランドを展開。直営店、ブランド別売場、駅・空港取扱売場は同一視せず、掲載ブランドは代表的なものを抜粋。",
+      "accent": "#B2856D",
+      "source": "https://www.grapestone.co.jp/company/business.html",
+      "checked": "2026-11-17",
+      "events": [
+        {
+          "year": "1978",
+          "text": "株式会社グレープストーン設立。"
+        }
+      ]
+    },
+    {
+      "id": "kotobuki-sweets",
+      "name": "寿スピリッツ（シュクレイ・ルタオ・九十九島ほか）",
+      "company": "寿スピリッツ株式会社",
+      "summary": "菓子持株会社。株式会社シュクレイの東京ミルクチーズ工場、ザ・メープルマニア、フランセ、バターバトラー等に加え、株式会社ケイシイシイのルタオ、ナウオンチーズ、九十九島グループの赤い風船・九十九島せんぺい等は同じ寿スピリッツ傘下。シュクレイと九十九島グループの2025年4月の組織再編を踏まえ、各運営法人はブランドに個別明記。",
+      "accent": "#B48851",
+      "source": "https://www.kotobukispirits.co.jp/ja/about/group.html",
+      "checked": "2026-11-17",
+      "events": [
+        {
+          "year": "2025",
+          "text": "4月、シュクレイと九十九島グループの組織再編を実施。"
+        }
+      ]
+    },
+    {
+      "id": "plaisir-sweets",
+      "name": "プレジィール（オードリー・グラマシーニューヨークほか）",
+      "company": "株式会社プレジィール",
+      "summary": "グラマシーニューヨーク、ファウンドリー、オードリー、タルティン、薫るバターSabrinaを展開。百貨店・駅・空港を中心に製造から販売まで行う洋菓子企業。",
+      "accent": "#C47C83",
+      "source": "https://plaisir-recruit.net/jobfind-pc/",
+      "checked": "2026-11-17",
+      "events": []
+    },
+    {
+      "id": "morozoff-sweets",
+      "name": "モロゾフ",
+      "company": "モロゾフ株式会社",
+      "summary": "神戸発の洋菓子メーカー。独立した上場企業として洋菓子売場・カフェ等を運営し、カフェモロゾフ、窯だしチーズケーキ、モロゾフ エクラなどの店名・売場ブランドも展開。商品だけの名前は別登録しない。",
+      "accent": "#9A7292",
+      "source": "https://www.morozoff.co.jp/company_ir/profile_index.html",
+      "checked": "2026-11-17",
+      "events": [
+        {
+          "year": "1931",
+          "text": "モロゾフ株式会社創立。"
+        }
+      ]
+    },
+    {
+      "id": "goncharoff-sweets",
+      "name": "ゴンチャロフ（バウムウントバウムほか）",
+      "company": "ゴンチャロフ製菓株式会社",
+      "summary": "神戸のチョコレート・焼き菓子メーカー。関連会社株式会社BAUM u. BAUMがバウムクーヘン専門店「BAUM u. BAUM」を運営。パミエは菓子の商品名であり独立した店舗名とはしない。",
+      "accent": "#8E647D",
+      "source": "https://www.goncharoff.co.jp/company/profile/index.html",
+      "checked": "2026-11-17",
+      "events": [
+        {
+          "year": "1923",
+          "text": "ゴンチャロフ創業。"
+        },
+        {
+          "year": "2020",
+          "text": "BAUM u. BAUM運営開始。"
+        }
+      ]
+    },
+    {
+      "id": "juchheim-sweets",
+      "name": "ユーハイム（ローゼンハイムほか）",
+      "company": "株式会社ユーハイム",
+      "summary": "バウムクーヘンなどを扱う洋菓子メーカー。子会社ローゼンハイムの焼き菓子ブランドも展開。ただしローゼンハイムは現在スーパー等の取扱売場が中心で、すべて独立した直営専門店というわけではない。",
+      "accent": "#9E8064",
+      "source": "https://www.juchheim.co.jp/info",
+      "checked": "2026-11-17",
+      "events": [
+        {
+          "year": "1922",
+          "text": "日本におけるユーハイムの事業が始まる。"
+        }
+      ]
+    },
+    {
+      "id": "ginza-west",
+      "name": "銀座ウエスト",
+      "company": "株式会社洋菓子舗ウエスト",
+      "summary": "1947年創業の洋菓子・焼き菓子専門店。銀座本店、青山ガーデン、ベイカフェヨコハマ、百貨店売場を展開。独立した運営会社として登録し、他の洋菓子企業の傘下であると推定しない。",
+      "accent": "#688C86",
+      "source": "https://www.ginza-west.com/hpgen/HPB/entries/16.html",
+      "checked": "2026-11-17",
+      "events": [
+        {
+          "year": "1947",
+          "text": "銀座ウエスト創業。"
+        }
+      ]
+    },
+    {
+      "id": "gateau-festa-harada",
+      "name": "ガトーフェスタ ハラダ",
+      "company": "株式会社原田",
+      "summary": "群馬発のガトーラスク専門ブランド。株式会社原田が製造販売・直営店運営。ラスク「グーテ・デ・ロワ」は商品の名前であって独立した店舗ブランドではない。",
+      "accent": "#6784AD",
+      "source": "https://www.gateaufesta-harada.com/corporate/overview",
+      "checked": "2026-11-17",
+      "events": [
+        {
+          "year": "1901",
+          "text": "菓子業創業。"
+        },
+        {
+          "year": "2000",
+          "text": "ガトーラスク「グーテ・デ・ロワ」を発売。"
+        }
+      ]
+    },
+    {
+      "id": "chateraise-sweets",
+      "name": "シャトレーゼグループ（YATSUDOKI・さかえ屋・亀屋万年堂）",
+      "company": "株式会社シャトレーゼホールディングス／株式会社シャトレーゼ",
+      "summary": "シャトレーゼ、上位ブランドYATSUDOKIに加え、公式グループの洋菓子・和菓子事業としてさかえ屋、亀屋万年堂も展開。商品ブランドと独立した店名を区別。",
+      "accent": "#A79C60",
+      "source": "https://www.chateraisegroup.jp/about/",
+      "checked": "2026-11-17",
       "events": []
     }
   ],
@@ -14664,6 +14854,616 @@
         "GRINDELBERG"
       ],
       "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "ステラおばさんのクッキー",
+      "group": "morinaga-confectionery",
+      "operator": "株式会社アントステラ（森永製菓グループ）",
+      "category": "専門店",
+      "aliases": [
+        "アントステラ",
+        "Aunt Stella"
+      ],
+      "source": "https://www.auntstella.co.jp/company/"
+    },
+    {
+      "name": "ヨックモック",
+      "group": "yokumoku-group",
+      "operator": "株式会社ヨックモック",
+      "category": "専門店",
+      "aliases": [
+        "YOKU MOKU"
+      ],
+      "source": "https://yokumoku.co.jp/pages/company-business"
+    },
+    {
+      "name": "UN GRAIN",
+      "group": "yokumoku-group",
+      "operator": "株式会社ヨックモック",
+      "category": "専門店",
+      "aliases": [
+        "アン グラン",
+        "アングラン"
+      ],
+      "source": "https://yokumoku.co.jp/pages/company-business"
+    },
+    {
+      "name": "アンリ・シャルパンティエ",
+      "group": "suzette-sweets",
+      "operator": "株式会社シュゼット（シュゼットグループ）",
+      "category": "専門店",
+      "aliases": [
+        "HENRI CHARPENTIER",
+        "アンリシャルパンティエ"
+      ],
+      "source": "https://www.suzette.co.jp/brand/"
+    },
+    {
+      "name": "C³（シーキューブ）",
+      "group": "suzette-sweets",
+      "operator": "株式会社シュゼット（シュゼットグループ）",
+      "category": "専門店",
+      "aliases": [
+        "シーキューブ",
+        "C3",
+        "C³"
+      ],
+      "source": "https://www.suzette.co.jp/brand/"
+    },
+    {
+      "name": "カサネオ",
+      "group": "suzette-sweets",
+      "operator": "株式会社シュゼット（シュゼットグループ）",
+      "category": "専門店",
+      "aliases": [
+        "CASANEO"
+      ],
+      "source": "https://www.suzette.co.jp/brand/"
+    },
+    {
+      "name": "バックハウスイリエ",
+      "group": "suzette-sweets",
+      "operator": "有限会社バックハウスイリエ（シュゼットグループ）",
+      "category": "飲食",
+      "aliases": [
+        "back haus IRIE",
+        "バックハウス イリエ"
+      ],
+      "source": "https://www.suzette.co.jp/brand/"
+    },
+    {
+      "name": "シュガーバターの木",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "SUGAR BUTTER TREE"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "ねんりん家",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "NENRINYA"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "鎌倉五郎本店",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "鎌倉五郎"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "東京ばな奈ワールド",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "東京ばな奈",
+        "東京バナナ"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "銀のぶどう",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "GIN NO BUDO"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "KAMAKURA 茶の福",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "鎌倉茶の福"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "バターステイツ",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "BUTTER STATES"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "TOKYOチューリップローズ",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "チューリップローズ"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "喫茶店に恋して。",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "喫茶店に恋して"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "ベリールビーカット",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "VERY RUBY CUT"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "銀座 ぶどうの木",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "飲食",
+      "aliases": [
+        "銀座ぶどうの木"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "クレソンリバーサイドストーリー旧軽井沢",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "飲食",
+      "aliases": [
+        "クレソンリバーサイドストーリー"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "キャプテンスイーツバーガー",
+      "group": "grapestone-sweets",
+      "operator": "株式会社グレープストーン（関連会社による店舗運営を含む）",
+      "category": "専門店",
+      "aliases": [
+        "CAPTAIN SWEETS BURGER"
+      ],
+      "source": "https://www.grapestone.co.jp/company/business.html"
+    },
+    {
+      "name": "東京ミルクチーズ工場",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "TOKYO MILK CHEESE FACTORY"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "ザ・メープルマニア",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "THE MAPLE MANIA"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "フランセ",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "FRANCAIS"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "バターバトラー",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "Butter Butler"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "築地ちとせ",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "コートクール",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "cote cour"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "ミルフィユ メゾン フランセ",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "ミルフィユメゾンフランセ"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "ザ・テイラー",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "THE TAILOR"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "ネコシェフ",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "NEKO CHEF"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "キャラメルゴーストハウス",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "CARAMEL GHOST HOUSE"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "ココリス",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "COCORIS"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "アイボリッシュ",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "Ivorish"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "GENDY",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "ジェンディ"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "レモンショップ by FRANCAIS",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "レモンショップ"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "ドローリー",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "DROOLY"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "フィオラッテ",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社シュクレイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "FIOLATTE"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "小樽洋菓子舗ルタオ",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社ケイシイシイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "ルタオ",
+        "LeTAO"
+      ],
+      "source": "https://www.kotobukispirits.co.jp/ja/ir/news/auto_20260529555015/pdfFile.pdf"
+    },
+    {
+      "name": "ナウオンチーズ",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社ケイシイシイ（寿スピリッツグループ）",
+      "category": "専門店",
+      "aliases": [
+        "Now on Cheese"
+      ],
+      "source": "https://www.kotobukispirits.co.jp/ja/ir/news/auto_20260529555015/pdfFile.pdf"
+    },
+    {
+      "name": "九十九島せんぺい",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社九十九島グループ（寿スピリッツ傘下）",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "タンテ・アニー",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社九十九島グループ（寿スピリッツ傘下）",
+      "category": "専門店",
+      "aliases": [
+        "Tante Annie"
+      ],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "赤い風船",
+      "group": "kotobuki-sweets",
+      "operator": "株式会社九十九島グループ（寿スピリッツ傘下）",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://sucreyshopping.jp/brandlist"
+    },
+    {
+      "name": "グラマシーニューヨーク",
+      "group": "plaisir-sweets",
+      "operator": "株式会社プレジィール",
+      "category": "専門店",
+      "aliases": [
+        "GRAMERCY NEWYORK",
+        "GRAMERCY NEW YORK"
+      ],
+      "source": "https://plaisir-recruit.net/jobfind-pc/"
+    },
+    {
+      "name": "ファウンドリー",
+      "group": "plaisir-sweets",
+      "operator": "株式会社プレジィール",
+      "category": "専門店",
+      "aliases": [
+        "FOUNDRY"
+      ],
+      "source": "https://plaisir-recruit.net/jobfind-pc/"
+    },
+    {
+      "name": "オードリー",
+      "group": "plaisir-sweets",
+      "operator": "株式会社プレジィール",
+      "category": "専門店",
+      "aliases": [
+        "AUDREY"
+      ],
+      "source": "https://plaisir-recruit.net/jobfind-pc/"
+    },
+    {
+      "name": "タルティン",
+      "group": "plaisir-sweets",
+      "operator": "株式会社プレジィール",
+      "category": "専門店",
+      "aliases": [
+        "Tartine"
+      ],
+      "source": "https://plaisir-recruit.net/jobfind-pc/"
+    },
+    {
+      "name": "薫るバター Sabrina",
+      "group": "plaisir-sweets",
+      "operator": "株式会社プレジィール",
+      "category": "専門店",
+      "aliases": [
+        "サブリナ",
+        "Sabrina"
+      ],
+      "source": "https://plaisir-recruit.net/jobfind-pc/"
+    },
+    {
+      "name": "モロゾフ",
+      "group": "morozoff-sweets",
+      "operator": "モロゾフ株式会社",
+      "category": "専門店",
+      "aliases": [
+        "Morozoff"
+      ],
+      "source": "https://www.morozoff.co.jp/brand/"
+    },
+    {
+      "name": "カフェモロゾフ",
+      "group": "morozoff-sweets",
+      "operator": "モロゾフ株式会社",
+      "category": "飲食",
+      "aliases": [
+        "Cafe Morozoff"
+      ],
+      "source": "https://www.morozoff.co.jp/brand/"
+    },
+    {
+      "name": "モロゾフ エクラ",
+      "group": "morozoff-sweets",
+      "operator": "モロゾフ株式会社",
+      "category": "専門店",
+      "aliases": [
+        "モロゾフエクラ"
+      ],
+      "source": "https://www.morozoff.co.jp/brand/"
+    },
+    {
+      "name": "窯だしチーズケーキ",
+      "group": "morozoff-sweets",
+      "operator": "モロゾフ株式会社",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://www.morozoff.co.jp/brand/"
+    },
+    {
+      "name": "窯だしクッキー＆パイ",
+      "group": "morozoff-sweets",
+      "operator": "モロゾフ株式会社",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://www.morozoff.co.jp/brand/"
+    },
+    {
+      "name": "ゴンチャロフ",
+      "group": "goncharoff-sweets",
+      "operator": "ゴンチャロフ製菓株式会社",
+      "category": "専門店",
+      "aliases": [
+        "Goncharoff"
+      ],
+      "source": "https://www.goncharoff.co.jp/company/profile/index.html"
+    },
+    {
+      "name": "BAUM u. BAUM",
+      "group": "goncharoff-sweets",
+      "operator": "株式会社BAUM u. BAUM（ゴンチャロフ関連会社）",
+      "category": "専門店",
+      "aliases": [
+        "バウムウントバウム"
+      ],
+      "source": "https://www.goncharoff.co.jp/company/history/index.html"
+    },
+    {
+      "name": "ユーハイム",
+      "group": "juchheim-sweets",
+      "operator": "株式会社ユーハイム",
+      "category": "専門店",
+      "aliases": [
+        "JUCHHEIM"
+      ],
+      "source": "https://www.juchheim.co.jp/info"
+    },
+    {
+      "name": "ローゼンハイム",
+      "group": "juchheim-sweets",
+      "operator": "株式会社ローゼンハイム（ユーハイム子会社、主にスーパー等の取扱売場）",
+      "category": "専門店",
+      "aliases": [
+        "ROSENHEIM"
+      ],
+      "source": "https://www.juchheim.co.jp/brand/rosenheim"
+    },
+    {
+      "name": "銀座ウエスト",
+      "group": "ginza-west",
+      "operator": "株式会社洋菓子舗ウエスト",
+      "category": "専門店",
+      "aliases": [
+        "銀座WEST",
+        "WEST"
+      ],
+      "source": "https://www.ginza-west.com/hpgen/HPB/entries/16.html"
+    },
+    {
+      "name": "ガトーフェスタ ハラダ",
+      "group": "gateau-festa-harada",
+      "operator": "株式会社原田",
+      "category": "専門店",
+      "aliases": [
+        "GATEAU FESTA HARADA",
+        "ガトーフェスタハラダ"
+      ],
+      "source": "https://www.gateaufesta-harada.com/corporate/overview"
+    },
+    {
+      "name": "シャトレーゼ",
+      "group": "chateraise-sweets",
+      "operator": "株式会社シャトレーゼ（シャトレーゼグループ）",
+      "category": "専門店",
+      "aliases": [
+        "Chateraise"
+      ],
+      "source": "https://www.chateraisegroup.jp/about/"
+    },
+    {
+      "name": "YATSUDOKI",
+      "group": "chateraise-sweets",
+      "operator": "株式会社シャトレーゼ（シャトレーゼグループ）",
+      "category": "専門店",
+      "aliases": [
+        "ヤツドキ"
+      ],
+      "source": "https://www.chateraisegroup.jp/about/"
+    },
+    {
+      "name": "さかえ屋",
+      "group": "chateraise-sweets",
+      "operator": "株式会社さかえ屋（シャトレーゼグループ）",
+      "category": "専門店",
+      "aliases": [
+        "SAKAEYA"
+      ],
+      "source": "https://www.chateraisegroup.jp/about/"
+    },
+    {
+      "name": "亀屋万年堂",
+      "group": "chateraise-sweets",
+      "operator": "株式会社亀屋万年堂（シャトレーゼグループ）",
+      "category": "専門店",
+      "aliases": [],
+      "source": "https://www.chateraisegroup.jp/about/"
     }
   ]
 }
