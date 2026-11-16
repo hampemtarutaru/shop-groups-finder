@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-16現在、160グループ・1041ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-17現在、172グループ・1102ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -1039,3 +1039,28 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://dandelionchocolate.jp/pages/company
 - https://quon-choco.com/aboutus/
 - https://www.colowide.co.jp/inquiry/brand_list.html
+
+## 出典・更新メモ（2026-11-17 焼き菓子・洋菓子専門店）
+
+ステラおばさんのクッキー／森永製菓の系列から調査を拡大し、12グループ・61ブランドを追加。ヨックモック＋UN GRAIN、シュゼット（アンリ・シャルパンティエ／シーキューブ／カサネオ／バックハウスイリエ）、グレープストーン（東京ばな奈／ねんりん家／シュガーバターの木ほか）、寿スピリッツ（シュクレイ、ケイシイシイ、九十九島グループ）、プレジィール（オードリー、グラマシーニューヨーク、タルティンほか）、モロゾフ、ゴンチャロフ、ユーハイム、銀座ウエスト、ガトーフェスタ ハラダ、シャトレーゼ等を登録。メーカー菓子の商品名「マリー」「シガール」「グーテ・デ・ロワ」は店舗ブランドとは扱わず、テナント売場・食品小売店の取扱コーナーと直営店の区別を記述。ヨックモックの旧「アンリ・ルルー」は2019年事業売却済みのため今回の現行系列には含めない。「メリー（メリーチョコレート）」は前日のロッテ系列登録と重複するため追加不要。
+
+- https://www.morinaga.co.jp/company/about/group.html
+- https://www.auntstella.co.jp/company/
+- https://yokumoku.co.jp/pages/company-business
+- https://yokumoku.co.jp/pages/company-group
+- https://www.suzette.co.jp/brand/
+- https://www.suzette.co.jp/company/
+- https://www.grapestone.co.jp/company/business.html
+- https://www.paqtomog.com/shop/default.aspx
+- https://www.kotobukispirits.co.jp/ja/about/group.html
+- https://www.kotobukispirits.co.jp/ja/about/brands.html
+- https://sucreyshopping.jp/brandlist
+- https://plaisir-recruit.net/jobfind-pc/
+- https://www.morozoff.co.jp/company_ir/profile_index.html
+- https://www.morozoff.co.jp/brand/
+- https://www.goncharoff.co.jp/company/profile/index.html
+- https://www.juchheim.co.jp/info
+- https://www.juchheim.co.jp/brand/rosenheim
+- https://www.ginza-west.com/hpgen/HPB/entries/16.html
+- https://www.gateaufesta-harada.com/corporate/overview
+- https://www.chateraisegroup.jp/about/
