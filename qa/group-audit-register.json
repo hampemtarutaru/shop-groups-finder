@@ -1,0 +1,1522 @@
+{
+  "schema_version": 1,
+  "site": "この店どこの系列？",
+  "source_repo": "hampemtarutaru/shop-groups-finder",
+  "source_file": "public/data.json",
+  "created_at": "2026-11-16",
+  "baseline": {
+    "groups": 143,
+    "brands": 1002,
+    "as_of": "2026-11-16"
+  },
+  "policy": {
+    "cycle": "6か月で全件巡回",
+    "status_values": [
+      "未着手",
+      "変更なし",
+      "修正済",
+      "調査中"
+    ],
+    "full_check_requires": "当該グループの資本・運営会社・全所属ブランドの現役状況・出典・URLの照合",
+    "quarterly_news_check": "直近3か月の再編・買収・ブランド改廃を全グループ横断",
+    "no_unsupported_approval": true
+  },
+  "first_cycle": {
+    "start": "2026-12-01",
+    "end": "2027-05-31",
+    "monthly_starts": [
+      "2026-12-09",
+      "2027-01-13",
+      "2027-02-10",
+      "2027-03-10",
+      "2027-04-14",
+      "2027-05-12"
+    ],
+    "quarterly_starts": [
+      "2027-02-16",
+      "2027-05-18"
+    ],
+    "buckets": [
+      {
+        "month": 1,
+        "start": "2026-12-09",
+        "group_count": 24,
+        "planned_brand_count": 168,
+        "group_ids": [
+          "aeon",
+          "anrakutei",
+          "bodywork-raffine",
+          "ganja",
+          "h2o-retailing",
+          "hiday",
+          "inoue-sweets-paradise",
+          "jincle",
+          "kohnan",
+          "komeda-hd",
+          "kourakuen",
+          "monteroza",
+          "nitori-shimachu",
+          "odakyu-dept",
+          "ok-supermarket",
+          "royal-hc",
+          "sakigake",
+          "secoma",
+          "sevenandi",
+          "takashimaya",
+          "tsukuba-tsubaki",
+          "unisia",
+          "yudetaro-system",
+          "zensho"
+        ]
+      },
+      {
+        "month": 2,
+        "start": "2027-01-13",
+        "group_count": 24,
+        "planned_brand_count": 167,
+        "group_ids": [
+          "albis-pending",
+          "bronco-billy",
+          "chikaranomoto",
+          "chimney-yamaya",
+          "choushimaru",
+          "create-restaurants",
+          "global-sports-temomin",
+          "globeat",
+          "gongcha-global",
+          "itochu",
+          "joyful-ak",
+          "kura",
+          "ohsho-food-service",
+          "pepper-food-service",
+          "ramen-shop-network",
+          "royal",
+          "sekichu",
+          "shinetsu-food",
+          "skylark",
+          "sugi-holdings",
+          "tobu-dept",
+          "usmh",
+          "yakiniku-sakai",
+          "york"
+        ]
+      },
+      {
+        "month": 3,
+        "start": "2027-02-10",
+        "group_count": 24,
+        "planned_brand_count": 167,
+        "group_ids": [
+          "ap-holdings",
+          "arclands",
+          "beisia-family",
+          "br31",
+          "dcm-holdings",
+          "doutornichires",
+          "gift-holdings",
+          "humpty-dumpty",
+          "isetan-mitsukoshi",
+          "itoen",
+          "kintetsu-dept",
+          "kurumaya-ramen",
+          "mami-mart-hd",
+          "medirom-reraku",
+          "mos",
+          "phads",
+          "ramenshop-asaka",
+          "ramenshop-inpex",
+          "sazaby-league",
+          "sogo-seibu",
+          "starbucks",
+          "tokyu-dept",
+          "watami",
+          "yamazakipan"
+        ]
+      },
+      {
+        "month": 4,
+        "start": "2027-03-10",
+        "group_count": 24,
+        "planned_brand_count": 167,
+        "group_ids": [
+          "bluezones",
+          "burgerking-japan",
+          "colowide",
+          "daisyo",
+          "duskin",
+          "ecos",
+          "factory-japan-karada",
+          "five-group-pancho",
+          "ichiran",
+          "joyful-honda",
+          "kisoji",
+          "kobebussan",
+          "life-corp",
+          "mansyu",
+          "matsukiyococokara",
+          "matsuya-dept",
+          "matsuyafoods",
+          "oishes",
+          "ppih",
+          "rirakuru",
+          "takakuramachi",
+          "trial",
+          "tsubohachi",
+          "yoronotaki"
+        ]
+      },
+      {
+        "month": 5,
+        "start": "2027-04-14",
+        "group_count": 24,
+        "planned_brand_count": 167,
+        "group_ids": [
+          "belc",
+          "daikokuten",
+          "eat-and",
+          "foodlife",
+          "foods-japan",
+          "greenhouse",
+          "hungry-tiger-yokohama",
+          "jm-holdings",
+          "keio-dept",
+          "komeri",
+          "lawson",
+          "maruchiyo",
+          "marui-group",
+          "monogatari",
+          "oic",
+          "oizumi-foods",
+          "orenoco",
+          "ringerhut",
+          "saintmarc-hd",
+          "saizeriya",
+          "srs",
+          "sugakico",
+          "tonden",
+          "wendys-firstkitchen"
+        ]
+      },
+      {
+        "month": 6,
+        "start": "2027-05-12",
+        "group_count": 23,
+        "planned_brand_count": 166,
+        "group_ids": [
+          "arcs",
+          "bashamichi",
+          "eternal-hospitality",
+          "fujiyakuhin",
+          "greenagent-mavericks",
+          "hot-palette-pepper-lunch",
+          "j-front",
+          "kfc-japan",
+          "mcdonalds-japan",
+          "nafco",
+          "nihonichi",
+          "ozam",
+          "rogers",
+          "sawayaka-shizuoka",
+          "summit-sumitomo",
+          "trs-holdings-toraji",
+          "try-international",
+          "tsuruha-welcia",
+          "umenohana",
+          "valor-hd",
+          "yamadafoods",
+          "yoshinoya",
+          "yossix"
+        ]
+      }
+    ]
+  },
+  "group_progress": [
+    {
+      "group_id": "aeon",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "albis-pending",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "anrakutei",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ap-holdings",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "arclands",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "arcs",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "bashamichi",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "beisia-family",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "belc",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "bluezones",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "bodywork-raffine",
+      "initial_source_checked": "2026-11-11",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "br31",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "bronco-billy",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "burgerking-japan",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "chikaranomoto",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "chimney-yamaya",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "choushimaru",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "colowide",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "create-restaurants",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "daikokuten",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "daisyo",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "dcm-holdings",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "doutornichires",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "duskin",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "eat-and",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ecos",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "eternal-hospitality",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "factory-japan-karada",
+      "initial_source_checked": "2026-11-11",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "five-group-pancho",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "foodlife",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "foods-japan",
+      "initial_source_checked": "2026-11-11",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "fujiyakuhin",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ganja",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "gift-holdings",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "global-sports-temomin",
+      "initial_source_checked": "2026-11-11",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "globeat",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "gongcha-global",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "greenagent-mavericks",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "greenhouse",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "h2o-retailing",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "hiday",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "hot-palette-pepper-lunch",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "humpty-dumpty",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "hungry-tiger-yokohama",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ichiran",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "inoue-sweets-paradise",
+      "initial_source_checked": "2026-11-11",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "isetan-mitsukoshi",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "itochu",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "itoen",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "j-front",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "jincle",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "jm-holdings",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "joyful-ak",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "joyful-honda",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "keio-dept",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "kfc-japan",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "kintetsu-dept",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "kisoji",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "kobebussan",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "kohnan",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "komeda-hd",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "komeri",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "kourakuen",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "kura",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "kurumaya-ramen",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "lawson",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "life-corp",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "mami-mart-hd",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "mansyu",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "maruchiyo",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "marui-group",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "matsukiyococokara",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "matsuya-dept",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "matsuyafoods",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "mcdonalds-japan",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "medirom-reraku",
+      "initial_source_checked": "2026-11-11",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "monogatari",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "monteroza",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "mos",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "nafco",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "nihonichi",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "nitori-shimachu",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "odakyu-dept",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ohsho-food-service",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "oic",
+      "initial_source_checked": "2026-11-10",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "oishes",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "oizumi-foods",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ok-supermarket",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "orenoco",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ozam",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "pepper-food-service",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "phads",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ppih",
+      "initial_source_checked": "2026-11-01",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ramen-shop-network",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ramenshop-asaka",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ramenshop-inpex",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ringerhut",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "rirakuru",
+      "initial_source_checked": "2026-11-11",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "rogers",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "royal",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "royal-hc",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "saintmarc-hd",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "saizeriya",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sakigake",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sawayaka-shizuoka",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sazaby-league",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "secoma",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sekichu",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sevenandi",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "shinetsu-food",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "skylark",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sogo-seibu",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "srs",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "starbucks",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sugakico",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sugi-holdings",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "summit-sumitomo",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "takakuramachi",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "takashimaya",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "tobu-dept",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "tokyu-dept",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "tonden",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "trial",
+      "initial_source_checked": "2026-11-01",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "trs-holdings-toraji",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "try-international",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "tsubohachi",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "tsukuba-tsubaki",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "tsuruha-welcia",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "umenohana",
+      "initial_source_checked": "2026-11-08",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "unisia",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "usmh",
+      "initial_source_checked": "2026-11-07",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "valor-hd",
+      "initial_source_checked": "2026-11-12",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "watami",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "wendys-firstkitchen",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "yakiniku-sakai",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "yamadafoods",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "yamazakipan",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "york",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "yoronotaki",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "yoshinoya",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "yossix",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "yudetaro-system",
+      "initial_source_checked": "2026-11-05",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "zensho",
+      "initial_source_checked": "2026-11-06",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    }
+  ]
+}
