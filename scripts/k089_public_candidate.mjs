@@ -42,7 +42,7 @@ export function adaptForPublicationCandidate(html){
   const mascot="<div class=\"mascot-k093-note\"><img src=\"../assets/pugmimina.webp\" width=\"128\" height=\"128\" alt=\"パグミミーナ\" loading=\"lazy\" decoding=\"async\"><span>店名から、企業とブランドのつながりを見てみよう。</span></div>";
   const mascotCss="\n/* K-093: mascot appears only in the introductory area */\n.mascot-k093-note{display:flex;align-items:center;gap:9px;max-width:460px;padding:6px 12px 6px 4px;margin:8px 0 20px;background:#fff9f4;border:1px solid #eaded9;border-radius:14px;color:#50665d;font-size:.83rem;line-height:1.55}\n.mascot-k093-note img{display:block;width:54px;height:54px;object-fit:contain;flex:none}\n@media(max-width:680px){.mascot-k093-note{font-size:.78rem;max-width:100%}.mascot-k093-note img{width:46px;height:46px}}\n\n";
   if(html.split(lead).length!==2 || html.split("</style>").length!==2) throw Error('Unexpected K-093 page structure');
-  html=html.replace(lead,lead+"\\n"+mascot).replace("</style>",mascotCss+"</style>");
+  html=html.replace(lead,lead+"\n"+mascot).replace("</style>",mascotCss+"</style>");
   return html;
 }
 export function generateCandidate(db,id){
