@@ -26,3 +26,9 @@
 /* K-089: in-depth operator pages for two piloted groups only. */
 .group-hierarchy-link{display:inline-flex;align-items:center;min-height:44px;margin-top:13px;padding:8px 12px;border-radius:9px;background:#eaf2e8;border:1px solid #c9ddd1;color:#245e4e;font-weight:700;font-size:13px;text-decoration:none}
 .group-hierarchy-link:hover{background:#dceadc}
+
+
+/* K-093: unobtrusive mascot; normal document flow, no overlays */
+.site-mascot-k093{display:flex;align-items:center;justify-content:center;gap:9px;max-width:420px;width:fit-content;margin:18px auto 0;padding:5px 19px 5px 6px;background:#fff9f4;border:1px solid #eaded9;border-radius:999px;color:#52665c;text-align:left;font-size:12px;font-weight:650;line-height:1.6}
+.site-mascot-k093 img{display:block;width:74px;height:74px;object-fit:contain;flex:none}
+@media(max-width:650px){.site-mascot-k093{margin-top:15px;max-width:100%;gap:7px;padding:4px 14px 4px 4px;font-size:11px}.site-mascot-k093 img{width:62px;height:62px}}
