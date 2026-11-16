@@ -142,10 +142,10 @@
       "id": "colowide",
       "name": "コロワイドグループ",
       "company": "株式会社コロワイド",
-      "summary": "大戸屋・牛角・かっぱ寿司・ステーキ宮などを幅広く展開。カフェブランドもグループ傘下。",
+      "summary": "大戸屋・牛角・かっぱ寿司・ステーキ宮などを幅広く展開。カフェブランドもグループ傘下。 菓子・チョコレート事業は株式会社N Baton Companyを通じ、シルスマリア、クリオロ、チーズガーデン、グリンデルベルグなども展開。",
       "accent": "#B35457",
-      "source": "https://www.colowide.co.jp/corpo/group.html",
-      "checked": "2026-11-05",
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html",
+      "checked": "2026-11-16",
       "events": []
     },
     {
@@ -3247,6 +3247,214 @@
           "text": "9月7日、ジョンマスターホールディングスの全株式をMCCマネジメントが取得。"
         }
       ]
+    },
+    {
+      "id": "orchid-chocolate",
+      "name": "オーキッド（GODIVA・ピエール マルコリーニ）",
+      "company": "オーキッド株式会社",
+      "summary": "日本のGODIVA事業を担うゴディバ ジャパンの親会社。2023年4月にPIERRE MARCOLINI GROUPの全株式も取得。GODIVAが直接マルコリーニを買収したわけではなく、共通の持株会社の傘下。日本国内事業の関係として掲載。",
+      "accent": "#76518A",
+      "source": "https://orchidinc.com/company/profile/",
+      "checked": "2026-11-16",
+      "events": [
+        {
+          "year": "2019",
+          "text": "VM2 Holdingsとして設立し、日本などのGODIVA事業を取得。"
+        },
+        {
+          "year": "2023",
+          "text": "PIERRE MARCOLINI GROUP全株式を取得し、オーキッドに社名変更。"
+        }
+      ]
+    },
+    {
+      "id": "lindt",
+      "name": "リンツ＆シュプルングリー",
+      "company": "リンツ＆シュプルングリージャパン株式会社／Chocoladefabriken Lindt & Sprüngli AG",
+      "summary": "スイスのチョコレート企業グループ。日本のリンツ店舗はリンツ＆シュプルングリージャパンが展開。日本法人はスイス本社グループに属する。",
+      "accent": "#9F7C48",
+      "source": "https://www.lindt.jp/f/company",
+      "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "andersen-group",
+      "name": "アンデルセングループ（ジャン＝ポール・エヴァン）",
+      "company": "株式会社アンデルセン・パン生活文化研究所／株式会社アンデルセン",
+      "summary": "パンのアンデルセンを展開する企業グループ。ショコラ専門店の日本運営会社JEAN-PAUL HÉVIN JAPONはアンデルセンの子会社。フランス本国ブランド自体の所有権とは区別。",
+      "accent": "#8A7461",
+      "source": "https://www.andersen-group.jp/company/23/",
+      "checked": "2026-11-16",
+      "events": [
+        {
+          "year": "2002",
+          "text": "ジャン＝ポール・エヴァンが日本に初出店。アンデルセングループがパートナー。"
+        }
+      ]
+    },
+    {
+      "id": "maison-du-chocolat-jp",
+      "name": "ラ・メゾン・デュ・ショコラ（日本事業）",
+      "company": "ラ・メゾン・デュ・ショコラ・ジャポン株式会社",
+      "summary": "フランス発のショコラ専門店。日本での輸入・発売元／販売法人を登録。未確認の資本親会社は推定しない。",
+      "accent": "#745F61",
+      "source": "https://www.lamaisonduchocolat.com/ja_jp/gts",
+      "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "venchi-japan",
+      "name": "ヴェンキ（日本事業）",
+      "company": "ヴェンキ・ジャパン株式会社",
+      "summary": "イタリア発のチョコレート・ジェラート専門店。日本法人の株主にはVenchi Asia Pacific Limitedと三井物産が記載されている。三井物産の持分比率は断定しない。",
+      "accent": "#96714C",
+      "source": "https://venchi.co.jp/company/",
+      "checked": "2026-11-16",
+      "events": [
+        {
+          "year": "2019",
+          "text": "ヴェンキ・ジャパン株式会社を設立。"
+        }
+      ]
+    },
+    {
+      "id": "cacao-sampaka-jp",
+      "name": "カカオサンパカ（日本事業）",
+      "company": "CSJ株式会社",
+      "summary": "スペイン発チョコレートブランドの国内店舗を運営するCSJ株式会社。丸の内・大阪梅田・神戸などの店舗を公式サイトで確認。",
+      "accent": "#7F5C51",
+      "source": "https://cacaosampaka.jp/",
+      "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "delrey-japan",
+      "name": "デルレイ（日本事業）",
+      "company": "デルレイ・ジャパン株式会社",
+      "summary": "ベルギー・アントワープ発のショコラブランド。日本の輸入販売・カフェ事業はデルレイ・ジャパン株式会社。",
+      "accent": "#8B5C7B",
+      "source": "https://delrey.co.jp/pages/aboutus",
+      "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "jworks-chocolate",
+      "name": "ジェイ・ワークス（ベルアメールほか）",
+      "company": "ジェイ・ワークス株式会社",
+      "summary": "ベルアメール、ベルアメール京都別邸、セバスチャン・ブイエ、ラ・メゾン白金、ボノワール京都、西鎌倉レ・シューを展開。ショコラだけでなく洋菓子専門店も含む。",
+      "accent": "#B5776F",
+      "source": "https://www.j-works-net.co.jp/brand/",
+      "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "palet-dor",
+      "name": "ショコラティエ パレドオール",
+      "company": "株式会社オヴァールリエゾン",
+      "summary": "三枝俊介シェフが創設した日本のショコラ専門店。国内の店舗事業を株式会社オヴァールリエゾンが運営。",
+      "accent": "#B68B48",
+      "source": "https://palet-dor.com/company/",
+      "checked": "2026-11-16",
+      "events": [
+        {
+          "year": "2004",
+          "text": "ショコラティエ パレドオールを創設。"
+        }
+      ]
+    },
+    {
+      "id": "edelweiss-confectionery",
+      "name": "エーデルワイス（ヴィタメール・アンテノールほか）",
+      "company": "株式会社エーデルワイス",
+      "summary": "日本国内でヴィタメール、アンテノール、ル ビアン、ノワ・ドゥ・ブール、ビスキュイテリエ ブルトンヌ、HIBIKAなどを展開。ヴィタメールはベルギー発ブランドの日本での提携・展開であり、海外本体を所有するとの意味ではない。",
+      "accent": "#A36A6E",
+      "source": "https://www.edelweiss.co.jp/brand/",
+      "checked": "2026-11-16",
+      "events": [
+        {
+          "year": "1989",
+          "text": "ベルギーのヴィタメール社と日本での業務提携を締結。"
+        },
+        {
+          "year": "1990",
+          "text": "ヴィタメール・ジャポン設立。"
+        }
+      ]
+    },
+    {
+      "id": "lotte-confectionery",
+      "name": "ロッテグループ（メリーチョコレート・コージーコーナー）",
+      "company": "株式会社ロッテホールディングス",
+      "summary": "ロッテの国内グループ会社にメリーチョコレートと銀座コージーコーナーが掲載。両者は別の事業会社が運営する姉妹ブランド。",
+      "accent": "#9C5473",
+      "source": "https://www.lotte.co.jp/corporate/about/outline/group_domestic.html",
+      "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "royce",
+      "name": "ロイズ",
+      "company": "株式会社ロイズコンフェクト",
+      "summary": "北海道発のチョコレートメーカー。北海道内に直営店舗を展開。全国の百貨店催事・土産売場をすべて直営店とは扱わない。",
+      "accent": "#506E8B",
+      "source": "https://www.royce.com/brand/contents/story/",
+      "checked": "2026-11-16",
+      "events": [
+        {
+          "year": "1983",
+          "text": "株式会社ロイズコンフェクト創立。"
+        }
+      ]
+    },
+    {
+      "id": "monloire",
+      "name": "モンロワール（ル ペパン・ベルプラージュ）",
+      "company": "株式会社モンロワール／株式会社ロワール",
+      "summary": "神戸のチョコレート店モンロワールに加え、ル ペパン、ベル プラージュを展開。モンロワールは主に小売、ロワールは製造・卸の役割。",
+      "accent": "#8B6D87",
+      "source": "https://www.monloire.co.jp/company/",
+      "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "leonidas-jp",
+      "name": "レオニダス（日本国内の正規取扱網）",
+      "company": "有限会社豊幸産業（日本正規輸入元・一部直営店舗）",
+      "summary": "ベルギー発チョコレートブランド。日本では正規輸入元の豊幸産業が一部直営店を運営する一方、他は独立事業者によるパートナーショップ。すべて豊幸産業の直営・子会社とは分類しない。",
+      "accent": "#8264A1",
+      "source": "https://www.leonidas-alex.jp/partner",
+      "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "vanillabeans",
+      "name": "バニラビーンズ",
+      "company": "チョコレートデザイン株式会社",
+      "summary": "横浜発のチョコレート専門ブランドVANILLABEANSを展開。実店舗はみなとみらい・川崎・横浜・東京など。",
+      "accent": "#7D5847",
+      "source": "https://www.vanillabeans.yokohama/view/page/company",
+      "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "dandelion-chocolate-jp",
+      "name": "ダンデライオン・チョコレート（日本事業）",
+      "company": "Dandelion Chocolate Japan株式会社",
+      "summary": "サンフランシスコ発Bean to Barチョコレート専門店。日本での製造・販売・カフェ事業はDandelion Chocolate Japan株式会社が運営。",
+      "accent": "#866D4C",
+      "source": "https://dandelionchocolate.jp/pages/company",
+      "checked": "2026-11-16",
+      "events": []
+    },
+    {
+      "id": "quon-chocolate",
+      "name": "久遠チョコレート（プロジェクト）",
+      "company": "久遠チョコレートプロジェクト（参加事業者・店舗ごと運営主体が異なる）",
+      "summary": "全国の事業者が参加するチョコレート製造販売ネットワーク。全国店舗を単一法人の直営店・100%子会社と誤認させない。個々の店舗運営会社は店舗別確認が必要。",
+      "accent": "#7E8060",
+      "source": "https://quon-choco.com/aboutus/",
+      "checked": "2026-11-16",
+      "events": []
     }
   ],
   "brands": [
@@ -14052,6 +14260,410 @@
         "ジョンマスター"
       ],
       "source": "https://johnmastersorganics.jp/blogs/online-store-news/news0824"
+    },
+    {
+      "name": "GODIVA",
+      "group": "orchid-chocolate",
+      "operator": "ゴディバ ジャパン株式会社",
+      "category": "専門店",
+      "aliases": [
+        "ゴディバ"
+      ],
+      "source": "https://www.godiva.co.jp/company/"
+    },
+    {
+      "name": "GODIVA café",
+      "group": "orchid-chocolate",
+      "operator": "ゴディバ ジャパン株式会社",
+      "category": "飲食",
+      "aliases": [
+        "ゴディバカフェ",
+        "GODIVA Cafe"
+      ],
+      "source": "https://www.godiva.co.jp/cafe/"
+    },
+    {
+      "name": "GODIVA Bakery ゴディパン",
+      "group": "orchid-chocolate",
+      "operator": "ゴディバ ジャパン株式会社",
+      "category": "飲食",
+      "aliases": [
+        "ゴディパン",
+        "GODIVA Bakery"
+      ],
+      "source": "https://www.godiva.co.jp/godipan/"
+    },
+    {
+      "name": "ピエール マルコリーニ",
+      "group": "orchid-chocolate",
+      "operator": "株式会社PIERRE MARCOLINI JAPAN（オーキッド傘下のグループ事業）",
+      "category": "専門店",
+      "aliases": [
+        "PIERRE MARCOLINI",
+        "ピエールマルコリーニ"
+      ],
+      "source": "https://orchidinc.com/company/profile/"
+    },
+    {
+      "name": "リンツ",
+      "group": "lindt",
+      "operator": "リンツ＆シュプルングリージャパン株式会社",
+      "category": "専門店",
+      "aliases": [
+        "Lindt",
+        "リンツ ショコラ ブティック"
+      ],
+      "source": "https://www.lindt.jp/f/company"
+    },
+    {
+      "name": "ジャン＝ポール・エヴァン",
+      "group": "andersen-group",
+      "operator": "株式会社JEAN-PAUL HÉVIN JAPON（株式会社アンデルセン子会社）",
+      "category": "専門店",
+      "aliases": [
+        "JEAN-PAUL HÉVIN",
+        "ジャンポールエヴァン"
+      ],
+      "source": "https://www.andersen-group.jp/company/27/"
+    },
+    {
+      "name": "アンデルセン",
+      "group": "andersen-group",
+      "operator": "株式会社アンデルセン",
+      "category": "飲食",
+      "aliases": [
+        "ANDERSEN"
+      ],
+      "source": "https://www.andersen-group.jp/company/23/"
+    },
+    {
+      "name": "デニッシュハート",
+      "group": "andersen-group",
+      "operator": "株式会社アンデルセン",
+      "category": "飲食",
+      "aliases": [
+        "DANISH HEART"
+      ],
+      "source": "https://www.andersen-group.jp/company/23/"
+    },
+    {
+      "name": "ラ・メゾン・デュ・ショコラ",
+      "group": "maison-du-chocolat-jp",
+      "operator": "ラ・メゾン・デュ・ショコラ・ジャポン株式会社",
+      "category": "専門店",
+      "aliases": [
+        "La Maison du Chocolat"
+      ],
+      "source": "https://www.lamaisonduchocolat.com/ja_jp/gts"
+    },
+    {
+      "name": "ヴェンキ",
+      "group": "venchi-japan",
+      "operator": "ヴェンキ・ジャパン株式会社",
+      "category": "専門店",
+      "aliases": [
+        "Venchi"
+      ],
+      "source": "https://venchi.co.jp/company/"
+    },
+    {
+      "name": "カカオサンパカ",
+      "group": "cacao-sampaka-jp",
+      "operator": "CSJ株式会社",
+      "category": "専門店",
+      "aliases": [
+        "CACAO SAMPAKA"
+      ],
+      "source": "https://cacaosampaka.jp/"
+    },
+    {
+      "name": "デルレイ",
+      "group": "delrey-japan",
+      "operator": "デルレイ・ジャパン株式会社",
+      "category": "専門店",
+      "aliases": [
+        "DelReY"
+      ],
+      "source": "https://delrey.co.jp/pages/aboutus"
+    },
+    {
+      "name": "ベルアメール",
+      "group": "jworks-chocolate",
+      "operator": "ジェイ・ワークス株式会社",
+      "category": "専門店",
+      "aliases": [
+        "BEL AMER"
+      ],
+      "source": "https://www.j-works-net.co.jp/brand/"
+    },
+    {
+      "name": "ベルアメール 京都別邸",
+      "group": "jworks-chocolate",
+      "operator": "ジェイ・ワークス株式会社",
+      "category": "専門店",
+      "aliases": [
+        "BEL AMER 京都別邸"
+      ],
+      "source": "https://www.j-works-net.co.jp/brand/"
+    },
+    {
+      "name": "セバスチャン・ブイエ",
+      "group": "jworks-chocolate",
+      "operator": "ジェイ・ワークス株式会社（日本展開）",
+      "category": "専門店",
+      "aliases": [
+        "Sébastien Bouillet",
+        "セバスチャンブイエ"
+      ],
+      "source": "https://www.j-works-net.co.jp/brand/"
+    },
+    {
+      "name": "ラ・メゾン白金",
+      "group": "jworks-chocolate",
+      "operator": "ジェイ・ワークス株式会社",
+      "category": "専門店",
+      "aliases": [
+        "La Maison SHIROKANE"
+      ],
+      "source": "https://www.j-works-net.co.jp/brand/"
+    },
+    {
+      "name": "ボノワール京都",
+      "group": "jworks-chocolate",
+      "operator": "ジェイ・ワークス株式会社",
+      "category": "専門店",
+      "aliases": [
+        "BONOIR KYOTO"
+      ],
+      "source": "https://www.j-works-net.co.jp/brand/"
+    },
+    {
+      "name": "西鎌倉 レ・シュー",
+      "group": "jworks-chocolate",
+      "operator": "ジェイ・ワークス株式会社",
+      "category": "専門店",
+      "aliases": [
+        "レ・シュー",
+        "西鎌倉レシュー"
+      ],
+      "source": "https://www.j-works-net.co.jp/brand/"
+    },
+    {
+      "name": "ショコラティエ パレドオール",
+      "group": "palet-dor",
+      "operator": "株式会社オヴァールリエゾン",
+      "category": "専門店",
+      "aliases": [
+        "CHOCOLATIER PALET D'OR",
+        "パレドオール"
+      ],
+      "source": "https://palet-dor.com/company/"
+    },
+    {
+      "name": "ヴィタメール",
+      "group": "edelweiss-confectionery",
+      "operator": "株式会社エーデルワイス／株式会社ヴィタメール・ジャポン（日本展開）",
+      "category": "専門店",
+      "aliases": [
+        "WITTAMER"
+      ],
+      "source": "https://www.edelweiss.co.jp/brand/"
+    },
+    {
+      "name": "アンテノール",
+      "group": "edelweiss-confectionery",
+      "operator": "株式会社エーデルワイス（国内展開）",
+      "category": "専門店",
+      "aliases": [
+        "ANTENOR"
+      ],
+      "source": "https://www.edelweiss.co.jp/brand/"
+    },
+    {
+      "name": "ル ビアン",
+      "group": "edelweiss-confectionery",
+      "operator": "株式会社エーデルワイス（日本展開）",
+      "category": "飲食",
+      "aliases": [
+        "LE BIHAN",
+        "ルビアン"
+      ],
+      "source": "https://www.edelweiss.co.jp/brand/"
+    },
+    {
+      "name": "ノワ・ドゥ・ブール",
+      "group": "edelweiss-confectionery",
+      "operator": "株式会社エーデルワイス",
+      "category": "専門店",
+      "aliases": [
+        "noix de beurre"
+      ],
+      "source": "https://www.edelweiss.co.jp/news/17874/"
+    },
+    {
+      "name": "ビスキュイテリエ ブルトンヌ",
+      "group": "edelweiss-confectionery",
+      "operator": "株式会社エーデルワイス",
+      "category": "専門店",
+      "aliases": [
+        "ビスキュイテリエブルトンヌ"
+      ],
+      "source": "https://www.edelweiss.co.jp/news/17874/"
+    },
+    {
+      "name": "HIBIKA",
+      "group": "edelweiss-confectionery",
+      "operator": "株式会社エーデルワイス",
+      "category": "専門店",
+      "aliases": [
+        "ひびか"
+      ],
+      "source": "https://www.edelweiss.co.jp/news/17874/"
+    },
+    {
+      "name": "メリーチョコレート",
+      "group": "lotte-confectionery",
+      "operator": "株式会社メリーチョコレートカムパニー（ロッテグループ）",
+      "category": "専門店",
+      "aliases": [
+        "Mary Chocolate",
+        "メリー"
+      ],
+      "source": "https://www.lotte.co.jp/corporate/about/outline/group_domestic.html"
+    },
+    {
+      "name": "銀座コージーコーナー",
+      "group": "lotte-confectionery",
+      "operator": "株式会社銀座コージーコーナー（ロッテグループ）",
+      "category": "専門店",
+      "aliases": [
+        "コージーコーナー"
+      ],
+      "source": "https://www.lotte.co.jp/corporate/about/outline/group_domestic.html"
+    },
+    {
+      "name": "ロイズ",
+      "group": "royce",
+      "operator": "株式会社ロイズコンフェクト",
+      "category": "専門店",
+      "aliases": [
+        "ROYCE'",
+        "ROYCE"
+      ],
+      "source": "https://www.royce.com/brand/contents/story/"
+    },
+    {
+      "name": "モンロワール",
+      "group": "monloire",
+      "operator": "株式会社モンロワール",
+      "category": "専門店",
+      "aliases": [
+        "Mon Loire"
+      ],
+      "source": "https://www.monloire.co.jp/company/"
+    },
+    {
+      "name": "ル ペパン",
+      "group": "monloire",
+      "operator": "株式会社モンロワール",
+      "category": "専門店",
+      "aliases": [
+        "le pépin",
+        "ルペパン"
+      ],
+      "source": "https://www.lepepin.jp/"
+    },
+    {
+      "name": "ベル プラージュ",
+      "group": "monloire",
+      "operator": "株式会社モンロワール／株式会社ロワール",
+      "category": "専門店",
+      "aliases": [
+        "belle plage",
+        "ベルプラージュ"
+      ],
+      "source": "https://en-gage.net/monloire_jobs/"
+    },
+    {
+      "name": "レオニダス",
+      "group": "leonidas-jp",
+      "operator": "有限会社豊幸産業（正規輸入元・一部直営。各パートナー店は別事業者）",
+      "category": "専門店",
+      "aliases": [
+        "Leonidas"
+      ],
+      "source": "https://www.leonidas-alex.jp/partner"
+    },
+    {
+      "name": "VANILLABEANS",
+      "group": "vanillabeans",
+      "operator": "チョコレートデザイン株式会社",
+      "category": "専門店",
+      "aliases": [
+        "バニラビーンズ"
+      ],
+      "source": "https://www.vanillabeans.yokohama/view/page/company"
+    },
+    {
+      "name": "ダンデライオン・チョコレート",
+      "group": "dandelion-chocolate-jp",
+      "operator": "Dandelion Chocolate Japan株式会社",
+      "category": "専門店",
+      "aliases": [
+        "Dandelion Chocolate"
+      ],
+      "source": "https://dandelionchocolate.jp/pages/company"
+    },
+    {
+      "name": "久遠チョコレート",
+      "group": "quon-chocolate",
+      "operator": "全国の参加店舗・拠点事業者（店舗ごとに異なる）",
+      "category": "専門店",
+      "aliases": [
+        "QUONチョコレート",
+        "QUON CHOCOLATE"
+      ],
+      "source": "https://quon-choco.com/aboutus/"
+    },
+    {
+      "name": "シルスマリア",
+      "group": "colowide",
+      "operator": "株式会社N Baton Company（コロワイドグループ）",
+      "category": "専門店",
+      "aliases": [
+        "SILS MARIA"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "クリオロ",
+      "group": "colowide",
+      "operator": "株式会社N Baton Company（コロワイドグループ）",
+      "category": "専門店",
+      "aliases": [
+        "CRIOLLO"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "チーズガーデン",
+      "group": "colowide",
+      "operator": "株式会社N Baton Company（コロワイドグループ）",
+      "category": "専門店",
+      "aliases": [
+        "CHEESE GARDEN"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
+    },
+    {
+      "name": "グリンデルベルグ",
+      "group": "colowide",
+      "operator": "株式会社N Baton Company（コロワイドグループ）",
+      "category": "専門店",
+      "aliases": [
+        "GRINDELBERG"
+      ],
+      "source": "https://www.colowide.co.jp/inquiry/brand_list.html"
     }
   ]
 }
