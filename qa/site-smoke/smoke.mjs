@@ -24,6 +24,25 @@ const run=async()=>{
   assert.ok((await page.locator('#count').textContent()).includes('ブランド'));
   assert.ok(await page.locator('.group-card').count() >= 3);
   assert.equal(await page.locator('.result-card').count(),0);
+  // K-093 mascot must be the real checked-in WebP and must not cover controls.
+  const mascot=page.locator('.site-mascot-k093 img');
+  assert.equal(await mascot.count(),1);
+  assert.equal(await mascot.getAttribute('alt'),'パグミミーナ');
+  assert.ok(await mascot.evaluate(img=>img.complete && img.naturalWidth>0),'mascot image did not load');
+  const searchRect=await page.locator('#search').boundingBox();
+  const mascotRect=await mascot.boundingBox();
+  assert.ok(mascotRect.y>=searchRect.y+searchRect.height,'mascot covers desktop search');
+  for(const slug of ['skylark','usmh']){
+    const gp=await ctx.newPage();
+    const gr=await gp.goto(base+'/groups/'+slug+'.html',{waitUntil:'networkidle'});
+    assert.equal(gr?.status(),200,slug);
+    assert.equal(await gp.locator('meta[name="robots"]').getAttribute('content'),'noindex,follow');
+    const pimg=gp.locator('.mascot-k093-note img');
+    assert.equal(await pimg.count(),1);
+    assert.ok(await pimg.evaluate(img=>img.complete && img.naturalWidth>0),slug+' mascot missing');
+    assert.ok((await gp.locator('.operator').count())>0,slug+' cards missing');
+    await gp.close();
+  }
   await page.screenshot({path:'qa-results/home-desktop.png',fullPage:false});
 
   await page.locator('#search').fill('なか卯');
@@ -74,6 +93,18 @@ const run=async()=>{
   assert.ok(await mob.locator('.group-card').count()>0);
   const dims=await mob.evaluate(()=>({scroll:document.documentElement.scrollWidth,client:document.documentElement.clientWidth}));
   assert.ok(dims.scroll<=dims.client+1,'Mobile page overflows viewport: '+JSON.stringify(dims));
+  const mobileMascot=mob.locator('.site-mascot-k093 img');
+  assert.equal(await mobileMascot.count(),1);
+  assert.ok(await mobileMascot.evaluate(img=>img.complete && img.naturalWidth>0));
+  const mobileSearch=await mob.locator('#search').boundingBox();
+  const mobileMascotRect=await mobileMascot.boundingBox();
+  assert.ok(mobileMascotRect.y>=mobileSearch.y+mobileSearch.height,'mascot covers mobile search');
+  const tinyCtx=await browser.newContext({viewport:{width:320,height:700},deviceScaleFactor:1,isMobile:true,hasTouch:true});
+  const tiny=await tinyCtx.newPage();
+  await tiny.goto(base+'/',{waitUntil:'networkidle'});
+  assert.ok(await tiny.evaluate(()=>document.documentElement.scrollWidth<=document.documentElement.clientWidth+1),'K-093 320px horizontal overflow');
+  assert.ok(await tiny.locator('.site-mascot-k093 img').evaluate(img=>img.complete && img.naturalWidth>0));
+  await tinyCtx.close();
   await mob.screenshot({path:'qa-results/home-mobile.png',fullPage:false});
   await mob.locator('#search').fill('ガスト');
   assert.ok(await mob.locator('.result-card').count()>0);
