@@ -5,9 +5,9 @@
   "source_file": "public/data.json",
   "created_at": "2026-11-16",
   "baseline": {
-    "groups": 143,
-    "brands": 1002,
-    "as_of": "2026-11-16"
+    "groups": 172,
+    "brands": 1102,
+    "as_of": "2026-11-17"
   },
   "policy": {
     "cycle": "6か月で全件巡回",
@@ -40,13 +40,16 @@
       {
         "month": 1,
         "start": "2026-12-09",
-        "group_count": 24,
-        "planned_brand_count": 168,
+        "group_count": 29,
+        "planned_brand_count": 182,
         "group_ids": [
           "aeon",
           "anrakutei",
           "bodywork-raffine",
+          "chateraise-sweets",
+          "dandelion-chocolate-jp",
           "ganja",
+          "gateau-festa-harada",
           "h2o-retailing",
           "hiday",
           "inoue-sweets-paradise",
@@ -54,7 +57,9 @@
           "kohnan",
           "komeda-hd",
           "kourakuen",
+          "monloire",
           "monteroza",
+          "morozoff-sweets",
           "nitori-shimachu",
           "odakyu-dept",
           "ok-supermarket",
@@ -72,8 +77,8 @@
       {
         "month": 2,
         "start": "2027-01-13",
-        "group_count": 24,
-        "planned_brand_count": 167,
+        "group_count": 29,
+        "planned_brand_count": 184,
         "group_ids": [
           "albis-pending",
           "bronco-billy",
@@ -81,13 +86,18 @@
           "chimney-yamaya",
           "choushimaru",
           "create-restaurants",
+          "delrey-japan",
+          "ginza-west",
           "global-sports-temomin",
           "globeat",
           "gongcha-global",
+          "grapestone-sweets",
           "itochu",
           "joyful-ak",
           "kura",
+          "maison-du-chocolat-jp",
           "ohsho-food-service",
+          "palet-dor",
           "pepper-food-service",
           "ramen-shop-network",
           "royal",
@@ -104,8 +114,8 @@
       {
         "month": 3,
         "start": "2027-02-10",
-        "group_count": 24,
-        "planned_brand_count": 167,
+        "group_count": 29,
+        "planned_brand_count": 182,
         "group_ids": [
           "ap-holdings",
           "arclands",
@@ -113,15 +123,20 @@
           "br31",
           "dcm-holdings",
           "doutornichires",
+          "edelweiss-confectionery",
           "gift-holdings",
+          "goncharoff-sweets",
           "humpty-dumpty",
           "isetan-mitsukoshi",
           "itoen",
           "kintetsu-dept",
           "kurumaya-ramen",
+          "leonidas-jp",
+          "lotte-confectionery",
           "mami-mart-hd",
           "medirom-reraku",
           "mos",
+          "orchid-chocolate",
           "phads",
           "ramenshop-asaka",
           "ramenshop-inpex",
@@ -136,9 +151,10 @@
       {
         "month": 4,
         "start": "2027-03-10",
-        "group_count": 24,
-        "planned_brand_count": 167,
+        "group_count": 29,
+        "planned_brand_count": 183,
         "group_ids": [
+          "andersen-group",
           "bluezones",
           "burgerking-japan",
           "colowide",
@@ -152,26 +168,31 @@
           "kisoji",
           "kobebussan",
           "life-corp",
+          "lindt",
           "mansyu",
           "matsukiyococokara",
           "matsuya-dept",
           "matsuyafoods",
+          "morinaga-confectionery",
           "oishes",
+          "plaisir-sweets",
           "ppih",
           "rirakuru",
           "takakuramachi",
           "trial",
           "tsubohachi",
+          "yokumoku-group",
           "yoronotaki"
         ]
       },
       {
         "month": 5,
         "start": "2027-04-14",
-        "group_count": 24,
-        "planned_brand_count": 167,
+        "group_count": 28,
+        "planned_brand_count": 180,
         "group_ids": [
           "belc",
+          "cacao-sampaka-jp",
           "daikokuten",
           "eat-and",
           "foodlife",
@@ -179,6 +200,8 @@
           "greenhouse",
           "hungry-tiger-yokohama",
           "jm-holdings",
+          "juchheim-sweets",
+          "jworks-chocolate",
           "keio-dept",
           "komeri",
           "lawson",
@@ -193,6 +216,7 @@
           "saizeriya",
           "srs",
           "sugakico",
+          "suzette-sweets",
           "tonden",
           "wendys-firstkitchen"
         ]
@@ -200,8 +224,8 @@
       {
         "month": 6,
         "start": "2027-05-12",
-        "group_count": 23,
-        "planned_brand_count": 166,
+        "group_count": 28,
+        "planned_brand_count": 191,
         "group_ids": [
           "arcs",
           "bashamichi",
@@ -211,11 +235,14 @@
           "hot-palette-pepper-lunch",
           "j-front",
           "kfc-japan",
+          "kotobuki-sweets",
           "mcdonalds-japan",
           "nafco",
           "nihonichi",
           "ozam",
+          "quon-chocolate",
           "rogers",
+          "royce",
           "sawayaka-shizuoka",
           "summit-sumitomo",
           "trs-holdings-toraji",
@@ -223,6 +250,8 @@
           "tsuruha-welcia",
           "umenohana",
           "valor-hd",
+          "vanillabeans",
+          "venchi-japan",
           "yamadafoods",
           "yoshinoya",
           "yossix"
@@ -244,6 +273,15 @@
       "group_id": "albis-pending",
       "initial_source_checked": "2026-11-07",
       "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "andersen-group",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 4,
       "full_audit_checked": null,
       "status": "未着手",
       "evidence": [],
@@ -358,6 +396,24 @@
       "notes": ""
     },
     {
+      "group_id": "cacao-sampaka-jp",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "chateraise-sweets",
+      "initial_source_checked": "2026-11-17",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "chikaranomoto",
       "initial_source_checked": "2026-11-05",
       "planned_month": 2,
@@ -421,9 +477,27 @@
       "notes": ""
     },
     {
+      "group_id": "dandelion-chocolate-jp",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "dcm-holdings",
       "initial_source_checked": "2026-11-12",
       "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "delrey-japan",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 2,
       "full_audit_checked": null,
       "status": "未着手",
       "evidence": [],
@@ -460,6 +534,15 @@
       "group_id": "ecos",
       "initial_source_checked": "2026-11-07",
       "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "edelweiss-confectionery",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 3,
       "full_audit_checked": null,
       "status": "未着手",
       "evidence": [],
@@ -529,9 +612,27 @@
       "notes": ""
     },
     {
+      "group_id": "gateau-festa-harada",
+      "initial_source_checked": "2026-11-17",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "gift-holdings",
       "initial_source_checked": "2026-11-06",
       "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ginza-west",
+      "initial_source_checked": "2026-11-17",
+      "planned_month": 2,
       "full_audit_checked": null,
       "status": "未着手",
       "evidence": [],
@@ -556,8 +657,26 @@
       "notes": ""
     },
     {
+      "group_id": "goncharoff-sweets",
+      "initial_source_checked": "2026-11-17",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "gongcha-global",
       "initial_source_checked": "2026-11-06",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "grapestone-sweets",
+      "initial_source_checked": "2026-11-17",
       "planned_month": 2,
       "full_audit_checked": null,
       "status": "未着手",
@@ -718,6 +837,24 @@
       "notes": ""
     },
     {
+      "group_id": "juchheim-sweets",
+      "initial_source_checked": "2026-11-17",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "jworks-chocolate",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "keio-dept",
       "initial_source_checked": "2026-11-08",
       "planned_month": 5,
@@ -790,6 +927,15 @@
       "notes": ""
     },
     {
+      "group_id": "kotobuki-sweets",
+      "initial_source_checked": "2026-11-17",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "kourakuen",
       "initial_source_checked": "2026-11-05",
       "planned_month": 1,
@@ -826,9 +972,45 @@
       "notes": ""
     },
     {
+      "group_id": "leonidas-jp",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "life-corp",
       "initial_source_checked": "2026-11-07",
       "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "lindt",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "lotte-confectionery",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "maison-du-chocolat-jp",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 2,
       "full_audit_checked": null,
       "status": "未着手",
       "evidence": [],
@@ -916,6 +1098,15 @@
       "notes": ""
     },
     {
+      "group_id": "monloire",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "monogatari",
       "initial_source_checked": "2026-11-05",
       "planned_month": 5,
@@ -927,6 +1118,24 @@
     {
       "group_id": "monteroza",
       "initial_source_checked": "2026-11-06",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "morinaga-confectionery",
+      "initial_source_checked": "2026-11-17",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "morozoff-sweets",
+      "initial_source_checked": "2026-11-17",
       "planned_month": 1,
       "full_audit_checked": null,
       "status": "未着手",
@@ -1024,6 +1233,15 @@
       "notes": ""
     },
     {
+      "group_id": "orchid-chocolate",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "orenoco",
       "initial_source_checked": "2026-11-08",
       "planned_month": 5,
@@ -1036,6 +1254,15 @@
       "group_id": "ozam",
       "initial_source_checked": "2026-11-07",
       "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "palet-dor",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 2,
       "full_audit_checked": null,
       "status": "未着手",
       "evidence": [],
@@ -1060,9 +1287,27 @@
       "notes": ""
     },
     {
+      "group_id": "plaisir-sweets",
+      "initial_source_checked": "2026-11-17",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "ppih",
       "initial_source_checked": "2026-11-01",
       "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "quon-chocolate",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 6,
       "full_audit_checked": null,
       "status": "未着手",
       "evidence": [],
@@ -1135,6 +1380,15 @@
       "group_id": "royal-hc",
       "initial_source_checked": "2026-11-12",
       "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "royce",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 6,
       "full_audit_checked": null,
       "status": "未着手",
       "evidence": [],
@@ -1285,6 +1539,15 @@
       "notes": ""
     },
     {
+      "group_id": "suzette-sweets",
+      "initial_source_checked": "2026-11-17",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "takakuramachi",
       "initial_source_checked": "2026-11-06",
       "planned_month": 4,
@@ -1420,6 +1683,24 @@
       "notes": ""
     },
     {
+      "group_id": "vanillabeans",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "venchi-japan",
+      "initial_source_checked": "2026-11-16",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
       "group_id": "watami",
       "initial_source_checked": "2026-11-06",
       "planned_month": 3,
@@ -1459,6 +1740,15 @@
       "group_id": "yamazakipan",
       "initial_source_checked": "2026-11-06",
       "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "yokumoku-group",
+      "initial_source_checked": "2026-11-17",
+      "planned_month": 4,
       "full_audit_checked": null,
       "status": "未着手",
       "evidence": [],
@@ -1518,5 +1808,15 @@
       "evidence": [],
       "notes": ""
     }
-  ]
+  ],
+  "baseline_history": [
+    {
+      "groups": 143,
+      "brands": 1002,
+      "as_of": "2026-11-16",
+      "reason": "初回計画の制定時点・監査未開始。2026-11-17の増補前スナップショット"
+    }
+  ],
+  "source_data_blob_sha": "79add73fd17782b7e5a6bb31fd8acbbf8eea8c98",
+  "rebalanced_at": "2026-11-17"
 }
