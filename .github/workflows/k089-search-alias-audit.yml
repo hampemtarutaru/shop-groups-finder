@@ -1,0 +1,21 @@
+name: K-089 search alias audit
+on:
+  pull_request:
+    paths:
+      - 'public/data.json'
+      - 'scripts/k089_search_alias_audit.mjs'
+      - 'scripts/k089_search_alias_audit.test.mjs'
+      - '.github/workflows/k089-search-alias-audit.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test scripts/k089_search_alias_audit.test.mjs
+      - run: node scripts/k089_search_alias_audit.mjs
