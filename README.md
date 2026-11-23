@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、187グループ・1170ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、191グループ・1227ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -1124,3 +1124,26 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://www.sisen.jp/about/
 - https://www.sisen.jp/
 - https://www.kaseiro.com/company/
+
+## 出典・更新メモ（2026-11-23 紅虎餃子房・パステル・ポポラマーマ）
+
+際コーポレーション（紅虎餃子房・万豚記・蒼龍唐玉堂・タイガー餃子会舘ほか）24ブランド、プリン・洋菓子専門のパステルを運営するオールハーツ・カンパニー10ブランド、パステルのレストラン事業を2015年に譲り受けたヴィア・ホールディングス／フードリーム12ブランド、ひいらぎホールディングス（ポポラマーマ・マヌカンピス等）11ブランドの4グループ57ブランドを新規登録。計191グループ・1227ブランド。プリン・洋菓子店パステルと飲食レストランパステルは同名でも別の運営会社なので、図鑑では『パステル（プリン・洋菓子専門店）』『パステル（パスタ・レストラン）』と区別し、『パステル』の別名検索で両方出るようにした。ひいらぎHDとポポラマーマは2024年7月に資本提携を公表し、現在公式のグループ会社に列挙。ただし株式100%保有を断定しない。ひいらぎHD傘下のイートスタイルがサーティワン・ビアードパパ・ペッパーランチ等をフランチャイズ運営することは、ブランド本部の所有関係と混同せず、これら全国ブランドをひいらぎに移籍・再登録しない。際コーポレーションは現行SHOPブランド一覧に掲載される名称を抽出し、直営・FC・関係会社店の区別を保持。ヴィア・ホールディングス公式ページは2026年10月22日以降メンテナンス表示になる場合があり、2026年6月の子会社公式リリース等も併用して所属を確認。
+
+- https://kiwa-group.co.jp/company/
+- https://kiwa-group.co.jp/shop/
+- https://kiwa-group.co.jp/benitora_brand/
+- https://kiwa-group.co.jp/wanzhuji_brand/
+- https://allheartscompany.com/brands
+- https://allheartscompany.com/brands/pastel
+- https://allheartscompany.com/shops
+- https://www.via-hd.co.jp/brand/pastel/index.html
+- https://www.via-hd.co.jp/ir/achieve/highlight/
+- https://prtimes.jp/main/html/rd/p/000000131.000054788.html
+- https://hiiragi-hd.jp/company
+- https://hiiragi-hd.jp/group
+- https://hiiragi-hd.jp/shop
+- https://hiiragi-hd.jp/group/popo/
+- https://hiiragi-hd.jp/group/mannekenpis/
+- https://www.popolamama.com/company/company.html
+- https://www.popolamama.com/company/business.html
+- https://hiiragi-hd.jp/wp/wp-content/uploads/2024/07/4a785ac58e6d7e6eb13595cf9a9000e9-1.pdf
