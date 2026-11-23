@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#f5f4f0">
-  <meta name="description" content="あのお店はどこのグループ？ 身近な飲食店・スーパー・百貨店・雑貨店・リラクゼーション店のつながりを、店名からさっと調べられる図鑑。">
+  <meta name="description" content="あのお店はどこのグループ？ 飲食店・ホテル・旅館・スーパー・専門店などのつながりを、店名からさっと調べられる図鑑。">
   <title>この店、どこの系列？｜企業グループ図鑑</title>
   <link rel="canonical" href="https://groups.hampemtarutaru.com/">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="ja_JP">
   <meta property="og:site_name" content="この店、どこの系列？">
   <meta property="og:title" content="この店、どこの系列？｜企業グループ図鑑">
-  <meta property="og:description" content="あのお店はどこのグループ？ 身近な飲食店・スーパー・百貨店・雑貨店・リラクゼーション店のつながりを、店名からさっと調べられる図鑑。">
+  <meta property="og:description" content="あのお店はどこのグループ？ 飲食店・ホテル・旅館・スーパー・専門店などのつながりを、店名からさっと調べられる図鑑。">
   <meta property="og:url" content="https://groups.hampemtarutaru.com/">
   <link rel="stylesheet" href="./styles.css">
   <script src="./app.js" defer></script>
@@ -28,11 +28,11 @@
       <section class="hero" aria-labelledby="heading">
         <p class="eyebrow">お店から、企業のつながりが見えてくる。</p>
         <h1 id="heading">この店、<br><em>どこの系列？</em></h1>
-        <p class="lead">外でごはんを食べていても、買い物の途中でも。<br>店名を入れるだけで、所属グループがすぐわかる。</p>
+        <p class="lead">外でごはんを食べていても、買い物の途中でも、旅先でも。<br>店名を入れるだけで、所属グループがすぐわかる。</p>
         <div class="search-box">
           <label for="search" class="sr-only">店舗名またはグループ名で検索</label>
           <span class="search-icon" aria-hidden="true">⌕</span>
-          <input id="search" type="search" placeholder="例：なか卯、ガスト、西友" autocomplete="off" inputmode="search" enterkeyhint="search">
+          <input id="search" type="search" placeholder="例：なか卯、西友、星のや" autocomplete="off" inputmode="search" enterkeyhint="search">
           <button id="clear" type="button" class="clear" aria-label="検索を消す" hidden>×</button>
         </div>
         <p class="hint">登録ブランドの一部から検索できます。ひらがな・カタカナも一部対応。</p>
@@ -44,6 +44,7 @@
           <button type="button" data-filter="すべて" class="filter active" aria-pressed="true">すべて</button>
           <button type="button" data-filter="飲食" class="filter" aria-pressed="false">飲食</button>
           <button type="button" data-filter="居酒屋" class="filter" aria-pressed="false">居酒屋</button>
+          <button type="button" data-filter="ホテル・旅館" class="filter" aria-pressed="false">ホテル・旅館</button>
           <button type="button" data-filter="スーパー" class="filter" aria-pressed="false">スーパー</button>
           <button type="button" data-filter="コンビニ" class="filter" aria-pressed="false">コンビニ</button>
           <button type="button" data-filter="ドラッグストア" class="filter" aria-pressed="false">ドラッグストア</button>
@@ -61,7 +62,7 @@
       <section class="about" aria-labelledby="about-heading">
         <div class="about-inner"><p class="eyebrow">ABOUT</p><h2 id="about-heading">見慣れたお店の、知らないつながり。</h2>
           <p>企業グループの関係を、できるだけ手軽に調べるための小さな図鑑です。企業・ブランドの公式公開情報と確認日を記録しながら更新しています。企業ロゴは使用していません。</p>
-          <p>同じブランドでも地域や店舗によって運営主体が異なる場合があります。また「グループ」は必ずしも100％子会社を意味しません。詳しい情報は各カードの出典を確認してください。</p>
+          <p>同じブランドでも地域や店舗によって運営主体が異なる場合があります。また「グループ」は必ずしも100％子会社を意味しません。ホテルではブランド本部・実際の運営会社・建物所有者が異なる場合があります。詳しい情報は各カードの出典を確認してください。</p>
           <p id="updated" class="fineprint"></p>
         </div>
       </section>
