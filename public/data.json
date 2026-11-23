@@ -3926,6 +3926,86 @@
           "text": "株式会社華正樓設立。"
         }
       ]
+    },
+    {
+      "id": "kiwa-corporation",
+      "name": "際コーポレーション（紅虎餃子房・万豚記など）",
+      "company": "際コーポレーション株式会社",
+      "summary": "1990年設立。紅虎餃子房、万豚記、蒼龍唐玉堂、タイガー餃子会舘、青菜、ちょもらんま酒場など中華料理を中心に和洋中の幅広い店舗を運営。2025年10月末の公式店舗数は直営飲食店267、物販13、FC13、関係会社20など。公式の現行レストランブランドから代表例を登録。FC・関係会社店をすべて直営と呼ばない。",
+      "accent": "#B15C55",
+      "source": "https://kiwa-group.co.jp/company/",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1990",
+          "text": "際コーポレーション設立。"
+        },
+        {
+          "year": "1994",
+          "text": "万豚記が出店。"
+        },
+        {
+          "year": "1996",
+          "text": "紅虎餃子房が出店。"
+        }
+      ]
+    },
+    {
+      "id": "allhearts-company",
+      "name": "オールハーツ・カンパニー（洋菓子パステル・アンティーク等）",
+      "company": "株式会社オールハーツ・カンパニー",
+      "summary": "プリン・洋菓子専門店のパステル、ハートブレッドアンティーク、ねこねこ食パン、ピネード、バゲットラビット、グランディール、ベンケイ、オッジなどを展開。公式掲載ブランドのうち独立店・売場を持つ屋号を優先して登録し、単なる商品名は水増ししない。2015年にヴィア・ホールディングスが取得したパステルのレストラン事業とは現在の運営会社が異なるため『パステル（プリン・洋菓子専門店）』と区別。",
+      "accent": "#A57C8B",
+      "source": "https://allheartscompany.com/brands",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1993",
+          "text": "パステルが『なめらかプリン』を発売。"
+        },
+        {
+          "year": "2015",
+          "text": "パステルのレストラン事業がヴィア・ホールディングス側に移った。"
+        }
+      ]
+    },
+    {
+      "id": "via-foodream",
+      "name": "ヴィア・ホールディングス（パステルレストラン・フードリーム）",
+      "company": "株式会社ヴィア・ホールディングス／株式会社フードリーム",
+      "summary": "2015年にパステルのレストラン事業を取得。子会社フードリームがパステル、パステルイタリアーナ、イタリアンバルパステル、パステルアヴェニュー、オーブン亭、カプチーナ、ステーキハウス松木、双囍亭、虎包、鶴亀堂等を展開。プリン持ち帰り専門店のパステルは別会社のオールハーツ・カンパニー側に区別。ヴィアの他の飲食事業会社による屋号は今回のフードリーム系列には混ぜない。",
+      "accent": "#7C758B",
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "2015",
+          "text": "6月1日、パステルのレストラン事業を譲受。"
+        }
+      ]
+    },
+    {
+      "id": "hiiragi-holdings",
+      "name": "ひいらぎホールディングス（ポポラマーマ・マヌカンピス等）",
+      "company": "ひいらぎホールディングス株式会社",
+      "summary": "2024年にポポラマーマと資本提携し、公式のグループ会社に株式会社ポポラマーマを掲載。和風パスタ店『和ぱすた ぽぽらまーま』、ワイン対応の『ポポラマーマ_バル』、洋菓子のマヌカンピス、ガトーマヌカンピス、シャトー文雅、イートスタイルの自社展開店等も系列。イートスタイルはサーティワン・ビアードパパ・ペッパーランチ等のFC店舗を運営するが、ブランド全体の本部・所有権はひいらぎ傘下ではない。2026年11月の公式情報ではグループ計280店。ポポラマーマとの資本提携を持株比率100％と断定しない。",
+      "accent": "#729584",
+      "source": "https://hiiragi-hd.jp/company",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "2002",
+          "text": "イートスタイル創業。"
+        },
+        {
+          "year": "2013",
+          "text": "ひいらぎHD設立。"
+        },
+        {
+          "year": "2024",
+          "text": "7月、ポポラマーマと資本提携。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -16486,6 +16566,546 @@
         "華正樓 本店"
       ],
       "category": "飲食"
+    },
+    {
+      "name": "紅虎餃子房",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [
+        "紅虎",
+        "べにとらぎょうざぼう"
+      ],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "万豚記",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [
+        "ワンツーチィ",
+        "ワンツーチー"
+      ],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "蒼龍唐玉堂",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "タイガー餃子会舘",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [
+        "タイガー餃子会館"
+      ],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "タイガー餃子軒",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "紅虎軒",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "紅虎菜舗",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "紅虎厨房",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "紅虎小吃店",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "青菜",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "ちょもらんま酒場",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "ゴールデンタイガー",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "ドラゴンレッドリバー",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "膳處漢ぽっちり",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [
+        "膳處漢",
+        "ぽっちり"
+      ],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "雲龍一包軒",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "上海バール",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "にょろ助",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "富金豚",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "瓢六亭",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "黒座暁樓",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "葱や平吉",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "ぷんぷくまる",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "草門去来荘",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "タイガー亭",
+      "group": "kiwa-corporation",
+      "operator": "際コーポレーション株式会社（FC・関係会社運営の店舗あり）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://kiwa-group.co.jp/shop/"
+    },
+    {
+      "name": "パステル（プリン・洋菓子専門店）",
+      "group": "allhearts-company",
+      "operator": "株式会社オールハーツ・カンパニー",
+      "category": "専門店",
+      "aliases": [
+        "パステル",
+        "Pastel",
+        "なめらかプリンのパステル"
+      ],
+      "source": "https://allheartscompany.com/brands"
+    },
+    {
+      "name": "ハートブレッドアンティーク",
+      "group": "allhearts-company",
+      "operator": "株式会社オールハーツ・カンパニー",
+      "category": "飲食",
+      "aliases": [
+        "HEART BREAD ANTIQUE",
+        "アンティーク"
+      ],
+      "source": "https://allheartscompany.com/brands"
+    },
+    {
+      "name": "ねこねこ食パン",
+      "group": "allhearts-company",
+      "operator": "株式会社オールハーツ・カンパニー",
+      "category": "専門店",
+      "aliases": [
+        "ねこねこ",
+        "NEKONEKO SHOKUPAN"
+      ],
+      "source": "https://allheartscompany.com/brands"
+    },
+    {
+      "name": "パティスリーピネード",
+      "group": "allhearts-company",
+      "operator": "株式会社オールハーツ・カンパニー",
+      "category": "専門店",
+      "aliases": [
+        "ピネード",
+        "PINEDE"
+      ],
+      "source": "https://allheartscompany.com/brands"
+    },
+    {
+      "name": "バゲットラビット",
+      "group": "allhearts-company",
+      "operator": "株式会社オールハーツ・カンパニー",
+      "category": "飲食",
+      "aliases": [
+        "BAGUETTE RABBIT"
+      ],
+      "source": "https://allheartscompany.com/brands"
+    },
+    {
+      "name": "グランディール",
+      "group": "allhearts-company",
+      "operator": "株式会社オールハーツ・カンパニー",
+      "category": "飲食",
+      "aliases": [
+        "GRANDIR"
+      ],
+      "source": "https://allheartscompany.com/brands"
+    },
+    {
+      "name": "ねこねこファクトリー",
+      "group": "allhearts-company",
+      "operator": "株式会社オールハーツ・カンパニー",
+      "category": "専門店",
+      "aliases": [
+        "NEKONEKO FACTORY"
+      ],
+      "source": "https://allheartscompany.com/brands"
+    },
+    {
+      "name": "ベンケイ",
+      "group": "allhearts-company",
+      "operator": "株式会社オールハーツ・カンパニー",
+      "category": "飲食",
+      "aliases": [
+        "BENKEI"
+      ],
+      "source": "https://allheartscompany.com/brands"
+    },
+    {
+      "name": "GUILTY’S",
+      "group": "allhearts-company",
+      "operator": "株式会社オールハーツ・カンパニー",
+      "category": "専門店",
+      "aliases": [
+        "GUILTY'S",
+        "ギルティーズ"
+      ],
+      "source": "https://allheartscompany.com/brands"
+    },
+    {
+      "name": "オッジ",
+      "group": "allhearts-company",
+      "operator": "株式会社オールハーツ・カンパニー",
+      "category": "専門店",
+      "aliases": [
+        "OGGI",
+        "OGGI CHOCOLATE"
+      ],
+      "source": "https://allheartscompany.com/brands"
+    },
+    {
+      "name": "パステル（パスタ・レストラン）",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "パステル",
+        "Pastel",
+        "パステルレストラン"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "パステルイタリアーナ",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "Pastel Italiana"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "イタリアンバルパステル",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "イタリアンバル パステル"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "パステルアヴェニュー",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "Pastel Avenue"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "オーブン亭",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "洋食屋 オーブン亭"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "カプチーナ",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "洋食屋 カプチーナ"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "ステーキハウス松木",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "ステーキ松木"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "双囍亭",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "双喜亭",
+        "ソウキテイ"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "虎包",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "フーパオ",
+        "HU PAO"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "鶴亀堂",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "博多ラーメン 鶴亀堂"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "ベッラベーラ",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "Bella Bella"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "パスタモーレ",
+      "group": "via-foodream",
+      "operator": "株式会社フードリーム（ヴィア・ホールディングス傘下）",
+      "category": "飲食",
+      "aliases": [
+        "PASTA MORE"
+      ],
+      "source": "https://www.via-hd.co.jp/brand/pastel/index.html"
+    },
+    {
+      "name": "ポポラマーマ",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社ポポラマーマ（ひいらぎHDグループ、FC店舗は別事業者の場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "ゆであげ生パスタ ポポラマーマ",
+        "Popolamama"
+      ],
+      "source": "https://www.popolamama.com/company/business.html"
+    },
+    {
+      "name": "和ぱすた ぽぽらまーま",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社ポポラマーマ（ひいらぎHDグループ、FC店舗は別事業者の場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "和ぱすたぽぽらまーま"
+      ],
+      "source": "https://www.popolamama.com/company/business.html"
+    },
+    {
+      "name": "ポポラマーマ_バル",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社ポポラマーマ（ひいらぎHDグループ、FC店舗は別事業者の場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "ポポラマーマ バル",
+        "PASTA&WINE ポポラマーマ_バル"
+      ],
+      "source": "https://www.popolamama.com/company/business.html"
+    },
+    {
+      "name": "マヌカンピス",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社マヌカンピス（ひいらぎHDグループ）",
+      "category": "専門店",
+      "aliases": [
+        "Mannekenpis"
+      ],
+      "source": "https://hiiragi-hd.jp/group/mannekenpis/"
+    },
+    {
+      "name": "マヌカンピス・ケレス",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社マヌカンピス（ひいらぎHDグループ）",
+      "category": "専門店",
+      "aliases": [
+        "マヌカンピス ケレス"
+      ],
+      "source": "https://hiiragi-hd.jp/shop"
+    },
+    {
+      "name": "ガトーマヌカンピス",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社マヌカンピス（ひいらぎHDグループ）",
+      "category": "専門店",
+      "aliases": [
+        "gâteau Mannekenpis"
+      ],
+      "source": "https://hiiragi-hd.jp/"
+    },
+    {
+      "name": "シャトー文雅",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社シャトー文雅（ひいらぎHDグループ）",
+      "category": "飲食",
+      "aliases": [
+        "CHATEAU BUNGA"
+      ],
+      "source": "https://hiiragi-hd.jp/shop"
+    },
+    {
+      "name": "BUNGA VILLAGE",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社シャトー文雅（ひいらぎHDグループ）",
+      "category": "飲食",
+      "aliases": [
+        "文雅ヴィレッジ"
+      ],
+      "source": "https://hiiragi-hd.jp/shop"
+    },
+    {
+      "name": "ビビン亭",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社イートスタイル（ひいらぎHDグループ）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://hiiragi-hd.jp/shop"
+    },
+    {
+      "name": "ブレッザカフェ",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社イートスタイル（ひいらぎHDグループ）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://hiiragi-hd.jp/shop"
+    },
+    {
+      "name": "もつ鍋幸",
+      "group": "hiiragi-holdings",
+      "operator": "株式会社イートスタイル（ひいらぎHDグループ）",
+      "category": "飲食",
+      "aliases": [],
+      "source": "https://hiiragi-hd.jp/shop"
     }
   ]
 }
