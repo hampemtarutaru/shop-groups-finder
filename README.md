@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、191グループ・1227ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、192グループ・1228ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -1147,3 +1147,14 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://www.popolamama.com/company/company.html
 - https://www.popolamama.com/company/business.html
 - https://hiiragi-hd.jp/wp/wp-content/uploads/2024/07/4a785ac58e6d7e6eb13595cf9a9000e9-1.pdf
+
+## 出典・更新メモ（2026-11-23 浅草・ファミリー中華レストラン パンダ）
+
+浅草・ホテルサンルート浅草2階の「ファミリー中華レストラン パンダ（PANDA）」を独立1グループ／1ブランドで追加。台東区公表の2026年3月31日時点の営業許可一覧では営業者は株式会社マンリ。過去の同区の営業許可一覧では同社が「串郎酒場」を営業していた事実が確認できるが、現在の系列店・別店舗であるとは確認できないので現行ブランドとして登録しない。Yumstoneという店舗案内・テイクアウトサービスには中華料理天朝、蓬莱春飯店等と並んでパンダが掲載されるが、同一法人の所有・運営である根拠がなく、勝手に系列と認定しない。ホテル内に入居することはホテル運営会社の子会社であることを意味しない。『パンダ 浅草本店』の呼称だけで複数支店が実在するとも判断しない。2026年11月23日時点で現役の姉妹店や親会社は未確認。現行合計192グループ・1228ブランド。
+
+- https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-IND-PDF.pdf
+- https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2025-03-PER-PDF.pdf
+- https://www.manli-panda.com/
+- https://restaurant-panda.foodre.jp/
+- https://www.yumstone.online/
+- https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010501032593
