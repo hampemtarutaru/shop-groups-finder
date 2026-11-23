@@ -3680,6 +3680,165 @@
           "text": "3月タイ現地の合弁会社SINGHA GARDENを設立し、9月に海外1号店をオープン。"
         }
       ]
+    },
+    {
+      "id": "ginza-aster",
+      "name": "銀座アスター（日本橋紫苑・草 日本橋）",
+      "company": "銀座アスター食品株式会社",
+      "summary": "1926年創業の中国料理レストラン企業。中国名菜 銀座アスターを中核に、宮廷料理の日本橋紫苑、コンセプト店の草 日本橋、惣菜・弁当販売の銀座アスターデリカを展開。公式会社概要では2026年3月時点でレストラン31店、デリカ17店。関連会社の株式会社銀座アスターと銀座アスター食品を混同せず、別の大手外食グループ傘下と断定しない。",
+      "accent": "#B08062",
+      "source": "https://www.ginza-aster.co.jp/corporate/",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1926",
+          "text": "12月に銀座で創業。"
+        }
+      ]
+    },
+    {
+      "id": "jojoen",
+      "name": "叙々苑（游玄亭・ステーキJJ）",
+      "company": "株式会社叙々苑",
+      "summary": "高級焼肉チェーン「叙々苑」を運営。「游玄亭」は叙々苑グループの最高峰として位置付けられる高級業態、「叙々苑ステーキJJ」は焼肉の目利きと調理技術を生かしたステーキ専門店。大手牛丼・居酒屋チェーンの運営会社と推定して統合しない。",
+      "accent": "#8F576C",
+      "source": "https://www.jojoen.co.jp/corp/",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1976",
+          "text": "叙々苑創業。"
+        },
+        {
+          "year": "2026",
+          "text": "8月19日、叙々苑ステーキJJ 横浜ハマボール店オープン。"
+        }
+      ]
+    },
+    {
+      "id": "ukai",
+      "name": "うかい（うかい亭・とうふ屋うかい・アトリエうかい）",
+      "company": "株式会社うかい",
+      "summary": "高級鉄板料理のうかい亭、いろり炭火焼のうかい鳥山、とうふ会席のとうふ屋うかい、割烹・グリル・ブラッスリー、焼き菓子のアトリエうかいを運営する上場企業。京王電鉄やキッコーマンは主要株主に記載されるが、単純にどちらかの完全子会社とは扱わない。2024年11月にうかい竹亭、2026年3月に東京 芝 とうふ屋うかいは閉店済みで現行ブランド／店舗として数えない。",
+      "accent": "#9D8067",
+      "source": "https://www.ukai.co.jp/corporate/company/business.html",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1964",
+          "text": "12月、うかい鳥山創業。"
+        },
+        {
+          "year": "2024",
+          "text": "11月末、うかい竹亭営業終了。"
+        },
+        {
+          "year": "2026",
+          "text": "3月、東京 芝 とうふ屋うかい閉店。"
+        }
+      ]
+    },
+    {
+      "id": "ningyocho-imahan",
+      "name": "人形町今半（喜扇亭・たか福・芳味亭）",
+      "company": "株式会社人形町今半",
+      "summary": "人形町今半は1956年に浅草の今半から暖簾分けして独立。すき焼き・しゃぶしゃぶ「人形町今半」、鉄板焼「喜扇亭」、今半万窯、たか福、洋食の芳味亭などを運営。精肉・惣菜・弁当も展開するが、商品販売コーナーをすべて独立ブランドにしない。浅草今半、今半本店、今半別館とは現時点で別法人であり同じ親会社と誤認しない。",
+      "accent": "#986A5D",
+      "source": "https://www.imahan.co.jp/company",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1952",
+          "text": "人形町に浅草今半の支店を開業。"
+        },
+        {
+          "year": "1956",
+          "text": "人形町今半として独立。"
+        }
+      ]
+    },
+    {
+      "id": "asakusa-imahan",
+      "name": "浅草今半グループ（株式会社今半・高伴）",
+      "company": "株式会社今半／株式会社高伴",
+      "summary": "浅草今半の商標の下で、株式会社今半が精肉・佃煮・弁当・加工食品事業を、株式会社高伴がすき焼き割烹を担う2社によるグループ。人形町今半、今半本店、今半別館とは歴史的に関係するが、現在の法人と事業運営は別々。",
+      "accent": "#916758",
+      "source": "https://www.asakusaimahan.co.jp/company/",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1895",
+          "text": "今半の起源とされる浅草での創業。"
+        },
+        {
+          "year": "1956",
+          "text": "人形町今半が独立。"
+        }
+      ]
+    },
+    {
+      "id": "imahan-honten",
+      "name": "今半本店（浅草・新仲見世）",
+      "company": "今半本店（公式サイトによる独立経営・法人名は未確認）",
+      "summary": "浅草・新仲見世通りにあるすき焼きの今半本店。公式サイトで、浅草今半、今半別館、人形町今半とは別会社と明記。経営法人の正式な商号が公式サイトで確認できなかったため断定せず、独立店として登録。店舗はチェーン展開と決めつけない。",
+      "accent": "#836B52",
+      "source": "https://www.imahan-honten.co.jp/",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1895",
+          "text": "創業。現在の経営体の設立年とは区別。"
+        }
+      ]
+    },
+    {
+      "id": "imahan-bekkan",
+      "name": "今半別館（浅草寺門前）",
+      "company": "有限会社今半別館",
+      "summary": "浅草寺門前にあるすき焼き・会席の今半別館。公式店舗サイトおよび公式通信販売の特定商取引表示で有限会社今半別館が運営。今半本店、浅草今半、人形町今半とは別会社。歴史的なのれん分けを現在の資本支配と混同しない。",
+      "accent": "#8F815F",
+      "source": "https://www.asakusa-imahan.co.jp/",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1921",
+          "text": "今半本店から分離して開業したとされる。"
+        }
+      ]
+    },
+    {
+      "id": "hiyoriyama-kani",
+      "name": "日和山観光グループ（かに道楽・網元）",
+      "company": "日和山観光株式会社／株式会社かに道楽",
+      "summary": "かに料理チェーン株式会社かに道楽は日和山観光グループの会社。道頓堀を中心に全国に直営店を展開し、より高級な『網元』業態を持つ。日和山観光側はホテル金波楼や城崎マリンワールドなどの観光事業も展開するが、レストラン店名の一覧には原則として混ぜない。札幌かに本家は起源に関係があるが現在は別法人で、同一系列として表示しない。",
+      "accent": "#A46B53",
+      "source": "https://douraku.co.jp/company/",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1960",
+          "text": "2月、大阪でかに料理店が創業。"
+        }
+      ]
+    },
+    {
+      "id": "sapporo-kani-honke",
+      "name": "札幌かに本家（かに道楽とは別会社）",
+      "company": "株式会社札幌かに本家",
+      "summary": "札幌を中心に各地でかに料理店を運営。創業者は1960年に大阪でかに道楽の創業に関わったが、現在の『札幌かに本家』は株式会社札幌かに本家が運営する別会社。2025年2月の法人合併・商号変更の沿革は公式会社案内に従う。かに道楽と資本上の兄弟店とは登録しない。",
+      "accent": "#A47766",
+      "source": "https://www.kani-honke.co.jp/about.html",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1967",
+          "text": "創業者が名古屋へ進出。"
+        },
+        {
+          "year": "2025",
+          "text": "2月、東海開発と合併し株式会社札幌かに本家に商号変更。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -15690,6 +15849,290 @@
         "海王"
       ],
       "source": "https://gardengroup.co.jp/brand/kaio/"
+    },
+    {
+      "name": "銀座アスター",
+      "group": "ginza-aster",
+      "operator": "銀座アスター食品株式会社",
+      "category": "飲食",
+      "aliases": [
+        "中国名菜 銀座アスター",
+        "GINZA ASTER"
+      ],
+      "source": "https://www.ginza-aster.co.jp/shops/"
+    },
+    {
+      "name": "日本橋紫苑",
+      "group": "ginza-aster",
+      "operator": "銀座アスター食品株式会社",
+      "category": "飲食",
+      "aliases": [
+        "日本橋 紫苑 GINZA ASTER",
+        "紫苑"
+      ],
+      "source": "https://www.n-shion.jp/"
+    },
+    {
+      "name": "草 日本橋",
+      "group": "ginza-aster",
+      "operator": "銀座アスター食品株式会社",
+      "category": "飲食",
+      "aliases": [
+        "銀座アスター 草",
+        "草(SOU)日本橋"
+      ],
+      "source": "https://www.ginza-aster.co.jp/shops/42nihombashi/"
+    },
+    {
+      "name": "銀座アスター デリカ",
+      "group": "ginza-aster",
+      "operator": "銀座アスター食品株式会社",
+      "category": "専門店",
+      "aliases": [
+        "銀座アスターデリカ",
+        "銀座アスター惣菜"
+      ],
+      "source": "https://www.ginza-aster.co.jp/delica/"
+    },
+    {
+      "name": "叙々苑",
+      "group": "jojoen",
+      "operator": "株式会社叙々苑",
+      "category": "飲食",
+      "aliases": [
+        "JOJOEN"
+      ],
+      "source": "https://www.jojoen.co.jp/jojoen/"
+    },
+    {
+      "name": "游玄亭",
+      "group": "jojoen",
+      "operator": "株式会社叙々苑",
+      "category": "飲食",
+      "aliases": [
+        "叙々苑 游玄亭",
+        "YUGENTEI"
+      ],
+      "source": "https://www.jojoen.co.jp/yugentei/"
+    },
+    {
+      "name": "叙々苑ステーキJJ",
+      "group": "jojoen",
+      "operator": "株式会社叙々苑",
+      "category": "飲食",
+      "aliases": [
+        "ステーキJJ",
+        "叙々苑 ステーキ JJ"
+      ],
+      "source": "https://www.jojoen.co.jp/steakjj/"
+    },
+    {
+      "name": "うかい亭",
+      "group": "ukai",
+      "operator": "株式会社うかい",
+      "category": "飲食",
+      "aliases": [
+        "八王子うかい亭",
+        "横浜うかい亭",
+        "銀座うかい亭",
+        "あざみ野うかい亭",
+        "表参道うかい亭",
+        "六本木うかい亭",
+        "UKAI-TEI"
+      ],
+      "source": "https://www.ukai.co.jp/corporate/company/business.html"
+    },
+    {
+      "name": "うかい鳥山",
+      "group": "ukai",
+      "operator": "株式会社うかい",
+      "category": "飲食",
+      "aliases": [
+        "UKAI TORIYAMA"
+      ],
+      "source": "https://www.ukai.co.jp/corporate/company/business.html"
+    },
+    {
+      "name": "とうふ屋うかい",
+      "group": "ukai",
+      "operator": "株式会社うかい",
+      "category": "飲食",
+      "aliases": [
+        "とうふ屋うかい 大和田店",
+        "とうふ屋うかい 鷺沼店",
+        "豆腐屋うかい"
+      ],
+      "source": "https://www.ukai.co.jp/concept/tofu_ryori.html"
+    },
+    {
+      "name": "銀座 kappou ukai 肉匠",
+      "group": "ukai",
+      "operator": "株式会社うかい",
+      "category": "飲食",
+      "aliases": [
+        "銀座割烹うかい肉匠"
+      ],
+      "source": "https://www.ukai.co.jp/ginzakappou/about/"
+    },
+    {
+      "name": "六本木 kappou ukai",
+      "group": "ukai",
+      "operator": "株式会社うかい",
+      "category": "飲食",
+      "aliases": [
+        "六本木割烹うかい"
+      ],
+      "source": "https://www.ukai.co.jp/corporate/company/business.html"
+    },
+    {
+      "name": "グリルうかい",
+      "group": "ukai",
+      "operator": "株式会社うかい",
+      "category": "飲食",
+      "aliases": [
+        "グリルうかい 丸の内店"
+      ],
+      "source": "https://www.ukai.co.jp/corporate/company/business.html"
+    },
+    {
+      "name": "ル・プーレ ブラッスリーうかい",
+      "group": "ukai",
+      "operator": "株式会社うかい",
+      "category": "飲食",
+      "aliases": [
+        "ルプーレ",
+        "Le Poulet Brasserie UKAI"
+      ],
+      "source": "https://www.ukai.co.jp/corporate/company/business.html"
+    },
+    {
+      "name": "アトリエうかい",
+      "group": "ukai",
+      "operator": "株式会社うかい",
+      "category": "専門店",
+      "aliases": [
+        "Atelier UKAI"
+      ],
+      "source": "https://www.ukai.co.jp/atelier/"
+    },
+    {
+      "name": "人形町今半",
+      "group": "ningyocho-imahan",
+      "operator": "株式会社人形町今半",
+      "category": "飲食",
+      "aliases": [
+        "人形町 今半"
+      ],
+      "source": "https://www.imahan.co.jp/company"
+    },
+    {
+      "name": "喜扇亭",
+      "group": "ningyocho-imahan",
+      "operator": "株式会社人形町今半",
+      "category": "飲食",
+      "aliases": [
+        "きせんてい",
+        "KISENTEI"
+      ],
+      "source": "https://restaurant.imahan.com/kisentei-honten/"
+    },
+    {
+      "name": "今半万窯",
+      "group": "ningyocho-imahan",
+      "operator": "株式会社人形町今半",
+      "category": "飲食",
+      "aliases": [
+        "いまはんまんよう"
+      ],
+      "source": "https://www.imahan.co.jp/company"
+    },
+    {
+      "name": "たか福",
+      "group": "ningyocho-imahan",
+      "operator": "株式会社人形町今半",
+      "category": "飲食",
+      "aliases": [
+        "人形町今半 たか福"
+      ],
+      "source": "https://www.imahan.co.jp/company"
+    },
+    {
+      "name": "芳味亭",
+      "group": "ningyocho-imahan",
+      "operator": "株式会社人形町今半",
+      "category": "飲食",
+      "aliases": [
+        "ほうみてい",
+        "人形町芳味亭"
+      ],
+      "source": "https://www.imahan.co.jp/company"
+    },
+    {
+      "name": "浅草今半",
+      "group": "asakusa-imahan",
+      "operator": "株式会社高伴（飲食店運営）／株式会社今半（精肉・弁当等、浅草今半グループ）",
+      "category": "飲食",
+      "aliases": [
+        "浅草 今半",
+        "ASAKUSA IMAHAN"
+      ],
+      "source": "https://www.asakusaimahan.co.jp/company/"
+    },
+    {
+      "name": "今半本店",
+      "group": "imahan-honten",
+      "operator": "今半本店（独立経営、法人商号は公式サイトで未確認）",
+      "category": "飲食",
+      "aliases": [
+        "すき焼き 今半本店",
+        "浅草 今半本店"
+      ],
+      "source": "https://www.imahan-honten.co.jp/"
+    },
+    {
+      "name": "今半別館",
+      "group": "imahan-bekkan",
+      "operator": "有限会社今半別館",
+      "category": "飲食",
+      "aliases": [
+        "浅草今半別館",
+        "今半 別館"
+      ],
+      "source": "https://www.asakusa-imahan.co.jp/"
+    },
+    {
+      "name": "かに道楽",
+      "group": "hiyoriyama-kani",
+      "operator": "株式会社かに道楽（日和山観光グループ）",
+      "category": "飲食",
+      "aliases": [
+        "KANI DOURAKU",
+        "蟹道楽"
+      ],
+      "source": "https://douraku.co.jp/company/"
+    },
+    {
+      "name": "かに道楽 網元",
+      "group": "hiyoriyama-kani",
+      "operator": "株式会社かに道楽（日和山観光グループ）",
+      "category": "飲食",
+      "aliases": [
+        "網元本館",
+        "網元別館",
+        "かにの網元"
+      ],
+      "source": "https://douraku.co.jp/amimoto/"
+    },
+    {
+      "name": "札幌かに本家",
+      "group": "sapporo-kani-honke",
+      "operator": "株式会社札幌かに本家",
+      "category": "飲食",
+      "aliases": [
+        "かに本家",
+        "札幌蟹本家"
+      ],
+      "source": "https://www.kani-honke.co.jp/about.html"
     }
   ]
 }
