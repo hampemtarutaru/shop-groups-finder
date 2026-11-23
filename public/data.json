@@ -4025,6 +4025,45 @@
           "text": "12月10日、雷門の『ファミリー中華レストラン パンダ』の営業許可開始。"
         }
       ]
+    },
+    {
+      "id": "bandotaro-group",
+      "name": "坂東太郎グループ（ばんどう太郎・かつ太郎・8代葵カフェなど）",
+      "company": "株式会社坂東太郎",
+      "summary": "1975年に創業した茨城県古河市の外食・物販グループ。主力の和食ファミリーレストラン『ばんどう太郎』に加え、家族レストラン坂東太郎、かつ太郎、海鮮茶屋 八幡太郎、食事処 八幡太郎、焼肉ダイニング百萬、ステーキハウス幌馬車、8代葵カフェ、坂東離宮、うなぎ河岸、てんぐ茶屋、WO-29 Butchers、和食処むらさきはなな等を展開。物販・菓子事業はよう治、雅洞、蛸屋総本店、下妻マルシェ、8代葵フルーツパーラー等がある。公式会社案内（2026年11月23日確認）では茨城・栃木・埼玉・群馬・千葉に直営88店舗・FC4店舗、計92店舗。子・関連会社に新日本太郎（かつ太郎FC本部、幌馬車）、雅洞、蛸屋、母の里山つくば等。シャトレーゼのフランチャイズ店舗も運営するが、シャトレーゼ全体はシャトレーゼホールディングスのブランドであり坂東太郎系列へ移籍させない。『坂東姫』はイチゴの商品ブランドで店舗として数えない。息栖にぎわいテラスは複合施設で、施設内のかみす市場・おしおいカフェ・ゆうひ食堂を個別の営業屋号として収録する。",
+      "accent": "#957B53",
+      "source": "https://bandotaro.co.jp/about/",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1975",
+          "text": "4月、坂東太郎グループの事業を創業。"
+        },
+        {
+          "year": "1985",
+          "text": "6月、関連会社の株式会社新日本太郎を設立。"
+        },
+        {
+          "year": "2010",
+          "text": "12月、新業態『家族レストラン 坂東太郎』1号店を開店。"
+        },
+        {
+          "year": "2015",
+          "text": "7月、『8代葵カフェ』を開店。"
+        },
+        {
+          "year": "2020",
+          "text": "3月、『坂東離宮』を開店。同年『てんぐ茶屋』もグループ入り。"
+        },
+        {
+          "year": "2021",
+          "text": "11月に8代葵フルーツパーラー、12月にWO-29 Butchersを開店。"
+        },
+        {
+          "year": "2024",
+          "text": "8月に『うなぎ河岸』を開店。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -17139,6 +17178,238 @@
         "ファミリー中華レストランPANDA"
       ],
       "source": "https://restaurant-panda.foodre.jp/"
+    },
+    {
+      "name": "ばんどう太郎",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "坂東太郎",
+        "ばんどうたろう",
+        "BANDOTARO"
+      ],
+      "source": "https://bandotaro.co.jp/shop/bandotaro/"
+    },
+    {
+      "name": "家族レストラン 坂東太郎",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "家族レストラン坂東太郎",
+        "坂東太郎 家族レストラン"
+      ],
+      "source": "https://bandotaro.co.jp/shop/kazoku/"
+    },
+    {
+      "name": "かつ太郎",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎／株式会社新日本太郎（FC本部）、FC店は別運営の場合あり",
+      "category": "飲食",
+      "aliases": [
+        "びっくりとんかつ かつ太郎",
+        "カツ太郎"
+      ],
+      "source": "https://bandotaro.co.jp/shop/katsutaro/"
+    },
+    {
+      "name": "海鮮茶屋 八幡太郎",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "八幡太郎",
+        "かに料理 八幡太郎"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "食事処 八幡太郎",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "常陸秋そば・うどん・定食 食事処 八幡太郎",
+        "常陸秋そば 八幡太郎"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "焼肉ダイニング百萬",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "焼肉百萬",
+        "焼肉 百萬",
+        "焼肉ダイニング 百萬"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "ステーキハウス幌馬車",
+      "group": "bandotaro-group",
+      "operator": "株式会社新日本太郎（坂東太郎グループ）",
+      "category": "飲食",
+      "aliases": [
+        "幌馬車",
+        "ステーキハウス 幌馬車"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "8代葵カフェ",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "８代葵カフェ",
+        "八代葵カフェ",
+        "葵カフェ"
+      ],
+      "source": "https://bandotaro.co.jp/shop/aoi/"
+    },
+    {
+      "name": "坂東離宮",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "ばんどうりきゅう"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "WO-29 Butchers",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "wo-29 Butchers",
+        "WO-29 Butcheres",
+        "おにくブッチャーズ",
+        "WO29ブッチャーズ"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "うなぎ河岸",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "うなぎ河岸本店",
+        "うなぎ河岸店"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "高級食パン専門店 よう治",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "専門店",
+      "aliases": [
+        "よう治",
+        "食パンよう治",
+        "プレミアム生食パン よう治"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "お菓子処 雅洞",
+      "group": "bandotaro-group",
+      "operator": "株式会社雅洞（坂東太郎グループ）",
+      "category": "専門店",
+      "aliases": [
+        "雅洞",
+        "がどう"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "蛸屋総本店",
+      "group": "bandotaro-group",
+      "operator": "株式会社蛸屋（坂東太郎グループ）",
+      "category": "専門店",
+      "aliases": [
+        "蛸屋",
+        "お菓子司 蛸屋総本店"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "下妻マルシェ",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "専門店",
+      "aliases": [
+        "観光物産販売所 下妻マルシェ",
+        "下妻マルシェ さん歩の駅サンSUNさぬま"
+      ],
+      "source": "https://shop.bandotaro.co.jp/detail/448/"
+    },
+    {
+      "name": "8代葵フルーツパーラー",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "専門店",
+      "aliases": [
+        "葵フルーツパーラー",
+        "８代葵フルーツパーラー"
+      ],
+      "source": "https://bandotaro.co.jp/shop/"
+    },
+    {
+      "name": "和食処むらさきはなな",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "和食処むらさき・はなな",
+        "むらさきはなな"
+      ],
+      "source": "https://bandotaro.co.jp/shop/murasakihanana/"
+    },
+    {
+      "name": "てんぐ茶屋",
+      "group": "bandotaro-group",
+      "operator": "株式会社坂東太郎（直営・FC・受託店舗などにより運営主体が異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "天狗茶屋"
+      ],
+      "source": "https://shop.bandotaro.co.jp/detail/1846/"
+    },
+    {
+      "name": "かみす市場",
+      "group": "bandotaro-group",
+      "operator": "坂東太郎グループ（息栖にぎわいテラス内、事業の営業法人は要確認）",
+      "category": "専門店",
+      "aliases": [
+        "息栖にぎわいテラス かみす市場"
+      ],
+      "source": "https://bandotaro.co.jp/shop/ikisu/"
+    },
+    {
+      "name": "おしおいカフェ",
+      "group": "bandotaro-group",
+      "operator": "坂東太郎グループ（息栖にぎわいテラス内、事業の営業法人は要確認）",
+      "category": "飲食",
+      "aliases": [
+        "息栖にぎわいテラス おしおいカフェ"
+      ],
+      "source": "https://bandotaro.co.jp/shop/ikisu/"
+    },
+    {
+      "name": "ゆうひ食堂",
+      "group": "bandotaro-group",
+      "operator": "坂東太郎グループ（息栖にぎわいテラス内、事業の営業法人は要確認）",
+      "category": "飲食",
+      "aliases": [
+        "息栖にぎわいテラス ゆうひ食堂"
+      ],
+      "source": "https://bandotaro.co.jp/shop/ikisu/"
     }
   ]
 }
