@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-17現在、172グループ・1102ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、173グループ・1120ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -1064,3 +1064,18 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://www.ginza-west.com/hpgen/HPB/entries/16.html
 - https://www.gateaufesta-harada.com/corporate/overview
 - https://www.chateraisegroup.jp/about/
+
+## 出典・更新メモ（2026-11-23 山下本気うどん・ガーデン系列）
+
+株式会社ガーデンの2026年11月20日付公式ブランド一覧と沿革を確認し、ガーデン1グループと18ブランドを追加。2012年に芸人インタビューマン山下が立ち上げた『山下本気うどん』は、2017年6月のライセンス契約、2021年10月の商標権獲得によってガーデン自社ブランドとなった。壱角家、萬馬軒、高田屋、情熱のすためしどんどん、一竜、だるまのめ、油そば総本店、壱角堂、品川製麺所、鉄板王国、てらッちょ。、The Veranda、RRainbow、MARZAC、MARZAC7、シン・ニクズシマン、SUSHI PREMIUM海王を兄弟ブランドとして登録。複合型ハイブリッド店舗と実際の店舗数を混同せず、FC店舗は各運営事業者の存在を明記。タイの共同出資海外店をガーデンの日本直営店として数えない。
+
+- https://gardengroup.co.jp/brand/
+- https://gardengroup.co.jp/company/history/
+- https://gardengroup.co.jp/company/overview/
+- https://gardengroup.co.jp/brand/yamashita/
+- https://gardengroup.co.jp/brand/ichikakuya/
+- https://gardengroup.co.jp/brand/darumanome/
+- https://gardengroup.co.jp/brand/hawaiian/
+- https://gardengroup.co.jp/brand/bar/
+- https://gardengroup.co.jp/brand/nikusushi/
+- https://gardengroup.co.jp/brand/kaio/
