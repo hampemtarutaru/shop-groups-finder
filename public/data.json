@@ -3839,6 +3839,93 @@
           "text": "2月、東海開発と合併し株式会社札幌かに本家に商号変更。"
         }
       ]
+    },
+    {
+      "id": "heijoen",
+      "name": "平城苑（東京焼肉 一頭や・肉屋横丁・BLT STEAK）",
+      "company": "株式会社平城苑",
+      "summary": "1970年足立区で創業。焼肉 平城苑、東京焼肉 平城苑、東京焼肉 一頭や、和牛放題の殿堂 肉屋横丁、Wagyu Burger、KOBE BEEF DINING 和牛特区を展開。NY発ステーキハウスBLT STEAKの日本店舗も運営。ブランド発祥地と日本法人の運営は区別し、一部FC店舗を平城苑本社の直接運営とは扱わない。",
+      "source": "https://heijoen.co.jp/store/",
+      "accent": "#94644B",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1970",
+          "text": "足立区竹の塚で平城苑を創業。"
+        },
+        {
+          "year": "2012",
+          "text": "現法人の株式会社平城苑設立。"
+        }
+      ]
+    },
+    {
+      "id": "carnevale-kintan",
+      "name": "カルネヴァーレ（焼肉KINTAN・金舌・星遊山）",
+      "company": "株式会社カルネヴァーレ",
+      "summary": "2013年に焼肉KINTANを開業。しゃぶしゃぶKINTAN、肉割烹KINTAN、THE KINTAN STEAK、牛肉寿司きんたん、金舌、天空焼肉 星遊山、焼肉Bovin'd Orなどを展開。過去の2018年のファンド取得は確認できるが2026年時点の資本親会社をそのまま推定しない。KINTAN地域別店舗は共通ブランドとして集約。",
+      "source": "https://carnevale.jp/brands/",
+      "accent": "#B18368",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "2013",
+          "text": "恵比寿焼肉kintanを開業。"
+        },
+        {
+          "year": "2018",
+          "text": "ベーシック・キャピタルの運営ファンドが既存株主から株式を取得。"
+        }
+      ]
+    },
+    {
+      "id": "nangokusyuka",
+      "name": "南国酒家（47china・南琳華・原宿麺飯房）",
+      "company": "株式会社南国酒家",
+      "summary": "1961年に創業した広東料理中心の中国料理企業。南国酒家、南国酒家 47china、あんかけやきそば南国酒家、原宿麺飯房、南琳華、純中華 南国酒家を公式の現行店舗一覧で確認。フランチャイズ店もあり運営会社は各店で異なる場合がある。四川飯店とは別会社。",
+      "source": "https://nangokusyuka.co.jp/store.html",
+      "accent": "#AD8461",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1961",
+          "text": "11月22日に会社設立。"
+        }
+      ]
+    },
+    {
+      "id": "sisen-hanten",
+      "name": "四川飯店（スーツァンレストラン陳）",
+      "company": "四川飯店株式会社",
+      "summary": "四川飯店とスーツァンレストラン陳を展開。公式店舗一覧には麻婆豆腐・担々麺専門店も掲載されるが、商品ジャンルの説明か独立固有屋号か確定できないため別ブランド登録しない。2026年9月、民権企業・四国民権企業・エス・アール・チンの旧会社を四川飯店株式会社へ統合・商号変更。ホテル内の提携店舗・海外店はすべて直営と断定しない。",
+      "source": "https://www.sisen.jp/about/",
+      "accent": "#B66C59",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1970",
+          "text": "旧事業会社設立。"
+        },
+        {
+          "year": "2026",
+          "text": "9月にグループ事業会社を四川飯店株式会社へ統合・商号変更。"
+        }
+      ]
+    },
+    {
+      "id": "kaseiro",
+      "name": "華正樓（横浜中華街・鎌倉）",
+      "company": "株式会社華正樓",
+      "summary": "1939年創業、横浜中華街の高級中国料理店。華正樓本店・新館・鎌倉店と菓子・惣菜売店を運営。関連会社は華正樓商事株式会社、華正樓フーズ株式会社。月餅・肉まんなどの商品名、百貨店の取扱売場、同名店の支店は独立した別系列として水増ししない。",
+      "source": "https://www.kaseiro.com/company/",
+      "accent": "#8D6966",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1939",
+          "text": "株式会社華正樓設立。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -16133,6 +16220,272 @@
         "札幌蟹本家"
       ],
       "source": "https://www.kani-honke.co.jp/about.html"
+    },
+    {
+      "name": "焼肉 平城苑",
+      "group": "heijoen",
+      "operator": "株式会社平城苑（FC店舗は運営会社が別の場合あり）",
+      "source": "https://heijoen.co.jp/store/",
+      "aliases": [
+        "平城苑",
+        "HEIJOEN"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "東京焼肉 平城苑",
+      "group": "heijoen",
+      "operator": "株式会社平城苑（FC店舗は運営会社が別の場合あり）",
+      "source": "https://heijoen.co.jp/store/",
+      "aliases": [
+        "東京焼肉平城苑"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "東京焼肉 一頭や",
+      "group": "heijoen",
+      "operator": "株式会社平城苑（FC店舗は運営会社が別の場合あり）",
+      "source": "https://heijoen.co.jp/store/",
+      "aliases": [
+        "一頭や",
+        "歌舞伎町焼肉 一頭や"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "和牛放題の殿堂 肉屋横丁",
+      "group": "heijoen",
+      "operator": "株式会社平城苑（FC店舗は運営会社が別の場合あり）",
+      "source": "https://heijoen.co.jp/store/",
+      "aliases": [
+        "肉屋横丁",
+        "和牛放題 肉屋横丁"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "Wagyu Burger",
+      "group": "heijoen",
+      "operator": "株式会社平城苑（FC店舗は運営会社が別の場合あり）",
+      "source": "https://heijoen.co.jp/store/",
+      "aliases": [
+        "和牛バーガー",
+        "ワギュウバーガー"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "KOBE BEEF DINING 和牛特区",
+      "group": "heijoen",
+      "operator": "株式会社平城苑（FC店舗は運営会社が別の場合あり）",
+      "source": "https://heijoen.co.jp/store/",
+      "aliases": [
+        "和牛特区",
+        "BEEF DINING 和牛特区"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "BLT STEAK",
+      "group": "heijoen",
+      "operator": "株式会社平城苑（日本国内の店舗運営）",
+      "source": "https://heijoen.co.jp/store/",
+      "aliases": [
+        "BLT STEAK GINZA",
+        "BLTステーキ"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "焼肉KINTAN",
+      "group": "carnevale-kintan",
+      "operator": "株式会社カルネヴァーレ",
+      "source": "https://carnevale.jp/brands/",
+      "aliases": [
+        "KINTAN",
+        "焼肉キンタン",
+        "恵比寿焼肉kintan"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "しゃぶしゃぶKINTAN",
+      "group": "carnevale-kintan",
+      "operator": "株式会社カルネヴァーレ",
+      "source": "https://carnevale.jp/brands/",
+      "aliases": [
+        "しゃぶしゃぶキンタン",
+        "Shabu Shabu KINTAN"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "肉割烹KINTAN",
+      "group": "carnevale-kintan",
+      "operator": "株式会社カルネヴァーレ",
+      "source": "https://carnevale.jp/brands/",
+      "aliases": [
+        "肉割烹 KINTAN",
+        "KINTAN コレド室町"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "THE KINTAN STEAK",
+      "group": "carnevale-kintan",
+      "operator": "株式会社カルネヴァーレ",
+      "source": "https://carnevale.jp/brands/",
+      "aliases": [
+        "キンタンステーキ",
+        "ザ・キンタン・ステーキ"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "牛肉寿司きんたん",
+      "group": "carnevale-kintan",
+      "operator": "株式会社カルネヴァーレ",
+      "source": "https://carnevale.jp/brands/",
+      "aliases": [
+        "牛肉寿司 KINTAN",
+        "牛肉寿司 キンタン"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "金舌",
+      "group": "carnevale-kintan",
+      "operator": "株式会社カルネヴァーレ",
+      "source": "https://carnevale.jp/brands/",
+      "aliases": [
+        "金舌赤坂",
+        "金舌白金",
+        "割烹 金舌"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "天空焼肉 星遊山",
+      "group": "carnevale-kintan",
+      "operator": "株式会社カルネヴァーレ",
+      "source": "https://carnevale.jp/brands/",
+      "aliases": [
+        "星遊山",
+        "SEIYU-ZAN"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "焼肉Bovin’d Or",
+      "group": "carnevale-kintan",
+      "operator": "株式会社カルネヴァーレ",
+      "source": "https://carnevale.jp/brands/",
+      "aliases": [
+        "Bovin'd Or",
+        "ボヴァンドール"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "南国酒家",
+      "group": "nangokusyuka",
+      "operator": "株式会社南国酒家（FC店は運営会社が異なる場合あり）",
+      "source": "https://nangokusyuka.co.jp/store.html",
+      "aliases": [
+        "中国料理 南国酒家",
+        "NANGOKU SHUKA"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "南国酒家 47china",
+      "group": "nangokusyuka",
+      "operator": "株式会社南国酒家（FC店は運営会社が異なる場合あり）",
+      "source": "https://nangokusyuka.co.jp/store/47china.html",
+      "aliases": [
+        "47china",
+        "47 china",
+        "南国酒家 47 China"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "あんかけやきそば南国酒家",
+      "group": "nangokusyuka",
+      "operator": "株式会社南国酒家（FC店は運営会社が異なる場合あり）",
+      "source": "https://nangokusyuka.co.jp/store.html",
+      "aliases": [
+        "あんかけ焼きそば南国酒家"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "原宿麺飯房",
+      "group": "nangokusyuka",
+      "operator": "株式会社南国酒家（FC店は運営会社が異なる場合あり）",
+      "source": "https://nangokusyuka.co.jp/store.html",
+      "aliases": [
+        "原宿麺飯房 東京ソラマチ店"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "南琳華",
+      "group": "nangokusyuka",
+      "operator": "株式会社南国酒家（FC店は運営会社が異なる場合あり）",
+      "source": "https://nangokusyuka.co.jp/store/nanrinka.html",
+      "aliases": [
+        "ナンリンカ",
+        "Nanrinka"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "純中華 南国酒家",
+      "group": "nangokusyuka",
+      "operator": "株式会社南国酒家（FC店は運営会社が異なる場合あり）",
+      "source": "https://nangokusyuka.co.jp/store.html",
+      "aliases": [
+        "純中華南国酒家 伊勢丹新宿店"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "四川飯店",
+      "group": "sisen-hanten",
+      "operator": "四川飯店株式会社（ホテル内提携店などは別法人の運営の場合あり）",
+      "source": "https://www.sisen.jp/",
+      "aliases": [
+        "赤坂四川飯店",
+        "日本橋四川飯店",
+        "四川飯店 TOKYO"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "スーツァンレストラン陳",
+      "group": "sisen-hanten",
+      "operator": "四川飯店株式会社（ホテル内提携店などは別法人の運営の場合あり）",
+      "source": "https://www.sisen.jp/",
+      "aliases": [
+        "スーツァン レストラン 陳",
+        "Szechwan Restaurant CHEN"
+      ],
+      "category": "飲食"
+    },
+    {
+      "name": "華正樓",
+      "group": "kaseiro",
+      "operator": "株式会社華正樓",
+      "source": "https://www.kaseiro.com/company/",
+      "aliases": [
+        "華正楼",
+        "カセイロウ",
+        "KASEIRO",
+        "華正樓 本店"
+      ],
+      "category": "飲食"
     }
   ]
 }
