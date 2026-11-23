@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-23",
   "notice": "掲載対象は一部のブランドです。企業の資本・運営関係は変わることがあります。",
   "groups": [
     {
@@ -3645,6 +3645,41 @@
       "source": "https://www.chateraisegroup.jp/about/",
       "checked": "2026-11-17",
       "events": []
+    },
+    {
+      "id": "garden-restaurants",
+      "name": "ガーデン（山下本気うどん・壱角家ほか）",
+      "company": "株式会社ガーデン",
+      "summary": "東証スタンダード上場（証券コード274A）の外食・不動産企業。2012年にインタビューマン山下が創業した『山下本気うどん』は2017年ライセンス契約、2021年商標権取得を経てガーデンの自社ブランドとなった。家系ラーメンの壱角家、味噌ラーメン萬馬軒、そば居酒屋高田屋、情熱のすためしどんどん、博多豚骨ラーメン一竜など多業態を展開。山下本気うどんなどにはFC店舗もあり、すべてが直営店という意味ではない。油そば総本店等の『ハイブリッド』複合業態は店舗数に二重算入せず、店舗検索上の屋号として記載。日本事業とタイの合弁会社SINGHA GARDENで運営する海外店は区別する。",
+      "accent": "#B67455",
+      "source": "https://gardengroup.co.jp/brand/",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "2012",
+          "text": "インタビューマン山下が目黒で『山下本気うどん』を創業。ガーデンとはまだ別事業。"
+        },
+        {
+          "year": "2017",
+          "text": "6月に山下本気うどんのライセンス契約を締結。"
+        },
+        {
+          "year": "2018",
+          "text": "グループ子会社12社をガーデンに吸収合併。"
+        },
+        {
+          "year": "2021",
+          "text": "10月に山下本気うどんの商標権を取得。"
+        },
+        {
+          "year": "2024",
+          "text": "11月に東証スタンダード市場へ上場。"
+        },
+        {
+          "year": "2026",
+          "text": "3月タイ現地の合弁会社SINGHA GARDENを設立し、9月に海外1号店をオープン。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -15464,6 +15499,197 @@
       "category": "専門店",
       "aliases": [],
       "source": "https://www.chateraisegroup.jp/about/"
+    },
+    {
+      "name": "山下本気うどん",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "山下本気饂飩",
+        "Yamashita Honki Udon"
+      ],
+      "source": "https://gardengroup.co.jp/brand/yamashita/"
+    },
+    {
+      "name": "壱角家",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "いっかくや",
+        "IKKAKUYA"
+      ],
+      "source": "https://gardengroup.co.jp/brand/ikkakuya/"
+    },
+    {
+      "name": "萬馬軒",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "まんばけん",
+        "Manbaken"
+      ],
+      "source": "https://gardengroup.co.jp/brand/"
+    },
+    {
+      "name": "高田屋",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "北前そば 高田屋",
+        "そば居酒屋 高田屋"
+      ],
+      "source": "https://gardengroup.co.jp/brand/takadaya/"
+    },
+    {
+      "name": "情熱のすためしどんどん",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "すためしどんどん",
+        "どんどん"
+      ],
+      "source": "https://gardengroup.co.jp/brand/dondon/"
+    },
+    {
+      "name": "一竜",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "博多豚骨ラーメン一竜",
+        "ICHIRYU"
+      ],
+      "source": "https://gardengroup.co.jp/brand/"
+    },
+    {
+      "name": "だるまのめ",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "ダルマノメ"
+      ],
+      "source": "https://gardengroup.co.jp/brand/darumanome/"
+    },
+    {
+      "name": "油そば総本店",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "油そば総本店（複合店）"
+      ],
+      "source": "https://gardengroup.co.jp/brand/darumanome/"
+    },
+    {
+      "name": "壱角堂",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "いっかくどう"
+      ],
+      "source": "https://gardengroup.co.jp/brand/darumanome/"
+    },
+    {
+      "name": "品川製麺所",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "しながわせいめんじょ"
+      ],
+      "source": "https://gardengroup.co.jp/brand/darumanome/"
+    },
+    {
+      "name": "鉄板王国",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "TEPPAN OUKOKU"
+      ],
+      "source": "https://gardengroup.co.jp/brand/"
+    },
+    {
+      "name": "てらッちょ。",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "てらっちょ",
+        "テラッチョ"
+      ],
+      "source": "https://gardengroup.co.jp/brand/"
+    },
+    {
+      "name": "The Veranda",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "ザ・ベランダ",
+        "ザ ベランダ"
+      ],
+      "source": "https://gardengroup.co.jp/brand/hawaiian/"
+    },
+    {
+      "name": "RRainbow",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "アールレインボー",
+        "レインボー"
+      ],
+      "source": "https://gardengroup.co.jp/brand/hawaiian/"
+    },
+    {
+      "name": "MARZAC",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "居酒屋",
+      "aliases": [
+        "マルザック"
+      ],
+      "source": "https://gardengroup.co.jp/brand/bar/"
+    },
+    {
+      "name": "MARZAC7",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "居酒屋",
+      "aliases": [
+        "マルザック7",
+        "マルザックセブン"
+      ],
+      "source": "https://gardengroup.co.jp/brand/bar/"
+    },
+    {
+      "name": "シン・ニクズシマン",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "居酒屋",
+      "aliases": [
+        "シンニクズシマン"
+      ],
+      "source": "https://gardengroup.co.jp/brand/nikusushi/"
+    },
+    {
+      "name": "SUSHI PREMIUM海王",
+      "group": "garden-restaurants",
+      "operator": "株式会社ガーデン（FC店舗の運営法人は店舗ごとに異なる場合あり）",
+      "category": "飲食",
+      "aliases": [
+        "SUSHI PREMIUM 海王",
+        "海王"
+      ],
+      "source": "https://gardengroup.co.jp/brand/kaio/"
     }
   ]
 }
