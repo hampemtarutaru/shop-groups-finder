@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、173グループ・1120ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、182グループ・1146ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -1079,3 +1079,28 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://gardengroup.co.jp/brand/bar/
 - https://gardengroup.co.jp/brand/nikusushi/
 - https://gardengroup.co.jp/brand/kaio/
+
+## 出典・更新メモ（2026-11-23 高級レストラン・同名のれん分け）
+
+銀座アスター／叙々苑／うかい／人形町今半／浅草今半／今半本店／今半別館／かに道楽／札幌かに本家の9グループ・26ブランドを追加し、合計182グループ・1146ブランドとした。木曽路・梅の花は既存登録済みのため二重登録しない。銀座アスター食品の別業態に「日本橋紫苑」「草 日本橋」、叙々苑の別業態に「游玄亭」「ステーキJJ」を登録。うかい亭は銀座・横浜など各店名を検索別名にまとめ、閉店したうかい竹亭・東京 芝 とうふ屋うかいを現行ブランド数に水増ししない。うかいの主要株主として京王電鉄・キッコーマンは列挙されるが、完全子会社と誤認させない。人形町今半・浅草今半・今半本店・今半別館は歴史的にはつながりがあるが現在の事業法人は別。浅草今半では株式会社今半が製造販売、株式会社高伴が飲食店を担当。今半本店の正式登記商号は未確認のため表現を留保。かに道楽は日和山観光グループ、札幌かに本家は起源に関係があっても別会社。かに道楽の高級業態「網元」も独立検索対象。
+
+- https://www.ginza-aster.co.jp/corporate/
+- https://www.ginza-aster.co.jp/shops/
+- https://www.ginza-aster.co.jp/shops/42nihombashi/
+- https://www.n-shion.jp/
+- https://www.jojoen.co.jp/corp/
+- https://www.jojoen.co.jp/yugentei/
+- https://www.jojoen.co.jp/steakjj/
+- https://www.ukai.co.jp/corporate/company/outline.html
+- https://www.ukai.co.jp/corporate/company/business.html
+- https://www.ukai.co.jp/atelier/
+- https://www.imahan.co.jp/company
+- https://restaurant.imahan.com/
+- https://www.asakusaimahan.co.jp/company/
+- https://www.imahan-honten.co.jp/
+- https://www.asakusa-imahan.co.jp/
+- https://asakusa-imahan.shop-pro.jp/?mode=sk
+- https://douraku.co.jp/company/
+- https://douraku.co.jp/amimoto/
+- https://marineworld.hiyoriyama.co.jp/hiyoriyama/business/business.html
+- https://www.kani-honke.co.jp/about.html
