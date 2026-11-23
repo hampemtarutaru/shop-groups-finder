@@ -4290,6 +4290,56 @@
           "text": "4月、R&BホテルをワシントンR&Bホテルに改称。"
         }
       ]
+    },
+    {
+      "id": "marriott-international",
+      "name": "マリオット・インターナショナル（リッツ・カールトン・シェラトン等）",
+      "company": "Marriott International, Inc.",
+      "summary": "国際ホテルブランド会社。ラグジュアリーのザ・リッツ・カールトン、セントレジス、JWマリオットから、マリオット、シェラトン、ウェスティン、コートヤード、フェアフィールド、モクシー等まで幅広いブランド網。国内施設は他社所有・他社運営やマネジメント契約も多い。西武プリンスの『ザ・プリンスギャラリー東京紀尾井町』、JR東日本の『メズム東京』、JR西日本の『THE OSAKA STATION HOTEL』はマリオットのコレクションブランドと加盟提携しているが、これらをマリオットが100%出資する国内運営会社と扱わない。",
+      "source": "https://www.marriott.com/ja/brands.mi",
+      "accent": "#957C78",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "hilton-worldwide",
+      "name": "ヒルトングループ（ウォルドーフ・アストリア・コンラッド・ダブルツリー）",
+      "company": "Hilton Worldwide Holdings Inc.",
+      "summary": "グローバルブランド本部。最上級のウォルドーフ・アストリア、コンラッド、LXRから、ヒルトン、ダブルツリー、ヒルトン・ガーデン・イン、キャノピー、キュリオ・コレクション等を展開。日本などのホテルはフランチャイズ・経営受託などがあり、ブランド元とホテル建物所有会社・現地運営会社は同じではない場合がある。ヒルトングランドバケーションズはホテルブランドと異なるタイムシェア事業のため今回のホテル件数には含めない。",
+      "source": "https://www.hilton.com/en/brands/",
+      "accent": "#748FAD",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "ihg-hotels",
+      "name": "IHGホテルズ＆リゾーツ（インターコンチネンタル・クラウンプラザ等）",
+      "company": "InterContinental Hotels Group PLC（IHG Hotels & Resorts）",
+      "summary": "世界のインターコンチネンタル、リージェント、シックスセンシズ、キンプトン、ホテルインディゴ、voco、クラウンプラザ、ホリデイ・イン、ヴィニェット コレクションなどを展開する国際ホテルブランド本部。日本のANAインターコンチネンタル、ANAクラウンプラザ等はIHG・ANAの提携運営形態を含む。『リーガロイヤルホテル大阪』は2025年にヴィニェット コレクションへ加盟したが、国内の運営会社はロイヤルホテル系のままであり、ブランド提携と資本系列は区別。",
+      "source": "https://www.ihg.com/content/us/en/about/brands",
+      "accent": "#8A779E",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "hyatt-hotels",
+      "name": "ハイアット（パークハイアット・グランドハイアット・アンダーズ等）",
+      "company": "Hyatt Hotels Corporation",
+      "summary": "パークハイアット、グランドハイアット、ハイアット リージェンシー、アンダーズ、ハイアット セントリック、ハイアット プレイス、キャプション by Hyattなどを展開する国際ホテルグループ。日本でハイアットブランドを掲げるホテルの建物所有会社・運営受託会社はホテルごとに異なる。国際ブランド系列の加盟と地元の資本系列を混同しない。",
+      "source": "https://www.hyatt.com/promo/hotels-in-japan",
+      "accent": "#7A8D99",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "accor-hotels",
+      "name": "アコー（ラッフルズ・フェアモント・ソフィテル・メルキュール等）",
+      "company": "Accor SA",
+      "summary": "フランスを本拠とする国際ホテルブランドグループ。超高級ラッフルズ、フェアモント、ソフィテルから、プルマン、スイスホテル、グランドメルキュール、ノボテル、メルキュール、イビス系まで幅広く展開。日本でも複数のブランドが展開されるが、現地の開発会社・運営受託会社や不動産所有会社は別の場合があり、ブランドの系列を国内建物の所有関係と同一視しない。",
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands",
+      "accent": "#A68B64",
+      "checked": "2026-11-23",
+      "events": []
     }
   ],
   "brands": [
@@ -18869,6 +18919,575 @@
         "Washington R&B Hotel"
       ],
       "source": "https://www.washingtonhotel.co.jp/corporation/business/"
+    },
+    {
+      "name": "ザ・リッツ・カールトン",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "The Ritz-Carlton",
+        "リッツカールトン"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "セントレジス",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "St. Regis",
+        "St Regis"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "JWマリオット",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "JW Marriott"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "マリオット・ホテル",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Marriott Hotels",
+        "マリオットホテル"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "シェラトン",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Sheraton",
+        "シェラトンホテル"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "ウェスティン",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Westin",
+        "ウェスティンホテル"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "ル・メリディアン",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Le Méridien",
+        "Le Meridien"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "ラグジュアリーコレクション",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "The Luxury Collection",
+        "Luxury Collection"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "オートグラフ コレクション",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Autograph Collection",
+        "Autograph Collection Hotels"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "コートヤード・バイ・マリオット",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Courtyard by Marriott",
+        "コートヤード"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "フェアフィールド・バイ・マリオット",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Fairfield by Marriott",
+        "フェアフィールド"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "モクシー",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Moxy Hotels",
+        "Moxy",
+        "モクシーホテル"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "アロフト",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Aloft Hotels"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "ACホテル・バイ・マリオット",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "AC Hotels by Marriott",
+        "ACホテル"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "フォーポイント フレックス by シェラトン",
+      "group": "marriott-international",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Four Points Flex by Sheraton",
+        "フォーポイントフレックス"
+      ],
+      "source": "https://www.marriott.com/ja/brands.mi"
+    },
+    {
+      "name": "ウォルドーフ・アストリア",
+      "group": "hilton-worldwide",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Waldorf Astoria Hotels & Resorts",
+        "Waldorf Astoria"
+      ],
+      "source": "https://www.hilton.com/en/brands/"
+    },
+    {
+      "name": "コンラッド",
+      "group": "hilton-worldwide",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Conrad Hotels & Resorts",
+        "Conrad",
+        "コンラッド東京",
+        "コンラッド大阪"
+      ],
+      "source": "https://www.hilton.com/en/brands/"
+    },
+    {
+      "name": "LXRホテルズ＆リゾーツ",
+      "group": "hilton-worldwide",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "LXR Hotels & Resorts",
+        "LXR"
+      ],
+      "source": "https://www.hilton.com/en/brands/"
+    },
+    {
+      "name": "ヒルトン",
+      "group": "hilton-worldwide",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hilton Hotels & Resorts",
+        "Hilton",
+        "ヒルトン東京"
+      ],
+      "source": "https://www.hilton.com/en/brands/"
+    },
+    {
+      "name": "ダブルツリーbyヒルトン",
+      "group": "hilton-worldwide",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "DoubleTree by Hilton",
+        "ダブルツリー"
+      ],
+      "source": "https://www.hilton.com/en/brands/"
+    },
+    {
+      "name": "ヒルトン・ガーデン・イン",
+      "group": "hilton-worldwide",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hilton Garden Inn"
+      ],
+      "source": "https://www.hilton.com/en/brands/"
+    },
+    {
+      "name": "キャノピーbyヒルトン",
+      "group": "hilton-worldwide",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Canopy by Hilton",
+        "キャノピー"
+      ],
+      "source": "https://www.hilton.com/en/brands/"
+    },
+    {
+      "name": "キュリオ・コレクションbyヒルトン",
+      "group": "hilton-worldwide",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Curio Collection by Hilton",
+        "キュリオコレクション"
+      ],
+      "source": "https://www.hilton.com/en/brands/"
+    },
+    {
+      "name": "タペストリー・コレクションbyヒルトン",
+      "group": "hilton-worldwide",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Tapestry Collection by Hilton",
+        "タペストリーコレクション"
+      ],
+      "source": "https://www.hilton.com/en/brands/"
+    },
+    {
+      "name": "インターコンチネンタル",
+      "group": "ihg-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "InterContinental Hotels & Resorts",
+        "ANAインターコンチネンタルホテル",
+        "インターコンチネンタルホテル"
+      ],
+      "source": "https://www.ihg.com/content/us/en/about/brands"
+    },
+    {
+      "name": "リージェント ホテルズ＆リゾーツ",
+      "group": "ihg-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Regent Hotels & Resorts",
+        "リージェント"
+      ],
+      "source": "https://www.ihg.com/content/us/en/about/brands"
+    },
+    {
+      "name": "シックスセンシズ",
+      "group": "ihg-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Six Senses",
+        "シックスセンシズ京都"
+      ],
+      "source": "https://www.ihg.com/content/us/en/about/brands"
+    },
+    {
+      "name": "キンプトン",
+      "group": "ihg-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Kimpton Hotels & Restaurants",
+        "キンプトン新宿東京"
+      ],
+      "source": "https://www.ihg.com/content/us/en/about/brands"
+    },
+    {
+      "name": "ホテルインディゴ",
+      "group": "ihg-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hotel Indigo"
+      ],
+      "source": "https://www.ihg.com/content/us/en/about/brands"
+    },
+    {
+      "name": "voco",
+      "group": "ihg-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ヴォコ",
+        "voco Hotels",
+        "voco大阪セントラル"
+      ],
+      "source": "https://www.ihg.com/content/us/en/about/brands"
+    },
+    {
+      "name": "クラウンプラザ",
+      "group": "ihg-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Crowne Plaza",
+        "ANAクラウンプラザホテル",
+        "クラウンプラザホテル"
+      ],
+      "source": "https://www.ihg.com/content/us/en/about/brands"
+    },
+    {
+      "name": "ホリデイ・イン",
+      "group": "ihg-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Holiday Inn",
+        "ANAホリデイ・イン"
+      ],
+      "source": "https://www.ihg.com/content/us/en/about/brands"
+    },
+    {
+      "name": "ホリデイ・イン エクスプレス",
+      "group": "ihg-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Holiday Inn Express"
+      ],
+      "source": "https://www.ihg.com/content/us/en/about/brands"
+    },
+    {
+      "name": "ヴィニェット コレクション",
+      "group": "ihg-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Vignette Collection",
+        "リーガロイヤルホテル大阪 ヴィニェット コレクション"
+      ],
+      "source": "https://www.ihg.com/content/us/en/about/brands"
+    },
+    {
+      "name": "パークハイアット",
+      "group": "hyatt-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Park Hyatt",
+        "パークハイアット東京",
+        "パークハイアット京都"
+      ],
+      "source": "https://www.hyatt.com/promo/hotels-in-japan"
+    },
+    {
+      "name": "グランドハイアット",
+      "group": "hyatt-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Grand Hyatt",
+        "グランドハイアット東京"
+      ],
+      "source": "https://www.hyatt.com/promo/hotels-in-japan"
+    },
+    {
+      "name": "ハイアット リージェンシー",
+      "group": "hyatt-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hyatt Regency",
+        "ハイアットリージェンシー"
+      ],
+      "source": "https://www.hyatt.com/promo/hotels-in-japan"
+    },
+    {
+      "name": "アンダーズ",
+      "group": "hyatt-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Andaz",
+        "アンダーズ東京"
+      ],
+      "source": "https://www.hyatt.com/promo/hotels-in-japan"
+    },
+    {
+      "name": "ハイアット セントリック",
+      "group": "hyatt-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hyatt Centric",
+        "ハイアットセントリック"
+      ],
+      "source": "https://www.hyatt.com/promo/hotels-in-japan"
+    },
+    {
+      "name": "ハイアット プレイス",
+      "group": "hyatt-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hyatt Place",
+        "ハイアットプレイス"
+      ],
+      "source": "https://www.hyatt.com/promo/hotels-in-japan"
+    },
+    {
+      "name": "キャプション by Hyatt",
+      "group": "hyatt-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Caption by Hyatt",
+        "キャプションbyハイアット",
+        "キャプション by Hyatt 兜町 東京"
+      ],
+      "source": "https://www.hyatt.com/promo/hotels-in-japan"
+    },
+    {
+      "name": "ラッフルズ",
+      "group": "accor-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Raffles Hotels & Resorts",
+        "Raffles"
+      ],
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands"
+    },
+    {
+      "name": "フェアモント",
+      "group": "accor-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Fairmont Hotels & Resorts",
+        "Fairmont",
+        "フェアモント東京"
+      ],
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands"
+    },
+    {
+      "name": "ソフィテル",
+      "group": "accor-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Sofitel Hotels & Resorts",
+        "Sofitel"
+      ],
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands"
+    },
+    {
+      "name": "プルマン",
+      "group": "accor-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Pullman Hotels & Resorts",
+        "Pullman"
+      ],
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands"
+    },
+    {
+      "name": "スイスホテル",
+      "group": "accor-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Swissôtel",
+        "Swissotel",
+        "スイスホテル南海大阪"
+      ],
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands"
+    },
+    {
+      "name": "グランドメルキュール",
+      "group": "accor-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Grand Mercure",
+        "グランド メルキュール"
+      ],
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands"
+    },
+    {
+      "name": "メルキュール",
+      "group": "accor-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Mercure Hotels",
+        "Mercure"
+      ],
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands"
+    },
+    {
+      "name": "ノボテル",
+      "group": "accor-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Novotel"
+      ],
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands"
+    },
+    {
+      "name": "イビス",
+      "group": "accor-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ibis Hotels",
+        "ibis",
+        "ibis Styles",
+        "ibis budget"
+      ],
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands"
+    },
+    {
+      "name": "Mギャラリー",
+      "group": "accor-hotels",
+      "operator": "国際ブランド運営・フランチャイズ網（日本の各ホテルの運営法人は施設ごとに異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "MGallery Hotel Collection",
+        "MGallery",
+        "Mギャラリー バイ ソフィテル"
+      ],
+      "source": "https://group.accor.com/en/brands-and-experiences/our-hotel-brands"
     }
   ]
 }
