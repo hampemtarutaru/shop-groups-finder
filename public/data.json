@@ -4064,6 +4064,232 @@
           "text": "8月に『うなぎ河岸』を開店。"
         }
       ]
+    },
+    {
+      "id": "imperial-hotels",
+      "name": "帝国ホテル（東京・大阪・京都・上高地）",
+      "company": "株式会社帝国ホテル",
+      "summary": "1890年開業の老舗ホテル会社。帝国ホテル東京・大阪・京都、上高地帝国ホテル、ザ・クレストホテル柏を運営。2026年3月5日に帝国ホテル京都が開業。2026年9月末時点で三井不動産が議決権関連の持分33.20%を有する主要株主だが、三井ガーデンホテルを運営する三井不動産ホテルマネジメントと同一会社、または帝国ホテルが三井不動産の完全子会社であるという意味ではない。店舗名・ブランドと建物の所有権を区別。",
+      "source": "https://www.imperialhotel.co.jp/company/overview",
+      "accent": "#9C8072",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1890",
+          "text": "帝国ホテル東京開業。"
+        },
+        {
+          "year": "2026",
+          "text": "3月5日に帝国ホテル京都が開業。"
+        }
+      ]
+    },
+    {
+      "id": "newotani-hotels",
+      "name": "ニューオータニホテルズ（ホテルニューオータニ・ニューオータニイン）",
+      "company": "株式会社ニュー・オータニ",
+      "summary": "ホテルニューオータニ東京・幕張・大阪の3直営を中心に、ホテルニューオータニ博多・佐賀等のグループホテルや、ニューオータニイン、NASPAニューオータニを含むネットワーク。グループ／アソシエイトホテルには各地の別法人運営があり、すべて株式会社ニュー・オータニ直営とは記さない。東京のエグゼクティブハウス禅・ザ・メイン・ガーデンタワーは同一ホテル内の宿泊区分で、別企業ブランドとして水増ししない。",
+      "source": "https://www.newotani.co.jp/group/company/profile/",
+      "accent": "#B18C69",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1964",
+          "text": "ホテルニューオータニ東京開業。"
+        }
+      ]
+    },
+    {
+      "id": "okura-nikko-hotels",
+      "name": "オークラ ニッコー ホテルズ（ホテルオークラ・日航・JALシティ）",
+      "company": "株式会社ホテルオークラ／株式会社オークラ ニッコー ホテルマネジメント",
+      "summary": "オークラ系とホテル日航・グランドニッコー・ホテルJALシティ・ニッコースタイルを一体で展開するホテル運営・ブランドネットワーク。2015年にホテルオークラ系とJALホテルズ系の運営統合を実施。ホテル日航・JALシティは日本航空の名称を含むが、国内の全館を日本航空が直接運営しているという意味ではない。各ホテルの所有会社・実営業者は施設ごとに異なる。提携アライアンスホテルは同一の資本系列としない。",
+      "source": "https://okura.com/ja/our-brands/",
+      "accent": "#5D809A",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "2015",
+          "text": "オークラとJALホテルズの運営ネットワークを統合。"
+        }
+      ]
+    },
+    {
+      "id": "seibu-prince-hotels",
+      "name": "西武プリンスホテルズ＆リゾーツ",
+      "company": "株式会社西武・プリンスホテルズワールドワイド（西武グループ）",
+      "summary": "高級のザ・プリンスアカトキ、ザ・プリンス、グランドプリンスホテルからプリンスホテル、宿泊特化型プリンス スマート インまで幅広く展開。海外のパークレジス、パーク プロキシー、レジャーイン等も公式ブランドポートフォリオに掲載。国内・海外の所有・運営・フランチャイズ・ブランド提携方式は異なるため、すべて日本国内直営とは表現しない。ザ・プリンスギャラリー東京紀尾井町はマリオットのラグジュアリーコレクションにも加盟するが、西武側の運営関係と国際ブランド加盟は別の関係。",
+      "source": "https://www.seibuprince.com/ja/brands",
+      "accent": "#6D8EAA",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "tokyu-hotels",
+      "name": "東急ホテルズ（ザ・キャピトル・東急ホテル・REI・STREAM）",
+      "company": "東急ホテルズ＆リゾーツ株式会社（東急グループ）",
+      "summary": "東急ホテル・エクセルホテル東急・東急REIホテルの既存3ブランド、ザ・キャピトルホテル東急、STREAM HOTEL、STORYLINEなどを展開。単独ホテルの運営方式がホテルごとに異なる場合がある。2026年3月に国際ホテルアライアンスGlobal Hotel Allianceへの加盟を発表したが、加盟先全ブランドを東急の子会社とは分類しない。2027年開業予定施設を現行営業店として水増ししない。",
+      "source": "https://www.tokyuhotels.co.jp/hotel/index.html",
+      "accent": "#8F729D",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "royalpark-hotels",
+      "name": "三菱地所ホテルズ＆リゾーツ（ロイヤルパークホテルズ）",
+      "company": "三菱地所ホテルズ＆リゾーツ株式会社（三菱地所グループ）",
+      "summary": "日本橋のロイヤルパークホテルと、THE ROYAL PARK HOTEL ICONIC、THE ROYAL PARK HOTEL、THE ROYAL PARK CANVASの各ブランドラインを運営する三菱地所系チェーン。『リーガロイヤルホテル』のロイヤルホテル株式会社や、ロイヤルホールディングスの飲食店とは資本・運営の別グループ。系列ホテルの建物所有と運営は別の場合あり。",
+      "source": "https://www.royalparkhotels.co.jp/brand/",
+      "accent": "#7598A0",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "mitsui-garden-hotels",
+      "name": "三井不動産ホテルマネジメント（セレスティン・三井ガーデン・sequence）",
+      "company": "株式会社三井不動産ホテルマネジメント（三井不動産グループ）",
+      "summary": "ホテル ザ セレスティン、三井ガーデンホテル、sequenceの3ホテルブランドを展開。三井ガーデンホテルのプレミアやミレニアム等の個別施設名は基本ブランドに検索別名で集約。帝国ホテルは三井不動産が主要株主の別会社であり、この3ブランドの直接運営会社ではない。",
+      "source": "https://www.mitsuifudosan-hotelmanagement.com/brand/",
+      "accent": "#7C9B7D",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "hankyu-hanshin-hotels",
+      "name": "阪急阪神第一ホテルグループ（レム・阪急・阪神・第一ホテル）",
+      "company": "株式会社阪急阪神ホテルズ（阪急阪神ホールディングスグループ）",
+      "summary": "ホテル阪急インターナショナル、第一ホテル東京、ホテル阪急レスパイア、ホテル阪神、レム・レムプラス、宝塚ホテルなど広域展開。直営16ホテルのほか、グループチェーン加盟ホテルがあるが、加盟館をすべて阪急阪神ホテルズ直営とは扱わない。閉館した大阪新阪急ホテル・千里阪急ホテル等は2026年の現役ブランドに数えない。",
+      "source": "https://www.hankyu-hotel.com/company/outline",
+      "accent": "#A1826D",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "jre-hotels",
+      "name": "JR東日本ホテルズ（東京ステーション・メトロポリタン・メッツ）",
+      "company": "東日本旅客鉄道株式会社（JR東日本グループ各ホテル事業法人）",
+      "summary": "東京ステーションホテル、メズム東京（マリオット・オートグラフ コレクション加盟）、ホテルメトロポリタン、JR東日本ホテルメッツ、ホテルB4T、ホテルファミリーオ・フォルクローロ等を展開。ホテル運営法人は日本ホテル株式会社、地域のJR東日本ホテル会社など複数。鉄道グループの所有・運営と国際ホテルブランドの提携を分離して記録。",
+      "source": "https://www.jre-hotels.jp/hotels/",
+      "accent": "#5C8D91",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "jrw-hotels",
+      "name": "JR西日本ホテルズ（グランヴィア・ヴィスキオ・奈良ホテル・ヴィアイン）",
+      "company": "西日本旅客鉄道株式会社／株式会社JR西日本ホテルズ",
+      "summary": "JR西日本ホテルズの5ホテルブランドはグランヴィア、ヴィスキオ、THE OSAKA STATION HOTEL、奈良ホテル、梅小路ポテル京都。別会社の株式会社JR西日本ヴィアインは宿泊特化型ヴィアインを運営する。2025年7月に複数の地域ホテル会社をJR西日本ホテルズへ吸収合併。THE OSAKA STATION HOTELはマリオットのオートグラフ コレクションとも提携するが、JR西日本とマリオットの二重所有を意味しない。",
+      "source": "https://jrwest-hotels.jp/company/",
+      "accent": "#6388A8",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "2024",
+          "text": "THE OSAKA STATION HOTEL（Autograph Collection）開業。"
+        },
+        {
+          "year": "2025",
+          "text": "7月に奈良ホテルなど地域法人をJR西日本ホテルズへ統合。"
+        }
+      ]
+    },
+    {
+      "id": "hoshino-resorts",
+      "name": "星野リゾート（星のや・界・リゾナーレ・OMO・BEB）",
+      "company": "株式会社星野リゾートほか星野リゾートグループ各運営法人",
+      "summary": "最高級宿泊ブランド『星のや』、温泉旅館『界』、リゾート『リゾナーレ』、都市観光『OMO』、カジュアル『BEB』の5ブランドを中心に、青森屋・奥入瀬渓流ホテル・トマム ザ・タワーなど個性的な単独宿泊施設も展開。星野リゾート・リート投資法人が不動産を保有する施設などがあり、宿泊施設の所有者と運営ブランド元は同一とは限らない。",
+      "source": "https://hoshinoresorts.com/jp/brands/",
+      "accent": "#7D9A8C",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "rihga-royal-hotels",
+      "name": "ロイヤルホテルグループ（リーガロイヤル・リーガグラン・リーガプレイス）",
+      "company": "株式会社ロイヤルホテル",
+      "summary": "1935年創業のリーガロイヤルホテルズ。リーガロイヤルホテル、リーガグラン、リーガプレイス、アンカード・バイ・リーガ、バウンシー・バイ・リーガなどを展開。芝パークホテル・パークホテル東京も同社グループの運営ホテルとして公式資料掲載。大阪のリーガロイヤルホテルは2025年にIHGの『ヴィニェット コレクション』に加盟したが、ホテルの運営会社がIHGに吸収されたわけではない。FC・運営受託・リース・所有を区別する。三菱地所系ロイヤルパークホテルとは別の経営グループ。",
+      "source": "https://corp.rihga.co.jp/company/hotels-list/",
+      "accent": "#9B8169",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "1935",
+          "text": "新大阪ホテルとして開業。"
+        },
+        {
+          "year": "1990",
+          "text": "リーガロイヤルホテルグループ発足。"
+        },
+        {
+          "year": "2025",
+          "text": "リーガロイヤルホテル大阪がIHGヴィニェット コレクションへ加盟。"
+        }
+      ]
+    },
+    {
+      "id": "fujita-kanko-hotels",
+      "name": "藤田観光（ホテル椿山荘東京・ワシントンホテル・グレイスリー）",
+      "company": "藤田観光株式会社",
+      "summary": "ラグジュアリーのホテル椿山荘東京、ビジネス系ワシントンホテル・ホテルグレイスリー・HOTEL TAVINOS、箱根小涌園・天悠などリゾートも展開。『新宿ワシントンホテル』等のワシントンホテルブランドは藤田観光側。一方、『ワシントンホテルプラザ』『ワシントンR&Bホテル』は独立のワシントンホテル株式会社が展開する別系列。『箱根小涌園ユネッサン』は日帰り温浴施設でありホテルカテゴリーには入れない。",
+      "source": "https://www.fujita-kanko.co.jp/corporate/business.html",
+      "accent": "#A2787C",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "keio-hotels",
+      "name": "京王グループ（京王プラザホテル・京王プレッソイン）",
+      "company": "京王電鉄株式会社／株式会社京王プラザホテルなど",
+      "summary": "京王電鉄グループ。京王プラザホテルは新宿・八王子・札幌等のシティホテルを展開。宿泊特化型の京王プレッソインは京王グループの別のホテル事業。ホテル本体と資産保有会社を分社化した経緯があり、共通鉄道親会社と個々の実運営会社を区別。",
+      "source": "https://www.keioplaza.co.jp/corporate/corporate/index.html",
+      "accent": "#8B7AA8",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "sotetsu-hotels",
+      "name": "相鉄ホテルズ（フレッサイン・サンルート・スプラジール）",
+      "company": "相鉄ホテルマネジメント株式会社（相鉄ホールディングスグループ）",
+      "summary": "相鉄フレッサイン、相鉄グランドフレッサ、相鉄ホテルズ ザ・スプラジール、ホテルサンルート、ザ・ポケットホテル等を展開。2026年3～4月にスプラジール／サンルートの公式ブランドサイトを統合。サンルート加盟ホテルの運営法人は個別に異なる場合があり、相鉄がホテル建物もすべて所有するとは限らない。",
+      "source": "https://sotetsu-hotels.com/",
+      "accent": "#668C8E",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "hotel-monterey",
+      "name": "ホテルモントレグループ",
+      "company": "ホテルモントレ株式会社",
+      "summary": "欧州の歴史や文化を取り入れた内装で知られるホテルモントレを全国展開。ラ・スールギンザ、グラスミア大阪等は同グループの固有ホテル名としてブランドの検索別名にまとめ、各ホテルを別の独立企業グループとして水増ししない。",
+      "source": "https://www.hotelmonterey.co.jp/profile/",
+      "accent": "#977C95",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "iconia-hotels",
+      "name": "アイコニア・ホスピタリティ（マイステイズ・亀の井・アートホテル）",
+      "company": "アイコニア・ホスピタリティ株式会社",
+      "summary": "旧マイステイズ・ホテル・マネジメント系の大規模ホテル運営会社。ホテルマイステイズ／プレミア、アートホテル、フレックステイイン、MyCUBE by MYSTAYS、亀の井ホテル、わんわんパラダイス等を展開。2026年2月に一部犬連れ対応施設を『わんわんパラダイス』系へリブランド。所有不動産・運営受託・ホテルブランドは別概念。運営施設は地域ごとに別法人が所有する場合があり、全施設を直営所有と断定しない。",
+      "source": "https://iconia.co.jp/brands/",
+      "accent": "#7C92A5",
+      "checked": "2026-11-23",
+      "events": []
+    },
+    {
+      "id": "washington-hotel-co",
+      "name": "ワシントンホテル株式会社（ワシントンホテルプラザ・R&B）",
+      "company": "ワシントンホテル株式会社",
+      "summary": "東証上場の名古屋本社ホテル会社。『ワシントンホテルプラザ』『ワシントンR&Bホテル』を展開。2025年4月に旧『R&Bホテル』を『ワシントンR&Bホテル』へ改称。『ワシントンホテル』（例・新宿ワシントンホテル）を展開する藤田観光とは別会社。単に『ワシントンホテル』で検索した際は両系列を見比べる必要がある。",
+      "source": "https://www.washingtonhotel.co.jp/corporation/business/",
+      "accent": "#846D92",
+      "checked": "2026-11-23",
+      "events": [
+        {
+          "year": "2025",
+          "text": "4月、R&BホテルをワシントンR&Bホテルに改称。"
+        }
+      ]
     }
   ],
   "brands": [
@@ -17410,6 +17636,1239 @@
         "息栖にぎわいテラス ゆうひ食堂"
       ],
       "source": "https://bandotaro.co.jp/shop/ikisu/"
+    },
+    {
+      "name": "帝国ホテル",
+      "group": "imperial-hotels",
+      "operator": "株式会社帝国ホテル",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "帝国ホテル東京",
+        "帝国ホテル 大阪",
+        "帝国ホテル 京都",
+        "Imperial Hotel Tokyo",
+        "Imperial Hotel Osaka",
+        "Imperial Hotel Kyoto"
+      ],
+      "source": "https://www.imperialhotel.co.jp/about"
+    },
+    {
+      "name": "上高地帝国ホテル",
+      "group": "imperial-hotels",
+      "operator": "株式会社帝国ホテル",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Kamikochi Imperial Hotel"
+      ],
+      "source": "https://www.imperialhotel.co.jp/about"
+    },
+    {
+      "name": "ザ・クレストホテル柏",
+      "group": "imperial-hotels",
+      "operator": "株式会社帝国ホテル",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "The Crest Hotel Kashiwa"
+      ],
+      "source": "https://www.imperialhotel.co.jp/about"
+    },
+    {
+      "name": "ホテルニューオータニ",
+      "group": "newotani-hotels",
+      "operator": "株式会社ニュー・オータニ（直営の東京・幕張・大阪。他地域は各グループホテル運営法人）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテルニューオータニ東京",
+        "ホテルニューオータニ幕張",
+        "ホテルニューオータニ大阪",
+        "ホテルニューオータニ博多",
+        "ホテルニューオータニ佐賀",
+        "エグゼクティブハウス禅",
+        "ニューオータニ・ガーデンタワー"
+      ],
+      "source": "https://www.newotani.co.jp/group/company/profile/"
+    },
+    {
+      "name": "ニューオータニイン",
+      "group": "newotani-hotels",
+      "operator": "株式会社ニュー・オータニ（直営の東京・幕張・大阪。他地域は各グループホテル運営法人）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ニューオータニイン東京",
+        "ニューオータニイン札幌",
+        "ニューオータニイン横浜プレミアム"
+      ],
+      "source": "https://www.newotani.co.jp/group/company/profile/"
+    },
+    {
+      "name": "NASPAニューオータニ",
+      "group": "newotani-hotels",
+      "operator": "株式会社ニュー・オータニ（直営の東京・幕張・大阪。他地域は各グループホテル運営法人）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "NASPA New Otani"
+      ],
+      "source": "https://www.newotani.co.jp/group/company/profile/"
+    },
+    {
+      "name": "ホテルオークラ",
+      "group": "okura-nikko-hotels",
+      "operator": "株式会社オークラ ニッコー ホテルマネジメントのブランド網（各ホテルの運営法人・所有法人は別の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hotel Okura",
+        "ホテルオークラ東京ベイ",
+        "ホテルオークラ京都"
+      ],
+      "source": "https://okura.com/ja/our-brands/"
+    },
+    {
+      "name": "The Okura Tokyo",
+      "group": "okura-nikko-hotels",
+      "operator": "株式会社オークラ ニッコー ホテルマネジメントのブランド網（各ホテルの運営法人・所有法人は別の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "オークラ東京",
+        "オークラ プレステージタワー",
+        "オークラ ヘリテージウイング"
+      ],
+      "source": "https://okura.com/ja/our-brands/"
+    },
+    {
+      "name": "オークラ プレステージ",
+      "group": "okura-nikko-hotels",
+      "operator": "株式会社オークラ ニッコー ホテルマネジメントのブランド網（各ホテルの運営法人・所有法人は別の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Okura Prestige",
+        "オークラプレステージ"
+      ],
+      "source": "https://okura.com/ja/our-brands/"
+    },
+    {
+      "name": "オークラ ガーデン",
+      "group": "okura-nikko-hotels",
+      "operator": "株式会社オークラ ニッコー ホテルマネジメントのブランド網（各ホテルの運営法人・所有法人は別の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Okura Garden"
+      ],
+      "source": "https://okura.com/ja/our-brands/"
+    },
+    {
+      "name": "ホテル日航",
+      "group": "okura-nikko-hotels",
+      "operator": "株式会社オークラ ニッコー ホテルマネジメントのブランド網（各ホテルの運営法人・所有法人は別の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hotel Nikko",
+        "ホテル日航大阪",
+        "ホテル日航金沢",
+        "ホテル日航福岡"
+      ],
+      "source": "https://okura.com/ja/our-brands/"
+    },
+    {
+      "name": "グランドニッコー",
+      "group": "okura-nikko-hotels",
+      "operator": "株式会社オークラ ニッコー ホテルマネジメントのブランド網（各ホテルの運営法人・所有法人は別の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Grand Nikko",
+        "グランドニッコー東京 台場"
+      ],
+      "source": "https://okura.com/ja/our-brands/"
+    },
+    {
+      "name": "ホテルJALシティ",
+      "group": "okura-nikko-hotels",
+      "operator": "株式会社オークラ ニッコー ホテルマネジメントのブランド網（各ホテルの運営法人・所有法人は別の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hotel JAL City",
+        "JALシティ"
+      ],
+      "source": "https://okura.com/ja/our-brands/"
+    },
+    {
+      "name": "ニッコースタイル",
+      "group": "okura-nikko-hotels",
+      "operator": "株式会社オークラ ニッコー ホテルマネジメントのブランド網（各ホテルの運営法人・所有法人は別の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Nikko Style",
+        "ニッコースタイル名古屋",
+        "ニッコースタイルニセコ HANAZONO"
+      ],
+      "source": "https://okura.com/ja/our-brands/"
+    },
+    {
+      "name": "ザ・プリンスアカトキ",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "The Prince Akatoki"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "ザ・プリンス",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "The Prince",
+        "ザ・プリンス パークタワー東京"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "グランドプリンスホテル",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Grand Prince Hotel",
+        "グランドプリンスホテル高輪",
+        "グランドプリンスホテル新高輪"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "プリンスホテル",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Prince Hotel",
+        "新宿プリンスホテル",
+        "品川プリンスホテル",
+        "サンシャインシティプリンスホテル"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "プリンス スマート イン",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Prince Smart Inn",
+        "プリンススマートイン"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "ヴィラプリンス",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Villa Prince",
+        "ヴィラプリンス軽井沢"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "パークレジス バイ プリンス",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Park Regis by Prince"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "パークレジス",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Park Regis"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "パーク プロキシー",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Park Proxi"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "レジャーイン",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Leisure Inn"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "ザ・プリンスギャラリー 東京紀尾井町",
+      "group": "seibu-prince-hotels",
+      "operator": "株式会社西武・プリンスホテルズワールドワイド（ホテルにより委託・FC・海外運営あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "The Prince Gallery Tokyo Kioicho",
+        "ラグジュアリーコレクション プリンスギャラリー"
+      ],
+      "source": "https://www.seibuprince.com/ja/brands"
+    },
+    {
+      "name": "ザ・キャピトルホテル 東急",
+      "group": "tokyu-hotels",
+      "operator": "東急ホテルズ＆リゾーツ株式会社および東急ホテルズ提携運営法人",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "The Capitol Hotel Tokyu",
+        "キャピトル東急"
+      ],
+      "source": "https://www.tokyuhotels.co.jp/hotel/index.html"
+    },
+    {
+      "name": "東急ホテル",
+      "group": "tokyu-hotels",
+      "operator": "東急ホテルズ＆リゾーツ株式会社および東急ホテルズ提携運営法人",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "TOKYU HOTEL",
+        "セルリアンタワー東急ホテル"
+      ],
+      "source": "https://www.tokyuhotels.co.jp/hotel/index.html"
+    },
+    {
+      "name": "エクセルホテル東急",
+      "group": "tokyu-hotels",
+      "operator": "東急ホテルズ＆リゾーツ株式会社および東急ホテルズ提携運営法人",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "EXCEL HOTEL TOKYU",
+        "渋谷エクセルホテル東急",
+        "羽田エクセルホテル東急"
+      ],
+      "source": "https://www.tokyuhotels.co.jp/hotel/index.html"
+    },
+    {
+      "name": "東急REIホテル",
+      "group": "tokyu-hotels",
+      "operator": "東急ホテルズ＆リゾーツ株式会社および東急ホテルズ提携運営法人",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "TOKYU REI HOTEL",
+        "東急REI"
+      ],
+      "source": "https://www.tokyuhotels.co.jp/hotel/index.html"
+    },
+    {
+      "name": "STREAM HOTEL",
+      "group": "tokyu-hotels",
+      "operator": "東急ホテルズ＆リゾーツ株式会社および東急ホテルズ提携運営法人",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "SHIBUYA STREAM HOTEL",
+        "SAPPORO STREAM HOTEL",
+        "ストリームホテル"
+      ],
+      "source": "https://www.tokyuhotels.co.jp/hotel/index.html"
+    },
+    {
+      "name": "STORYLINE",
+      "group": "tokyu-hotels",
+      "operator": "東急ホテルズ＆リゾーツ株式会社および東急ホテルズ提携運営法人",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ストーリーライン",
+        "STORYLINE 瀬長島"
+      ],
+      "source": "https://www.tokyuhotels.co.jp/hotel/index.html"
+    },
+    {
+      "name": "東急リゾートホテル",
+      "group": "tokyu-hotels",
+      "operator": "東急ホテルズ＆リゾーツ株式会社および東急ホテルズ提携運営法人",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "TOKYU RESORT HOTEL"
+      ],
+      "source": "https://www.tokyuhotels.co.jp/hotel/index.html"
+    },
+    {
+      "name": "ザ パーク フロント ホテル",
+      "group": "tokyu-hotels",
+      "operator": "東急ホテルズ＆リゾーツ株式会社および東急ホテルズ提携運営法人",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "THE PARK FRONT HOTEL AT UNIVERSAL STUDIOS JAPAN",
+        "ザ パーク フロント ホテル アット ユニバーサル・スタジオ・ジャパン"
+      ],
+      "source": "https://www.tokyuhotels.co.jp/hotel/index.html"
+    },
+    {
+      "name": "ロイヤルパークホテル",
+      "group": "royalpark-hotels",
+      "operator": "三菱地所ホテルズ＆リゾーツ株式会社",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Royal Park Hotel",
+        "ロイヤルパークホテル日本橋"
+      ],
+      "source": "https://www.royalparkhotels.co.jp/brand/"
+    },
+    {
+      "name": "ザ ロイヤルパークホテル アイコニック",
+      "group": "royalpark-hotels",
+      "operator": "三菱地所ホテルズ＆リゾーツ株式会社",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "THE ROYAL PARK HOTEL ICONIC",
+        "ザ ロイヤルパークホテル アイコニック東京汐留"
+      ],
+      "source": "https://www.royalparkhotels.co.jp/brand/"
+    },
+    {
+      "name": "ザ ロイヤルパークホテル",
+      "group": "royalpark-hotels",
+      "operator": "三菱地所ホテルズ＆リゾーツ株式会社",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "THE ROYAL PARK HOTEL",
+        "ザ ロイヤルパークホテル京都三条"
+      ],
+      "source": "https://www.royalparkhotels.co.jp/brand/"
+    },
+    {
+      "name": "ザ ロイヤルパーク キャンバス",
+      "group": "royalpark-hotels",
+      "operator": "三菱地所ホテルズ＆リゾーツ株式会社",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "THE ROYAL PARK CANVAS",
+        "ザ ロイヤルパーク キャンバス銀座8"
+      ],
+      "source": "https://www.royalparkhotels.co.jp/brand/"
+    },
+    {
+      "name": "ホテル ザ セレスティン",
+      "group": "mitsui-garden-hotels",
+      "operator": "株式会社三井不動産ホテルマネジメント",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "THE CELESTINE HOTELS",
+        "ホテル ザ セレスティン東京芝",
+        "ホテル ザ セレスティン銀座"
+      ],
+      "source": "https://www.mitsuifudosan-hotelmanagement.com/brand/"
+    },
+    {
+      "name": "三井ガーデンホテル",
+      "group": "mitsui-garden-hotels",
+      "operator": "株式会社三井不動産ホテルマネジメント",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "MITSUI GARDEN HOTEL",
+        "三井ガーデンホテルプレミア",
+        "ミレニアム 三井ガーデンホテル 東京"
+      ],
+      "source": "https://www.mitsuifudosan-hotelmanagement.com/brand/"
+    },
+    {
+      "name": "sequence",
+      "group": "mitsui-garden-hotels",
+      "operator": "株式会社三井不動産ホテルマネジメント",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "シークエンス",
+        "sequence MIYASHITA PARK",
+        "sequence SUIDOBASHI"
+      ],
+      "source": "https://www.mitsuifudosan-hotelmanagement.com/brand/"
+    },
+    {
+      "name": "ホテル阪急インターナショナル",
+      "group": "hankyu-hanshin-hotels",
+      "operator": "株式会社阪急阪神ホテルズ（加盟チェーンホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hotel Hankyu International"
+      ],
+      "source": "https://www.hankyu-hotel.com/company/outline"
+    },
+    {
+      "name": "ホテル阪急",
+      "group": "hankyu-hanshin-hotels",
+      "operator": "株式会社阪急阪神ホテルズ（加盟チェーンホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテル阪急レスパイア大阪",
+        "ホテル阪急グランレスパイア大阪",
+        "HOTEL HANKYU"
+      ],
+      "source": "https://www.hankyu-hotel.com/company/outline"
+    },
+    {
+      "name": "ホテル阪神",
+      "group": "hankyu-hanshin-hotels",
+      "operator": "株式会社阪急阪神ホテルズ（加盟チェーンホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテル阪神大阪",
+        "ホテル阪神アネックス大阪"
+      ],
+      "source": "https://www.hankyu-hotel.com/company/outline"
+    },
+    {
+      "name": "第一ホテル",
+      "group": "hankyu-hanshin-hotels",
+      "operator": "株式会社阪急阪神ホテルズ（加盟チェーンホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "第一ホテル東京",
+        "東京第一ホテル",
+        "Dai-ichi Hotel"
+      ],
+      "source": "https://www.hankyu-hotel.com/company/outline"
+    },
+    {
+      "name": "レム",
+      "group": "hankyu-hanshin-hotels",
+      "operator": "株式会社阪急阪神ホテルズ（加盟チェーンホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "remm",
+        "レム六本木",
+        "レム東京京橋"
+      ],
+      "source": "https://www.hankyu-hotel.com/company/outline"
+    },
+    {
+      "name": "レムプラス",
+      "group": "hankyu-hanshin-hotels",
+      "operator": "株式会社阪急阪神ホテルズ（加盟チェーンホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "remm plus",
+        "レムプラス銀座",
+        "レムプラス神戸三宮"
+      ],
+      "source": "https://www.hankyu-hotel.com/company/outline"
+    },
+    {
+      "name": "宝塚ホテル",
+      "group": "hankyu-hanshin-hotels",
+      "operator": "株式会社阪急阪神ホテルズ（加盟チェーンホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Takarazuka Hotel"
+      ],
+      "source": "https://www.hankyu-hotel.com/company/outline"
+    },
+    {
+      "name": "新阪急ホテルアネックス",
+      "group": "hankyu-hanshin-hotels",
+      "operator": "株式会社阪急阪神ホテルズ（加盟チェーンホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "New Hankyu Hotel Annex"
+      ],
+      "source": "https://www.hankyu-hotel.com/company/outline"
+    },
+    {
+      "name": "京都新阪急ホテル",
+      "group": "hankyu-hanshin-hotels",
+      "operator": "株式会社阪急阪神ホテルズ（加盟チェーンホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Kyoto New Hankyu Hotel"
+      ],
+      "source": "https://www.hankyu-hotel.com/company/outline"
+    },
+    {
+      "name": "東京ステーションホテル",
+      "group": "jre-hotels",
+      "operator": "JR東日本グループの各ホテル事業会社（ホテルにより運営法人が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "THE TOKYO STATION HOTEL"
+      ],
+      "source": "https://www.jre-hotels.jp/hotels/"
+    },
+    {
+      "name": "メズム東京",
+      "group": "jre-hotels",
+      "operator": "JR東日本グループの各ホテル事業会社（ホテルにより運営法人が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "mesm Tokyo",
+        "メズム東京 オートグラフ コレクション"
+      ],
+      "source": "https://www.jre-hotels.jp/hotels/"
+    },
+    {
+      "name": "ホテルメトロポリタン",
+      "group": "jre-hotels",
+      "operator": "JR東日本グループの各ホテル事業会社（ホテルにより運営法人が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテルメトロポリタンさいたま新都心",
+        "ホテルメトロポリタン池袋",
+        "ホテルメトロポリタン大井町トラックス",
+        "Metropolitan Hotels"
+      ],
+      "source": "https://www.jre-hotels.jp/hotels/"
+    },
+    {
+      "name": "JR東日本ホテルメッツ",
+      "group": "jre-hotels",
+      "operator": "JR東日本グループの各ホテル事業会社（ホテルにより運営法人が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテルメッツ",
+        "JR-EAST HOTEL METS",
+        "JR東日本ホテルメッツプレミア"
+      ],
+      "source": "https://www.jre-hotels.jp/hotels/"
+    },
+    {
+      "name": "ホテルB4T",
+      "group": "jre-hotels",
+      "operator": "JR東日本グループの各ホテル事業会社（ホテルにより運営法人が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "HOTEL B4T",
+        "ホテルB4T田端",
+        "ホテルB4T赤羽"
+      ],
+      "source": "https://www.jre-hotels.jp/hotels/"
+    },
+    {
+      "name": "ホテルファミリーオ",
+      "group": "jre-hotels",
+      "operator": "JR東日本グループの各ホテル事業会社（ホテルにより運営法人が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテルファミリーオ佐渡相川",
+        "Hotel Familio"
+      ],
+      "source": "https://www.jre-hotels.jp/hotels/"
+    },
+    {
+      "name": "ホテルフォルクローロ",
+      "group": "jre-hotels",
+      "operator": "JR東日本グループの各ホテル事業会社（ホテルにより運営法人が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテルフォルクローロ高畠",
+        "ホテルフォルクローロ三陸釜石"
+      ],
+      "source": "https://www.jre-hotels.jp/hotels/"
+    },
+    {
+      "name": "ホテルドリームゲート舞浜",
+      "group": "jre-hotels",
+      "operator": "JR東日本グループの各ホテル事業会社（ホテルにより運営法人が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hotel Dream Gate Maihama",
+        "ホテルドリームゲート舞浜アネックス"
+      ],
+      "source": "https://www.jre-hotels.jp/hotels/"
+    },
+    {
+      "name": "和のゐ 角館",
+      "group": "jre-hotels",
+      "operator": "JR東日本グループの各ホテル事業会社（ホテルにより運営法人が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "和のゐ角館",
+        "Wanoi Kakunodate"
+      ],
+      "source": "https://www.jre-hotels.jp/hotels/"
+    },
+    {
+      "name": "ホテルグランヴィア",
+      "group": "jrw-hotels",
+      "operator": "株式会社JR西日本ホテルズ（ヴィアインのみ株式会社JR西日本ヴィアイン）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテルグランヴィア京都",
+        "ホテルグランヴィア大阪",
+        "ホテルグランヴィア広島サウスゲート"
+      ],
+      "source": "https://jrwest-hotels.jp/company/"
+    },
+    {
+      "name": "ホテルヴィスキオ",
+      "group": "jrw-hotels",
+      "operator": "株式会社JR西日本ホテルズ（ヴィアインのみ株式会社JR西日本ヴィアイン）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテルヴィスキオ京都",
+        "ホテルヴィスキオ大阪"
+      ],
+      "source": "https://jrwest-hotels.jp/company/"
+    },
+    {
+      "name": "THE OSAKA STATION HOTEL",
+      "group": "jrw-hotels",
+      "operator": "株式会社JR西日本ホテルズ（ヴィアインのみ株式会社JR西日本ヴィアイン）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "大阪ステーションホテル",
+        "THE OSAKA STATION HOTEL Autograph Collection"
+      ],
+      "source": "https://jrwest-hotels.jp/company/"
+    },
+    {
+      "name": "奈良ホテル",
+      "group": "jrw-hotels",
+      "operator": "株式会社JR西日本ホテルズ（ヴィアインのみ株式会社JR西日本ヴィアイン）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "NARA HOTEL"
+      ],
+      "source": "https://jrwest-hotels.jp/company/"
+    },
+    {
+      "name": "梅小路ポテル京都",
+      "group": "jrw-hotels",
+      "operator": "株式会社JR西日本ホテルズ（ヴィアインのみ株式会社JR西日本ヴィアイン）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Umekoji Potel KYOTO",
+        "ポテル京都"
+      ],
+      "source": "https://jrwest-hotels.jp/company/"
+    },
+    {
+      "name": "ヴィアイン",
+      "group": "jrw-hotels",
+      "operator": "株式会社JR西日本ヴィアイン（JR西日本グループ）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "JR西日本ヴィアイン",
+        "VIA INN",
+        "ヴィアインプライム"
+      ],
+      "source": "https://www.westjr.co.jp/life/hotel/"
+    },
+    {
+      "name": "星のや",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "HOSHINOYA",
+        "星のや東京",
+        "星のや京都",
+        "星のや軽井沢"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "界",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "界 KAI",
+        "星野リゾート 界",
+        "界箱根",
+        "界仙石原"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "リゾナーレ",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "RISONARE",
+        "星野リゾート リゾナーレ",
+        "リゾナーレ八ヶ岳",
+        "リゾナーレ熱海"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "OMO",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "OMO by 星野リゾート",
+        "オモ",
+        "OMO7横浜",
+        "OMO5東京五反田",
+        "OMO3浅草"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "BEB",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "BEB by 星野リゾート",
+        "ベブ",
+        "BEB5軽井沢"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "青森屋",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "星野リゾート 青森屋"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "奥入瀬渓流ホテル",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "星野リゾート 奥入瀬渓流ホテル"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "トマム ザ・タワー",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "星野リゾート トマム ザ・タワー"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "軽井沢ホテルブレストンコート",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテルブレストンコート"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "1955 東京ベイ",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "1955 Tokyo Bay",
+        "1955東京ベイ"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "磐梯山温泉ホテル",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "星野リゾート 磐梯山温泉ホテル"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "西表島ホテル",
+      "group": "hoshino-resorts",
+      "operator": "星野リゾートグループの各運営法人（建物の不動産所有者とは限らない）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "星野リゾート 西表島ホテル"
+      ],
+      "source": "https://hoshinoresorts.com/jp/brands/"
+    },
+    {
+      "name": "リーガロイヤルホテル",
+      "group": "rihga-royal-hotels",
+      "operator": "株式会社ロイヤルホテル／系列運営会社（FC・受託施設は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "RIHGA ROYAL HOTEL",
+        "リーガロイヤルホテル大阪",
+        "リーガロイヤルホテル東京",
+        "リーガロイヤルホテル京都",
+        "リーガロイヤルホテル大阪 ヴィニェット コレクション"
+      ],
+      "source": "https://www.rihga.co.jp/group_list"
+    },
+    {
+      "name": "リーガグラン",
+      "group": "rihga-royal-hotels",
+      "operator": "株式会社ロイヤルホテル／系列運営会社（FC・受託施設は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "RIHGA GRAN",
+        "リーガグラン京都",
+        "リーガロイヤルグラン沖縄"
+      ],
+      "source": "https://www.rihga.co.jp/group_list"
+    },
+    {
+      "name": "リーガプレイス",
+      "group": "rihga-royal-hotels",
+      "operator": "株式会社ロイヤルホテル／系列運営会社（FC・受託施設は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "RIHGA PLACE",
+        "リーガプレイス肥後橋"
+      ],
+      "source": "https://www.rihga.co.jp/group_list"
+    },
+    {
+      "name": "アンカード・バイ・リーガ",
+      "group": "rihga-royal-hotels",
+      "operator": "株式会社ロイヤルホテル／系列運営会社（FC・受託施設は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Anchored by RIHGA",
+        "アンカード バイ リーガ大阪なんば"
+      ],
+      "source": "https://www.rihga.co.jp/group_list"
+    },
+    {
+      "name": "バウンシー・バイ・リーガ",
+      "group": "rihga-royal-hotels",
+      "operator": "株式会社ロイヤルホテル／系列運営会社（FC・受託施設は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "BOUNCY by RIHGA",
+        "バウンシー バイ リーガ福岡博多"
+      ],
+      "source": "https://www.rihga.co.jp/group_list"
+    },
+    {
+      "name": "リーガゼスト",
+      "group": "rihga-royal-hotels",
+      "operator": "株式会社ロイヤルホテル／系列運営会社（FC・受託施設は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "リーガゼスト高松"
+      ],
+      "source": "https://www.rihga.co.jp/group_list"
+    },
+    {
+      "name": "芝パークホテル",
+      "group": "rihga-royal-hotels",
+      "operator": "株式会社ロイヤルホテル／系列運営会社（FC・受託施設は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Shiba Park Hotel"
+      ],
+      "source": "https://www.rihga.co.jp/group_list"
+    },
+    {
+      "name": "パークホテル東京",
+      "group": "rihga-royal-hotels",
+      "operator": "株式会社ロイヤルホテル／系列運営会社（FC・受託施設は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Park Hotel Tokyo"
+      ],
+      "source": "https://www.rihga.co.jp/group_list"
+    },
+    {
+      "name": "ホテル椿山荘東京",
+      "group": "fujita-kanko-hotels",
+      "operator": "藤田観光株式会社（FC・提携ホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hotel Chinzanso Tokyo",
+        "椿山荘"
+      ],
+      "source": "https://www.fujita-kanko.co.jp/sub/facility/"
+    },
+    {
+      "name": "ワシントンホテル（藤田観光）",
+      "group": "fujita-kanko-hotels",
+      "operator": "藤田観光株式会社（FC・提携ホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "新宿ワシントンホテル",
+        "東京ベイ有明ワシントンホテル",
+        "WHG ワシントンホテル"
+      ],
+      "source": "https://www.fujita-kanko.co.jp/sub/facility/"
+    },
+    {
+      "name": "ホテルグレイスリー",
+      "group": "fujita-kanko-hotels",
+      "operator": "藤田観光株式会社（FC・提携ホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hotel Gracery",
+        "ホテルグレイスリー新宿",
+        "ホテルグレイスリー銀座"
+      ],
+      "source": "https://www.fujita-kanko.co.jp/sub/facility/"
+    },
+    {
+      "name": "HOTEL TAVINOS",
+      "group": "fujita-kanko-hotels",
+      "operator": "藤田観光株式会社（FC・提携ホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテルタビノス",
+        "タビノス"
+      ],
+      "source": "https://www.fujita-kanko.co.jp/sub/facility/"
+    },
+    {
+      "name": "箱根小涌園 天悠",
+      "group": "fujita-kanko-hotels",
+      "operator": "藤田観光株式会社（FC・提携ホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hakone Kowakien Ten-yu",
+        "天悠"
+      ],
+      "source": "https://www.fujita-kanko.co.jp/sub/facility/"
+    },
+    {
+      "name": "箱根ホテル小涌園",
+      "group": "fujita-kanko-hotels",
+      "operator": "藤田観光株式会社（FC・提携ホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hakone Hotel Kowakien"
+      ],
+      "source": "https://www.fujita-kanko.co.jp/sub/facility/"
+    },
+    {
+      "name": "箱根小涌園 美山楓林",
+      "group": "fujita-kanko-hotels",
+      "operator": "藤田観光株式会社（FC・提携ホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "みやまふうりん"
+      ],
+      "source": "https://www.fujita-kanko.co.jp/sub/facility/"
+    },
+    {
+      "name": "伊東 緑涌",
+      "group": "fujita-kanko-hotels",
+      "operator": "藤田観光株式会社（FC・提携ホテルは別法人運営の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "伊東緑涌",
+        "Ito Ryokuyu"
+      ],
+      "source": "https://www.fujita-kanko.co.jp/sub/facility/"
+    },
+    {
+      "name": "京王プラザホテル",
+      "group": "keio-hotels",
+      "operator": "株式会社京王プラザホテル（京王電鉄グループ）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "京王プラザホテル新宿",
+        "京王プラザホテル八王子",
+        "京王プラザホテル札幌",
+        "Keio Plaza Hotel"
+      ],
+      "source": "https://www.keioplaza.co.jp/chain/"
+    },
+    {
+      "name": "京王プレッソイン",
+      "group": "keio-hotels",
+      "operator": "京王グループの京王プレッソイン事業会社",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Keio Presso Inn",
+        "プレッソイン"
+      ],
+      "source": "https://www.keio-pressso-inn.com/"
+    },
+    {
+      "name": "相鉄フレッサイン",
+      "group": "sotetsu-hotels",
+      "operator": "株式会社相鉄ホテルマネジメント（加盟店・委託店は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Sotetsu Fresa Inn",
+        "フレッサイン"
+      ],
+      "source": "https://sotetsu-hotels.com/"
+    },
+    {
+      "name": "相鉄グランドフレッサ",
+      "group": "sotetsu-hotels",
+      "operator": "株式会社相鉄ホテルマネジメント（加盟店・委託店は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Sotetsu Grand Fresa"
+      ],
+      "source": "https://sotetsu-hotels.com/"
+    },
+    {
+      "name": "相鉄ホテルズ ザ・スプラジール",
+      "group": "sotetsu-hotels",
+      "operator": "株式会社相鉄ホテルマネジメント（加盟店・委託店は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "THE SPLAISIR",
+        "ザ・スプラジール"
+      ],
+      "source": "https://sotetsu-hotels.com/"
+    },
+    {
+      "name": "ホテルサンルート",
+      "group": "sotetsu-hotels",
+      "operator": "株式会社相鉄ホテルマネジメント（加盟店・委託店は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Hotel Sunroute",
+        "サンルートホテル"
+      ],
+      "source": "https://sotetsu-hotels.com/"
+    },
+    {
+      "name": "ザ・ポケットホテル",
+      "group": "sotetsu-hotels",
+      "operator": "株式会社相鉄ホテルマネジメント（加盟店・委託店は別法人の場合あり）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "THE POCKET HOTEL",
+        "ポケットホテル"
+      ],
+      "source": "https://sotetsu-hotels.com/"
+    },
+    {
+      "name": "ホテルモントレ",
+      "group": "hotel-monterey",
+      "operator": "ホテルモントレ株式会社",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ホテルモントレ ラ・スールギンザ",
+        "ホテルモントレグラスミア大阪",
+        "ホテルモントレ大阪",
+        "Hotel Monterey",
+        "モントレ"
+      ],
+      "source": "https://www.hotelmonterey.co.jp/profile/"
+    },
+    {
+      "name": "ホテルマイステイズ",
+      "group": "iconia-hotels",
+      "operator": "アイコニア・ホスピタリティ株式会社（施設ごとに所有法人・契約形態が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "HOTEL MYSTAYS",
+        "マイステイズ"
+      ],
+      "source": "https://iconia.co.jp/brands/"
+    },
+    {
+      "name": "ホテルマイステイズプレミア",
+      "group": "iconia-hotels",
+      "operator": "アイコニア・ホスピタリティ株式会社（施設ごとに所有法人・契約形態が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "MYSTAYS PREMIER"
+      ],
+      "source": "https://iconia.co.jp/brands/"
+    },
+    {
+      "name": "アートホテル",
+      "group": "iconia-hotels",
+      "operator": "アイコニア・ホスピタリティ株式会社（施設ごとに所有法人・契約形態が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ART HOTEL"
+      ],
+      "source": "https://iconia.co.jp/brands/"
+    },
+    {
+      "name": "フレックステイイン",
+      "group": "iconia-hotels",
+      "operator": "アイコニア・ホスピタリティ株式会社（施設ごとに所有法人・契約形態が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "FLEXSTAY INN"
+      ],
+      "source": "https://iconia.co.jp/brands/"
+    },
+    {
+      "name": "MyCUBE by MYSTAYS",
+      "group": "iconia-hotels",
+      "operator": "アイコニア・ホスピタリティ株式会社（施設ごとに所有法人・契約形態が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "マイキューブ",
+        "MyCUBE"
+      ],
+      "source": "https://iconia.co.jp/brands/"
+    },
+    {
+      "name": "亀の井ホテル",
+      "group": "iconia-hotels",
+      "operator": "アイコニア・ホスピタリティ株式会社（施設ごとに所有法人・契約形態が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "KAMENOI HOTEL",
+        "亀の井"
+      ],
+      "source": "https://iconia.co.jp/brands/"
+    },
+    {
+      "name": "わんわんパラダイス",
+      "group": "iconia-hotels",
+      "operator": "アイコニア・ホスピタリティ株式会社（施設ごとに所有法人・契約形態が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Wan Wan Paradise",
+        "わんわんパラダイス プレミア"
+      ],
+      "source": "https://iconia.co.jp/brands/"
+    },
+    {
+      "name": "ICONIA COLLECTION",
+      "group": "iconia-hotels",
+      "operator": "アイコニア・ホスピタリティ株式会社（施設ごとに所有法人・契約形態が異なる）",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "アイコニア コレクション"
+      ],
+      "source": "https://iconia.co.jp/brands/"
+    },
+    {
+      "name": "ワシントンホテルプラザ",
+      "group": "washington-hotel-co",
+      "operator": "ワシントンホテル株式会社",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "Washington Hotel Plaza",
+        "ワシントンホテル プラザ"
+      ],
+      "source": "https://www.washingtonhotel.co.jp/corporation/business/"
+    },
+    {
+      "name": "ワシントンR&Bホテル",
+      "group": "washington-hotel-co",
+      "operator": "ワシントンホテル株式会社",
+      "category": "ホテル・旅館",
+      "aliases": [
+        "ワシントンR＆Bホテル",
+        "R&Bホテル",
+        "Washington R&B Hotel"
+      ],
+      "source": "https://www.washingtonhotel.co.jp/corporation/business/"
     }
   ]
 }
