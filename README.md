@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、182グループ・1146ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、187グループ・1170ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -1104,3 +1104,23 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://douraku.co.jp/amimoto/
 - https://marineworld.hiyoriyama.co.jp/hiyoriyama/business/business.html
 - https://www.kani-honke.co.jp/about.html
+
+## 出典・更新メモ（2026-11-23 高級焼肉・高級中国料理）
+
+高級チェーンの追加調査。TRSホールディングス（トラジ・牛印・たん之助・千だか）は既存の1グループ・5ブランドに登録済みだったため重複登録せず、既存の運営会社・2026年7月の組織変更情報も確認。新規には平城苑、カルネヴァーレ（KINTAN）、南国酒家、四川飯店、華正樓の5グループ・24ブランドを追加し、合計187グループ・1170ブランド。平城苑の「焼肉 平城苑」「東京焼肉 平城苑」「一頭や」「肉屋横丁」「Wagyu Burger」「和牛特区」「BLT STEAK」の日本運営関係を記録。NY発のBLT STEAKの海外ブランド所有権を平城苑に帰属させない。KINTANは焼肉・しゃぶしゃぶ・肉割烹・ステーキ・肉寿司・金舌・星遊山・Bovin’d Orを、地域別店舗重複を避けて収録。2018年のファンド株式取得を根拠に2026年時点の株主比率は推定しない。南国酒家には別屋号47china・南琳華などを含め、四川飯店とは別法人。四川飯店は2026年9月の事業会社統合後の商号「四川飯店株式会社」で表記。華正樓は横浜中華街本店・新館・鎌倉支店、銘菓の販売店を含むが、商品名や売場を別会社として登録しない。FC・提携運営店は一律に直営と呼ばない。
+
+- https://trs-hd.com/company
+- https://trs-hd.com/brands
+- https://heijoen.co.jp/about/
+- https://heijoen.co.jp/store/
+- https://carnevale.jp/company/
+- https://carnevale.jp/brands/
+- https://carnevale.jp/shoplist.html
+- https://www.basic-cm.co.jp/achievement/carnevale/
+- https://nangokusyuka.co.jp/company.html
+- https://nangokusyuka.co.jp/store.html
+- https://nangokusyuka.co.jp/store/47china.html
+- https://nangokusyuka.co.jp/store/nanrinka.html
+- https://www.sisen.jp/about/
+- https://www.sisen.jp/
+- https://www.kaseiro.com/company/
