@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、193グループ・1249ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、216グループ・1410ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -1175,3 +1175,42 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://bandotaro.co.jp/shop/ikisu/
 - https://shop.bandotaro.co.jp/detail/448/
 - https://bandotaro.co.jp/news/5691/
+
+## 出典・更新メモ（2026-11-23 ホテル系列の新規分野追加）
+
+高級・シティ・宿泊特化型・旅館の系列を対象に、国内主要18グループ（110ブランド）と国際ホテルブランドの本部5グループ（51ブランド）、**計23グループ・161ブランド**を追加。正本合計は216グループ・1410ブランド。`public/index.html` に**「ホテル・旅館」フィルター**を追加し、サイト説明・検索例にもホテルを反映した。ブランド単位を原則とし、同じ屋号の東京・大阪などは個別ブランド数に水増しせず別名検索へ。東京ステーションホテル／奈良ホテルなど独立名の施設は個別登録。今後、ホテルについては所有法人・国内運営法人・グローバルブランド本部・FC/MC・アライアンスの違いを明示して検証する。
+
+**誤認しやすい関係**：ホテルオークラ／日航／JALシティはオークラ・ニッコーのホテル網で、JALの文字があっても全施設を航空会社が直営しているわけではない。『ロイヤルパークホテル』は三菱地所系、『リーガロイヤルホテル』は株式会社ロイヤルホテル系。『ワシントンホテル』（新宿など）は藤田観光のWHG、対して『ワシントンホテルプラザ』『ワシントンR&Bホテル』はワシントンホテル株式会社。帝国ホテルは三井不動産が2026年9月末現在33.20%を保有する上場会社で、三井ガーデンホテルの直接運営会社とは異なる。IHG加盟のリーガロイヤル大阪や、マリオット・オートグラフ加盟のメズム東京／大阪ステーションホテルなどは、国際ホテルブランド加盟と日本国内の実運営法人を別の関係として注記。ホテル予約プログラムへの参加・ブランド契約を100%子会社化と誤認しない。
+
+**登録対象外**：閉館済みホテル・未来の開業予定物件を現役として数えない。国際ホテルブランドには2026年現在日本国内に未展開のものも含まれるが、今回の国際グループはブランド保有・運営ネットワークの確認が目的で、日本国内の全施設一覧ではない。単一ホテル内の客室棟・宿泊フロア、単なる宿泊プラン、飲食テナントはホテルブランド数に加算しない。サイトの既存飲食・小売データは変更しない。
+
+- https://www.imperialhotel.co.jp/company/overview
+- https://www.imperialhotel.co.jp/financial/stock
+- https://www.newotani.co.jp/group/company/profile/
+- https://www.newotani.co.jp/group/noc/
+- https://okura.com/ja/our-brands/
+- https://www.seibuprince.com/ja/brands
+- https://www.tokyuhotels.co.jp/hotel/index.html
+- https://www.tokyuhotels.co.jp/company/corporate/index.html
+- https://www.royalparkhotels.co.jp/brand/
+- https://www.mitsuifudosan-hotelmanagement.com/brand/
+- https://www.hankyu-hotel.com/company/outline
+- https://www.jre-hotels.jp/hotels/
+- https://www.jreast.co.jp/life_service/hotel/
+- https://jrwest-hotels.jp/company/
+- https://www.westjr.co.jp/life/hotel/
+- https://hoshinoresorts.com/jp/brands/
+- https://www.rihga.co.jp/group_list
+- https://corp.rihga.co.jp/company/hotels-list/
+- https://www.fujita-kanko.co.jp/corporate/business.html
+- https://whg-hotels.jp/
+- https://www.keioplaza.co.jp/chain/
+- https://sotetsu-hotels.com/
+- https://www.hotelmonterey.co.jp/profile/
+- https://iconia.co.jp/brands/
+- https://www.washingtonhotel.co.jp/corporation/business/
+- https://www.marriott.com/ja/brands.mi
+- https://www.hilton.com/en/brands/
+- https://www.ihg.com/content/us/en/about/brands
+- https://www.hyatt.com/promo/hotels-in-japan
+- https://group.accor.com/en/brands-and-experiences/our-hotel-brands
