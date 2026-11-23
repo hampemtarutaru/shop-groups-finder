@@ -4,7 +4,7 @@
 
 Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflareの自動スクリプト挿入を利用し、HTMLには手動の計測タグを追加しない。計測反映は次回本番デプロイ後、受信状況をCloudflare管理画面で確認する。
 
-スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、192グループ・1228ブランド）。
+スマホで店名を検索すると、どの企業グループに属するかがすぐわかる静的サイト。公式企業情報に基づく抜粋データを随時追加しています（2026-11-23現在、193グループ・1249ブランド）。
 
 ## UI改善メモ（2026-11-06）
 
@@ -1158,3 +1158,20 @@ Cloudflare PagesのMetrics → Web Analyticsで計測を有効化。Cloudflare�
 - https://restaurant-panda.foodre.jp/
 - https://www.yumstone.online/
 - https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010501032593
+
+## 出典・更新メモ（2026-11-23 ばんどう太郎・坂東太郎グループ）
+
+公式の会社案内・ブランド一覧・公式店舗検索から、坂東太郎グループ1グループ・21ブランドを追加し、合計193グループ・1249ブランドとした。『ばんどう太郎』と『家族レストラン 坂東太郎』は別業態として登録し、表記揺れは検索別名に記録。かつ太郎、海鮮茶屋 八幡太郎、食事処 八幡太郎、焼肉ダイニング百萬、ステーキハウス幌馬車、8代葵カフェ、坂東離宮、WO-29 Butchers、うなぎ河岸、高級食パン専門店よう治、雅洞、蛸屋総本店、下妻マルシェ、8代葵フルーツパーラー、和食処むらさきはなな、てんぐ茶屋等を追加。息栖にぎわいテラスは複合施設であり施設そのものを独立の飲食屋号とせず、公式に紹介される『かみす市場』『おしおいカフェ』『ゆうひ食堂』を個別の屋号として登録。公式会社案内には2026年11月23日確認時点で直営88店・FC4店の計92店と記載。グループ内子・関連会社と店舗営業法人の区別を維持し、すべてのFC・委託店舗を坂東太郎株式会社の直営とは扱わない。株式会社坂東太郎が『シャトレーゼ』のFC店舗を運営していることは会社案内に掲載されるが、ブランド本部や商標の系列はシャトレーゼホールディングスであり、既存の『シャトレーゼ』登録を移動・複製しない。『坂東姫』はいちごのブランド（商品）なので店舗ブランド数には入れない。
+
+- https://bandotaro.co.jp/about/
+- https://bandotaro.co.jp/shop/
+- https://shop.bandotaro.co.jp/
+- https://bandotaro.co.jp/shop/bandotaro/
+- https://bandotaro.co.jp/shop/kazoku/
+- https://bandotaro.co.jp/shop/katsutaro/
+- https://bandotaro.co.jp/shop/aoi/
+- https://bandotaro.co.jp/shop/murasakihanana/
+- https://shop.bandotaro.co.jp/detail/1846/
+- https://bandotaro.co.jp/shop/ikisu/
+- https://shop.bandotaro.co.jp/detail/448/
+- https://bandotaro.co.jp/news/5691/
