@@ -44,6 +44,20 @@ const run=async()=>{
     await gp.close();
   }
   await page.screenshot({path:'qa-results/home-desktop.png',fullPage:false});
+  for(const width of [320,390,1280]){
+    const gp=await ctx.newPage();
+    await gp.setViewportSize({width,height:850});
+    await gp.goto(base+'/',{waitUntil:'networkidle'});
+    await gp.locator('a[href="./guide/zensho.html"]').click();
+    assert.match(await gp.title(),/ゼンショー/);
+    assert.equal(await gp.locator('main .result-card').count(),5);
+    assert.ok(await gp.evaluate(()=>document.documentElement.scrollWidth<=document.documentElement.clientWidth+1),'guide overflow at '+width);
+    await gp.screenshot({path:'qa-results/guide-zensho-'+width+'.png',fullPage:true});
+    await gp.locator('a[href="../?q='+encodeURIComponent('なか卯')+'"]').click();
+    await gp.waitForFunction(()=>document.querySelector('#results .result-card')?.textContent.includes('ゼンショー'));
+    await gp.close();
+  }
+
 
   await page.locator('#search').fill('なか卯');
   await page.waitForFunction(()=>new URL(location.href).searchParams.get('q')==='なか卯');
