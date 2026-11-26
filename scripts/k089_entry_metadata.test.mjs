@@ -9,7 +9,8 @@ const publicDir=join(dirname(fileURLToPath(import.meta.url)),'..','public');
 const entries=[
   ['index.html','https://groups.hampemtarutaru.com/'],
   ['about.html','https://groups.hampemtarutaru.com/about.html'],
-  ['privacy.html','https://groups.hampemtarutaru.com/privacy.html']
+  ['privacy.html','https://groups.hampemtarutaru.com/privacy.html'],
+  ['guide/zensho.html','https://groups.hampemtarutaru.com/guide/zensho.html']
 ];
 const load=p=>readFileSync(join(publicDir,p),'utf8');
 
@@ -43,4 +44,15 @@ test('home text preview always agrees with canonical and source title',()=>{
   assert.ok(home.includes('<meta property="og:url" content="https://groups.hampemtarutaru.com/">'));
   // An actual published image asset is needed before adding og:image.
   assert.doesNotMatch(home,/<meta property="og:image"/);
+});
+
+test('pilot guide has a static homepage link and all five brand search links',()=>{
+  assert.ok(load('index.html').includes('href="./guide/zensho.html"'));
+  const guide=load('guide/zensho.html');
+  const data=JSON.parse(load('data.json'));
+  for(const name of ['すき家','なか卯','はま寿司','ココス','ジョリーパスタ']){
+    const b=data.brands.find(b=>b.name===name&&b.group==='zensho');
+    assert.ok(b,name);assert.ok(guide.includes(b.operator),name);
+    assert.ok(guide.includes('href="../?q='+encodeURIComponent(name)+'"'),name);
+  }
 });
