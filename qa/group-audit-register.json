@@ -5,9 +5,9 @@
   "source_file": "public/data.json",
   "created_at": "2026-11-16",
   "baseline": {
-    "groups": 172,
-    "brands": 1102,
-    "as_of": "2026-11-17"
+    "groups": 217,
+    "brands": 1413,
+    "as_of": "2026-11-23"
   },
   "policy": {
     "cycle": "6か月で全件巡回",
@@ -40,8 +40,8 @@
       {
         "month": 1,
         "start": "2026-12-09",
-        "group_count": 29,
-        "planned_brand_count": 182,
+        "group_count": 37,
+        "planned_brand_count": 236,
         "group_ids": [
           "aeon",
           "anrakutei",
@@ -71,14 +71,22 @@
           "tsukuba-tsubaki",
           "unisia",
           "yudetaro-system",
-          "zensho"
+          "zensho",
+          "bandotaro-group",
+          "ihg-hotels",
+          "okura-nikko-hotels",
+          "jrw-hotels",
+          "ginza-aster",
+          "newotani-hotels",
+          "imahan-bekkan",
+          "sapporo-kani-honke"
         ]
       },
       {
         "month": 2,
         "start": "2027-01-13",
-        "group_count": 29,
-        "planned_brand_count": 184,
+        "group_count": 36,
+        "planned_brand_count": 235,
         "group_ids": [
           "albis-pending",
           "bronco-billy",
@@ -108,14 +116,21 @@
           "tobu-dept",
           "usmh",
           "yakiniku-sakai",
-          "york"
+          "york",
+          "hoshino-resorts",
+          "hiiragi-holdings",
+          "hilton-worldwide",
+          "rihga-royal-hotels",
+          "nangokusyuka",
+          "jojoen",
+          "sisen-hanten"
         ]
       },
       {
         "month": 3,
         "start": "2027-02-10",
-        "group_count": 29,
-        "planned_brand_count": 182,
+        "group_count": 36,
+        "planned_brand_count": 235,
         "group_ids": [
           "ap-holdings",
           "arclands",
@@ -145,14 +160,21 @@
           "starbucks",
           "tokyu-dept",
           "watami",
-          "yamazakipan"
+          "yamazakipan",
+          "garden-restaurants",
+          "accor-hotels",
+          "carnevale-kintan",
+          "tokyu-hotels",
+          "ningyocho-imahan",
+          "toto-marroad-hotels",
+          "imahan-honten"
         ]
       },
       {
         "month": 4,
         "start": "2027-03-10",
-        "group_count": 29,
-        "planned_brand_count": 183,
+        "group_count": 36,
+        "planned_brand_count": 235,
         "group_ids": [
           "andersen-group",
           "bluezones",
@@ -182,14 +204,21 @@
           "trial",
           "tsubohachi",
           "yokumoku-group",
-          "yoronotaki"
+          "yoronotaki",
+          "marriott-international",
+          "seibu-prince-hotels",
+          "jre-hotels",
+          "ukai",
+          "sotetsu-hotels",
+          "hiyoriyama-kani",
+          "washington-hotel-co"
         ]
       },
       {
         "month": 5,
         "start": "2027-04-14",
-        "group_count": 28,
-        "planned_brand_count": 180,
+        "group_count": 36,
+        "planned_brand_count": 236,
         "group_ids": [
           "belc",
           "cacao-sampaka-jp",
@@ -218,14 +247,22 @@
           "sugakico",
           "suzette-sweets",
           "tonden",
-          "wendys-firstkitchen"
+          "wendys-firstkitchen",
+          "kiwa-corporation",
+          "hankyu-hanshin-hotels",
+          "fujita-kanko-hotels",
+          "heijoen",
+          "royalpark-hotels",
+          "keio-hotels",
+          "asakusa-imahan",
+          "kaseiro"
         ]
       },
       {
         "month": 6,
         "start": "2027-05-12",
-        "group_count": 28,
-        "planned_brand_count": 191,
+        "group_count": 36,
+        "planned_brand_count": 236,
         "group_ids": [
           "arcs",
           "bashamichi",
@@ -254,7 +291,15 @@
           "venchi-japan",
           "yamadafoods",
           "yoshinoya",
-          "yossix"
+          "yossix",
+          "via-foodream",
+          "allhearts-company",
+          "iconia-hotels",
+          "hyatt-hotels",
+          "imperial-hotels",
+          "mitsui-garden-hotels",
+          "hotel-monterey",
+          "manli-panda-asakusa"
         ]
       }
     ]
@@ -1807,6 +1852,411 @@
       "status": "未着手",
       "evidence": [],
       "notes": ""
+    },
+    {
+      "group_id": "kiwa-corporation",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "bandotaro-group",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "garden-restaurants",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "marriott-international",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "hoshino-resorts",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "via-foodream",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "hiiragi-holdings",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "seibu-prince-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "accor-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "allhearts-company",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ihg-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "hankyu-hanshin-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "hilton-worldwide",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "jre-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "carnevale-kintan",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "fujita-kanko-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "iconia-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "okura-nikko-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "rihga-royal-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "tokyu-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ukai",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "heijoen",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "hyatt-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "jrw-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "nangokusyuka",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ningyocho-imahan",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sotetsu-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "ginza-aster",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "royalpark-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "imperial-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "jojoen",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "mitsui-garden-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "newotani-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "toto-marroad-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "hiyoriyama-kani",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "keio-hotels",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sisen-hanten",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 2,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "washington-hotel-co",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 4,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "asakusa-imahan",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "hotel-monterey",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "imahan-bekkan",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "imahan-honten",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 3,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "kaseiro",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 5,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "manli-panda-asakusa",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 6,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
+    },
+    {
+      "group_id": "sapporo-kani-honke",
+      "initial_source_checked": "2026-11-23",
+      "planned_month": 1,
+      "full_audit_checked": null,
+      "status": "未着手",
+      "evidence": [],
+      "notes": ""
     }
   ],
   "baseline_history": [
@@ -1815,8 +2265,14 @@
       "brands": 1002,
       "as_of": "2026-11-16",
       "reason": "初回計画の制定時点・監査未開始。2026-11-17の増補前スナップショット"
+    },
+    {
+      "groups": 172,
+      "brands": 1102,
+      "as_of": "2026-11-17",
+      "reason": "2026-11-17時点の計画。初回監査開始前の増補に伴い2026-11-27に再配分。"
     }
   ],
-  "source_data_blob_sha": "79add73fd17782b7e5a6bb31fd8acbbf8eea8c98",
-  "rebalanced_at": "2026-11-17"
+  "source_data_blob_sha": "426e762d08e505e118a1909f638206e0f42432e7",
+  "rebalanced_at": "2026-11-27"
 }
